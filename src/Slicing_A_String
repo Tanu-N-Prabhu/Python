@@ -1,0 +1,20 @@
+String = "Apple"
+
+a = String[:3]
+print(a)
+
+b = String[2:5]
+print(b)
+
+c = String[3:]
+print(c)
+
+
+d = "Orange"[:3]
+print(d)
+
+e = "Orange"[2:5]
+print(e)
+
+f = "Orange"[3:]
+print(f)
