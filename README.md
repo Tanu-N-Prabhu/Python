@@ -17,10 +17,11 @@
 The suggested order for going through each of the directories is:
 
 1. __helloWorld__ ==> Printing Hello World
-2. __variables__ ==> Creating Variables
-3. __String__ ==> Creating Strings
-4. __Accessing_By_Index__ ==> Accessing a String by Index
-5. __Slicing_A_String__ ==> Slicing a string using Index
+2. __variables__ ==> Creating Variables.
+3. __String__ ==> Creating Strings.
+4. __Accessing_By_Index__ ==> Accessing a String by Index.
+5. __Slicing_A_String__ ==> Slicing a string using Index.
+6. __String_Concatenation_Using_Print__ ==> Concatenating a string using print statement.
 
 
 # Contributors
