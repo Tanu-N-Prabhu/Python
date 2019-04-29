@@ -23,6 +23,7 @@ The suggested order for going through each of the directories is:
 5. __Slicing_A_String__ ==> Slicing a string using Index.
 6. __String_Concatenation_Using_Print__ ==> Concatenating a string using print statement.
 7. __Using_%s_format_operator__ ==> Using the %s format operator.
+8. __Using_input()__ ==> Taking the input and outputting them.
 
 
 # Contributors
