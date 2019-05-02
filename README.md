@@ -26,6 +26,7 @@ The suggested order for going through each of the directories is:
 8. __Using_input()__ ==> Taking the input and outputting them.
 9. __Control_Statements__ ==> Usage of if, elif and else control statements.
 10. __Functions__ ==> Creating and using the functions.
+11. __List__ ==> Creating list, inserting a list, appending, removing, accesing by index, etc..
 
 
 # Contributors
