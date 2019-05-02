@@ -3,7 +3,7 @@
 <img src="Img/1.jpg" >
 
 <h2> Helps to understand Java from beginners to advance. </h2> 
-<h3> This repository gives to enough knowledge about java and also helps you to survive in this programming world !!! </h3>
+<h3 align = "justify"> This repository gives to enough knowledge about java and also helps you to survive in this programming world !!! </h3>
 
 # Installation
 1. Python download: (https://www.python.org/downloads/)
