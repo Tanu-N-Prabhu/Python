@@ -25,6 +25,7 @@ The suggested order for going through each of the directories is:
 7. <b>Using_%s_format_operator</b> ==> Using the %s format operator.
 8. __Using_input()__ ==> Taking the input and outputting them.
 9. __Control_Statements__ ==> Usage of if, elif and else control statements.
+10. __Functions__ ==> Creating and using the functions.
 
 
 # Contributors
