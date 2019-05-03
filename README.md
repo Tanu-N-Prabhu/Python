@@ -27,7 +27,7 @@ The suggested order for going through each of the directories is:
 9. __Control_Statements__ ==> Usage of if, elif and else control statements.
 10. __Functions__ ==> Creating and using the functions.
 11. __List__ ==> Creating list, inserting a list, appending, removing, accesing by index, etc..
-
+12. __Tuples__ ==> Creating, Accessing by Index, and Slicing the tuples.
 
 # Contributors
 
