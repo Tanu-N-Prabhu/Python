@@ -28,6 +28,7 @@ The suggested order for going through each of the directories is:
 10. __Functions__ ==> Creating and using the functions.
 11. __List__ ==> Creating list, inserting a list, appending, removing, accesing by index, etc..
 12. __Tuples__ ==> Creating, Accessing by Index, and Slicing the tuples.
+13. __for_Loops__ ==> Creating for loops.
 
 # Contributors
 
