@@ -30,6 +30,7 @@ The suggested order for going through each of the directories is:
 12. __Tuples__ ==> Creating, Accessing by Index, and Slicing the tuples.
 13. __for_Loops__ ==> Creating for loops.
 14. __dictionary__ ==> Creating, calculating the length, reassigning the key, removing the value of the dictionary.
+15. __using_functions_with_lists__ ==> Using finctions with lists.
 
 # Contributors
 
