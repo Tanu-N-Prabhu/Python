@@ -32,6 +32,7 @@ The suggested order for going through each of the directories is:
 14. __dictionary__ ==> Creating, calculating the length, reassigning the key, removing the value of the dictionary.
 15. __using_functions_with_lists__ ==> Using finctions with lists.
 16. __using_list_with_functions_contd__ ==> Using a range function via a for loop to modify a list, passing multiple list to a function.
+17. __Using numerical python (numpy)__ ==> different numpy examples, helps you understand about numpy.
 
 # Contributors
 
