@@ -36,6 +36,8 @@ The suggested order for going through each of the directories is:
 
     17.1 __Product of two dimensional Matrix using (numpy)__ ==> Just a quick solution to multiply two dimemsional matrix.
 
+18. __Using Pandas Library__ ==> Using different datastrutures of pandas library.
+
 # Contributors
 
 <p align="justify"> Tanu Nanda Prabhu : This is me, I'm doing my Master's in Computer Science, at University of Regina, Canada. Although I'm good at programming, definitely not a code monkey. I like to document each and every line of code and help others understand it. It is very important to document the code. I believe that I learn simultaneously while I teach you guys in this repository. Special thanks to Udemy, it is with the help of their guidance, I could learn Python at a high level. All the turorials are referred from their notes.</p>
