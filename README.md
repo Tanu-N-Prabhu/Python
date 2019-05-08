@@ -33,7 +33,8 @@ The suggested order for going through each of the directories is:
 15. __using_functions_with_lists__ ==> Using finctions with lists.
 16. __using_list_with_functions_contd__ ==> Using a range function via a for loop to modify a list, passing multiple list to a function.
 17. __Using numerical python (numpy)__ ==> different numpy examples, helps you understand about numpy.
-  17.1 __Product of two dimensional Matrix using (numpy)__ ==> Just a quick solution to multiply two dimemsional matrix.
+
+    17.1 __Product of two dimensional Matrix using (numpy)__ ==> Just a quick solution to multiply two dimemsional matrix.
 
 # Contributors
 
