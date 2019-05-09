@@ -10,7 +10,7 @@
 2. Pycharm download: (https://www.jetbrains.com/pycharm/download/#section=windows)
 3. Jupyter Notebook: <p align="justify"> Installation commands is visually represented below: Make sure that you type all the below commands in your respected command prompt only.</p>
 
-<img src="Img/Jupyter.png" >
+<img src="Img/Jupyter.PNG" >
 
 
 <p align="justify"> For those of you who aren't aware of Pycharm: PyCharm is an integrated development environment used in computer programming, specifically for the Python language. It is developed by the Czech company JetBrains (Psss, copied from Wikipedia).</p>
