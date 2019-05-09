@@ -8,7 +8,8 @@
 # Installation
 1. Python download: (https://www.python.org/downloads/)
 2. Pycharm download: (https://www.jetbrains.com/pycharm/download/#section=windows)
-3. Jupyter Notebook: <p align="justify"> Installation commands is visually represented below: Make sure that you type all the below commands in your respected command prompt only.</p>
+3. Jupyter Notebook: (https://jupyter.org/install)
+<p align="justify"> Installation commands is visually represented below: Make sure that you type all the below commands in your respected command prompt only.</p>
 
 <img src="Img/Jupyter.PNG" >
 
