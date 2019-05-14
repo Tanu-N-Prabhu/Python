@@ -1,4 +1,4 @@
-# This page deals with solved HackerRank Exercises. Basically this deals with Numpy question sets.
+# This page deals with solved HackerRank solved exercises. 
 
 <img src="Img/hackerrank.png" >
 
