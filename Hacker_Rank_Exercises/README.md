@@ -1,4 +1,4 @@
-# This page deals with solved HackerRank solved exercises. 
+# This page deals with solved HackerRank exercises. 
 
 <img src="Img/hackerrank.png" >
 
