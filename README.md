@@ -8,13 +8,7 @@
 # Installation
 1. Python download: (https://www.python.org/downloads/)
 2. Pycharm download: (https://www.jetbrains.com/pycharm/download/#section=windows)
-
-or
-
 3. Jupyter Notebook: (https://jupyter.org/install)
-
-or
-
 4. Google Colab: (https://colab.research.google.com/notebooks/welcome.ipynb)
 <p align="justify"> Installation commands is visually represented below: Make sure that you type all the below commands in your respected command prompt only.</p>
 
