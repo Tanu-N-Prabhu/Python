@@ -18,7 +18,7 @@
 <p align="justify"> For those of you who aren't aware of Pycharm: PyCharm is an integrated development environment used in computer programming, specifically for the Python language. It is developed by the Czech company JetBrains (Psss, copied from Wikipedia).</p>
 
 <p align = "justify">I personally use Google Colab for python programming. It's one of the best interactive tool in the world. I like it because I can provide more documentation to the code and write some quality tutorials.</p>
-___
+__________________________________________________________________________________________________________________________________________
 
 # Repository Contents
 
