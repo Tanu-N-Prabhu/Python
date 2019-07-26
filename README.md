@@ -25,10 +25,10 @@ ________________________________________________________________________________
 This repository is divided into two parts such as Python Coding for Beginners and Data Science.
 
 <b>1) Python Coding</b>
-1. src
-2. Lists. 
-3. Numpy.
-4. Pandas.
+1. <b>src</b>
+2. <b>Lists.</b> 
+3. <b>Numpy.</b>
+4. <b>Pandas.</b>
 
 __________________________________________________________________________________________________________________________________
 
