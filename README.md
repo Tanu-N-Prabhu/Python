@@ -22,6 +22,23 @@ ________________________________________________________________________________
 
 # Repository Contents
 
+This repository is divided into two parts such as Python Coding for Beginners and Data Science.
+
+<b>1) Python Coding</b>
+1. src
+2. Lists. 
+3. Numpy.
+4. Pandas.
+
+__________________________________________________________________________________________________________________________________
+
+<b>2) Data Science</b>
+1. <b> Data Cleaning and Scrubbing</b>
+2. <b> Data Scraping from the Web</b>
+3. <b> Exploring the data from the Web</b>
+4. <b> Predicting the data</b>
+
+__________________________________________________________________________________________________________________________________
 
 
 # Contributors
