@@ -1,0 +1,187 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled41.ipynb",
+      "version": "0.3.2",
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Tanu-N-Prabhu/Python/blob/master/Exploratory%20Data%20Analysis/%20EDA1\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "C1SDI818O776",
+        "colab_type": "text"
+      },
+      "source": [
+        "# General Looping through Lists"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "a5Y_ZQQ5ORIz",
+        "colab_type": "code",
+        "outputId": "acc31bb4-9401-4486-c5b3-d6f849c659fc",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 35
+        }
+      },
+      "source": [
+        "list = ['Tanu', 'Nanda', 'Prabhu']\n",
+        "list"
+      ],
+      "execution_count": 0,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "['Tanu', 'Nanda', 'Prabhu']"
+            ]
+          },
+          "metadata": {
+            "tags": []
+          },
+          "execution_count": 2
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "H-UT09VLOrH0",
+        "colab_type": "code",
+        "outputId": "0af7536d-b27f-4817-f4a4-e55ab7fa398c",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 69
+        }
+      },
+      "source": [
+        "for i in list:\n",
+        "  print(i)"
+      ],
+      "execution_count": 0,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "Tanu\n",
+            "Nanda\n",
+            "Prabhu\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "atzNkqNZO_PD",
+        "colab_type": "text"
+      },
+      "source": [
+        "\n",
+        "\n",
+        "---\n",
+        "\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "HXVB7E4LO_5f",
+        "colab_type": "text"
+      },
+      "source": [
+        "# Looping through python using index"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "jjYhtbq2PGdP",
+        "colab_type": "code",
+        "outputId": "8b0a8488-3dee-430c-b824-7ad7558c5436",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 35
+        }
+      },
+      "source": [
+        "list = [1, 2, 3, 4, 5, 6, 7, 8, 9]\n",
+        "list"
+      ],
+      "execution_count": 0,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "[1, 2, 3, 4, 5, 6, 7, 8, 9]"
+            ]
+          },
+          "metadata": {
+            "tags": []
+          },
+          "execution_count": 5
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "R9wR_f5OPMaO",
+        "colab_type": "code",
+        "outputId": "d802acd0-40f1-41df-e0fc-fc4f29358a12",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 173
+        }
+      },
+      "source": [
+        "i = 0\n",
+        "while i < len(list):\n",
+        "    print(list[i])\n",
+        "    i += 1"
+      ],
+      "execution_count": 0,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "1\n",
+            "2\n",
+            "3\n",
+            "4\n",
+            "5\n",
+            "6\n",
+            "7\n",
+            "8\n",
+            "9\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    }
+  ]
+}
