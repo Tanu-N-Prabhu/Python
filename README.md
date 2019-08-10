@@ -35,7 +35,7 @@ ________________________________________________________________________________
 <b>2) Data Science</b>
 1. <b> Data Cleaning and Scrubbing</b>
 2. <b> Data Scraping from the Web</b>
-3. <b> Exploring the data from the Web</b>
+3. <b> [Exploring the data from the Web](https://github.com/Tanu-N-Prabhu/Python/tree/master/Exploratory%20Data%20Analysis)</b>
 4. <b> Predicting the data</b>
 
 __________________________________________________________________________________________________________________________________
