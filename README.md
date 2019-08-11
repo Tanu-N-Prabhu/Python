@@ -26,7 +26,7 @@ This repository is divided into two parts such as Python Coding for Beginners an
 
 <b>1) Python Coding</b>
 1. <b>src</b>
-2. <b>Lists.</b> 
+2. <b>[Lists](https://github.com/Tanu-N-Prabhu/Python/tree/master/Lists)</b> 
 3. <b>Numpy.</b>
 4. <b>Pandas.</b>
 
