@@ -33,7 +33,7 @@ This repository is divided into two parts such as Python Coding for Beginners an
 __________________________________________________________________________________________________________________________________
 
 <b>2) Data Science</b>
-1. <b> Data Scraping from the Web</b>
+1. <b> [Data Scraping from the Web](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Scraping%20from%20the%20Web)</b>
 2. <b> Data Cleaning and Scrubbing</b>
 3. <b> [Exploring the data from the Web](https://github.com/Tanu-N-Prabhu/Python/tree/master/Exploratory%20Data%20Analysis)</b>
 4. <b> Predicting the data</b>
