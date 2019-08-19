@@ -30,7 +30,7 @@ This repository is divided into two parts such as Python Coding for Beginners an
 3. <b>[Lists](https://github.com/Tanu-N-Prabhu/Python/tree/master/Lists)</b> 
 4. <b>[Tuples](https://github.com/Tanu-N-Prabhu/Python/tree/master/Tuples)</b>
 5. <b>Numpy.</b>
-6. <b>Pandas.</b>
+6. <b>[Pandas](https://github.com/Tanu-N-Prabhu/Python/tree/master/Pandas)</b>
 
 __________________________________________________________________________________________________________________________________
 
