@@ -3,7 +3,7 @@
 <img src="Img/Python.jpeg" >
 
 <h2> Helps to understand Python from beginners to advance. </h2> 
-<h3 align = "justify"> This repository gives to enough knowledge about java and also helps you to survive in this programming world !!! </h3>
+<h3 align = "justify"> This repository gives to enough knowledge about python programming and also helps you to survive in this programming world !!! </h3>
 
 # Installation
 1. Python download: (https://www.python.org/downloads/)
