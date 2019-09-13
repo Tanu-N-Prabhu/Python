@@ -44,7 +44,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________
 
 
-## If the jupyter notebook doesn't load. Don't worry just copy and paste the link to nbviewer[https://nbviewer.jupyter.org]. Because most of my jupyter notebooks are not loading.
+## If the jupyter notebook doesn't load. Don't worry just copy and paste the link to [nbviewer](https://nbviewer.jupyter.org). Because most of my jupyter notebooks are not loading.
 __________________________________________________________________________________________________________________________________
 
 # Contributors
