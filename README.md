@@ -48,7 +48,7 @@ ________________________________________________________________________________
 
 # Grab a Coffee, and start coding !!
 
-![Alt Text](https://media.giphy.com/media/KfwyWfTwMu1FG0XhO8/giphy.gif)
+![Alt Text](https://media.giphy.com/media/elKDA2lfOXixJG68cJ/giphy.gif)
 
 
 # Contributors
