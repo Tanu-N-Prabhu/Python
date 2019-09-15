@@ -46,9 +46,6 @@ ________________________________________________________________________________
 
 ## If the jupyter notebook doesn't load. Don't worry just copy and paste the link to [nbviewer](https://nbviewer.jupyter.org). Because most of my jupyter notebooks are not loading.
 
-# Grab a Coffee, and start coding !!
-
-![Alt Text](https://media.giphy.com/media/elKDA2lfOXixJG68cJ/giphy.gif)
 
 
 # Contributors
@@ -58,3 +55,10 @@ ________________________________________________________________________________
 </p>
 
 <p align="justify"> Tanu Nanda Prabhu : This is me, I'm doing my Master's in Computer Science, at University of Regina, Canada. Although I'm good at programming, definitely not a code monkey. I like to document each and every line of code and help others understand it. It is very important to document the code. I believe that I learn simultaneously while I teach you guys in this repository. Special thanks to Udemy, it is with the help of their guidance, I could learn Python at a high level. All the turorials are referred from their notes.</p>
+
+
+
+
+# Grab a Coffee, and start coding !!
+
+![Alt Text](https://media.giphy.com/media/elKDA2lfOXixJG68cJ/giphy.gif)
