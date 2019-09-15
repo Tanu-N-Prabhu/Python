@@ -20,6 +20,7 @@
 <p align = "justify">I personally use Google Colab for python programming. It's one of the best interactive tool in the world. I like it because I can provide more documentation to the code and write some quality tutorials.</p>
 __________________________________________________________________________________________________________________________________
 
+<img src = "https://giphy.com/gifs/KfwyWfTwMu1FG0XhO8/html5>
 # Repository Contents
 
 This repository is divided into two parts such as Python Coding for Beginners and Data Science.
