@@ -25,7 +25,7 @@ ________________________________________________________________________________
 This repository is divided into two parts such as Python Coding for Beginners and Data Science.
 
 <b>1) Python Coding</b>
-1. <b>[src](https://github.com/Tanu-N-Prabhu/Python/tree/master/src)</b>
+1. <b>[src](https://github.com/Tanu-N-Prabhu/Python/tree/master/Src)</b>
 2. <b>[Strings](https://github.com/Tanu-N-Prabhu/Python/tree/master/Strings)</b>
 3. <b>[Lists](https://github.com/Tanu-N-Prabhu/Python/tree/master/Lists)</b> 
 4. <b>[Tuples](https://github.com/Tanu-N-Prabhu/Python/tree/master/Tuples)</b>
