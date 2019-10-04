@@ -64,3 +64,7 @@ ________________________________________________________________________________
 # Grab a Coffee, and start coding !!
 
 ![Alt Text](https://media.giphy.com/media/elKDA2lfOXixJG68cJ/giphy.gif)
+
+
+
+<b> Version 1.2 - Last Updated on October 4 2019 - 11:47 AM <b>
