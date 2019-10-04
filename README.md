@@ -54,5 +54,15 @@ ________________________________________________________________________________
 
 <p align="justify"> Tanu Nanda Prabhu : This is me, I'm doing my Master's in Computer Science, at University of Regina, Canada. Although I'm good at programming, definitely not a code monkey. I like to document each and every line of code and help others understand it. It is very important to document the code. I believe that I learn simultaneously while I teach you guys in this repository. Special thanks to Udemy, it is with the help of their guidance, I could learn Python at a high level. All the turorials are referred from their notes.</p>
 
+# Author
 
-<b> Version 2.0 - Last Updated on October 4 2019 - 11:50 AM <b>
+1) [Towards Data Science](https://medium.com/@tanunprabhu95)
+
+2) [Analytics-Vidhya](https://medium.com/@tanunprabhu95)
+
+3) [Kotlin Academy](https://medium.com/@tanunprabhu95)
+
+4) [The Start up](https://medium.com/@tanunprabhu95)
+
+
+<b> Version 2.1 - Last Updated on October 4 2019 - 11:58 AM <b>
