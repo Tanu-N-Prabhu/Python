@@ -65,4 +65,9 @@ ________________________________________________________________________________
 4) [The Start up](https://medium.com/@tanunprabhu95)
 
 
-<b> Version 2.2 - Last Updated on October 5 2019 - 1:06 AM <b>
+# Kaggle
+
+1) [My Kaggle Data Sets](https://www.kaggle.com/tanuprabhu/datasets)
+
+
+<b> Version 2.3 - Last Updated on October 5 2019 - 1:12 AM <b>
