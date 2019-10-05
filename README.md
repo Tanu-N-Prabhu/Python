@@ -70,4 +70,9 @@ ________________________________________________________________________________
 1) [My Kaggle Data Sets](https://www.kaggle.com/tanuprabhu/datasets)
 
 
-<b> Version 2.3 - Last Updated on October 5 2019 - 1:12 AM <b>
+# HackerRank Exercise
+
+1) [HackerRank Exercise Solved](https://github.com/Tanu-N-Prabhu/Python/tree/master/Hacker_Rank_Exercises)
+
+
+<b> Version 2.4 - Last Updated on October 5 2019 - 1:24 AM <b>
