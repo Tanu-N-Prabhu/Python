@@ -74,5 +74,9 @@ ________________________________________________________________________________
 
 1) [HackerRank Exercise Solved](https://github.com/Tanu-N-Prabhu/Python/tree/master/Hacker_Rank_Exercises)
 
+# Submit you articles here
 
-<b> Version 2.4 - Last Updated on October 5 2019 - 1:24 AM <b>
+1) [Data Science from Scratch](https://medium.com/data-science-from-scratch)
+
+
+<b> Version 2.5 - Last Updated on October 5 2019 - 1:43 PM <b>
