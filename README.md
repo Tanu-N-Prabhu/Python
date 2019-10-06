@@ -78,5 +78,14 @@ ________________________________________________________________________________
 
 1) [Data Science from Scratch](https://medium.com/data-science-from-scratch)
 
+# Contact for help
 
-<b> Version 2.5 - Last Updated on October 5 2019 - 1:43 PM <b>
+| Contact        | Info           | 
+| ------------- |:-------------:|
+| Mail id      | tanuprabhu96@gmail.com  | 
+| Phone number        | +1 306-737-9073              |   
+| Facebook       | Tanu N Prabhu      |    
+| Instagram      | tanunprabhu   |
+
+
+<b> Version 2.6 - Last Updated on October 5 2019 - 8:40 PM <b>
