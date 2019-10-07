@@ -1,9 +1,8 @@
-# Learning Python Programming Language from Beginner to Advance Level.
+# This Repository Helps You Understand Python Programming Language From Beginner To Advance Level.
 
 <img src="Img/Python.jpeg" >
 
-<h2> Helps to understand Python from beginners to advance. </h2> 
-<h3 align = "justify"> This repository gives to enough knowledge about python programming and also helps you to survive in this programming world !!! </h3>
+<h3 align = "justify"> Also this repository gives to enough knowledge about python programming and also helps you to survive in this programming world !!! </h3>
 
 # Installation
 1. Python download: (https://www.python.org/downloads/)
@@ -88,4 +87,4 @@ ________________________________________________________________________________
 | Instagram      | tanunprabhu   |
 
 
-<b> Version 2.6 - Last Updated on October 5 2019 - 8:40 PM <b>
+<b> Version 2.7 - Last Updated on October 6 2019 - 6:57 PM <b>
