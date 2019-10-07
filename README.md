@@ -16,7 +16,6 @@
 <p align="justify"> For those of you who aren't aware of Pycharm: PyCharm is an integrated development environment used in computer programming, specifically for the Python language. It is developed by the Czech company JetBrains (Psss, copied from Wikipedia).</p>
 
 <p align = "justify">I personally use Google Colab for python programming. It's one of the best interactive tool in the world. I like it because I can provide more documentation to the code and write some quality tutorials.</p>
-__________________________________________________________________________________________________________________________________
 
 # Repository Contents
 
@@ -31,7 +30,7 @@ This repository is divided into two parts such as Python Coding for Beginners an
 6. <b>[Numpy](https://github.com/Tanu-N-Prabhu/Python/tree/master/Numpy)</b>
 7. <b>[Pandas](https://github.com/Tanu-N-Prabhu/Python/tree/master/Pandas)</b>
 
-__________________________________________________________________________________________________________________________________
+
 
 <b>2) Data Science</b>
 
@@ -42,7 +41,7 @@ ________________________________________________________________________________
 3. <b> [Exploring the data from the Web](https://github.com/Tanu-N-Prabhu/Python/tree/master/Exploratory%20Data%20Analysis)</b>
 4. <b> Predicting the data</b>
 
-__________________________________________________________________________________________________________________________________
+
 
 <b>If the jupyter notebook doesn't load. Don't worry just copy and paste the link to [nbviewer](https://nbviewer.jupyter.org). Because most of my jupyter notebooks are not loading.</b>
 
@@ -86,4 +85,4 @@ ________________________________________________________________________________
 | Instagram      | tanunprabhu   |
 
 
-<b> Version 3.0 - Last Updated on October 7 2019 - 3:36 PM <b>
+<b> Version 3.1 - Last Updated on October 7 2019 - 4:15 PM <b>
