@@ -4,11 +4,14 @@
 
 <h3 align = "justify"> Also this repository gives to enough knowledge about python programming and also helps you to survive in this programming world !!! </h3>
 
-# Installation
-1. Python download: (https://www.python.org/downloads/)
-2. Pycharm download: (https://www.jetbrains.com/pycharm/download/#section=windows)
-3. Jupyter Notebook: (https://jupyter.org/install)
-4. Google Colab: (https://colab.research.google.com/notebooks/welcome.ipynb)
+# Installation tools
+
+| Name of the tools | 
+| ------------- |
+|[Python download](https://www.python.org/downloads/)|
+|[Pycharm download](https://www.jetbrains.com/pycharm/download/#section=windows)|
+|[Jupyter Notebook](https://jupyter.org/install)|
+|[Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)|
 
 <p align="justify"> For those of you who aren't aware of Pycharm: PyCharm is an integrated development environment used in computer programming, specifically for the Python language. It is developed by the Czech company JetBrains (Psss, copied from Wikipedia).</p>
 
@@ -83,4 +86,4 @@ ________________________________________________________________________________
 | Instagram      | tanunprabhu   |
 
 
-<b> Version 2.8 - Last Updated on October 6 2019 - 10:28 PM <b>
+<b> Version 2.9 - Last Updated on October 6 2019 - 10:47 PM <b>
