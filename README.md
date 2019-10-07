@@ -35,7 +35,7 @@ ________________________________________________________________________________
 
 <b>2) Data Science</b>
 
-[![image-text](Img/1_GHa38wl9JwAVjc4plgs_8A.png)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Top_Python_Libraries_Used_In_Data%C2%A0Science.ipynb)
+[![image-text](Img/1_GHa38wl9JwAVjc4plgs_8A.png)](https://towardsdatascience.com/top-python-libraries-used-in-data-science-a58e90f1b4ba)
 
 1. <b> [Data Scraping from the Web](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Scraping%20from%20the%20Web)</b>
 2. <b> [Data Cleaning and Scrubbing](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data_Cleaning)</b>
