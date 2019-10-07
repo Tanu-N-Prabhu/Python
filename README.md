@@ -35,7 +35,7 @@ ________________________________________________________________________________
 
 <b>2) Data Science</b>
 
-<img src ="Img/1_GHa38wl9JwAVjc4plgs_8A.png">
+[![image-text](Img/1_GHa38wl9JwAVjc4plgs_8A.png)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Top_Python_Libraries_Used_In_Data%C2%A0Science.ipynb)
 
 1. <b> [Data Scraping from the Web](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Scraping%20from%20the%20Web)</b>
 2. <b> [Data Cleaning and Scrubbing](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data_Cleaning)</b>
@@ -86,4 +86,4 @@ ________________________________________________________________________________
 | Instagram      | tanunprabhu   |
 
 
-<b> Version 2.9 - Last Updated on October 6 2019 - 10:47 PM <b>
+<b> Version 3.0 - Last Updated on October 7 2019 - 3:36 PM <b>
