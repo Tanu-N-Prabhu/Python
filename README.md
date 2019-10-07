@@ -9,10 +9,6 @@
 2. Pycharm download: (https://www.jetbrains.com/pycharm/download/#section=windows)
 3. Jupyter Notebook: (https://jupyter.org/install)
 4. Google Colab: (https://colab.research.google.com/notebooks/welcome.ipynb)
-<p align="justify"> Installation commands is visually represented below: Make sure that you type all the below commands in your respected command prompt only.</p>
-
-<img src="Img/Jupyter.PNG" >
-
 
 <p align="justify"> For those of you who aren't aware of Pycharm: PyCharm is an integrated development environment used in computer programming, specifically for the Python language. It is developed by the Czech company JetBrains (Psss, copied from Wikipedia).</p>
 
@@ -87,4 +83,4 @@ ________________________________________________________________________________
 | Instagram      | tanunprabhu   |
 
 
-<b> Version 2.7 - Last Updated on October 6 2019 - 6:57 PM <b>
+<b> Version 2.8 - Last Updated on October 6 2019 - 10:28 PM <b>
