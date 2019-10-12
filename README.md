@@ -19,7 +19,9 @@
 
 # Repository Contents
 
-This repository is divided into two parts such as Python Coding for Beginners and Data Science.
+## This repository is divided into two parts such as Python Coding for Beginners and Data Science.
+
+Follow the steps down below to get started coding in python!!!
 
 <b>1) Python Coding</b>
 [![image-text](Img/Python.png)](https://towardsdatascience.com/how-to-get-started-coding-in-python-41fa7ea5106b)
@@ -88,4 +90,4 @@ This repository is divided into two parts such as Python Coding for Beginners an
 | Instagram      | tanunprabhu   |
 
 
-<b> Version 3.3 - Last Updated on October 11 2019 - 11:35 PM <b>
+<b> Version 3.4 - Last Updated on October 11 2019 - 11:37 PM <b>
