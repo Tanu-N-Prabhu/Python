@@ -22,6 +22,9 @@
 This repository is divided into two parts such as Python Coding for Beginners and Data Science.
 
 <b>1) Python Coding</b>
+[![image-text](Img/Python.png)](https://towardsdatascience.com/how-to-get-started-coding-in-python-41fa7ea5106b)
+
+
 1. <b>[src](https://github.com/Tanu-N-Prabhu/Python/tree/master/Src)</b>
 2. <b>[Strings](https://github.com/Tanu-N-Prabhu/Python/tree/master/Strings)</b>
 3. <b>[Lists](https://github.com/Tanu-N-Prabhu/Python/tree/master/Lists)</b> 
@@ -85,4 +88,4 @@ This repository is divided into two parts such as Python Coding for Beginners an
 | Instagram      | tanunprabhu   |
 
 
-<b> Version 3.2 - Last Updated on October 8 2019 - 10:37 PM <b>
+<b> Version 3.3 - Last Updated on October 11 2019 - 11:35 PM <b>
