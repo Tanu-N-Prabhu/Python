@@ -94,4 +94,6 @@ Follow the steps down below to get started coding in python!!!
 
 [Any Feedbacks or Improve for Suggestions- Please Click Here](https://form.jotform.com/92847563204259)
 
-<b> Version 3.6 - Last Updated on October 12 2019 - 6:27 PM <b>
+# Version
+
+<b> Version 3.7 - Last Updated on October 12 2019 - 6:28 PM <b>
