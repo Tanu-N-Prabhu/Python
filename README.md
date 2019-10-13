@@ -90,6 +90,8 @@ Follow the steps down below to get started coding in python!!!
 | Instagram      | tanunprabhu   |
 
 
+# Feedback
+
 [Any Feedbacks or Improve for Suggestions- Please Click Here](https://form.jotform.com/92847563204259)
 
-<b> Version 3.5 - Last Updated on October 12 2019 - 5:25 PM <b>
+<b> Version 3.6 - Last Updated on October 12 2019 - 6:27 PM <b>
