@@ -26,7 +26,7 @@ Follow the steps down below to get started coding in python!!!
 <b>1) Python Coding</b>
 
 <p align="center">
-<img src = "Img/Python.PNG" width="800" height="600">
+<img src = "Img/Python.PNG">
 </p>
 
 1. <b>[src](https://github.com/Tanu-N-Prabhu/Python/tree/master/Src)</b>
@@ -42,8 +42,9 @@ Follow the steps down below to get started coding in python!!!
 <b>2) Data Science</b>
 
 <p align="center">
-<img src = "Img/Data.PNG" width="800" height="600">
+<img src = "Img/Data.PNG" >
 </p>
+
 1. <b> [Data Scraping from the Web](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Scraping%20from%20the%20Web)</b>
 2. <b> [Data Cleaning and Scrubbing](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data_Cleaning)</b>
 3. <b> [Exploring the data from the Web](https://github.com/Tanu-N-Prabhu/Python/tree/master/Exploratory%20Data%20Analysis)</b>
@@ -99,4 +100,4 @@ Follow the steps down below to get started coding in python!!!
 
 # Version
 
-<b> Version 3.7 - Last Updated on October 12 2019 - 6:28 PM <b>
+<b> Version 3.8 - Last Updated on October 13 2019 - 10:51 PM <b>
