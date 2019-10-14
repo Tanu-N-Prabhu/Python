@@ -21,7 +21,8 @@
 
 <b>This repository is divided into two parts such as Python Coding for Beginners and Data Science.</b>
 
-<b>1) Python Coding</b>
+## Python Coding
+
 Follow the steps down below to get started coding in python!!!
 
 <p align="center">
@@ -40,7 +41,7 @@ Follow the steps down below to get started coding in python!!!
 
 
 
-<b>2) Data Science</b>
+## Data Science
 
 Follow the steps down below to get started learning Data Science!!!
 
