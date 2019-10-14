@@ -24,8 +24,10 @@
 Follow the steps down below to get started coding in python!!!
 
 <b>1) Python Coding</b>
-[![image-text](Img/Python.PNG)](https://towardsdatascience.com/how-to-get-started-coding-in-python-41fa7ea5106b)
 
+<p align="center">
+[![image-text](Img/Python.PNG)](https://towardsdatascience.com/how-to-get-started-coding-in-python-41fa7ea5106b)
+</p>
 
 1. <b>[src](https://github.com/Tanu-N-Prabhu/Python/tree/master/Src)</b>
 2. <b>[Strings](https://github.com/Tanu-N-Prabhu/Python/tree/master/Strings)</b>
@@ -39,7 +41,9 @@ Follow the steps down below to get started coding in python!!!
 
 <b>2) Data Science</b>
 
+<p align="center">
 [![image-text](Img/Data.PNG)](https://towardsdatascience.com/top-python-libraries-used-in-data-science-a58e90f1b4ba)
+</p>
 
 1. <b> [Data Scraping from the Web](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Scraping%20from%20the%20Web)</b>
 2. <b> [Data Cleaning and Scrubbing](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data_Cleaning)</b>
