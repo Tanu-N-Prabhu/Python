@@ -2,7 +2,7 @@
 
 <img src="Img/Python.jpeg" >
 
-<h3 align = "justify"> Also this repository gives to enough knowledge about python programming and also helps you to survive in this programming world !!! </h3>
+<b align = "justify"> Also this repository gives to enough knowledge about python programming and also helps you to survive in this programming world !!! </b>
 
 # Installation tools
 
@@ -19,15 +19,16 @@
 
 # Repository Contents
 
-## This repository is divided into two parts such as Python Coding for Beginners and Data Science.
-
-Follow the steps down below to get started coding in python!!!
+<b>This repository is divided into two parts such as Python Coding for Beginners and Data Science.</b>
 
 <b>1) Python Coding</b>
+Follow the steps down below to get started coding in python!!!
 
 <p align="center">
 <img src = "Img/Python.PNG">
 </p>
+
+<b>The contents for General Python Programming can be found below:</b>
 
 1. <b>[src](https://github.com/Tanu-N-Prabhu/Python/tree/master/Src)</b>
 2. <b>[Strings](https://github.com/Tanu-N-Prabhu/Python/tree/master/Strings)</b>
@@ -41,18 +42,22 @@ Follow the steps down below to get started coding in python!!!
 
 <b>2) Data Science</b>
 
+Follow the steps down below to get started learning Data Science!!!
+
 <p align="center">
 <img src = "Img/Data.PNG" >
 </p>
+
+<b>The contents for Data Science can be found below:</b>
 
 1. <b> [Data Scraping from the Web](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Scraping%20from%20the%20Web)</b>
 2. <b> [Data Cleaning and Scrubbing](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data_Cleaning)</b>
 3. <b> [Exploring the data from the Web](https://github.com/Tanu-N-Prabhu/Python/tree/master/Exploratory%20Data%20Analysis)</b>
 4. <b> Predicting the data</b>
 
+# Nbviewer
 
-
-<b>If the jupyter notebook doesn't load. Don't worry just copy and paste the link to [nbviewer](https://nbviewer.jupyter.org). Because most of my jupyter notebooks are not loading.</b>
+<b align = "justify">If the jupyter notebook doesn't load. Don't worry just copy and paste the link to [nbviewer](https://nbviewer.jupyter.org). Because most of my jupyter notebooks are not loading.</b>
 
 
 
@@ -96,8 +101,8 @@ Follow the steps down below to get started coding in python!!!
 
 # Feedback
 
-[Any Feedbacks or Improve for Suggestions- Please Click Here](https://form.jotform.com/92847563204259)
+[Any Feedbacks or Suggestions- Please Click Here](https://form.jotform.com/92847563204259)
 
 # Version
 
-<b> Version 3.8 - Last Updated on October 13 2019 - 10:51 PM <b>
+<b> Version 3.9 - Last Updated on October 13 2019 - 11:00 PM <b>
