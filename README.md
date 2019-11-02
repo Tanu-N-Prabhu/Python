@@ -6,6 +6,8 @@
 
 # Installation tools
 
+### Below are some tools that you can download before getting started with Python, now it’s a preference, so download whichever that fits the best for you.
+
 | Name of the tools | 
 | ------------- |
 |[Python download](https://www.python.org/downloads/)|
@@ -106,4 +108,4 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 3.9 - Last Updated on October 13 2019 - 11:00 PM <b>
+<b> Version 4.0 - Last Updated on November 2 2019 - 4:36 PM <b>
