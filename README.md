@@ -34,14 +34,20 @@ Follow the steps down below to get started coding in python!!!
 ## Chapter 1: Basic Concepts
 
 1.1 <b>[Python Input, Output and Import functions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Input%2C_Output_and_Import.ipynb)</b>
+
 1.2 <b>[Python Strings](https://github.com/Tanu-N-Prabhu/Python/tree/master/Strings)</b>
+
 1.3 <b>[Python Lists](https://github.com/Tanu-N-Prabhu/Python/tree/master/Lists)</b> 
+
 1.4 <b>[Python Tuples](https://github.com/Tanu-N-Prabhu/Python/tree/master/Tuples)</b>
+
 1.5 <b>[Python Dictionary](https://github.com/Tanu-N-Prabhu/Python/tree/master/Dictionary%20).</b>
+
 
 ## Chapter 2: Python Libraries
 
 2.1 <b>[Numpy library](https://github.com/Tanu-N-Prabhu/Python/tree/master/Numpy)</b>
+
 2.2 <b>[Pandas library](https://github.com/Tanu-N-Prabhu/Python/tree/master/Pandas)</b>
 
 
