@@ -31,15 +31,18 @@ Follow the steps down below to get started coding in python!!!
 <img src = "Img/Python.PNG">
 </p>
 
-<b>The contents for General Python Programming can be found below:</b>
+## Chapter 1: Basic Concepts
 
-1. <b>[src](https://github.com/Tanu-N-Prabhu/Python/tree/master/Src)</b>
-2. <b>[Strings](https://github.com/Tanu-N-Prabhu/Python/tree/master/Strings)</b>
-3. <b>[Lists](https://github.com/Tanu-N-Prabhu/Python/tree/master/Lists)</b> 
-4. <b>[Tuples](https://github.com/Tanu-N-Prabhu/Python/tree/master/Tuples)</b>
-5. <b>[Dictionary](https://github.com/Tanu-N-Prabhu/Python/tree/master/Dictionary%20).</b>
-6. <b>[Numpy](https://github.com/Tanu-N-Prabhu/Python/tree/master/Numpy)</b>
-7. <b>[Pandas](https://github.com/Tanu-N-Prabhu/Python/tree/master/Pandas)</b>
+1.1 <b>[Python Input, Output and Import functions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Input%2C_Output_and_Import.ipynb)</b>
+1.2 <b>[Python Strings](https://github.com/Tanu-N-Prabhu/Python/tree/master/Strings)</b>
+1.3 <b>[Python Lists](https://github.com/Tanu-N-Prabhu/Python/tree/master/Lists)</b> 
+1.4 <b>[Python Tuples](https://github.com/Tanu-N-Prabhu/Python/tree/master/Tuples)</b>
+1.5 <b>[Python Dictionary](https://github.com/Tanu-N-Prabhu/Python/tree/master/Dictionary%20).</b>
+
+## Chapter 2: Python Libraries
+
+2.1 <b>[Numpy library](https://github.com/Tanu-N-Prabhu/Python/tree/master/Numpy)</b>
+2.2 <b>[Pandas library](https://github.com/Tanu-N-Prabhu/Python/tree/master/Pandas)</b>
 
 
 
