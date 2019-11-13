@@ -50,7 +50,13 @@ Follow the steps down below to get started coding in python!!!
 
 2.2 <b>[Pandas library](https://github.com/Tanu-N-Prabhu/Python/tree/master/Pandas)</b>
 
+## Chapter 3: Python Built-in Functions
 
+3.1 <b>[Python Input, Output and Import built-in-functions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Input%2C_Output_and_Import.ipynb)</b>
+
+3.2 <b>[Eval built-in-function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Eval_built_in_function.ipynb)</b>
+
+3.3 <b>[Range built-in-function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Range_built_in_function.ipynb)</b>
 
 ## Data Science
 
