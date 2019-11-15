@@ -51,6 +51,8 @@ Follow the steps down below to get started coding in python!!!
 
 2.3 <b>[Range built-in-function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Range_built_in_function.ipynb)</b>
 
+2.4 <b>[Python Lambda Functions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Lambda_Function.ipynb)</b>
+
 
 ## Chapter 3: Python Libraries
 
@@ -132,4 +134,4 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 4.0 - Last Updated on November 2 2019 - 4:36 PM <b>
+<b> Version 4.1 - Last Updated on November 15 2019 - 12:51 PM <b>
