@@ -64,6 +64,8 @@ Follow the steps down below to get started coding in python!!!
 
 3.2 <b>[Pandas library](https://github.com/Tanu-N-Prabhu/Python/tree/master/Pandas)</b>
 
+3.3 <b>[Math Module](https://github.com/Tanu-N-Prabhu/Python/blob/master/Learn_the_Python_Math_Module.ipynb)
+
 
 
 ## Chapter 4: Additional Python Materials
@@ -138,4 +140,4 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 4.5 - Last Updated on December 30 2019 - 12:42 PM <b>
+<b> Version 4.6 - Last Updated on Feburary 7 2020 - 1:58 PM <b>
