@@ -75,6 +75,8 @@ Follow the steps down below to get started coding in python!!!
 4.2 <b>[Is Python Object Oriented?](https://github.com/Tanu-N-Prabhu/Python/blob/master/Is_Python_object_oriented%3F.ipynb)</b>
 
 4.3 <b>[Speech Recognition using Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Speech_Recognition_using_Python.ipynb)
+  
+4.4 <b>[Google Translate API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Google_Translate_API_for_Python.ipynb)
 
 
 ## Data Science
@@ -142,4 +144,4 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 4.7 - Last Updated on Feburary 20 2020 - 11:50 PM <b>
+<b> Version 4.8 - Last Updated on Feburary 22 2020 - 1:54 AM <b>
