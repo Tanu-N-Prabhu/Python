@@ -78,7 +78,7 @@ Follow the steps down below to get started coding in python!!!
   
 4.4 <b>[Google Translate API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Google_Translate_API_for_Python.ipynb)
 
-4.5 <b>[Google Trends API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Google_Trends_API_for%C2%A0Python.ipynb)
+4.5 <b>[Google Trends API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Google_Trends_API.ipynb)
 
 ## Data Science
 
@@ -145,4 +145,4 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 4.9 - Last Updated on Feburary 29 2020 - 6:51 PM <b>
+<b> Version 5.0 - Last Updated on March 1 2020 - 9:07 AM <b>
