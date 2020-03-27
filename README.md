@@ -67,19 +67,24 @@ Follow the steps down below to get started coding in python!!!
 3.3 <b>[Math Module](https://github.com/Tanu-N-Prabhu/Python/blob/master/Learn_the_Python_Math_Module.ipynb)
 
 
+## Chapter 4: Python API's
 
-## Chapter 4: Additional Python Materials
+4.1 <b>[Google Translate API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Google_Translate_API_for_Python.ipynb)
 
-4.1 <b>[How to get started coding in Python?](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_get_started_coding_in_Python%3F.ipynb)</b>
-
-4.2 <b>[Is Python Object Oriented?](https://github.com/Tanu-N-Prabhu/Python/blob/master/Is_Python_object_oriented%3F.ipynb)</b>
-
-4.3 <b>[Speech Recognition using Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Speech_Recognition_using_Python.ipynb)
+4.2 <b>[Google Trends API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Google_Trends_API.ipynb)
   
-4.4 <b>[Google Translate API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Google_Translate_API_for_Python.ipynb)
+4.3 <b>[Wikipedia API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Wikipedia_API_for_Python.ipynb)
 
-4.5 <b>[Google Trends API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Google_Trends_API.ipynb)
 
+## Chapter 5: Additional Python Materials
+
+5.1 <b>[How to get started coding in Python?](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_get_started_coding_in_Python%3F.ipynb)</b>
+
+5.2 <b>[Is Python Object Oriented?](https://github.com/Tanu-N-Prabhu/Python/blob/master/Is_Python_object_oriented%3F.ipynb)</b>
+
+5.3 <b>[Speech Recognition using Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Speech_Recognition_using_Python.ipynb)
+  
+  
 ## Data Science
 
 Follow the steps down below to get started learning Data Science!!!
@@ -145,4 +150,4 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 5.0 - Last Updated on March 1 2020 - 9:07 AM <b>
+<b> Version 6.0 - Last Updated on March 27 2020 - 7:09 AM <b>
