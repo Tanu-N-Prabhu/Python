@@ -84,6 +84,8 @@ Follow the steps down below to get started coding in python!!!
 
 5.3 <b>[Speech Recognition using Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Speech_Recognition_using_Python.ipynb)
   
+5.4 <b>[One-Hot encoding in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Learning_One_Hot_Encoding_in_Python_the_Easy_Way.ipynb)
+  
   
 ## Data Science
 
@@ -150,4 +152,4 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 6.0 - Last Updated on March 27 2020 - 7:09 AM <b>
+<b> Version 6.1 - Last Updated on April 19 2020 - 10:18 PM <b>
