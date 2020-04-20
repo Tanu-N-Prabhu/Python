@@ -28,7 +28,7 @@
 Follow the steps down below to get started coding in python!!!
 
 <p align="center">
-<img src = "Img/Python.PNG">
+<img src = "https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/Python.PNG">
 </p>
 
 ## Chapter 1: Basic Concepts
