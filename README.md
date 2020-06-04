@@ -1,5 +1,9 @@
 # This Repository Helps You Understand Python Programming Language From Beginner To Advance Level.
 
+# Come join the [discord](https://discord.gg/Dpwabk) let's discuss about python.
+
+[Discord Link]: https://discord.gg/Dpwabk(https://discord.gg/Dpwabk) 
+
 <img src="Img/Python.jpeg" >
 
 <b align = "justify"> Also this repository gives to enough knowledge about python programming and also helps you to survive in this programming world !!! </b>
