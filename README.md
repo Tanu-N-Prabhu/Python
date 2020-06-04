@@ -2,7 +2,7 @@
 
 # Come join the [discord](https://discord.gg/Dpwabk) let's discuss about python.
 
-[Discord Link]: https://discord.gg/Dpwabk(https://discord.gg/Dpwabk) 
+### Discord Link: [https://discord.gg/Dpwabk](https://discord.gg/Dpwabk) 
 
 <img src="Img/Python.jpeg" >
 
