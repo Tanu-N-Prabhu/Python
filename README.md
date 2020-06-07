@@ -45,7 +45,9 @@ Follow the steps down below to get started coding in python!!!
 
 1.4 <b>[Python Tuples](https://github.com/Tanu-N-Prabhu/Python/tree/master/Tuples)</b>
 
-1.5 <b>[Python Dictionary](https://github.com/Tanu-N-Prabhu/Python/tree/master/Dictionary%20).</b>
+1.5 <b>[Python Dictionary](https://github.com/Tanu-N-Prabhu/Python/tree/master/Dictionary%20)</b>
+
+1.6 <b>[Python Operators](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Operators.ipynb)</b>
 
 ## Chapter 2: Python Built-in Functions
 
@@ -156,4 +158,4 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 6.1 - Last Updated on April 19 2020 - 10:18 PM <b>
+<b> Version 6.2 - Last Updated on June 1 2020 - 4:15 PM <b>
