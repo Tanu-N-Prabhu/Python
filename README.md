@@ -1,8 +1,8 @@
 # This Repository Helps You Understand Python Programming Language From Beginner To Advance Level.
 
-# Come join the [discord](https://discord.gg/RAz7UU) let's discuss about python.
+# Come join the [discord](https://discord.gg/EGdtTW) let's discuss about python.
 
-### Discord Link: [https://discord.gg/Dpwabk](https://discord.gg/RAz7UU) 
+### Discord Link: [https://discord.gg/Dpwabk](https://discord.gg/EGdtTW) 
 
 <img src="Img/Python.jpeg" >
 
