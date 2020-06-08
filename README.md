@@ -1,8 +1,8 @@
 # This Repository Helps You Understand Python Programming Language From Beginner To Advance Level.
 
-# Come join the [discord](https://discord.gg/EGdtTW) let's discuss about python.
+# Come join the [discord](https://discord.gg/qFryjbX) let's discuss about python.
 
-### Discord Link: [https://discord.gg/Dpwabk](https://discord.gg/EGdtTW) 
+### Discord Link: [https://discord.gg/Dpwabk](https://discord.gg/qFryjbX) 
 
 <img src="Img/Python.jpeg" >
 
@@ -158,4 +158,4 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 6.2 - Last Updated on June 1 2020 - 4:15 PM <b>
+<b> Version 6.2.1 - Last Updated on June 8 2020 - 4:19 PM <b>
