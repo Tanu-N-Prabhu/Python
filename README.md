@@ -8,20 +8,18 @@
 
 <img src="Img/Python.jpeg" >
 
-<b align = "justify"> Also this repository gives to enough knowledge about python programming and also helps you to survive in this programming world !!! </b>
+<h4 align = "justify"> This repository gives to enough knowledge about python programming, data science and also helps you to survive in this programming world !!! </h4>
 
 # Installation tools
 
-### Below are some tools that you can download before getting started with Python, now it’s a preference, so download whichever that fits the best for you.
+#### Below are some tools that you can download before getting started with Python, now it’s a preference, so download whichever that fits the best for you.
 
 | Name of the tools | 
 | ------------- |
 |[Python download](https://www.python.org/downloads/)|
-|[Pycharm download](https://www.jetbrains.com/pycharm/download/#section=windows)|
+|[Visual Studio Code](https://code.visualstudio.com/download)|
 |[Jupyter Notebook](https://jupyter.org/install)|
 |[Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)|
-
-<p align="justify"> For those of you who aren't aware of Pycharm: PyCharm is an integrated development environment used in computer programming, specifically for the Python language. It is developed by the Czech company JetBrains (Psss, copied from Wikipedia).</p>
 
 <p align = "justify">I personally use Google Colab for python programming. It's one of the best interactive tool in the world. I like it because I can provide more documentation to the code and write some quality tutorials.</p>
 
