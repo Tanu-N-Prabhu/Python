@@ -25,7 +25,7 @@
 
 # Repository Contents
 
-<b>This repository is divided into two parts such as Python Coding for Beginners and Data Science.</b>
+### This repository is divided into two parts such as Python Coding and Data Science for Beginners.
 
 ## Python Coding
 
@@ -158,4 +158,4 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 6.2.1 - Last Updated on June 8 2020 - 4:19 PM <b>
+<b> Version 7.0.0 - Last Updated on June 12 2020 - 2:32 PM <b>
