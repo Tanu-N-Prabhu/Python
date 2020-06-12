@@ -1,7 +1,9 @@
 <h1 align = "center">TNP's HUB</h1>
 <h2 align = "center">One of the best places to learn Python and Data Science</h2>
 
-[![Discord](https://img.shields.io/discord/718138360538857794.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qFryjbX) [![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/Tanu-N-Prabhu/Python/network/members)
+[![Discord](https://img.shields.io/discord/718138360538857794.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qFryjbX) 
+
+[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social)](https://github.com/Tanu-N-Prabhu/Python/network/members)
 
 Come join the [discord](https://discord.gg/qFryjbX) let's discuss about python.
 
