@@ -3,7 +3,7 @@
 
 [![Discord](https://img.shields.io/discord/718138360538857794.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qFryjbX) 
 
-[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social)](https://github.com/Tanu-N-Prabhu/Python/network/members)
+[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social)](https://github.com/Tanu-N-Prabhu/Python/network)
 
 Come join the [discord](https://discord.gg/qFryjbX) let's discuss about python.
 
