@@ -1,7 +1,7 @@
 <h1 align = "center">TNP's HUB</h1>
 <h2 align = "center">One of the best places to learn Python and Data Science</h2>
 
-[![Discord](https://img.shields.io/discord/718138360538857794.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qFryjbX) ![GitHub forks](https://img.shields.io/github/forks/Tanu-N-Prabhu/Python?label=Fork&style=social)  ![GitHub followers](https://img.shields.io/github/followers/Tanu-N-Prabhu?label=Follow&style=social)  ![GitHub stars](https://img.shields.io/github/stars/Tanu-N-Prabhu/Python?style=social)  ![GitHub watchers](https://img.shields.io/github/watchers/Tanu-N-Prabhu/Python?label=Watch&style=social)
+[![Discord](https://img.shields.io/discord/718138360538857794.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qFryjbX) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub forks](https://img.shields.io/github/forks/Tanu-N-Prabhu/Python?label=Fork&style=social)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         ![GitHub followers](https://img.shields.io/github/followers/Tanu-N-Prabhu?label=Follow&style=social) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub stars](https://img.shields.io/github/stars/Tanu-N-Prabhu/Python?style=social) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub watchers](https://img.shields.io/github/watchers/Tanu-N-Prabhu/Python?label=Watch&style=social)
 
 
 Come join the [discord](https://discord.gg/qFryjbX) let's discuss about python.
