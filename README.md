@@ -1,4 +1,7 @@
-<link rel="stylesheet" type="text/css" media="all" href="https://github.com/Tanu-N-Prabhu/Python/blob/master/title.css"/>
+<style>
+p{color: red}
+  
+</style>
 <p>TNP's HUB - One of the best places to learn Python and Data Science</p>
 
 
