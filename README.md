@@ -1,9 +1,9 @@
 <h1 align = "center">TNP's HUB</h1>
 <h2 align = "center">One of the best places to learn Python and Data Science</h2>
 
+[![Discord](https://img.shields.io/discord/718138360538857794.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qFryjbX)
 
-
-# Come join the [discord](https://discord.gg/qFryjbX) let's discuss about python.
+Come join the [discord](https://discord.gg/qFryjbX) let's discuss about python.
 
 ### Discord Link: [https://discord.gg/Dpwabk](https://discord.gg/qFryjbX) 
 
