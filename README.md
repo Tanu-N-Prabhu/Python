@@ -1,4 +1,7 @@
-# This Repository Helps You Understand Python Programming Language From Beginner To Advance Level.
+<link rel="stylesheet" type="text/css" media="all" href="https://github.com/Tanu-N-Prabhu/Python/blob/master/title.css"/>
+<p>TNP's HUB - One of the best places to learn Python and Data Science</p>
+
+
 
 # Come join the [discord](https://discord.gg/qFryjbX) let's discuss about python.
 
