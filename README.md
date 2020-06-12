@@ -1,8 +1,5 @@
-<style>
-p{color: red}
-  
-</style>
-<p>TNP's HUB - One of the best places to learn Python and Data Science</p>
+<h1 align = "center">TNP's HUB</h1>
+<h2 align = "center">One of the best places to learn Python and Data Science</h2>
 
 
 
