@@ -21,7 +21,7 @@
 |[Jupyter Notebook](https://jupyter.org/install)|
 |[Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)|
 
-<p align = "justify">I personally use Google Colab for python programming. It's one of the best interactive tool in the world. I like it because I can provide more documentation to the code and write some quality tutorials.</p>
+> I personally use Google Colab for python programming. It's one of the best interactive tool in the world. I like it because I can provide more documentation to the code and write some quality tutorials.</p>
 
 # Repository Contents
 
