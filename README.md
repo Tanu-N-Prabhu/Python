@@ -1,4 +1,4 @@
-<h1 align = "center">TNP's HUB - I write My Own Tech</h1>
+<h1 align = "center">Python Programming Hub</h1>
 <h2 align = "center">One of the best places to learn Python and Data Science</h2>
 
 
