@@ -92,6 +92,8 @@ Follow the steps down below to get started coding in python!!!
   
 5.4 <b>[One-Hot encoding in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Learning_One_Hot_Encoding_in_Python_the_Easy_Way.ipynb)
   
+5.5 <b>[Reading An Image In Python (Without Using Special Libraries)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Reading_An_Image_In_Python_(Without_Using_Special_Libraries).ipynb)</b>
+  
   
 ## Data Science
 
@@ -158,4 +160,4 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 7.0.0 - Last Updated on June 12 2020 - 2:32 PM <b>
+<b> Version 7.1 - Last Updated on June 18 2020 - 10:26 PM <b>
