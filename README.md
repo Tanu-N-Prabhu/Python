@@ -59,9 +59,9 @@ Follow the steps down below to get started coding in python!!!
 
 2.4 <b>[Python Lambda Function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Lambda_Function.ipynb)</b>
 
-2.5 <b>[Python Enumerate Function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_enumerate()_built_in_function.ipynb)
+2.5 <b>[Python Enumerate Function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_enumerate()_built_in_function.ipynb)</b>
   
-2.6 <b>[Python len function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_len()_built_in_function.ipynb)  
+2.6 <b>[Python len function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_len()_built_in_function.ipynb)</b>  
 
 
 ## Chapter 3: Python Libraries
@@ -70,16 +70,16 @@ Follow the steps down below to get started coding in python!!!
 
 3.2 <b>[Pandas library](https://github.com/Tanu-N-Prabhu/Python/tree/master/Pandas)</b>
 
-3.3 <b>[Math Module](https://github.com/Tanu-N-Prabhu/Python/blob/master/Learn_the_Python_Math_Module.ipynb)
+3.3 <b>[Math Module](https://github.com/Tanu-N-Prabhu/Python/blob/master/Learn_the_Python_Math_Module.ipynb)</b>
 
 
 ## Chapter 4: Python API's
 
-4.1 <b>[Google Translate API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Google_Translate_API_for_Python.ipynb)
+4.1 <b>[Google Translate API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Google_Translate_API_for_Python.ipynb)</b>
 
-4.2 <b>[Google Trends API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Google_Trends_API.ipynb)
+4.2 <b>[Google Trends API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Google_Trends_API.ipynb)</b>
   
-4.3 <b>[Wikipedia API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Wikipedia_API_for_Python.ipynb)
+4.3 <b>[Wikipedia API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Wikipedia_API_for_Python.ipynb)</b>
 
 
 ## Chapter 5: Additional Python Materials
@@ -88,9 +88,9 @@ Follow the steps down below to get started coding in python!!!
 
 5.2 <b>[Is Python Object Oriented?](https://github.com/Tanu-N-Prabhu/Python/blob/master/Is_Python_object_oriented%3F.ipynb)</b>
 
-5.3 <b>[Speech Recognition using Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Speech_Recognition_using_Python.ipynb)
+5.3 <b>[Speech Recognition using Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Speech_Recognition_using_Python.ipynb)</b>
   
-5.4 <b>[One-Hot encoding in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Learning_One_Hot_Encoding_in_Python_the_Easy_Way.ipynb)
+5.4 <b>[One-Hot encoding in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Learning_One_Hot_Encoding_in_Python_the_Easy_Way.ipynb)</b>
   
 5.5 <b>[Reading An Image In Python (Without Using Special Libraries)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Reading_An_Image_In_Python_(Without_Using_Special_Libraries).ipynb)</b>
 
@@ -162,4 +162,4 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 7.2 - Last Updated on July 4 2020 - 1:03 AM <b>
+<b> Version 7.3 - Last Updated on August 26 2020 - 4:38 AM <b>
