@@ -174,6 +174,8 @@ Follow the steps down below to get started learning Data Science!!!
 > I came across your GitHub and love your Jupyter Notebooks, especially the one on "<b>Predicting PewDiePie's daily subscribers</b>". I think you do a great job at explaining your work which is something others can learn.
 
 
+> <b>Laurence Watson</b> - Co-Founder & CEO, Treebeard<br>
+> You have a lot of great Jupyter notebook content on GitHub
 
 
 # Feedback
@@ -182,4 +184,4 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 7.5 - Last Updated on August 31 2020 - 11:15 AM <b>
+<b> Version 8.0 - Last Updated on August 31 2020 - 11:54 AM <b>
