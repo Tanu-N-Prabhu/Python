@@ -160,6 +160,19 @@ Follow the steps down below to get started learning Data Science!!!
 | Instagram      | tanunprabhu   |
 
 
+# Reviews
+
+<b>Below given are some of the reviews about this Python GitHub Repository:<b>
+  
+
+
+> <b>‪Elin Uppström</b> - Senior Lecturer at Uppsala University, Sweden. <br><br>
+> I found your excellent exercises at your GitHub wile prepearing undergraduate course in data analysis. I want to use it in my course
+
+
+
+
+
 # Feedback
 
 [Any Feedbacks or Suggestions- Please Click Here](https://form.jotform.com/92847563204259)
