@@ -170,6 +170,8 @@ Follow the steps down below to get started learning Data Science!!!
 > I found your excellent exercises at your GitHub wile prepearing undergraduate course in data analysis. I want to use it in my course
 
 
+> <b>‪Cole Striler</b> - Data Scientist, Founder of Datafied<br>
+> I came across your GitHub and love your Jupyter Notebooks, especially the one on "<b>Predicting PewDiePie's daily subscribers</b>". I think you do a great job at explaining your work which is something others can learn.
 
 
 
