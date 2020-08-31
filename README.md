@@ -166,4 +166,4 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 7.3 - Last Updated on August 26 2020 - 4:38 AM <b>
+<b> Version 7.5 - Last Updated on August 31 2020 - 11:15 AM <b>
