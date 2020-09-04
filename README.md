@@ -6,6 +6,7 @@
 [![Discord](https://img.shields.io/discord/718138360538857794.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qFryjbX) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub forks](https://img.shields.io/github/forks/Tanu-N-Prabhu/Python?label=Fork&style=social)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         ![GitHub followers](https://img.shields.io/github/followers/Tanu-N-Prabhu?label=Follow&style=social) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub stars](https://img.shields.io/github/stars/Tanu-N-Prabhu/Python?style=social) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub watchers](https://img.shields.io/github/watchers/Tanu-N-Prabhu/Python?label=Watch&style=social) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub repo size](https://img.shields.io/github/repo-size/Tanu-N-Prabhu/Python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![GitHub contributors](https://img.shields.io/github/contributors/Tanu-N-Prabhu/Python)  
 
 
+
 <img src="Img/Python.jpeg" >
 
 <h4 align = "justify"> This repository gives to enough knowledge about python programming, data science and also helps you to survive in this programming world !!! </h4>
@@ -184,4 +185,11 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 8.0 - Last Updated on August 31 2020 - 11:54 AM <b>
+<b> Version 8.1 - Last Updated on September 3 2020 - 10:58 PM <b>
+  
+  
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  
+
+
