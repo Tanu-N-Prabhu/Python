@@ -189,6 +189,6 @@ Follow the steps down below to get started learning Data Science!!!
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-[![Maintened by - Tanu Nanda Prabhu](https://img.shields.io/badge/Designed%20by%3A-Tanu%20Nanda%20Prabhu-red)](https://tanu-n-prabhu.github.io/myWebsite.io//)
+[![Maintened by - Tanu Nanda Prabhu](https://img.shields.io/badge/Designed%20by-Tanu%20Nanda%20Prabhu-red)](https://tanu-n-prabhu.github.io/myWebsite.io/)
 
 
