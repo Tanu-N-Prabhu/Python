@@ -185,11 +185,10 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 8.1 - Last Updated on September 3 2020 - 10:58 PM <b>
+<b> Version 8.1 - Last Updated on September 4 2020 - 3:11 PM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  
+[![Maintened by - Tanu Nanda Prabhu](http://unmaintained.tech/badge.svg)](https://tanu-n-prabhu.github.io/myWebsite.io//)
 
 
