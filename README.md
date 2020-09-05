@@ -102,6 +102,10 @@ Follow the steps down below to get started coding in python!!!
 5.6 <b>[Rendering Images inside a Pandas DataFrame](https://github.com/Tanu-N-Prabhu/Python/blob/master/Rendering_Images_inside_a_Pandas_DataFrame.ipynb)</b>
   
   
+## Quiz
+
+* <b>[Quiz - 1](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_1.ipynb)</b>
+  
 ## Data Science
 
 Follow the steps down below to get started learning Data Science!!!
@@ -185,10 +189,10 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 8.2 - Last Updated on September 4 2020 - 3:11 PM <b>
+<b> Version 8.3 - Last Updated on September 4 2020 - 11:15 PM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-[![Maintened by - Tanu Nanda Prabhu](https://img.shields.io/badge/Designed%20by-Tanu%20Nanda%20Prabhu-red)](https://tanu-n-prabhu.github.io/myWebsite.io/)
+[![Maintened by - Tanu Nanda Prabhu](https://img.shields.io/badge/Maintained%20by-Tanu%20Nanda%20Prabhu-red)](https://tanu-n-prabhu.github.io/myWebsite.io/)
 
 
