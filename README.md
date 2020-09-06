@@ -159,10 +159,10 @@ Follow the steps down below to get started learning Data Science!!!
 
 | Contact        | Info           | 
 | ------------- |:-------------:|
-| Mail id      | tanuprabhu96@gmail.com  | 
-| Phone number        | +1 306-737-9073              |   
-| Facebook       | Tanu N Prabhu      |    
-| Instagram      | tanunprabhu   |
+| <b>Mail id</b>      | tanuprabhu96@gmail.com  | 
+| <b>Phone number</b>        | +1 306-737-9073              |   
+| <b>Facebook</b>       | Tanu N Prabhu      |    
+| <b>Instagram </b>    | tanunprabhu   |
 
 
 # Reviews
