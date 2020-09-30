@@ -151,6 +151,13 @@ Follow the steps down below to get started learning Data Science!!!
 
 1) [HackerRank Exercise Solved](https://github.com/Tanu-N-Prabhu/Python/tree/master/Hacker_Rank_Exercises)
 
+# Reddit Communities
+
+   - [python](https://www.reddit.com/r/Python/)
+   - [learn python](https://www.reddit.com/r/learnpython/)
+   - [python tips](https://www.reddit.com/r/pythontips/)
+   - [.python coding](https://www.reddit.com/r/pythoncoding?utm_medium=android_app&utm_source=share)
+
 # Submit you articles here
 
 1) [Data Science from Scratch](https://medium.com/data-science-from-scratch)
