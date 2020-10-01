@@ -147,7 +147,7 @@ Follow the steps down below to get started learning Data Science!!!
 1) [My Kaggle Data Sets](https://www.kaggle.com/tanuprabhu/datasets)
 
 
-# HackerRank Exercise
+# HackerRank Exercises
 
 1) [HackerRank Exercise Solved](https://github.com/Tanu-N-Prabhu/Python/tree/master/Hacker_Rank_Exercises)
 
