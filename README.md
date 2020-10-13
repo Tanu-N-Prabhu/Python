@@ -80,7 +80,7 @@ Follow the steps down below to get started coding in python!!!
 
 ## Chapter 4: Python API's
 
-4.1 <b>[Google Translate API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Google_Translate_API_for_Python.ipynb)</b>
+4.1 <b>[Google Translate API for Python](https://github.com/Tanu-N-Prabhu/Python/tree/master/Google%20Translate%20API)</b>
 
 4.2 <b>[Google Trends API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Google_Trends_API.ipynb)</b>
   
@@ -189,7 +189,7 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 8.3 - Last Updated on September 4 2020 - 11:15 PM <b>
+<b> Version 8.4 - Last Updated on October 12 2020 - 8:20 PM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
