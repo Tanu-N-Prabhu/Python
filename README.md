@@ -193,7 +193,15 @@ Follow the steps down below to get started learning Data Science!!!
 
 
 # Feedback
-
+Can you add those topics also:
+Python Advanced Topics
+Python Iterator.
+Python Generator.
+Python Closure.
+Python Decorators.
+Python Property.
+Python RegEx.
+Python Examples.
 [Any Feedbacks or Suggestions- Please Click Here](https://form.jotform.com/92847563204259)
 
 # Version
