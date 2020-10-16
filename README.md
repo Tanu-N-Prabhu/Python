@@ -153,10 +153,10 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Reddit Communities
 
-   - [python](https://www.reddit.com/r/Python/)
-   - [learn python](https://www.reddit.com/r/learnpython/)
-   - [python tips](https://www.reddit.com/r/pythontips/)
-   - [.python coding](https://www.reddit.com/r/pythoncoding?utm_medium=android_app&utm_source=share)
+1) [Python](https://www.reddit.com/r/Python/)
+2) [Learn python](https://www.reddit.com/r/learnpython/)
+3) [Python tips](https://www.reddit.com/r/pythontips/)
+4) [Python coding](https://www.reddit.com/r/pythoncoding?utm_medium=android_app&utm_source=share)
 
 # Submit you articles here
 
@@ -196,7 +196,7 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 8.4 - Last Updated on October 12 2020 - 8:20 PM <b>
+<b> Version 8.5 - Last Updated on October 16 2020 - 12:52 PM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
