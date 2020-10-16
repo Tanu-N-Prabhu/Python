@@ -1,11 +1,11 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Tanu-N-Prabhu/Python)
 
 <h1 align = "center">Python Programming Hub</h1>
 <h2 align = "center">One of the best places to learn Python and Data Science</h2>
 
 
 <!-- Shield Badges -->
-[![Discord](https://img.shields.io/discord/718138360538857794.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qFryjbX) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub forks](https://img.shields.io/github/forks/Tanu-N-Prabhu/Python?label=Fork&style=social)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         ![GitHub followers](https://img.shields.io/github/followers/Tanu-N-Prabhu?label=Follow&style=social) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub stars](https://img.shields.io/github/stars/Tanu-N-Prabhu/Python?style=social) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub watchers](https://img.shields.io/github/watchers/Tanu-N-Prabhu/Python?label=Watch&style=social) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub repo size](https://img.shields.io/github/repo-size/Tanu-N-Prabhu/Python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![GitHub contributors](https://img.shields.io/github/contributors/Tanu-N-Prabhu/Python)  
+[![Discord](https://img.shields.io/discord/718138360538857794.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qFryjbX) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub forks](https://img.shields.io/github/forks/Tanu-N-Prabhu/Python?label=Fork&style=social)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         ![GitHub followers](https://img.shields.io/github/followers/Tanu-N-Prabhu?label=Follow&style=social) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub stars](https://img.shields.io/github/stars/Tanu-N-Prabhu/Python?style=social) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub watchers](https://img.shields.io/github/watchers/Tanu-N-Prabhu/Python?label=Watch&style=social) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub repo size](https://img.shields.io/github/repo-size/Tanu-N-Prabhu/Python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![GitHub contributors](https://img.shields.io/github/contributors/Tanu-N-Prabhu/Python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Tanu-N-Prabhu/Python)
+
 
 
 
@@ -198,7 +198,7 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 8.5 - Last Updated on October 16 2020 - 12:52 PM <b>
+<b> Version 8.6 - Last Updated on October 16 2020 - 1:20 PM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
