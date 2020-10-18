@@ -192,6 +192,10 @@ Follow the steps down below to get started learning Data Science!!!
 > You have a lot of great Jupyter notebook content on GitHub.
 
 
+> <b>Poonam Gupta</b> - Math & AP Computer Science Instructor, Brunswick School<br>
+> Thank you so much for posting such helpful posts on GitHub.Many, many thanks for all you do to spread the knowledge.
+
+
 # Feedback
 
 [Any Feedbacks or Suggestions- Please Click Here](https://form.jotform.com/92847563204259)
