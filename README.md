@@ -181,7 +181,7 @@ Follow the steps down below to get started learning Data Science!!!
 
 
 > <b>‪Elin Uppström</b> - Senior Lecturer at Uppsala University, Sweden. <br>
-> I found your excellent exercises at your GitHub wile prepearing undergraduate course in data analysis. I want to use it in my course
+> I found your excellent exercises at your GitHub wile preparing undergraduate course in data analysis. I want to use it in my course.
 
 
 > <b>‪Cole Striler</b> - Data Scientist, Founder of Datafied<br>
@@ -189,7 +189,7 @@ Follow the steps down below to get started learning Data Science!!!
 
 
 > <b>Laurence Watson</b> - Co-Founder & CEO, Treebeard<br>
-> You have a lot of great Jupyter notebook content on GitHub
+> You have a lot of great Jupyter notebook content on GitHub.
 
 
 # Feedback
