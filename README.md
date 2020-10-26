@@ -102,6 +102,8 @@ Follow the steps down below to get started coding in python!!!
 5.5 <b>[Reading An Image In Python (Without Using Special Libraries)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Reading_An_Image_In_Python_(Without_Using_Special_Libraries).ipynb)</b>
 
 5.6 <b>[Rendering Images inside a Pandas DataFrame](https://github.com/Tanu-N-Prabhu/Python/blob/master/Rendering_Images_inside_a_Pandas_DataFrame.ipynb)</b>
+
+5.7 <b>[Using the Pandas Data Frame as a Database](https://github.com/Tanu-N-Prabhu/Python/blob/master/Using_the_Pandas_Data_Frame_as_a_Database_.ipynb)</b>
   
   
 ## Quiz
@@ -202,7 +204,7 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 8.6 - Last Updated on October 16 2020 - 1:20 PM <b>
+<b> Version 8.7 - Last Updated on October 26 2020 - 10:01 AM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
