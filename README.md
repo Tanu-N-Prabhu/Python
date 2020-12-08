@@ -109,6 +109,8 @@ Follow the steps down below to get started coding in python!!!
 
 5.8 <b>[Using the Pandas DataFrame in Day-To-Day Life](https://github.com/Tanu-N-Prabhu/Python/blob/master/Using_the_Pandas_DataFrame_in_Day_To_Day_Life.ipynb)</b>
   
+5.9 <b>[How to handle JSON in Python?](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_handle_JSON_in_Python%3F.ipynb)</b>
+
   
 ## Quiz
 
@@ -208,7 +210,7 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 8.8 - Last Updated on October 26 2020 - 10:27 AM <b>
+<b> Version 8.9 - Last Updated on December 08 2020 - 12:38 AM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
