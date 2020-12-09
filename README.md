@@ -81,6 +81,8 @@ Follow the steps down below to get started coding in python!!!
 
 3.3 <b>[Math Module](https://github.com/Tanu-N-Prabhu/Python/blob/master/Learn_the_Python_Math_Module.ipynb)</b>
 
+3.4 <b>[JSON library](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_handle_JSON_in_Python%3F.ipynb)</b>
+
 
 ## Chapter 4: Python API's
 
@@ -210,7 +212,7 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 8.9 - Last Updated on December 08 2020 - 12:38 AM <b>
+<b> Version 9.0 - Last Updated on December 09 2020 - 7:05 PM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
