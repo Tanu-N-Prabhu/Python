@@ -114,9 +114,12 @@ Follow the steps down below to get started coding in python!!!
 5.9 <b>[How to handle JSON in Python?](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_handle_JSON_in_Python%3F.ipynb)</b>
 
   
-## Quiz
+## Chapter 6 - Quiz
 
-* <b>[Quiz - 1](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_1.ipynb)</b>
+6.1 <b>[Quiz - 1](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_1.ipynb)</b>
+
+6.2 <b>[Quiz - 2](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Quiz_2.ipynb)</b>
+
   
 ## Data Science
 
@@ -212,7 +215,7 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 9.0 - Last Updated on December 09 2020 - 7:05 PM <b>
+<b> Version 9.1 - Last Updated on December 09 2020 - 11:11 AM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
