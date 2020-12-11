@@ -113,12 +113,18 @@ Follow the steps down below to get started coding in python!!!
   
 5.9 <b>[How to handle JSON in Python?](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_handle_JSON_in_Python%3F.ipynb)</b>
 
+
+## Chapter 6 - Exercises
+
+6.1 <b>[String Concatenation Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/String_Concatenation_Exercise_Questions.ipynb)
   
-## Chapter 6 - Quiz
+## Chapter 7 - Quiz
 
-6.1 <b>[Quiz - 1](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_1.ipynb)</b>
+7.1 <b>[Quiz - 1](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_1.ipynb)</b>
 
-6.2 <b>[Quiz - 2](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Quiz_2.ipynb)</b>
+7.2 <b>[Quiz - 2](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Quiz_2.ipynb)</b>
+
+
 
   
 ## Data Science
