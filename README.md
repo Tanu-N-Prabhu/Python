@@ -223,7 +223,7 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 9.1 - Last Updated on December 09 2020 - 11:11 AM <b>
+<b> Version 9.2 - Last Updated on December 11 2020 - 1:31 AM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
