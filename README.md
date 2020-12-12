@@ -111,7 +111,8 @@ Follow the steps down below to get started coding in python!!!
 
 5.8 <b>[Using the Pandas DataFrame in Day-To-Day Life](https://github.com/Tanu-N-Prabhu/Python/blob/master/Using_the_Pandas_DataFrame_in_Day_To_Day_Life.ipynb)</b>
   
-5.9 <b>[How to handle JSON in Python?](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_handle_JSON_in_Python%3F.ipynb)</b>
+5.9 <b>[Presenting Python code using RISE](https://github.com/Tanu-N-Prabhu/Python/blob/master/Presenting_Python_code_using_RISE.ipynb)</b>
+
 
 
 ## Chapter 6 - Exercises
@@ -229,7 +230,7 @@ Made with [contributors-img](https://contrib.rocks).
 
 # Version
 
-<b> Version 9.2 - Last Updated on December 11 2020 - 1:31 AM <b>
+<b> Version 9.3 - Last Updated on December 12 2020 - 1:50 AM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
