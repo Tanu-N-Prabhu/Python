@@ -10,7 +10,6 @@
 
 
 
-
 <img src="Img/Python.jpeg" >
 
 <h4 align = "justify"> This repository gives to enough knowledge about python programming, data science and also helps you to survive in this programming world !!! </h4>
