@@ -91,6 +91,8 @@ Follow the steps down below to get started coding in python!!!
   
 4.3 <b>[Wikipedia API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Wikipedia_API_for_Python.ipynb)</b>
 
+4.4 <b>[Google Search API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/The_two_Google_Search_Python_Libraries_you_should_never_miss.ipynb)</b>
+
 
 ## Chapter 5: Additional Python Materials
 
@@ -229,7 +231,7 @@ Made with [contributors-img](https://contrib.rocks).
 
 # Version
 
-<b> Version 9.3 - Last Updated on December 12 2020 - 1:50 AM <b>
+<b> Version 9.4 - Last Updated on December 20 2020 - 5:20 PM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
