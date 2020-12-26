@@ -114,6 +114,8 @@ Follow the steps down below to get started coding in python!!!
   
 5.9 <b>[Presenting Python code using RISE](https://github.com/Tanu-N-Prabhu/Python/blob/master/Presenting_Python_code_using_RISE.ipynb)</b>
 
+5.10 <b>[Cheat Sheet for Google Colab](https://github.com/Tanu-N-Prabhu/Python/blob/master/Cheat_sheet_for_Google_Colab.ipynb)
+
 
 
 ## Chapter 6 - Exercises
@@ -231,7 +233,7 @@ Made with [contributors-img](https://contrib.rocks).
 
 # Version
 
-<b> Version 9.4 - Last Updated on December 20 2020 - 5:20 PM <b>
+<b> Version 9.5 - Last Updated on December 26 2020 - 11:09 PM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
