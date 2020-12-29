@@ -10,7 +10,9 @@
 
 
 
-<img src="Img/Python.jpeg" >
+| ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
+|:--:| 
+| Image Credits [Wallpaper Flare](https://www.wallpaperflare.com/programming-is-an-art-text-code-python-computer-python-programming-wallpaper-srfia) |
 
 <h4 align = "justify"> This repository gives to enough knowledge about python programming, data science and also helps you to survive in this programming world !!! </h4>
 
@@ -233,7 +235,7 @@ Made with [contributors-img](https://contrib.rocks).
 
 # Version
 
-<b> Version 9.5 - Last Updated on December 26 2020 - 11:09 PM <b>
+<b> Version 9.6 - Last Updated on December 28 2020 - 6:51 PM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
