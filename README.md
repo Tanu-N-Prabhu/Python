@@ -201,10 +201,11 @@ Made with [contributors-img](https://contrib.rocks).
 
 | Contact        | Info           | 
 | ------------- |:-------------:|
-| <b>Mail id</b>      | tanuprabhu96@gmail.com  | 
+| <b>Gmail</b>      | tanuprabhu96@gmail.com  | 
 | <b>Phone number</b>        | +1 306-737-9073              |   
 | <b>Facebook</b>       | Tanu N Prabhu      |    
 | <b>Instagram </b>    | tanunprabhu   |
+| <b>Linkedin </b>    | [Tanu Nanda Prabhu](https://www.linkedin.com/in/tanu-nanda-prabhu-a15a091b5/) |
 
 
 # Reviews
@@ -235,7 +236,7 @@ Made with [contributors-img](https://contrib.rocks).
 
 # Version
 
-<b> Version 9.6 - Last Updated on December 28 2020 - 6:51 PM <b>
+<b> Version 9.7 - Last Updated on December 30 2020 - 11:32 PM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
