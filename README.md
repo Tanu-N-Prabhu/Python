@@ -128,11 +128,17 @@ Follow the steps down below to get started coding in python!!!
   
 ## Chapter 7 - Quiz
 
-7.1 <b>[Quiz - 1](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_1.ipynb)</b>
+### Subchapter 7.1 - Coding Quiz
 
-7.2 <b>[Quiz - 2](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Quiz_2.ipynb)</b>
+7.1.1 <b>[Quiz - 1](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_1.ipynb)</b>
+
+7.1.2 <b>[Quiz - 2](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_2.ipynb)</b>
+
+7.1.3 <b>[Quiz - 3](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_3.ipynb)</b>
 
 
+
+---
 
   
 ## Data Science
@@ -236,7 +242,7 @@ Made with [contributors-img](https://contrib.rocks).
 
 # Version
 
-<b> Version 9.7 - Last Updated on December 30 2020 - 11:32 PM <b>
+<b> Version 9.8 - Last Updated on January 2 2021 - 10:32 PM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
