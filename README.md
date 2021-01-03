@@ -164,7 +164,7 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Contributors
 
-<p align="justify"> Tanu Nanda Prabhu : Hey, there. I'm doing my Master's in Computer Science, at University of Regina, Canada. Although I'm good at programming, definitely not a code monkey. I like to document each and every line of code and help others understand it. It is very important to document the code. I believe that I learn simultaneously while I teach you guys in this repository. Special thanks to Udemy, it is with the help of their guidance, I could learn Python at a high level.</p>
+### Currently there are 9 contributors for this repository. Feel free to contribute!
 
 <a href="https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python" />
