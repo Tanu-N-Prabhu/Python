@@ -164,7 +164,7 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Contributors
 
-### Currently there are 9 contributors for this repository. Feel free to contribute!
+### Currently there are 10 contributors for this repository. Feel free to contribute!
 
 <a href="https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python" />
@@ -243,7 +243,7 @@ Made with [contributors-img](https://contrib.rocks).
 
 # Version
 
-<b> Version 9.8 - Last Updated on January 2 2021 - 10:32 PM <b>
+<b> Version 9.9 - Last Updated on January 5 2021 - 10:45 AM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
