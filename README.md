@@ -156,12 +156,13 @@ Follow the steps down below to get started learning Data Science!!!
 3. <b> [Exploring the data from the Web](https://github.com/Tanu-N-Prabhu/Python/tree/master/Exploratory%20Data%20Analysis)</b>
 4. <b> Predicting the data</b>
 
+---
 # Nbviewer
 
 <b align = "justify">If the jupyter notebook doesn't load. Don't worry just copy and paste the link to [nbviewer](https://nbviewer.jupyter.org). Because most of my jupyter notebooks are not loading.</b>
 
 
-
+---
 # Contributors
 
 ### Currently there are 10 contributors for this repository. Feel free to contribute!
@@ -183,15 +184,20 @@ Made with [contributors-img](https://contrib.rocks).
 
 4) [The Start up](https://medium.com/@tanunprabhu95)
 
+---
 
 # Kaggle
 
 1) [My Kaggle Data Sets](https://www.kaggle.com/tanuprabhu/datasets)
 
+---
 
 # HackerRank Exercises
 
 1) [HackerRank Exercise Solved](https://github.com/Tanu-N-Prabhu/Python/tree/master/Hacker_Rank_Exercises)
+
+
+---
 
 # Reddit Communities
 
@@ -200,9 +206,16 @@ Made with [contributors-img](https://contrib.rocks).
 3) [Python tips](https://www.reddit.com/r/pythontips/)
 4) [Python coding](https://www.reddit.com/r/pythoncoding?utm_medium=android_app&utm_source=share)
 
+
+
+---
+
 # Submit you articles here
 
 1) [Data Science from Scratch](https://medium.com/data-science-from-scratch)
+
+---
+
 
 # Contact for help
 
@@ -214,6 +227,7 @@ Made with [contributors-img](https://contrib.rocks).
 | <b>Instagram </b>    | tanunprabhu   |
 | <b>Linkedin </b>    | [Tanu Nanda Prabhu](https://www.linkedin.com/in/tanu-nanda-prabhu-a15a091b5/) |
 
+---
 
 # Reviews
 
@@ -237,9 +251,13 @@ Made with [contributors-img](https://contrib.rocks).
 > Thank you so much for posting such helpful posts on GitHub.Many, many thanks for all you do to spread the knowledge.
 
 
+---
+
 # Feedback
 
 [Any Feedbacks or Suggestions- Please Click Here](https://form.jotform.com/92847563204259)
+
+---
 
 # Version
 
