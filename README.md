@@ -4,8 +4,8 @@
 
 
 <!-- Shield Badges -->
-[![Discord](https://img.shields.io/discord/718138360538857794.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qFryjbX) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub forks](https://img.shields.io/github/forks/Tanu-N-Prabhu/Python?label=Fork&style=social)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         ![GitHub followers](https://img.shields.io/github/followers/Tanu-N-Prabhu?label=Follow&style=social) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub stars](https://img.shields.io/github/stars/Tanu-N-Prabhu/Python?style=social) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub watchers](https://img.shields.io/github/watchers/Tanu-N-Prabhu/Python?label=Watch&style=social) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub repo size](https://img.shields.io/github/repo-size/Tanu-N-Prabhu/Python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![GitHub contributors](https://img.shields.io/github/contributors/Tanu-N-Prabhu/Python) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Tanu-N-Prabhu/Python)  &nbsp;&nbsp;&nbsp;&nbsp;             ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FTanu-N-Prabhu%2FPython)
-
+| [![Discord](https://img.shields.io/discord/718138360538857794.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qFryjbX)  | ![GitHub forks](https://img.shields.io/github/forks/Tanu-N-Prabhu/Python?label=Fork&style=social)  | ![GitHub followers](https://img.shields.io/github/followers/Tanu-N-Prabhu?label=Follow&style=social) | ![GitHub stars](https://img.shields.io/github/stars/Tanu-N-Prabhu/Python?style=social) | ![GitHub repo size](https://img.shields.io/github/repo-size/Tanu-N-Prabhu/Python) |  ![GitHub contributors](https://img.shields.io/github/contributors/Tanu-N-Prabhu/Python)| [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Tanu-N-Prabhu/Python)| ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FTanu-N-Prabhu%2FPython) |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 
 
 
@@ -251,7 +251,7 @@ Made with [contributors-img](https://contrib.rocks).
 > Thank you so much for posting such helpful posts on GitHub.Many, many thanks for all you do to spread the knowledge.
 
 
-**Do you like the Repository, Please drop in your precious Reviews by shooting an e-mail**.
+**Do you like the Repository, Please drop in your precious reviews by shooting an e-mail**.
 
 ---
 
@@ -263,7 +263,7 @@ Made with [contributors-img](https://contrib.rocks).
 
 # Version
 
-<b> Version 9.10 - Last Updated on January 10 2021 - 8:11 AM <b>
+<b> Version 9.11 - Last Updated on January 12 2021 - 10:36 PM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
