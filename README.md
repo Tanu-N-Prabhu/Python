@@ -172,7 +172,9 @@ Follow the steps down below to get started learning Data Science!!!
 </a>
 
 
-Made with [contributors-img](https://contrib.rocks).
+> Want to know, how I did this. Refer here for the [docs](https://github.com/Tanu-N-Prabhu/myWebsite.io/blob/master/Docs/Displaying%20Contributors%20Image%20on%20README%20files%20with%20no%20Pain!.md)
+
+---
 
 # I am an Author @
 
@@ -263,7 +265,7 @@ Made with [contributors-img](https://contrib.rocks).
 
 # Version
 
-<b> Version 9.12- Last Updated on January 13 2021 - 10:31 AM <b>
+<b> Version 9.13- Last Updated on January 14 2021 - 12:03 PM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
