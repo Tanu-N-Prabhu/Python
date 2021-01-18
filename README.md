@@ -126,6 +126,10 @@ Follow the steps down below to get started coding in python!!!
   
    * <b>[String Concatenation Answers](https://github.com/Tanu-N-Prabhu/Python/blob/master/String_Concatenation_Exercise_Answers.ipynb)
   
+  
+6.2 <b>[Built-In Functions Exercise Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Built_In_Functions_Exercise_Questions.ipynb)
+
+  
 ## Chapter 7 - Quiz
 
 ### Subchapter 7.1 - Coding Quiz
@@ -265,7 +269,7 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 9.13- Last Updated on January 14 2021 - 12:03 PM <b>
+<b> Version 9.14- Last Updated on January 17 2021 - 10:18 PM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
