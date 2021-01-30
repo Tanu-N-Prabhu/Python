@@ -67,6 +67,24 @@ Follow the steps down below to get started coding in python!!!
 </details>
 
 
+<details>
+  <summary>Chapter 2️⃣ ⮕ Built-in Functions</summary>
+
+ - <b>[Python Input, Output and Import built-in-functions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Input%2C_Output_and_Import.ipynb)</b>
+ 
+ - <b>[Eval built-in-function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Eval_built_in_function.ipynb)</b>
+   
+ - <b>[Range built-in-function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Range_built_in_function.ipynb)</b>
+ 
+ - <b>[Python Lambda Function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Lambda_Function.ipynb)</b>
+ 
+ - <b>[Python Enumerate Function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_enumerate()_built_in_function.ipynb)</b>
+ 
+ - <b>[Python len function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_len()_built_in_function.ipynb)</b>  
+ 
+</details>
+
+
 ## Chapter 2: Python Built-in Functions
 
 2.1 <b>[Python Input, Output and Import built-in-functions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Input%2C_Output_and_Import.ipynb)</b>
