@@ -84,65 +84,57 @@ Follow the steps down below to get started coding in python!!!
  
 </details>
 
+<details>
+  <summary>Chapter 3️⃣ ⮕ Libraries</summary>
 
-## Chapter 2: Python Built-in Functions
+ - <b>[Numpy library](https://github.com/Tanu-N-Prabhu/Python/tree/master/Numpy)</b>
+ 
+ - <b>[Pandas library](https://github.com/Tanu-N-Prabhu/Python/tree/master/Pandas)</b>
+   
+ - <b>[Math Module](https://github.com/Tanu-N-Prabhu/Python/blob/master/Learn_the_Python_Math_Module.ipynb)</b>
+ 
+ - <b>[JSON library](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_handle_JSON_in_Python%3F.ipynb)</b>
 
-2.1 <b>[Python Input, Output and Import built-in-functions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Input%2C_Output_and_Import.ipynb)</b>
+</details>
 
-2.2 <b>[Eval built-in-function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Eval_built_in_function.ipynb)</b>
+<details>
+  <summary>Chapter 4️⃣ ⮕ API's</summary>
 
-2.3 <b>[Range built-in-function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Range_built_in_function.ipynb)</b>
+ - <b>[Google Translate API for Python](https://github.com/Tanu-N-Prabhu/Python/tree/master/Google%20Translate%20API)</b>
+ 
+ - <b>[Google Trends API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Google_Trends_API.ipynb)</b>
+   
+ - <b>[Wikipedia API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Wikipedia_API_for_Python.ipynb)</b>
+ 
+ - <b>[Google Search API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/The_two_Google_Search_Python_Libraries_you_should_never_miss.ipynb)</b>
 
-2.4 <b>[Python Lambda Function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Lambda_Function.ipynb)</b>
+</details>
 
-2.5 <b>[Python Enumerate Function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_enumerate()_built_in_function.ipynb)</b>
-  
-2.6 <b>[Python len function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_len()_built_in_function.ipynb)</b>  
+<details>
+  <summary>Chapter 5️⃣ ⮕ Additional Materials</summary>
 
+ - <b>[How to get started coding in Python?](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_get_started_coding_in_Python%3F.ipynb)</b>
+ 
+ - <b>[Is Python Object Oriented?](https://github.com/Tanu-N-Prabhu/Python/blob/master/Is_Python_object_oriented%3F.ipynb)</b>
+ 
+ - <b>[Speech Recognition using Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Speech_Recognition_using_Python.ipynb)</b>
+ 
+ - <b>[One-Hot encoding in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Learning_One_Hot_Encoding_in_Python_the_Easy_Way.ipynb)</b>
+ 
+ - <b>[Reading An Image In Python (Without Using Special Libraries)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Reading_An_Image_In_Python_(Without_Using_Special_Libraries).ipynb)</b>
+ 
+ - <b>[Rendering Images inside a Pandas DataFrame](https://github.com/Tanu-N-Prabhu/Python/blob/master/Rendering_Images_inside_a_Pandas_DataFrame.ipynb)</b>
+ 
+ - <b>[Using the Pandas Data Frame as a Database](https://github.com/Tanu-N-Prabhu/Python/blob/master/Using_the_Pandas_Data_Frame_as_a_Database_.ipynb)</b>
+ 
+ - <b>[Using the Pandas DataFrame in Day-To-Day Life](https://github.com/Tanu-N-Prabhu/Python/blob/master/Using_the_Pandas_DataFrame_in_Day_To_Day_Life.ipynb)</b>
+ 
+ - <b>[Presenting Python code using RISE](https://github.com/Tanu-N-Prabhu/Python/blob/master/Presenting_Python_code_using_RISE.ipynb)</b>
+ 
+ - <b>[Cheat Sheet for Google Colab](https://github.com/Tanu-N-Prabhu/Python/blob/master/Cheat_sheet_for_Google_Colab.ipynb)</b>
+ 
+</details>
 
-## Chapter 3: Python Libraries
-
-3.1 <b>[Numpy library](https://github.com/Tanu-N-Prabhu/Python/tree/master/Numpy)</b>
-
-3.2 <b>[Pandas library](https://github.com/Tanu-N-Prabhu/Python/tree/master/Pandas)</b>
-
-3.3 <b>[Math Module](https://github.com/Tanu-N-Prabhu/Python/blob/master/Learn_the_Python_Math_Module.ipynb)</b>
-
-3.4 <b>[JSON library](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_handle_JSON_in_Python%3F.ipynb)</b>
-
-
-## Chapter 4: Python API's
-
-4.1 <b>[Google Translate API for Python](https://github.com/Tanu-N-Prabhu/Python/tree/master/Google%20Translate%20API)</b>
-
-4.2 <b>[Google Trends API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Google_Trends_API.ipynb)</b>
-  
-4.3 <b>[Wikipedia API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Wikipedia_API_for_Python.ipynb)</b>
-
-4.4 <b>[Google Search API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/The_two_Google_Search_Python_Libraries_you_should_never_miss.ipynb)</b>
-
-
-## Chapter 5: Additional Python Materials
-
-5.1 <b>[How to get started coding in Python?](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_get_started_coding_in_Python%3F.ipynb)</b>
-
-5.2 <b>[Is Python Object Oriented?](https://github.com/Tanu-N-Prabhu/Python/blob/master/Is_Python_object_oriented%3F.ipynb)</b>
-
-5.3 <b>[Speech Recognition using Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Speech_Recognition_using_Python.ipynb)</b>
-  
-5.4 <b>[One-Hot encoding in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Learning_One_Hot_Encoding_in_Python_the_Easy_Way.ipynb)</b>
-  
-5.5 <b>[Reading An Image In Python (Without Using Special Libraries)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Reading_An_Image_In_Python_(Without_Using_Special_Libraries).ipynb)</b>
-
-5.6 <b>[Rendering Images inside a Pandas DataFrame](https://github.com/Tanu-N-Prabhu/Python/blob/master/Rendering_Images_inside_a_Pandas_DataFrame.ipynb)</b>
-
-5.7 <b>[Using the Pandas Data Frame as a Database](https://github.com/Tanu-N-Prabhu/Python/blob/master/Using_the_Pandas_Data_Frame_as_a_Database_.ipynb)</b>
-
-5.8 <b>[Using the Pandas DataFrame in Day-To-Day Life](https://github.com/Tanu-N-Prabhu/Python/blob/master/Using_the_Pandas_DataFrame_in_Day_To_Day_Life.ipynb)</b>
-  
-5.9 <b>[Presenting Python code using RISE](https://github.com/Tanu-N-Prabhu/Python/blob/master/Presenting_Python_code_using_RISE.ipynb)</b>
-
-5.10 <b>[Cheat Sheet for Google Colab](https://github.com/Tanu-N-Prabhu/Python/blob/master/Cheat_sheet_for_Google_Colab.ipynb)
 
 
 
