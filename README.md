@@ -157,6 +157,13 @@ Follow the steps down below to get started coding in python!!!
  
 </details>
 
+<details>
+  <summary>Chapter 8️⃣ ⮕ Code Snapshots</summary>
+
+ - <b>[Snapshots](https://github.com/Tanu-N-Prabhu/Python/tree/master/Code%20Snapshots%20%F0%9F%93%B7)</b>
+ 
+</details>
+
 👉 **Expand** and **Collapse** the above Chapters for more details
   
 ---
@@ -286,7 +293,7 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 10.0- Last Updated on January 30 2021 - 12:56 AM <b>
+<b> Version 10.2- Last Updated on January 30 2021 - 5:48 AM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
