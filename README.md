@@ -205,27 +205,17 @@ Follow the steps down below to get started learning Data Science!!!
 
 > Want to know, how I did this. Refer here for the [docs](https://github.com/Tanu-N-Prabhu/myWebsite.io/blob/master/Docs/Displaying%20Contributors%20Image%20on%20README%20files%20with%20no%20Pain!.md)
 
----
 
-# I am an Author @
-
-1) [Towards Data Science](https://medium.com/@tanunprabhu95)
-
-2) [Analytics-Vidhya](https://medium.com/@tanunprabhu95)
-
-3) [Kotlin Academy](https://medium.com/@tanunprabhu95)
-
-4) [The Start up](https://medium.com/@tanunprabhu95)
 
 ---
 
-# Kaggle
+# Kaggle Datasets
 
 1) [My Kaggle Data Sets](https://www.kaggle.com/tanuprabhu/datasets)
 
 ---
 
-# HackerRank Exercises
+# HackerRank Exercises - Solved
 
 1) [HackerRank Exercise Solved](https://github.com/Tanu-N-Prabhu/Python/tree/master/Hacker_Rank_Exercises)
 
@@ -243,7 +233,7 @@ Follow the steps down below to get started learning Data Science!!!
 
 ---
 
-# Submit you articles here
+# Submit your articles here
 
 1) [Data Science from Scratch](https://medium.com/data-science-from-scratch)
 
@@ -296,7 +286,7 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 10.2- Last Updated on January 30 2021 - 5:48 AM <b>
+<b> Version 10.3- Last Updated on January 30 2021 - 5:57 AM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
