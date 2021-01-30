@@ -136,30 +136,27 @@ Follow the steps down below to get started coding in python!!!
 </details>
 
 
+<details>
+  <summary>Chapter 6️⃣ ⮕ Exercises</summary>
 
+ - <b>[String Concatenation Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/String_Concatenation_Exercise_Questions.ipynb)</b>
+   * <b>[String Concatenation Answers](https://github.com/Tanu-N-Prabhu/Python/blob/master/String_Concatenation_Exercise_Answers.ipynb)</b>
+   
+ - <b>[Built-In Functions Exercise Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Built_In_Functions_Exercise_Questions.ipynb)</b>
+ 
+</details>
 
-## Chapter 6 - Exercises
+<details>
+  <summary>Chapter 7️⃣ ⮕ Exercises</summary>
 
-6.1 <b>[String Concatenation Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/String_Concatenation_Exercise_Questions.ipynb)
+ - <b>[Quiz - 1](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_1.ipynb)</b>
+   
+ - <b>[Quiz - 2](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_2.ipynb)</b>
+ 
+ - <b>[Quiz - 3](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_3.ipynb)</b>
+ 
+</details>
   
-   * <b>[String Concatenation Answers](https://github.com/Tanu-N-Prabhu/Python/blob/master/String_Concatenation_Exercise_Answers.ipynb)
-  
-  
-6.2 <b>[Built-In Functions Exercise Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Built_In_Functions_Exercise_Questions.ipynb)
-
-  
-## Chapter 7 - Quiz
-
-### Subchapter 7.1 - Coding Quiz
-
-7.1.1 <b>[Quiz - 1](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_1.ipynb)</b>
-
-7.1.2 <b>[Quiz - 2](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_2.ipynb)</b>
-
-7.1.3 <b>[Quiz - 3](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_3.ipynb)</b>
-
-
-
 ---
 
   
