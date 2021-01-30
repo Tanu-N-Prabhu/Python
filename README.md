@@ -147,7 +147,7 @@ Follow the steps down below to get started coding in python!!!
 </details>
 
 <details>
-  <summary>Chapter 7️⃣ ⮕ Exercises</summary>
+  <summary>Chapter 7️⃣ ⮕ Quiz</summary>
 
  - <b>[Quiz - 1](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_1.ipynb)</b>
    
@@ -284,7 +284,7 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 9.14- Last Updated on January 17 2021 - 10:18 PM <b>
+<b> Version 10.0- Last Updated on January 30 2021 - 12:56 AM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
