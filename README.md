@@ -156,6 +156,8 @@ Follow the steps down below to get started coding in python!!!
  - <b>[Quiz - 3](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_3.ipynb)</b>
  
 </details>
+
+> 👉 Expand and Collapse the above Chapters for more details
   
 ---
 
