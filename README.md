@@ -157,7 +157,7 @@ Follow the steps down below to get started coding in python!!!
  
 </details>
 
-> 👉 Expand and Collapse the above Chapters for more details
+👉 **Expand** and **Collapse** the above Chapters for more details
   
 ---
 
