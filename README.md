@@ -39,31 +39,12 @@
 
 Follow the steps down below to get started coding in python!!!
 
-<p align="center">
+<p align="center"> 
 <img src = "https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/Python.PNG">
 </p>
 
-## Chapter 1: Basic Concepts
-
-1.1 <b>[Python Input, Output and Import functions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Input%2C_Output_and_Import.ipynb)</b>
-
-1.2 <b>[Python Variables](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Variables.ipynb)</b>
-
-   * <b>[Python Global, Local and Nonlocal Variables](https://github.com/Tanu-N-Prabhu/Python/blob/master/Global%2C_Local_and_Nonlocal_variables_in_Python.ipynb)</b>
-
-1.3 <b>[Python Strings](https://github.com/Tanu-N-Prabhu/Python/tree/master/Strings)</b>
-
-1.4 <b>[Python Lists](https://github.com/Tanu-N-Prabhu/Python/tree/master/Lists)</b> 
-
-1.5 <b>[Python Tuples](https://github.com/Tanu-N-Prabhu/Python/tree/master/Tuples)</b>
-
-1.6 <b>[Python Dictionary](https://github.com/Tanu-N-Prabhu/Python/tree/master/Dictionary%20)</b>
-
-1.7 <b>[Python Operators](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Operators.ipynb)</b>
-
-
 <details>
-<summary>Chapter 1: Basic Concepts</summary>
+  <summary>Chapter 1️⃣ ⮕ Basic Concepts</summary>
 
  - <b>[Python Input, Output and Import functions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Input%2C_Output_and_Import.ipynb)</b>
  
