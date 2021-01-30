@@ -211,7 +211,7 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Kaggle Datasets
 
-1) [My Kaggle Data Sets](https://www.kaggle.com/tanuprabhu/datasets)
+1) [Kaggle Data Sets](https://www.kaggle.com/tanuprabhu/datasets)
 
 ---
 
