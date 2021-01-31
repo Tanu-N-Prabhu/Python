@@ -56,6 +56,25 @@ print(string[::-1])
 ---
 
 
+# 4. Python Vowel Count - Counting Vowels in a Given Word
+
+```python
+vowel = ['a', 'e', 'i', 'o', 'u']
+word = "programming"
+count = 0
+for character in word:
+    if character in vowel:
+        count += 1
+print(count)
+
+> 3
+```
+
+> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Vowel_Count.png) to view the Code Snapshot
+
+---
+
+
 
 
 
