@@ -41,6 +41,20 @@ print(type(decimal.Decimal(string)))
 
 ---
 
+# 3. Python Strings - Reversing a String using an Extended Slicing Technique
+
+```python
+string = "Python Programming"
+print(string[::-1])
+
+> gnimmargorP nohtyP
+
+```
+
+> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_String_Reversal.png) to view the Code Snapshot
+
+---
+
 
 
 
