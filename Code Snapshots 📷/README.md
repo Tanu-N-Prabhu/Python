@@ -24,7 +24,22 @@ print(type(decimal.Decimal(integer)))
 
 ---
 
+# 2. Python Decimals - Converting an String of Integers into Decimals
 
+```python
+import decimal
+string = '12345'
+print(decimal.Decimal(string))
+print(type(decimal.Decimal(string)))
+
+> 12345
+> <class 'decimal.Decimal'>
+
+```
+
+> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_String_to_Decimal.png) to view the Code Snapshot
+
+---
 
 
 
