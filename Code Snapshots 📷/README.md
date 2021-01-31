@@ -9,3 +9,5 @@
 * <b>[Converting an Integer to Decimal in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Integer_to_Decimal.png)</b>
 
 * <b>[Converting a String of Integers to Decimal in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_String_to_Decimal.png)
+
+* <b>[String Reversal using an Extended Slice Technique](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_String_Reversal.png)</b>
