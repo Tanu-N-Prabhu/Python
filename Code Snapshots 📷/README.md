@@ -74,6 +74,23 @@ print(count)
 
 ---
 
+# 5. Python Consonant Count - Counting Consonants in a Given Word
+
+```python
+vowel = ['a', 'e', 'i', 'o', 'u']
+word = "programming"
+count = 0
+for character in word:
+    if character not in vowel:
+        count += 1
+print(count)
+
+> 8
+```
+
+> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Consonant_Count.png) to view the Code Snapshot
+
+---
 
 
 
