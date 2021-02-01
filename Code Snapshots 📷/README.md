@@ -93,6 +93,24 @@ print(count)
 ---
 
 
+# 6. Python Strings - Counting the Number of Occurances of a Character in a String
+
+```python
+word = "python"
+character = "p"
+count = 0
+for letter in word:
+    if letter == character:
+        count += 1
+print(count)
+
+> 1
+```
+
+> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Character_Occurance_Count.png) to view the Code Snapshot
+
+---
+
 
 
 
