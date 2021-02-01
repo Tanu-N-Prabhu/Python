@@ -56,7 +56,7 @@ print(string[::-1])
 ---
 
 
-# 4. Python Vowel Count - Counting Vowels in a Given Word
+# 4. Python Strings - Counting Vowels in a Given Word
 
 ```python
 vowel = ['a', 'e', 'i', 'o', 'u']
@@ -74,7 +74,7 @@ print(count)
 
 ---
 
-# 5. Python Consonant Count - Counting Consonants in a Given Word
+# 5. Python Strings - Counting Consonants in a Given Word
 
 ```python
 vowel = ['a', 'e', 'i', 'o', 'u']
