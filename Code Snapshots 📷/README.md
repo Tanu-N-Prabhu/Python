@@ -111,6 +111,24 @@ print(count)
 
 ---
 
+# 7. Python Lists - Writing Fibonacci Series
+
+```python
+fib = [0,1]
+# Range starts from 0 by default
+for i in range(5):  
+    fib.append(fib[-1] + fib[-2]) 
+
+# Converting the list of integers to string
+print(', '.join(str(e) for e in fib))
+
+> 0, 1, 1, 2, 3, 5, 8
+
+```
+
+> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Fibonacci_Series.png) to view the Code Snapshot
+
+---
 
 
 
