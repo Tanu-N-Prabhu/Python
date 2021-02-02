@@ -149,6 +149,24 @@ print(maxNum)
 
 ---
 
+# 9. Python Lists - Finding the Minimum Number in a List
+
+```python
+numberList = [15, 85, 35, 89, 125, 2]
+
+minNum = numberList[0]
+for num in numberList:
+    if minNum > num:
+        minNum = num
+print(minNum)
+
+> 2
+
+```
+
+> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Max_Number_List.png) to view the Code Snapshot
+
+---
 
 
 
