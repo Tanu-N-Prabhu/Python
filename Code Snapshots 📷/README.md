@@ -130,7 +130,24 @@ print(', '.join(str(e) for e in fib))
 
 ---
 
+# 8. Python Lists - Finding the Maximum Number in a List
 
+```python
+numberList = [15, 85, 35, 89, 125]
+
+maxNum = numberList[0]
+for num in numberList:
+    if maxNum < num:
+        maxNum = num
+print(maxNum)
+
+> 125
+
+```
+
+> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Max_Number_List.png) to view the Code Snapshot
+
+---
 
 
 
