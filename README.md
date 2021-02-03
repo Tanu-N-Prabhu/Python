@@ -35,7 +35,7 @@
 
 ### This repository is divided into two parts such as Python Coding and Data Science for Beginners.
 
-## Python Coding
+# Python Coding
 
 Follow the steps down below to get started coding in python!!!
 
@@ -172,7 +172,7 @@ Follow the steps down below to get started coding in python!!!
 ---
 
   
-## Data Science
+# Data Science
 
 Follow the steps down below to get started learning Data Science!!!
 
@@ -180,12 +180,16 @@ Follow the steps down below to get started learning Data Science!!!
 <img src = "Img/Data.PNG" >
 </p>
 
-<b>The contents for Data Science can be found below:</b>
+## Data Science Materials
+<details>
+  <summary>Data Scraping from the Web</summary>
 
-1. <b> [Data Scraping from the Web](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Scraping%20from%20the%20Web)</b>
-2. <b> [Data Cleaning and Scrubbing](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data_Cleaning)</b>
-3. <b> [Exploring the data from the Web](https://github.com/Tanu-N-Prabhu/Python/tree/master/Exploratory%20Data%20Analysis)</b>
-4. <b> Predicting the data</b>
+ - <b>[Scraping Two YouTube Accounts - PewDiePie vs T-Series](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Scraping%20from%20the%20Web/Scraping%20YouTube%20accounts%20with%20python.ipynb)</b>
+ 
+ - <b>[Scraping Rate My Professor Website - My Graduate Professor](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Scraping%20from%20the%20Web/Web_Scraping_Rate_My_Professor_Website.ipynb)</b>
+
+</details>
+
 
 ---
 # Nbviewer
@@ -286,7 +290,7 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 10.3- Last Updated on January 30 2021 - 5:57 AM <b>
+<b> Version 10.4 - Last Updated on Feb 03 2021 - 12:33 PM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
