@@ -178,7 +178,9 @@ midElement = int((len(numList)/2))
 print(numList[midElement])
 ```
 
+> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Middle_Element_List.png) to view the Code Snapshot
 
+---
 
 
 
