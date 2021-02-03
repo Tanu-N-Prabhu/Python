@@ -1,4 +1,4 @@
-<h1 align = "center">Python Coding Interview Questions</h1>
+# Python Coding Interview Questions
 
 <!-- Feature Image -->
 | ![space-1.jpg](https://dyclassroom.com/image/topic/python/logo.png) | 
@@ -7,7 +7,7 @@
 
 <!-- Content-->
 
-# 1. Python Decimals - Converting an Integer into Decimals
+## 1. Converting an Integer into Decimals
 
 ```python
 import decimal
@@ -24,7 +24,7 @@ print(type(decimal.Decimal(integer)))
 
 ---
 
-# 2. Python Decimals - Converting an String of Integers into Decimals
+## 2. Converting an String of Integers into Decimals
 
 ```python
 import decimal
@@ -41,7 +41,7 @@ print(type(decimal.Decimal(string)))
 
 ---
 
-# 3. Python Strings - Reversing a String using an Extended Slicing Technique
+## 3. Reversing a String using an Extended Slicing Technique
 
 ```python
 string = "Python Programming"
@@ -56,7 +56,7 @@ print(string[::-1])
 ---
 
 
-# 4. Python Strings - Counting Vowels in a Given Word
+# 4. Counting Vowels in a Given Word
 
 ```python
 vowel = ['a', 'e', 'i', 'o', 'u']
@@ -74,7 +74,7 @@ print(count)
 
 ---
 
-# 5. Python Strings - Counting Consonants in a Given Word
+# 5. Counting Consonants in a Given Word
 
 ```python
 vowel = ['a', 'e', 'i', 'o', 'u']
@@ -93,7 +93,7 @@ print(count)
 ---
 
 
-# 6. Python Strings - Counting the Number of Occurances of a Character in a String
+# 6. Counting the Number of Occurances of a Character in a String
 
 ```python
 word = "python"
@@ -111,7 +111,7 @@ print(count)
 
 ---
 
-# 7. Python Lists - Writing Fibonacci Series
+# 7. Writing Fibonacci Series
 
 ```python
 fib = [0,1]
@@ -130,7 +130,7 @@ print(', '.join(str(e) for e in fib))
 
 ---
 
-# 8. Python Lists - Finding the Maximum Number in a List
+# 8. Finding the Maximum Number in a List
 
 ```python
 numberList = [15, 85, 35, 89, 125]
@@ -149,7 +149,7 @@ print(maxNum)
 
 ---
 
-# 9. Python Lists - Finding the Minimum Number in a List
+# 9. Finding the Minimum Number in a List
 
 ```python
 numberList = [15, 85, 35, 89, 125, 2]
