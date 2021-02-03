@@ -203,6 +203,24 @@ print(type(string))
 ---
 
 
+## 12. Adding Two List Elements Together
+
+```python
+lst1 = [1, 2, 3]
+lst2 = [4, 5, 6] 
+
+res_lst = [] 
+for i in range(0, len(lst1)):
+    res_lst.append(lst1[i] + lst2[i]) 
+print(res_lst)
+
+> [5, 7, 9]
+
+```
+
+> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_List_Addition.png) to view the Code Snapshot
+
+---
 
 
 <br>
