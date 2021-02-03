@@ -176,12 +176,31 @@ numList = [1, 2, 3, 4, 5]
 midElement = int((len(numList)/2)) 
 
 print(numList[midElement])
+
+> 3
 ```
 
 > Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Middle_Element_List.png) to view the Code Snapshot
 
 ---
 
+
+## 11. Converting a List into a String
+
+```python
+lst = ["P", "Y", "T", "H", "O", "N"]
+string = ''.join(lst)
+
+print(string)
+print(type(string))
+
+> PYTHON
+> <class 'str'>
+```
+
+> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_List_to_String.png) to view the Code Snapshot
+
+---
 
 
 
