@@ -241,7 +241,22 @@ else:
 
 ```
 
-> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Strings_Anagrams.png) to view the Code Snapshot
+## 14. Checking for Palindrome Using Extended Slicing Technique
+
+```python
+str1 = "Kayak".lower()
+str2 = "kayak".lower()
+
+if(str1 == str2[::-1]):
+    print("True")
+else:
+    print("False")
+    
+> True
+
+```
+
+> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Palindrome.png) to view the Code Snapshot
 
 ---
 
