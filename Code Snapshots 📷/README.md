@@ -255,10 +255,25 @@ else:
 > True
 
 ```
-
 > Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Palindrome.png) to view the Code Snapshot
 
 ---
+
+## 15. Counting the White Spaces in a String
+
+```python
+string = "P r ogramm in g "
+print(string.count(' '))
+    
+> 5
+```
+
+> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_White_Space_Count.png) to view the Code Snapshot
+
+---
+
+
+
 
 
 <br>
