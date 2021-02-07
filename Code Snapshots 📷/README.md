@@ -272,6 +272,31 @@ print(string.count(' '))
 
 ---
 
+## 16. Counting Digits, Letters, and Spaces in a String
+
+```python
+# Importing Regular Expressions Library
+import re
+
+name = 'Python is 1'
+
+digitCount = re.sub("[^0-9]", "", name)
+letterCount = re.sub("[^a-zA-Z]", "", name)
+spaceCount = re.findall("[ \n]", name)
+
+print(len(digitCount))
+print(len(letterCount))
+print(len(spaceCount))
+    
+> 1
+> 8
+> 2
+```
+
+> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Dig_Letter_Space_Count.png) to view the Code Snapshot
+
+---
+
 
 
 
