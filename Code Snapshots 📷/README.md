@@ -297,6 +297,22 @@ print(len(spaceCount))
 
 ---
 
+## 17. Counting Special Characters in a String
+
+```python
+# Importing Regular Expressions Library
+import re
+spChar = "!@#$%^&*()"
+
+count = re.sub('[\w]+', '', spChar)
+print(len(count))
+    
+> 10
+```
+
+> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Special_Char_Count.png) to view the Code Snapshot
+
+---
 
 
 
