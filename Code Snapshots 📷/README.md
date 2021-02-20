@@ -334,6 +334,25 @@ print(result)
 ---
 
 
+## 19. Building a Pyramid in Python
+
+```python
+floors = 3
+h = 2*floors-1
+for i in range(1, 2*floors, 2):
+    print('{:^{}}'.format('*'*i, h))
+
+>  *  
+  *** 
+ *****
+
+```
+
+> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Python_Pyramid.png) to view the Code Snapshot
+
+---
+
+
 <br>
 <br>
 
