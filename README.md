@@ -292,7 +292,7 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 10.4 - Last Updated on Feb 03 2021 - 12:33 PM <b>
+<b> Version 10.6 - Last Updated on Feb 19 2021 - 7:31 PM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
