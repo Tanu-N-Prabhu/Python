@@ -315,6 +315,23 @@ print(len(count))
 ---
 
 
+## 18. Removing All Whitespace in a String
+
+```python
+import re
+
+string = "C O D E"
+spaces = re.compile(r'\s+')
+result = re.sub(spaces, '', string)
+print(result)
+
+> CODE
+
+```
+
+> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Removing_Spaces_In_a_String.png) to view the Code Snapshot
+
+---
 
 
 <br>
