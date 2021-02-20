@@ -352,6 +352,25 @@ for i in range(1, 2*floors, 2):
 
 ---
 
+## 20. Randomizing the Items of a List in Python
+
+```python
+
+from random import shuffle
+
+lst = ['Python', 'is', 'Easy']
+shuffle(lst)
+print(lst)
+
+> ['Easy', 'is', 'Python']
+
+
+```
+
+> Click [here](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/Randomizing_Python_List.png) to view the Code Snapshot
+
+---
+
 
 <br>
 <br>
