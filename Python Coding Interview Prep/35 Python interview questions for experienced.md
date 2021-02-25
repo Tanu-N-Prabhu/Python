@@ -26,4 +26,16 @@ print(next(res), next(res))
 
 > S M
 ```
+----
+
+## 3. Converting a List into a String
+### When we want to convert a list into a string, we can use the <.join()> method which joins all the elements into one and returns as a string.
+
+```python
+days = ['S','M','T','W','Tr','F','St'] 
+ltos = ' '.join(days)
+print(ltos)
+
+> S M T W Tr F St
+```
 ---
