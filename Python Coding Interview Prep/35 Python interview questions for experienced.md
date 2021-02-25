@@ -29,7 +29,7 @@ print(next(res), next(res))
 ----
 
 ## 3. Converting a List into a String
-### When we want to convert a list into a string, we can use the <.join()> method which joins all the elements into one and returns as a string.
+### When we want to convert a list into a string, we can use the `<.join()>` method which joins all the elements into one and returns as a string.
 
 ```python
 days = ['S','M','T','W','Tr','F','St'] 
@@ -39,3 +39,17 @@ print(ltos)
 > S M T W Tr F St
 ```
 ---
+
+## 4. Converting a List into a Tuple
+### By using Python `<tuple()>` function we can convert a list into a tuple. But we can’t change the list after turning it into tuple, because it becomes immutable.
+
+```python
+days = ['S','M','T','W','Tr','F','St'] 
+ltos = tuple(days)
+print(ltos)
+
+> ('S', 'M', 'T', 'W', 'Tr', 'F', 'St')
+```
+---
+
+
