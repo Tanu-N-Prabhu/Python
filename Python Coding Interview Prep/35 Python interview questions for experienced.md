@@ -11,3 +11,19 @@ python -m pdb python-script.py
 ```
 
 ---
+
+## 2. Yield Keyword in Python
+### The keyword in Python can turn any function into a generator. Yields work like a standard return keyword.
+
+```python
+def days(index):
+    day = ['S','M','T','W','Tr','F','St']            
+    yield day[index]    
+    yield day[index+1]  
+  
+res = days(0)
+print(next(res), next(res))
+
+> S M
+```
+---
