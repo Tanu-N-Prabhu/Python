@@ -159,15 +159,6 @@ Follow the steps down below to get started coding in python!!!
  
 </details>
 
-<details>
-  <summary>Chapter 8️⃣ ⮕ Code Snapshots</summary>
-  
- - <b>[Docs](https://github.com/Tanu-N-Prabhu/Python/blob/master/Code%20Snapshots%20%F0%9F%93%B7/README.md)</b>
-
-
- - <b>[Snapshots](https://github.com/Tanu-N-Prabhu/Python/tree/master/Code%20Snapshots%20%F0%9F%93%B7)</b>
- 
-</details>
 
 👉 **Expand** and **Collapse** the above Chapters for more details
   
