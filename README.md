@@ -159,6 +159,15 @@ Follow the steps down below to get started coding in python!!!
  
 </details>
 
+<details>
+  <summary>Chapter 8️⃣ ⮕ Interview Preparation</summary>
+
+ - <b>[Python Coding Interview Questions (Beginner to Advanced)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md)</b>
+ - <b>[35 Python interview questions for experienced](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/35%20Python%20interview%20questions%20for%20experienced.md)</b>
+   
+
+</details>
+
 
 👉 **Expand** and **Collapse** the above Chapters for more details
   
@@ -283,7 +292,7 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 10.6 - Last Updated on Feb 19 2021 - 7:31 PM <b>
+<b> Version 10.6 - Last Updated on Feb 25 2021 - 12:28 PM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
