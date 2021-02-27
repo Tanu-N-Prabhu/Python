@@ -52,4 +52,20 @@ print(ltos)
 ```
 ---
 
+## 5. Counting the occurrences of a particular element in the list
+### We can count the occurrences of an individual element by using a `<count()>` function.
+
+```python
+days = ['S','M','W', 'M','M','F','S']
+
+print(days.count('M'))
+
+> 3
+```
+---
+
+
+
+
+
 
