@@ -52,7 +52,20 @@ print(ltos)
 ```
 ---
 
-## 5. Counting the occurrences of a particular element in the list
+
+## 5. Converting a List into a Set
+### User can convert list into set by using `<set()>` function.
+
+```python
+days = ['S','M','T','W','Tr','F','St'] 
+ltos = set(days)
+print(ltos)
+
+> {'T', 'W', 'M', 'F', 'S', 'Tr', 'St'}
+```
+---
+
+## 6. Counting the occurrences of a particular element in the list
 ### We can count the occurrences of an individual element by using a `<count()>` function.
 
 ```python
@@ -64,7 +77,7 @@ print(days.count('M'))
 ```
 ---
 
-## 6. Counting the occurrences of elements in the list
+### 6.1. Counting the occurrences of elements in the list
 
 ```python
 days = ['S','M','M','M','F','S']
@@ -75,7 +88,24 @@ print([[x,days.count(x)] for x in y])
 > [['M', 3], ['S', 2], ['F', 1]]
 ```
 
+---
 
+## 7. Creating a NumPy Array in Python
+### NumPy arrays are more flexible then lists in Python.
+
+```python
+import numpy as np
+
+arr = np.array([1, 2, 3, 4, 5])
+
+print(arr)
+print(type(arr))
+
+> [1 2 3 4 5]
+  <class 'numpy.ndarray'>
+  
+  ```
+  ---
 
 
 
