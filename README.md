@@ -23,6 +23,7 @@
 
 # Installation tools
 
+
 #### Below are some tools that you can download before getting started with Python, now it’s a preference, so download whichever that fits the best for you.
 
 | Name of the tools | 
