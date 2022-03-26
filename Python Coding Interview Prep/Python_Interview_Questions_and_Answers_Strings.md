@@ -9,7 +9,7 @@
 
 **Output**: Pythn
 
-```
+```python
 str = "Python"
 ch = "o"
 print(str.replace(ch," ")) 
