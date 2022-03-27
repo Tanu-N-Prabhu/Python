@@ -25,13 +25,17 @@ print(str.replace(ch," "))
 
 **Input Character** : o
 
-**Output**: Pythn
+**Output**: 1
 
 ```python
-str = "Python"
-ch = "o"
-print(str.replace(ch," ")) 
+string = "Python"
+char = "y"
+count = 0
+for i in range(len(string)):
+    if(string[i] == char):
+        count = count + 1
+print(count)
 
->> Pyth n
+>> 1
 
 ```
