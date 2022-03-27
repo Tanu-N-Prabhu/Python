@@ -39,3 +39,25 @@ print(count)
 >> 1
 
 ```
+
+
+## 3. Python program in to check string is anagrams or not
+
+Input String: Python
+
+Input Character: onypth
+
+Output: Anagrams
+
+
+```python
+str1 = "python"
+str2 = "yonthp"
+if (sorted(str1) == sorted(str2)):
+    print("Anagram")
+else:
+    print("Not an anagram")
+    
+> Anagram
+
+```
