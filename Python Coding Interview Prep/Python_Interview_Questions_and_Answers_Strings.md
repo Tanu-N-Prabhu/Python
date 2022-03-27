@@ -18,3 +18,20 @@ print(str.replace(ch," "))
 
 ```
 
+## 2. Python Program to count occurrence of characters in string
+
+
+**Input String**: Python
+
+**Input Character** : o
+
+**Output**: Pythn
+
+```python
+str = "Python"
+ch = "o"
+print(str.replace(ch," ")) 
+
+>> Pyth n
+
+```
