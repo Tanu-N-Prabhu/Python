@@ -61,3 +61,20 @@ else:
 > Anagram
 
 ```
+
+## 4. Python program in to check string is palindrome or not
+
+Input String: madam
+
+Output: Palindrome
+
+```python
+string = "madam"
+if(string == string[:: - 1]):
+   print("Palindrome")
+else:
+   print("Not a Palindrome") 
+
+> Palindrome
+
+```
