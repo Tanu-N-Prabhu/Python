@@ -62,7 +62,7 @@ else:
 
 ```
 
-## 4. Python program in to check string is palindrome or not
+## 4. Python program to check string is palindrome or not
 
 Input String: madam
 
