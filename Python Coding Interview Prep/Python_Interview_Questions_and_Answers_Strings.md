@@ -3,11 +3,18 @@
 
 ## 1. Python program to remove character from string
 
-**Input String**: Python
 
-**Input Character** : o
+<details><summary><b>Requirements</b></summary>
+<p>
 
-**Output**: Pythn
+> **Input** - Python
+>
+> **Input Character** - o
+>
+> **Output** - Pythn
+
+</p>
+</details>
 
 ```python
 str = "Python"
@@ -19,7 +26,6 @@ print(str.replace(ch," "))
 ```
 
 ## 2. Python Program to count occurrence of characters in string
-
 
 **Input String**: Python
 
@@ -64,7 +70,7 @@ else:
 
 ## 4. Python program to check string is palindrome or not
 
-Input String: madam
+Input String --> madam
 
 Output: Palindrome
 
@@ -76,5 +82,23 @@ else:
    print("Not a Palindrome") 
 
 > Palindrome
+
+```
+
+## 5. Python code to check given character is digit or not
+
+Input String: a
+
+Output: Not a Digit
+
+```python
+ch = 'a'
+if ch >= '0' and ch <= '9': 
+    	print("Digit")
+else: 
+    print("Not a Digit")
+    
+> Not a Digit
+
 
 ```
