@@ -4,7 +4,7 @@
 ## 1. Python program to remove character from string
 
 
-<details><summary><b>Requirements</b></summary>
+<details><summary><b>Hint</b></summary>
 <p>
 
 > **Input** - Python
@@ -25,13 +25,21 @@ print(str.replace(ch," "))
 
 ```
 
+---
+
 ## 2. Python Program to count occurrence of characters in string
 
-**Input String**: Python
+<details><summary><b>Hint</b></summary>
+<p>
 
-**Input Character** : o
+> **Input** - Python
+>
+> **Input Character** - o
+>
+> **Output** - 1
 
-**Output**: 1
+</p>
+</details>
 
 ```python
 string = "Python"
@@ -45,16 +53,21 @@ print(count)
 >> 1
 
 ```
-
+---
 
 ## 3. Python program in to check string is anagrams or not
 
-Input String: Python
+<details><summary><b>Hint</b></summary>
+<p>
 
-Input Character: onypth
-
-Output: Anagrams
-
+> Input - Python
+>
+> Input Character - onypth
+>
+> Output - Anagrams
+    
+</p>
+</details>
 
 ```python
 str1 = "python"
@@ -68,11 +81,19 @@ else:
 
 ```
 
+---
+
 ## 4. Python program to check string is palindrome or not
 
-Input String --> madam
+<details><summary><b>Hint</b></summary>
+<p>
 
-Output: Palindrome
+> Input - madam
+>
+> Output - Palindrome
+    
+</p>
+</details>
 
 ```python
 string = "madam"
@@ -84,12 +105,19 @@ else:
 > Palindrome
 
 ```
+---
 
 ## 5. Python code to check given character is digit or not
 
-Input String: a
+<details><summary><b>Hint</b></summary>
+<p>
 
-Output: Not a Digit
+> Input - a
+>
+> Output - Not a Digit
+    
+</p>
+</details>
 
 ```python
 ch = 'a'
@@ -102,3 +130,4 @@ else:
 
 
 ```
+---
