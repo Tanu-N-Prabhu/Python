@@ -138,7 +138,9 @@ else:
 <p>
 
 > Input - m m
+>    
 > Input charcter - a
+>
 > Output - mam
     
 </p>
