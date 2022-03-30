@@ -131,3 +131,31 @@ else:
 
 ```
 ---
+
+## 6. Program to replace the string space with any given character
+
+<details><summary><b>Hint</b></summary>
+<p>
+
+> Input - m m
+> Input charcter - a
+> Output - mam
+    
+</p>
+</details>
+
+```python
+string = "m d m"
+result = '' 
+ch = "a"
+for i in string:  
+        if i == ' ':  
+            i = ch   
+        result += i  
+print(result)
+    
+> madam
+
+```
+
+---
