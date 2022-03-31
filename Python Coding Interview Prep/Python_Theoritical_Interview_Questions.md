@@ -16,3 +16,20 @@
 > 6. It could be used effectively along with Java, COBRA, C, C++, ActiveX, and COM.
 
 ---
+
+## 3. What is Python path?
+
+> A Python path tells the Python interpreter to locate the module files that can be imported into the program. It includes the Python source library directory and source code directory.
+
+---
+
+## 4. What are the supported standard data types in Python?
+> The supported standard data types in Python include the following.
+> 
+> 1. List
+> 2. Number
+> 3. String
+> 4. Dictionary
+> 5. Tuples
+
+---
