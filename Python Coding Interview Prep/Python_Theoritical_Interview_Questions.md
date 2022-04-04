@@ -82,3 +82,21 @@
 > Break helps in controlling the Python loop by breaking the current loop from execution and transfer the control to the next block.
 
 ---
+
+## 12. Why do we need a continue in Python?
+
+> A continue also helps in controlling the Python loop but by making jumps to the next iteration of the loop without exhausting it.
+
+---
+
+## 13. Can we use a break and continue together in Python? How?
+
+> Break and continue can be used together in Python. The break will stop the current loop from execution, while jump will take to another loop.
+
+---
+
+## 14. Does Python support an intrinsic do-while loop?
+
+> No Python does not support an intrinsic do-while loop.
+
+---
