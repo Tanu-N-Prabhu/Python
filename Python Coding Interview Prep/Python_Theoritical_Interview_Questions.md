@@ -70,3 +70,9 @@
 > 4. It consists of an underdeveloped database access layer.
 
 ---
+
+## 10. Do runtime errors exist in Python? Give an example?
+
+> Yes, runtime errors exist in Python. For example, if you are duck typing and things look like a duck, then it is considered as a duck even if that is just a flag or stamp or any other thing. The code, in this case, would be A Run-time error. For example, Print “Hackr io”, then the runtime error would be the missing parenthesis that is required by print ( ).
+
+---
