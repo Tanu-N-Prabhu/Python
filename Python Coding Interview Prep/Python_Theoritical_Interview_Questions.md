@@ -76,3 +76,9 @@
 > Yes, runtime errors exist in Python. For example, if you are duck typing and things look like a duck, then it is considered as a duck even if that is just a flag or stamp or any other thing. The code, in this case, would be A Run-time error. For example, Print “Hackr io”, then the runtime error would be the missing parenthesis that is required by print ( ).
 
 ---
+
+## 11. Why do we need a break in Python?
+
+> Break helps in controlling the Python loop by breaking the current loop from execution and transfer the control to the next block.
+
+---
