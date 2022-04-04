@@ -58,3 +58,15 @@
 > A Pass statement in Python is used when we cannot decide what to do in our code, but we must type something for making syntactically correct.
 
 ---
+
+
+## 9. What are the limitations of Python?
+
+> There are certain limitations of Python, which include the following:
+
+> 1. It has design restrictions.
+> 2. It is slower when compared with C and C++ or Java.
+> 3. It is inefficient in mobile computing.
+> 4. It consists of an underdeveloped database access layer.
+
+---
