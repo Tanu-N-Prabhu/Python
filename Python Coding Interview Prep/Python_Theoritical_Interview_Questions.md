@@ -100,3 +100,15 @@
 > No Python does not support an intrinsic do-while loop.
 
 ---
+
+## 15. How many ways can be applied for applying reverse string?
+
+> There are five ways in which the reverse string can be applied which include the following.
+>
+> 1. Loop
+> 2. Recursion
+> 3. Stack
+> 4. Extended Slice Syntax
+> 5. Reversed
+
+---
