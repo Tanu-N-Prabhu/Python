@@ -112,3 +112,17 @@
 > 5. Reversed
 
 ---
+
+
+## 16. What are the different stages of the Life Cycle of a Thread?
+
+> The different stages of the Life Cycle of a Thread can be stated as follows.
+> 
+> Stage 1: Creating a class where we can override the run method of the Thread class.
+> Stage 2: We make a call to start() on the new thread. The thread is taken forward for scheduling purposes.
+> Stage 3: Execution takes place wherein the thread starts execution, and it reaches the running state.
+> Stage 4: Thread wait until the calls to methods including join() and sleep() takes place. 
+> Stage 5: After the waiting or execution of the thread, the waiting thread is sent for scheduling.
+> Stage 6: Running thread is done by executing the terminates and reaches the dead state.
+
+---
