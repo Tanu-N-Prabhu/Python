@@ -131,3 +131,10 @@
 > Stage 6: Running thread is done by executing the terminates and reaches the dead state.
 
 ---
+
+
+## 17. What is the purpose of relational operators in Python?
+
+> The purpose of relational operators in Python is to compare values.
+
+---
