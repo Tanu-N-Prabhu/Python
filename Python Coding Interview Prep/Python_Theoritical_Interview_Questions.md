@@ -138,3 +138,11 @@
 > The purpose of relational operators in Python is to compare values.
 
 ---
+
+## 18. What are assignment operators in Python?
+
+> The assignment operators in Python can help in combining all the arithmetic operators with the assignment symbol.
+
+---
+
+
