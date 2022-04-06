@@ -166,3 +166,15 @@
 > This happens so fast that to a user it seems that threads are executing in parallel. Obviously, this is not the case as they are just taking turns while using the same CPU core. Moreover, GIL passing adds to the overall overhead to the execution.
 >
 > Hence, if you intend to use the threading package for speeding up the execution, using the package is not recommended.
+
+---
+
+## 22. What is Inheritance in Python?
+
+> Inheritance enables a class to acquire all the members of another class. These members can be attributes, methods, or both. By providing reusability, inheritance makes it easier to create as well as maintain an application.
+> 
+> The class which acquires is known as the child class or the derived class. The one that it acquires from is known as the superclass or base class or the parent class
+
+---
+
+
