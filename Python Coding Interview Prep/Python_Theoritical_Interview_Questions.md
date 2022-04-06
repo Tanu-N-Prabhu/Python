@@ -145,4 +145,8 @@
 
 ---
 
+## 19. Why do we need membership operators in Python?
 
+> We need membership operators in Python with the purpose to confirm if the value is a member in another or not.
+
+---
