@@ -150,3 +150,19 @@
 > We need membership operators in Python with the purpose to confirm if the value is a member in another or not.
 
 ---
+
+## 20. How are identity operators different than the membership operators?
+
+> Unlike membership operators, the identity operators compare the values to find out if they have the same value or not.
+
+---
+
+## 21. Describe how multithreading is achieved in Python?
+
+> Even though Python comes with a multi-threading package, if the motive behind multithreading is to speed the code then using the package is not the go-to option.
+>
+> The package has something called the GIL or Global Interpreter Lock, which is a construct. It ensures that one and only one of the threads execute at any given time. A thread acquires the GIL and then do some work before passing it to the next thread.
+>
+> This happens so fast that to a user it seems that threads are executing in parallel. Obviously, this is not the case as they are just taking turns while using the same CPU core. Moreover, GIL passing adds to the overall overhead to the execution.
+>
+> Hence, if you intend to use the threading package for speeding up the execution, using the package is not recommended.
