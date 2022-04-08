@@ -177,4 +177,11 @@
 
 ---
 
+## 23. What are the different types of inheritance? 
 
+> 1. Single Inheritance – A single derived class acquires from on single superclass.
+> 2. Multi-Level Inheritance – At least 2 different derived classes acquire from two distinct base classes.
+> 3. Hierarchical Inheritance – A number of child classes acquire from one superclass
+> 4. Multiple Inheritance – A derived class acquires from several superclasses.
+
+---
