@@ -185,3 +185,10 @@
 > 4. Multiple Inheritance – A derived class acquires from several superclasses.
 
 ---
+
+
+## 24. Explain memory managed in Python?
+
+> Python private heap space takes place of memory management in Python. It contains all Python objects and data structures. The interpreter is responsible to take care of this private heap and the programmer does not have access to it. The Python memory manager is responsible for the allocation of Python heap space for Python objects. The programmer may access some tools for the code with the help of the core API. Python also provides an inbuilt garbage collector, which recycles all the unused memory and frees the memory and makes it available to heap space.
+
+---
