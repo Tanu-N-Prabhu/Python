@@ -199,3 +199,12 @@
 > A specific change made in Python syntax to alter the functions easily are termed as Python decorators.
 
 ---
+
+
+## 26. What do you understand by the process of compilation and linking in Python?
+
+> In order to compile new extensions without any error, compiling and linking is used in Python. Linking initiates only and only when the compilation is complete.
+>
+> In the case of dynamic loading, the process of compilation and linking depends on the style that is provided with the concerned system. In order to provide dynamic loading of the configuration setup files and rebuilding the interpreter, the Python interpreter is used.
+
+---
