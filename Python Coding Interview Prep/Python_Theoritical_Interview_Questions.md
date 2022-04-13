@@ -217,3 +217,12 @@
 > Typically, the given function is the first argument and the iterable is available as the second argument to a map() function. Several tables are given if the function takes in more than one arguments.
 
 ---
+
+## 28. How will you distinguish between NumPy and SciPy?
+
+> Typically, NumPy contains nothing but the array data type and the most basic operations, such as basic element-wise functions, indexing, reshaping, and sorting. All the numerical code resides in SciPy.
+> As one of NumPy’s most important goals is compatibility, the library tries to retain all features supported by either of its predecessors. Hence, NumPy contains a few linear algebra functions despite the fact that these more appropriately belong to the SciPy library.
+>
+> SciPy contains fully-featured versions of the linear algebra modules available to NumPy in addition to several other numerical algorithms.
+
+---
