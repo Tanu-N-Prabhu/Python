@@ -227,3 +227,10 @@
 > SciPy contains fully-featured versions of the linear algebra modules available to NumPy in addition to several other numerical algorithms.
 
 ---
+
+
+## 29. What is the lambda function?
+
+> An anonymous function is known as a lambda function. This function can have only one statement but can have any number of parameters.
+
+---
