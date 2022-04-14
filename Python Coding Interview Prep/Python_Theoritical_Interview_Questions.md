@@ -234,3 +234,10 @@
 > An anonymous function is known as a lambda function. This function can have only one statement but can have any number of parameters.
 
 ---
+
+
+## 30. Differentiate between list and tuple?
+
+> Tuple is not mutable it can be hashed eg. key for dictionaries. On the other hand, lists are mutable.
+
+---
