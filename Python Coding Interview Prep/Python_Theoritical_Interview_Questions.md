@@ -241,3 +241,9 @@
 > Tuple is not mutable it can be hashed eg. key for dictionaries. On the other hand, lists are mutable.
 
 ---
+
+## 31. What is the // operator? What is its use?
+
+> The // is a Floor Divisionoperator used for dividing two operands with the result as quotient displaying digits before the decimal point. For instance, 10//5 = 2 and 10.0//5.0 = 2.0.
+
+---
