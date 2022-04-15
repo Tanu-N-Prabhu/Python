@@ -254,3 +254,10 @@
 > The dynamic modifications made to a class or module at runtime are termed as monkey patching in Python
 
 ---
+
+
+## 33. What is the split function used for?
+
+> The split function breaks the string into shorter strings using the defined separator. It returns the list of all the words present in the string.
+
+---
