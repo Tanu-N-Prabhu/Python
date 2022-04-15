@@ -247,3 +247,10 @@
 > The // is a Floor Divisionoperator used for dividing two operands with the result as quotient displaying digits before the decimal point. For instance, 10//5 = 2 and 10.0//5.0 = 2.0.
 
 ---
+
+
+## 32. What is monkey patching in Python?
+
+> The dynamic modifications made to a class or module at runtime are termed as monkey patching in Python
+
+---
