@@ -261,3 +261,9 @@
 > The split function breaks the string into shorter strings using the defined separator. It returns the list of all the words present in the string.
 
 ---
+
+## 34. Explain the Dogpile effect.
+
+> The event when the cache expires and websites are hit by multiple requests made by the client at the same time. Using a semaphore lock prevents the Dogpile effect. In this system when value expires, the first process acquires the lock and starts generating new value.
+
+---
