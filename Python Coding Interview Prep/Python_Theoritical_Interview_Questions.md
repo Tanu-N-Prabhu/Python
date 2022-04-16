@@ -280,3 +280,10 @@
 > Slicing refers to the mechanism to select the range of items from sequence types like lists, tuples, strings
 
 ---
+
+
+## 37.  What are docstring?
+
+> Docstring is a Python documentation string, it is a way of documenting Python functions, classes and modules.
+
+---
