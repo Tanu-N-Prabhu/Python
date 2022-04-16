@@ -274,3 +274,9 @@
 > No-operation Python statement refers to pass. It is a place holder in the compound statement, where there should have a blank left or nothing written there.
 
 ---
+
+## 36. Define slicing in Python.
+
+> Slicing refers to the mechanism to select the range of items from sequence types like lists, tuples, strings
+
+---
