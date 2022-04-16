@@ -262,8 +262,15 @@
 
 ---
 
-## 34. Explain the Dogpile effect.
+## 34. Explain the Dogpile effect?
 
 > The event when the cache expires and websites are hit by multiple requests made by the client at the same time. Using a semaphore lock prevents the Dogpile effect. In this system when value expires, the first process acquires the lock and starts generating new value.
+
+---
+
+
+## 35. What is a pass in Python?
+
+> No-operation Python statement refers to pass. It is a place holder in the compound statement, where there should have a blank left or nothing written there.
 
 ---
