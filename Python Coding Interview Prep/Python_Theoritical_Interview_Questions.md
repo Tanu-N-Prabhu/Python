@@ -293,3 +293,9 @@
 > [::-1} reverses the order of an array or a sequence. However, the original array or the list remains unchanged.
 
 ---
+
+## 39. Define Python Iterators
+
+> Group of elements, containers or objects that can be traversed.
+
+---
