@@ -287,3 +287,9 @@
 > Docstring is a Python documentation string, it is a way of documenting Python functions, classes and modules.
 
 ---
+
+## 38. What is [::-1} used for?
+
+> [::-1} reverses the order of an array or a sequence. However, the original array or the list remains unchanged.
+
+---
