@@ -312,3 +312,13 @@
 > Capitalize() method capitalizes the first letter of the string, and if the letter is already capital it returns the original string
 
 ---
+
+## 42. What is, not and in operators?
+
+> Operators are functions that take two or more values and returns the corresponding result.
+> 
+> 1. is: returns true when two operands are true
+> 2. not: returns inverse of a boolean value
+> 3. in: checks if some element is present in some sequence.
+
+---
