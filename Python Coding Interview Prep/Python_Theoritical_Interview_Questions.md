@@ -306,3 +306,9 @@
 > Comments in Python start with a # character, they can also be written within docstring(String within triple quotes)
 
 ---
+
+## 41. How to capitalize the first letter of string?
+
+> Capitalize() method capitalizes the first letter of the string, and if the letter is already capital it returns the original string
+
+---
