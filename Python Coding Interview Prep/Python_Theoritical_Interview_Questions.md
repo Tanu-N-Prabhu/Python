@@ -322,3 +322,12 @@
 > 3. in: checks if some element is present in some sequence.
 
 ---
+
+## 43. How are files deleted in Python?
+
+> To delete a file in Python:
+>
+> 1. Import OS module
+> 2. Use os.remove() function
+
+---
