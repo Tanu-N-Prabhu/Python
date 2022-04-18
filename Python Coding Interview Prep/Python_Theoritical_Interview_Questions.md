@@ -299,3 +299,10 @@
 > Group of elements, containers or objects that can be traversed.
 
 ---
+
+
+## 40. How are comments written in Python?
+
+> Comments in Python start with a # character, they can also be written within docstring(String within triple quotes)
+
+---
