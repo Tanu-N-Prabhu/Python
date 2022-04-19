@@ -344,3 +344,9 @@
 > The method returns a featureless object that is base for all classes. This method does not take any parameters.
 
 ---
+
+## 46. What is pep 8?
+
+> Python Enhancement Proposal or pep 8 is a set of rules that specify how to format Python code for maximum readability.
+
+---
