@@ -331,3 +331,10 @@
 > 2. Use os.remove() function
 
 ---
+
+
+## 44. Does Python supports multiple inheritances?
+
+> Yes, in Python a class can be derived from more than one parent class.
+
+---
