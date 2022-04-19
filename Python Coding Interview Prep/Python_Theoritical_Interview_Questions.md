@@ -338,3 +338,9 @@
 > Yes, in Python a class can be derived from more than one parent class.
 
 ---
+
+## 45. What does the method object() do?
+
+> The method returns a featureless object that is base for all classes. This method does not take any parameters.
+
+---
