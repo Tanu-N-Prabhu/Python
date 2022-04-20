@@ -356,3 +356,15 @@
 > A naming system used to make sure that names are unique to avoid naming conflicts refers to as Namespace.
 
 ---
+
+## 48. Is indentation necessary in Python?
+
+> Indentation is required in Python if not done properly the code is not executed properly and might throw errors. Indentation is usually done using four space characters.
+> 
+---
+
+Question: Define a function in Python
+Answer: A block of code that is executed when it is called is defined as a function. Keyword def is used to define a Python function.
+
+Question: Define self in Python
+Answer: An instance of a class or an object is self in Python. It is included as the first parameter. It helps to differentiate between the methods and attributes of a class with local variables.
