@@ -350,3 +350,9 @@
 > Python Enhancement Proposal or pep 8 is a set of rules that specify how to format Python code for maximum readability.
 
 ---
+
+## 47. What is namespace in Python?
+
+> A naming system used to make sure that names are unique to avoid naming conflicts refers to as Namespace.
+
+---
