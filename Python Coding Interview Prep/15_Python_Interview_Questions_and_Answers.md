@@ -12,3 +12,8 @@
 ### 3. Discuss the frameworks for app development that are popular with Python users.
 
 > Python is an excellent general-purpose dynamic language because it's easy to understand and implement. It's popular for creating various apps for mobile phones because of its interactive environment. It runs on the major operating systems, and there are many frameworks for using Python. For instance, Pyramid, Circuits, and CherryPy as well as other frameworks are Flask, Web2Py, Pycnic and Django.
+
+
+### 4. How does Python manage memory?
+
+> Python manages memory with private heap space. The private heap holds Python objects and data structures. The memory manager assigns objects. The garbage collector recycles any unused memory and routes it to the heap space.
