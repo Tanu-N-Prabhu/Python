@@ -17,3 +17,10 @@
 ### 4. How does Python manage memory?
 
 > Python manages memory with private heap space. The private heap holds Python objects and data structures. The memory manager assigns objects. The garbage collector recycles any unused memory and routes it to the heap space.
+
+
+### 5. Explain and give an example of inheritance
+
+> The inheritance function gives one class the characteristics and methods of another class. The child class, or the derived class, gains the characteristics. Super-class is the data sending the characteristics. The reason for inheritance is to create and maintain apps and deliver code reusability. Python supports three types of inheritance. One is the single inheritance where a derived class obtains a single superclass. The second Python inheritance is multi faceted where data can inherit a derived class from another. Finally, the multiple inheritance means that a child class receives all the methods and attributes from one or more base, or parent, classes.
+
+
