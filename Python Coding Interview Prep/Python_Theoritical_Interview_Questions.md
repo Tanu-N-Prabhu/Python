@@ -288,9 +288,9 @@
 
 ---
 
-## 38. What is [::-1} used for?
+## 38. What is [::-1] used for?
 
-> [::-1} reverses the order of an array or a sequence. However, the original array or the list remains unchanged.
+> [::-1] reverses the order of an array or a sequence. However, the original array or the list remains unchanged.
 
 ---
 
