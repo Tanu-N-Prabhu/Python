@@ -32,6 +32,32 @@
 | Strathcona Refinery   | Alberta  | Edmonton  | 1974 | 191000 |
 | Edmonton Refinery   | Alberta  | Edmonton  | 1951 | 146000 |
 | Co-op Refinery    | Saskatchewan  | Regina  | 1935 | 145000 |
+| Montreal Refinery    | Quebec   | Montreal  | 1955 | 137000 |
+| North Atlantic Refinery    | Newfoundland and Labrador    | Come By Chance  | 1973 | 130000 |
+| Sarnia Refinery    | Ontario     | Sarnia  | 1897 | 127000 |
+| Scotford Refinery    | Alberta      | Strathcona County  | 1984 | 114000 |
+| Nanticoke Refinery    | Ontario      | Nanticoke  | 1978 | 112000 |
+| Sarnia Refinery    | Ontario     | Sarnia  | 1953 | 85000 |
+| Sturgeon Refinery    | Alberta     | Sturgeon County   | 2020 | 79000 |
+| Corunna Refinery    | Ontario      | Saint Clair   | 1952 | 75000 |
+| Burnaby Refinery    | British Columbia       | Burnaby   | 1936 | 55000 |
+| Lloydminster Refinery    | Alberta      | Lloydminister   | 1947 | 30000 |
+| Moose Jaw Refinery    | Saskatchewan       | Moose Jaw   | 1934 | 22000 |
+| Clarkson Refinery    | Ontario        | Mississauga   | 1943 | 15600 |
+| Prince George Refinery    | British Columbia         | Prince George    | 1967 | 12000 |
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
