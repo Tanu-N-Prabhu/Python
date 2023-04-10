@@ -28,7 +28,7 @@
 I have gathered the below list of Canadian Oil Refineries by provinces. Thanks to [Oil Sand Magazine](https://www.oilsandsmagazine.com/projects/canadian-refineries) for the data.
 
 | Name     | Province | City | Year | Capacity |
-| -------- | ------- | -------- | ------- | -------- |
+| :---------------- |:---------------- | :---------------- | :---------------- | :---------------- |
 | Irving Oil Refinery   | New Brunswick | Saint John  | 1960 | 300,000 |
 | Jean-Gaulin Refinery   | Quebec  | Lévis  | 1971 | 235000 |
 | Strathcona Refinery   | Alberta  | Edmonton  | 1974 | 191000 |
