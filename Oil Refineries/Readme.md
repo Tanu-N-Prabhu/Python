@@ -28,4 +28,12 @@
 | Name     | Province | City | Year | Capacity |
 | -------- | ------- | -------- | ------- | -------- |
 | Irving Oil Refinery   | New Brunswick | Saint John  | 1960 | 300,000 |
+| Jean-Gaulin Refinery   | Quebec  | Lévis  | 1971 | 235000 |
+| Strathcona Refinery   | Alberta  | Edmonton  | 1974 | 191000 |
+| Edmonton Refinery   | Alberta  | Edmonton  | 1951 | 146000 |
+| Co-op Refinery    | Saskatchewan  | Regina  | 1935 | 145000 |
+
+
+
+
 
