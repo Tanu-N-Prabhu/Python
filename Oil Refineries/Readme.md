@@ -56,6 +56,10 @@ I have gathered the below list of Canadian Oil Refineries by provinces. Thanks t
 
 ## World's largest refineries
 
+<p align = "center">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/3/32/Jamnagar_Refinery.jpg">
+</p>
+
 | Name     | State | City  | Country  | Capacity |
 | :---------------- |:---------------- | :---------------- | :---------------- | :---------------- |
 | Jamnagar Refinery (Reliance Industries)   | Gujarat | Jamnagar | India  | 1,240,000 |
