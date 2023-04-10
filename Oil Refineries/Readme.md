@@ -25,6 +25,8 @@
 
 ## List of Canadian Oil Refineries
 
+I have gathered the below list of Canadian Oil Refineries by provinces. Thanks to [Oil Sand Magazine](https://www.oilsandsmagazine.com/projects/canadian-refineries) for the data.
+
 | Name     | Province | City | Year | Capacity |
 | -------- | ------- | -------- | ------- | -------- |
 | Irving Oil Refinery   | New Brunswick | Saint John  | 1960 | 300,000 |
@@ -46,7 +48,7 @@
 | Clarkson Refinery    | Ontario        | Mississauga   | 1943 | 15600 |
 | Prince George Refinery    | British Columbia         | Prince George    | 1967 | 12000 |
 
-
+---
 
 
 
