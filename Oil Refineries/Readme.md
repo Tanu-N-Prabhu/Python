@@ -25,6 +25,10 @@
 
 ## List of Canadian Oil Refineries
 
+<p align = "center">
+<img src = "https://www.canadianfuels.ca/wp-content/uploads/2022/02/6003_FUEL_Refineries-Map-Canada-2022_Eng_Final-1-scaled.jpg">
+</p>
+
 I have gathered the below list of Canadian Oil Refineries by provinces. Thanks to [Oil Sand Magazine](https://www.oilsandsmagazine.com/projects/canadian-refineries) for the data.
 
 | Name     | Province | City | Year | Capacity |
