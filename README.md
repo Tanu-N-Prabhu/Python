@@ -256,7 +256,6 @@ Follow the steps down below to get started learning Data Science!!!
 | Contact        | Info           | 
 | ------------- |:-------------:|
 | <b>Gmail</b>      | tanuprabhu96@gmail.com  | 
-| <b>Phone number</b>        | +1 306-737-9073              |   
 | <b>Facebook</b>       | Tanu N Prabhu      |    
 | <b>Instagram </b>    | tanunprabhu   |
 | <b>Linkedin </b>    | [Tanu Nanda Prabhu](https://www.linkedin.com/in/tanu-nanda-prabhu-a15a091b5/) |
