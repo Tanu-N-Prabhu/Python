@@ -181,7 +181,7 @@ Follow the steps down below to get started coding in python!!!
   
 # Data Science
 
-Follow the steps down below to get started learning Data Science!!!
+Follow the steps below to get started learning Data Science!!!
 
 <p align="center">
 <img src = "Img/Data.PNG" >
@@ -199,9 +199,19 @@ Follow the steps down below to get started learning Data Science!!!
 
 
 ---
+
+# Tech is Easy
+I Tanu Nanda Prabhu, always like simplifying complex things so that others can understand them more easily and better. Researching is my passion, I go through a ton of videos, articles, and tutorials and conclude starting a repository that purely contains tips and tricks for using Google Sheets. I update this repository every week with tons of information that will make your life simple. I am also seeking help from people who want to contribute to my repository. Feel free to Fork it and add updates, I will consider it. Feel free to let me know of any changes, comments, concerns, and suggestions to my e-mail (tanunprabhu95@gmail.com).
+
+### [Tech Is Easy](https://github.com/Tanu-N-Prabhu/TechIsEasy)
+
+
+---
+
+
 # Nbviewer
 
-<b align = "justify">If the jupyter notebook doesn't load. Don't worry just copy and paste the link to [nbviewer](https://nbviewer.jupyter.org). Because most of my jupyter notebooks are not loading.</b>
+<b align = "justify">If the jupyter notebook doesn't load. Don't worry copy and paste the link to [nbviewer](https://nbviewer.jupyter.org). Because most of my jupyter notebooks are not loading.</b>
 
 
 ---
@@ -290,13 +300,13 @@ Follow the steps down below to get started learning Data Science!!!
 
 # Feedback
 
-[Any Feedbacks or Suggestions- Please Click Here](https://form.jotform.com/92847563204259)
+[Any Feedback or Suggestions- Please Click Here](https://form.jotform.com/92847563204259)
 
 ---
 
 # Version
 
-<b> Version 13 - Last Updated on March 12 2023 - 7:54 PM <b>
+<b> Version 14 - Last Updated on October 15 2023 - 3:49 PM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
