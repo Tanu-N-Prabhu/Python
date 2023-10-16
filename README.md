@@ -201,7 +201,7 @@ Follow the steps below to get started learning Data Science!!!
 ---
 
 # Tech is Easy
-I Tanu Nanda Prabhu, always like simplifying complex things so that others can understand them more easily and better. Researching is my passion, I go through a ton of videos, articles, and tutorials and conclude starting a repository that purely contains tips and tricks for using Google Sheets. I update this repository every week with tons of information that will make your life simple. I am also seeking help from people who want to contribute to my repository. Feel free to Fork it and add updates, I will consider it. Feel free to let me know of any changes, comments, concerns, and suggestions to my e-mail (tanunprabhu95@gmail.com).
+<p align = "justify">I Tanu Nanda Prabhu, always like simplifying complex things so that others can understand them more easily and better. Researching is my passion, I go through a ton of videos, articles, and tutorials and conclude starting a repository that purely contains tips and tricks for using Google Sheets. I update this repository every week with tons of information that will make your life simple. I am also seeking help from people who want to contribute to my repository. Feel free to Fork it and add updates, I will consider it.</p>
 
 ### [Tech Is Easy](https://github.com/Tanu-N-Prabhu/TechIsEasy)
 
