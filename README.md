@@ -188,13 +188,22 @@ Follow the steps below to get started learning Data Science!!!
 </p>
 
 ## Data Science Materials
+
+<details>
+  <summary>Data Exploration</summary>
+
+ - <b>[Loading a File using Pandas](https://github.com/Tanu-N-Prabhu/Python/blob/master/data_load.md)</b>
+ 
+ 
+</details>
+
+
 <details>
   <summary>Data Scraping from the Web</summary>
 
  - <b>[Scraping Two YouTube Accounts - PewDiePie vs T-Series](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Scraping%20from%20the%20Web/Scraping%20YouTube%20accounts%20with%20python.ipynb)</b>
  
  - <b>[Scraping Rate My Professor Website - My Graduate Professor](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Scraping%20from%20the%20Web/Web_Scraping_Rate_My_Professor_Website.ipynb)</b>
-
 </details>
 
 
