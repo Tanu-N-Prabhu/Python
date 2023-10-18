@@ -206,6 +206,9 @@ Follow the steps below to get started learning Data Science!!!
  - <b>[Scraping Two YouTube Accounts - PewDiePie vs T-Series](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Scraping%20from%20the%20Web/Scraping%20YouTube%20accounts%20with%20python.ipynb)</b>
  
  - <b>[Scraping Rate My Professor Website - My Graduate Professor](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Scraping%20from%20the%20Web/Web_Scraping_Rate_My_Professor_Website.ipynb)</b>
+
+ - <b>[Scraping Pick Up Lines from the Knot]()</b>
+ 
 </details>
 
 
@@ -257,7 +260,7 @@ Follow the steps below to get started learning Data Science!!!
 # Reddit Communities
 
 1) [Python](https://www.reddit.com/r/Python/)
-2) [Learn python](https://www.reddit.com/r/learnpython/)
+2) [Learn Python](https://www.reddit.com/r/learnpython/)
 3) [Python tips](https://www.reddit.com/r/pythontips/)
 4) [Python coding](https://www.reddit.com/r/pythoncoding?utm_medium=android_app&utm_source=share)
 
@@ -317,7 +320,7 @@ Follow the steps below to get started learning Data Science!!!
 
 # Version
 
-<b> Version 14 - Last Updated on October 15 2023 - 3:49 PM <b>
+<b> Version 14 - Last Updated on October 15, 2023 - 3:49 PM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
