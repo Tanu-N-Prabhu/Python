@@ -274,6 +274,13 @@ Follow the steps below to get started learning Data Science!!!
 
 ---
 
+# GPT Librarian <img align="right" width="50" height="50" src=https://github.com/Decron/Python/assets/1786607/5b4e7a09-a76f-40be-b87d-c6e007b7ff35>
+
+If you have access to ChatGPT premium, there is a GPT Librarian with access to all files here [here](https://chat.openai.com/g/g-2HlDYwyrW-python-from-scratch)
+
+
+---
+
 
 # Contact for help
 
@@ -326,5 +333,3 @@ Follow the steps below to get started learning Data Science!!!
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 [![Maintened by - Tanu Nanda Prabhu](https://img.shields.io/badge/Maintained%20by-Tanu%20Nanda%20Prabhu-red)](https://tanu-n-prabhu.github.io/myWebsite.io/)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-
-
