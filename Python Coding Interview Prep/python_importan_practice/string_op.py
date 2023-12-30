@@ -1,0 +1,11 @@
+astr = "Hello world"
+print(astr.index('o'))
+print(len(astr))
+print(astr.upper())
+print(astr.lower())
+print(astr.count('l'))
+print(astr[::-1])
+print(astr[2:5:2])
+print(astr.startswith('hello'))
+print(astr.endswith('d'))
+print(astr.split())
