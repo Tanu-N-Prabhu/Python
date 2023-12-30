@@ -1,0 +1,1297 @@
+What's the difference between Softmax and Sigmoid functions?  Related To: Logistic Regression
+
+Name some classification metrics and when would you use each one  
+
+Provide an intuitive explanation of Linear Support Vector Machines (SVMs)  Related To: SVM
+
+Could you convert Regression into Classification and vice versa?  
+
+What's the difference between One-vs-Rest and One-vs-One?  Related To: Data Processing
+
+How does the Naive Bayes classifier work?  Related To: Naïve Bayes
+
+How do you use a supervised Logistic Regression for Classification?  Related To: Logistic Regression, Supervised Learning
+
+What is a Confusion Matrix?  Related To: Supervised Learning, Model Evaluation
+
+What's the difference between Generative Classifiers and Discriminative Classifiers? Name some examples of each one  Related To: Naïve Bayes
+
+What are some advantages and disadvantages of using AUC to measure the performance of the model?  Related To: Model Evaluation
+
+What is the F-Score?  Related To: Statistics, Model Evaluation
+
+Name some advantages of using Support Vector Machines vs Logistic Regression for classification  Related To: SVM, Logistic Regression
+
+How is AUC - ROC curve used in classification problems?   Related To: Model Evaluation
+
+When would you use SVM vs Logistic regression?  Related To: SVM, Logistic Regression
+
+How would you use a Confusion Matrix for determining a model performance?  Related To: Data Processing, Model Evaluation
+
+Compare Naive Bayes vs with Logistic Regression to solve classification problems  Related To: Logistic Regression, Naïve Bayes
+
+What are the trade-offs between the different types of Classification Algorithms? How would do you choose the best one?  Related To: Ensemble Learning, Naïve Bayes
+
+How would you Calibrate Probabilities for a classification model?  Related To: Probability
+
+Are there any problems using Naive Bayes for Classification?  Related To: Naïve Bayes
+
+What's the difference between Random Oversampling and Random Undersampling and when they can be used?  Related To: Data Processing
+
+How would you deal with classification on Non-linearly Separable data?  Related To: SVM
+
+How would you choose an evaluation metric for an Imbalanced classification?  Related To: Model Evaluation
+
+What is AIC?  Related To: Model Evaluation
+
+Can Logistic Regression be used for an Imbalanced Classification problem?  Related To: Logistic Regression
+
+What's the difference between ROC and Precision-Recall Curves?  Related To: Model Evaluation
+
+How to interpret F-measure values?  Related To: Model Evaluation
+
+Why would you use Probability Calibration?  Related To: Probability
+
+Define what is Clustering?  
+
+Give examples of using Clustering to solve real-life problems  
+
+What are Self-Organizing Maps?  Related To: Neural Networks
+
+Why do you need to perform Significance Testing in Clustering?  
+
+What is the Jaccard Index?  
+
+What is Similarity-based Clustering?  
+
+What is Mean-Shift Clustering?  
+
+What is the difference between a Multiclass problem and a Multilabel problem?  Related To: Supervised Learning
+
+What is the difference between the two types of Hierarchical Clustering?  Related To: Unsupervised Learning
+
+What is the Mixture in Gaussian Mixture Model?  
+
+How can Evolutionary Algorithms be used for Clustering?  Related To: Genetic Algorithms
+
+What would be a good way to use Clustering for Outlier detection?  Related To: Anomaly Detection
+
+What are some of the differences between Anomaly Detection and Behaviour Detection?  Related To: Anomaly Detection
+
+What is the difference between Cost Function vs Gradient Descent?  Related To: Gradient Descent
+
+Explain the steps of k-Means Clustering Algorithm  Related To: K-Means Clustering
+
+Provide an analogy for a Cost Function in real life  
+
+Explain what is Cost (Loss) Function in Machine Learning?  
+
+What is the difference between Objective function, Cost function and Loss function  
+
+What is the Hinge Loss in SVM?  Related To: SVM, Classification
+
+Why don’t we use Mean Squared Error as a cost function in Logistic Regression?  Related To: Logistic Regression
+
+What type of Cost Functions do Greedy Splitting use?  Related To: Decision Trees
+
+How would you fix Logistic Regression Overfitting problem?  Related To: Linear Regression, Model Evaluation
+
+How would you choose the Loss Function for a Deep Learning model?  Related To: Deep Learning
+
+What is the Objective Function of k-Means?  Related To: K-Means Clustering
+
+What Distance Function do you use for Quantitative Data?  Related To: Data Processing
+
+What are some necessary Mathematical Properties a Loss Function needs to have in Gradient-Based Optimization?  Related To: Gradient Descent
+
+What are some different types of Clustering Structures that are used in Clustering Algorithms?  
+
+What is Latent Class Model?  
+
+What is Silhouette Analysis?  
+
+What is the difference between the Manhattan Distance and Euclidean Distance in Clustering?  Related To: K-Means Clustering
+
+When would you use Hierarchical Clustering over Spectral Clustering?  
+
+Name some pros and cons of Mean Shift Clustering 
+
+
+While performing K-Means Clustering, how do you determine the value of K?  Related To: K-Means Clustering
+
+Compare Hierarchical Clustering and k-Means Clustering  Related To: K-Means Clustering
+
+Where do the Similarities come from in Similarity-based Clustering? 
+
+ 
+What is a Mixture Model?  Related To: K-Means Clustering
+
+How would you perform an Observation-Based Clustering for Time-Series Data?  
+
+What is the difference and connection between Clustering and Dimension Reduction?  Related To: Unsupervised Learning, Dimensionality Reduction
+
+Why does K-Means have a higher bias when compared to Gaussian Mixture Model?  Related To: Unsupervised Learning
+
+Explain how a cluster is formed in the DBSCAN Clustering Algorithm  Related To: Unsupervised Learning
+
+Why is Euclidean Distance not good for Sparse Data?  
+
+How to tell if data is clustered enough for clustering algorithms to produce meaningful results?  Related To: K-Means Clustering, Unsupervised Learning
+
+What makes the distance measurement of k-Medoids better than k-Means?  Related To: K-Means Clustering
+When would you use Hierarchical Clustering over k-Means Clustering?  Related To: K-Means Clustering
+
+How does Cluster Algorithms work on detecting Anomalies when the cluster sizes are different?  Related To: Anomaly Detection
+
+When using various Clustering Algorithms, why is Euclidean Distance not a good metric in High Dimensions? 
+
+ 
+Explain the Dirichlet Process Gaussian Mixture Model  
+
+How to choose among the various clustering Distance Measures?  
+
+What are some characteristics of Clustering Algorithms concerning Anomaly Detection?  Related To: Anomaly Detection
+
+How would you choose the number of Clusters when designing a K-Medoid Clustering Algorithm?  Related To: K-Means Clustering
+
+When would you use Segmentation over Clustering? 
+
+ 
+What is the motivation behind the Expectation-Maximization Algorithm?  
+
+Explain the different frameworks used for k-Means Clustering  Related To: K-Means Clustering
+
+What is the relationship between k-Means Clustering and PCA?  Related To: K-Means Clustering, PCA
+
+What are Decision Trees?  Related To: Supervised Learning
+
+Explain the structure of a Decision Tree  Related To: Supervised Learning
+
+What are some advantages of using Decision Trees?  
+
+How is a Random Forest related to Decision Trees?  Related To: Ensemble Learning, Random Forest
+
+How are the different nodes of decision trees represented?  Related To: Supervised Learning
+
+What type of node is considered Pure?  
+
+How would you deal with an Overfitted Decision Tree?  
+
+What are some disadvantages of using Decision Trees and how would you solve them?  Related To: Ensemble Learning, Data Processing
+
+What type of Cost Functions do Greedy Splitting use?  Related To: Cost Function
+
+What is Gini Index and how is it used in Decision Trees?  
+
+What is the Chi-squared test?  
+
+How does the CART algorithm produce Regression Trees?  
+
+What is Tree Bagging?  Related To: Ensemble Learning
+
+What is the difference between OOB score and validation score?  Related To: Ensemble Learning, Random Forest
+
+What is Greedy Splitting?  
+
+Why do you need to Prune the decision tree?  
+
+How does the CART algorithm produce Classification Trees?  
+
+How would you define the Stopping Criteria for decision trees? 
+ 
+What is Entropy?  Related To: Machine Learning
+
+How do we measure the Information?  Related To: Machine Learning
+
+What is the difference between Post-pruning and Pre-pruning?  
+
+Compare Linear Regression and Decision Trees  Related To: Linear Regression
+
+What is Tree Boosting?  Related To: Ensemble Learning
+
+How would you tune a Random Forest algorithm to improve its performance?  
+
+Imagine that you know there are outliers in your data, would you use Logistic Regression?  Related To: Anomaly Detection, Logistic Regression, Random Forest
+
+What are some disadvantages of the CHAID algorithm?  
+
+Explain how ID3 produces classification trees?  
+
+Compare ID3 and C4.5 algorithms  
+
+What is the relationship between Information Gain and Information Gain Ratio?  
+
+Compare Decision Trees and k-Nearest Neighbors  Related To: K-Nearest Neighbors
+
+While building Decision Tree how do you choose which attribute to split at each node?
+
+  
+How would you compare different Algorithms to build Decision Trees?  
+How do you Gradient Boost decision trees?  Related To: Ensemble Learning
+
+What are the differences between Decision Trees and Neural Networks?  Related To: Neural Networks
+
+How to use Isolation Forest for Anomalies detection?  Related To: Anomaly Detection
+
+What is the difference between Gini Impurity and Entropy in Decision Tree?  
+
+When should I use Gini Impurity as opposed to Information Gain (Entropy)?
+  
+Explain the CHAID algorithm  
+
+Explain how can CART algorithm perform Pruning?
+  
+Compare C4.5 and C5.0 algorithms  
+
+What is the Variance Reduction metric in Decision Trees?  
+
+What is the use of Entropy pertaining to Decision Trees?  Related To: Machine Learning
+
+Compare Decision Trees and Logistic Regression  Related To: Logistic Regression
+
+What is the difference between Gradient Boosting and Adaptive Boosting?  Related To: Supervised Learning
+
+What are the steps for Binary Recursive Partitioning in Decision Trees?  
+
+Explain the measure of goodness used by CART  
+
+How do you extend Decision Trees to Collaborative Filtering?  Related To: Recommendation Systems
+
+Decision Trees Practical Challenges
+
+How to extract the decision rules from Scikit-learn decision tree?  Related To: Scikit-Learn
+
+Explain how you would implement CART training algorithm in plain Python PY Related To: Python
+
+  What is the Curse of Dimensionality and how can Unsupervised Learning help with it?  Related To: Unsupervised Learning, Curse of Dimensionality
+
+What is Principal Component Analysis (PCA)?  Related To: PCA
+
+Explain how do you understand Dimensionality Reduction  Related To: Data Processing
+
+Explain One-Hot Encoding and Label Encoding. Does the dimensionality of the dataset increase or decrease after applying these techniques?  Related To: Feature Engineering
+Why is data more sparse in a high-dimensional space?  Related To: Data Processing, Curse of Dimensionality
+
+How is the first principal component axis selected in PCA?  Related To: PCA
+
+How does the Curse of Dimensionality affect Machine Learning models?  Related To: Curse of Dimensionality
+
+What methods of Hyperparameters Tuning do you know?  Related To: Optimisation, ML Design Patterns, Model Evaluation
+
+When would you use Grid Search vs Random Search for Hyperparameter Tuning?  Related To: Optimisation, ML Design Patterns
+
+How does an Isomap perform Dimensionality Reduction?  
+
+What are the two branches of Dimensionality Reduction?  
+
+Why is Centering and Scaling the data important before performing PCA?  Related To: Linear Algebra, PCA
+
+What is Singular Value Decomposition?  
+
+What is the difference between PCA and Random Projection approaches?  Related To: PCA
+
+What are some advantages of using LLE over PCA?  Related To: Unsupervised Learning, PCA
+
+How does Random Projection reduce the dimensionality of a set of points?  
+
+Explain the Sparse Random Projection  
+
+How does High Dimensionality affect Distance-Based Mining Applications?  Related To: Data Mining, Curse of Dimensionality
+
+How does the Curse of Dimensionality affect Privacy Preservation?  Related To: Curse of Dimensionality
+
+What is the Crowding Problem?  
+
+Does kNN suffer from the Curse of Dimensionality and if it why?  Related To: K-Nearest Neighbors, Curse of Dimensionality
+
+How many Dimensionality Reduction Techniques do you know?  
+
+What is the difference and connection between Clustering and Dimension Reduction?  Related To: Clustering, Unsupervised Learning
+
+What's the difference between PCA and t-SNE?  Related To: PCA
+Explain the Locally Linear Embedding algorithm for Dimensionality Reduction  Related To: Unsupervised Learning
+
+What is Multidimensional Scaling?  Related To: Data Processing
+
+What is Sparse PCA?  Related To: PCA
+
+When would you use Manifold Learning techniques over PCA?  Related To: PCA
+
+What is Kernel Principal Component Analysis?  
+
+What is t-Distributed Stochastic Neighbour Embedding?  
+
+What are the rules for generating a random matrix when Gaussian Random Projection is used?  
+
+How does the Curse of Dimensionality affect k-Means Clustering?  Related To: K-Means Clustering, Curse of Dimensionality
+
+How does a Deep Neural Network escape/resist the Curse of Dimensionality?  Related To: Deep Learning, Curse of Dimensionality
+
+Why does the hyperparameter optimisation method GridSearch suffer from the Curse of Dimensionality?  Related To: Curse of Dimensionality
+
+Does Random Forest suffer from the Curse of Dimensionality?  Related To: Curse of Dimensionality, Random Forest
+
+Does linear SVMs suffer from the Curse of Dimensionality?  Related To: SVM, Curse of Dimensionality
+
+How does Isometric Mapping (Isomap) work?  
+
+What is Independent Component Analysis? 
+
+ 
+What is the Hughes Phenomenon?  Related To: Data Structures
+
+How does Normalization reduce the Dimensionality of the Data if you project the data to a Unit Sphere?  Related To: Data Processing
+
+How does the Metric Multidimensional Scaling (MDS) algorithm reduce dimensionality?  
+What is Ensemble Learning? 
+ 
+How would you define Random Forest?  Related To: Random Forest
+
+What are Weak Learners?  Related To: Machine Learning
+
+What are Ensemble Methods?  Related To: Random Forest
+How is a Random Forest related to Decision Trees?  Related To: Decision Trees, Random Forest
+
+What is Meta-Learning?  
+
+What are the differences between Bagging and Boosting?
+
+
+How does Stacking work?  
+
+Since Ensemble Learning provides better output most of the time, why do you not use it all the time?  
+
+Would it defeat the purpose of Ensemble Learning to exclude Outliers?  
+
+What are the differences between Homogeneous and Heterogeneous Ensembles?  
+
+Is Random Forest an Ensemble Algorithm?  Related To: Random Forest
+
+What are some Real-World Applications of Ensemble Learning?  
+
+How does Ensemble Systems help in Incremental Learning?  Related To: Deep Learning
+
+What is a Super Learner Algorithm?  
+
+What is the difference between a Weak Learner vs a Strong Learner and why they could be usefu?  Related To: Classification
+
+What's the difference between Bagging and Boosting algorithms?  Related To: Data Processing, Classification, Bias & Variance
+
+How does the AdaBoost algorithm work?  Related To: Classification
+
+What are some disadvantages of using Decision Trees and how would you solve them?  Related To: Decision Trees, Data Processing
+
+What is Tree Bagging?  Related To: Decision Trees
+
+What's the similarities and differences between Bagging, Boosting, Stacking?  Related To: Machine Learning
+
+Explain the concept behind BAGGing  Related To: Random Forest
+
+What is the difference between OOB score and validation score?  Related To: Decision Trees, Random Forest
+
+What is Tree Boosting?  Related To: Decision Trees
+
+How is Gradient Boosting used to improve Supervised Learning?  Related To: Supervised Learning
+What is the difference between Ensemble Learning and Multiple Kernel Learning?  
+
+Explain the architecture of a Super Learner Algorithm  
+
+What is the Bagging Algorithm?  
+
+What are some variants of the AdaBoost Algorithm?  
+
+Why do Ensemble Models work better when the Models have Low Correlation?  
+
+In what situations do you not use Ensemble Classifiers?  
+
+What are Ensemble Nystrom Algorithms?  
+
+What is the process of building an Ensemble System?  
+
+Is it posible to apply Ensemble Learning methods to the Quantile Regression Problem?
+
+
+Why is Model Stacking effective in improving Performance?  
+
+What are the trade-offs between the different types of Classification Algorithms? How would do you choose the best one?  Related To: Naïve Bayes, Classification
+
+How do you Gradient Boost decision trees?  Related To: Decision Trees
+
+Give some reasons to choose Random Forests over Neural Networks  Related To: Neural Networks, Random Forest
+
+Can you use the LASSO method for Base Learner Selection?  
+
+How are Ensemble Methods used with Deep Neural Networks?  Related To: Deep Learning
+
+What are the methods to evaluate Ensembles of Classifiers?  
+
+Explain Discrete AdaBoost Algorithm  
+
+How does Ensemble Learning tackle the No-Free Lunch Dilemma?  
+
+How do you decide to use between Gradient Boosting Trees and Random Forest?  
+
+How would you find the optimal number of random features to consider at each split?  Related To: Random Forest
+
+Summarize the Statistical, Computational, and Representational motivation of Ensemble Learning  
+
+How would you apply the Standard Mixture Models in the context of Regression?  
+
+Explain mathematically the Ensemble Nystrom algorithm  
+
+How is Computational Complexity measured in Ensemble Learning?  Related To: Data Mining
+
+What are some common Machine Learning problems that Unsupervised Learning can help with?  Related To: Unsupervised Learning
+
+What's the difference between Feature Engineering vs. Feature Selection?  Related To: Data Processing
+
+What advantages does Deep Learning have over Machine Learning?  Related To: Deep Learning
+
+Name some benefits of Feature Selection   Related To: Data Processing
+
+Explain One-Hot Encoding and Label Encoding. Does the dimensionality of the dataset increase or decrease after applying these techniques?  Related To: Dimensionality Reduction
+
+Can we use PCA for feature selection?  Related To: PCA
+
+What's the difference between Forward Feature Selection and Backward Feature Selection?  
+
+What are the basic objects that a ML pipeline should contain?  Related To: Scikit-Learn
+
+How do you use the F-test to select features?   
+
+What are some recommended choices for Imputation Values?  Related To: ML Design Patterns, Data Processing
+
+How would you improve the performance of Random Forest?  Related To: Random Forest
+
+How would you decide on the importance of variables for the Multivariate Regression model?   Related To: Linear Regression
+
+How has Translation of words improved from the Traditional methods?  Related To: NLP, Neural Networks
+
+How to choose the features for a Neural Network?  Related To: Data Processing, Neural Networks
+
+When would you remove Correlated Variables?  Related To: Data Processing
+
+How do you perform End of Tail Imputation?  
+
+What Feature Selection methods do you know? 
+
+ 
+How do you perform feature selection with Categorical Data?  
+
+How do you transform a Skewed distribution into a Normal distribution?  Related To: Statistics
+
+How do you perform Principal Component Analysis (PCA)?  Related To: PCA
+
+Explain the Stepwise Regression technique  Related To: Linear Regression
+
+How does the Recursive Feature Elimination (RFE) work?  
+
+Why would you use Permutation Feature Importance and how does this algorithm work?  
+
+What's the difference between Principal Component Analysis and Independent Component Analysis?  Related To: PCA
+
+How to perform Feature Engineering on Unknown features?  Related To: Data Processing
+
+When would you use Fine-Tuning vs Feature Extraction in Transfer Learning?  Related To: ML Design Patterns, Data Processing
+
+What is the idea behind the Gradient Descent?  
+
+Explain the intuition behind Gradient Descent algorithm  Related To: Linear Regression
+
+What is the difference between Cost Function vs Gradient Descent?  Related To: Cost Function
+
+What is the difference between Maximum Likelihood Estimation and Gradient Descent? 
+
+ 
+Can Gradient Descent be applied to Non-Convex Functions?  
+
+What are some types of Gradient Descent do you know?  
+
+Compare the Mini-batch Gradient Descent, Stochastic Gradient Descent, and Batch Gradient Descent  
+
+Explain how does the Gradient descent work in Linear Regression  Related To: Linear Regression
+
+In which case you would use Gradient Descent method or Ordinary Least Squares and why?  Related To: Linear Regression
+
+Name some Evaluation Metrics for Regression Model and when you would use one?  Related To: Linear Regression
+
+How does the Adam method of Stochastic Gradient Descent work?  Related To: Optimisation
+How does Batch Size affect the Convergence of SGD and why?  Related To: Optimisation
+
+When should we use Algorithms like Adam as opposed to SGD?  Related To: Optimisation
+
+Compare Batch Gradient Descent and Stochastic Gradient Descent  Related To: Optimisation
+
+When Optimizing a Neural Network, how do you define the Termination Condition for Gradient Descent?  Related To: Optimisation
+
+How do Gradient-Based Algorithms deal with the flat regions with desired points?  
+
+What are some necessary Mathematical Properties a Loss Function needs to have in Gradient-Based Optimization?  Related To: Cost Function
+
+What is the difference between Gradient Descent and Stochastic Gradient Descent?  
+
+Does Gradient Descent always converge to an optimum?  
+
+How is the Adam Optimization Algorithm different when compared to Stochastic Gradient Descent?  
+
+Name some advantages of using Gradient descent vs Ordinary Least Squares for Linear Regression  Related To: Linear Regression
+
+What is the difference between Momentum based Gradient Descent and Nesterov's Accelerated Gradient Descent?  Related To: Optimisation
+
+In what situations would you prefer Coordinate Descent over Gradient Descent?  Related To: Optimisation
+
+What is the Mirror Descent?  Related To: Optimisation
+
+Explain in detail how Momentum-based Gradient Descent and Nesterov's Accelerated Gradient Descent work  Related To: Optimisation
+
+Explain Mathematically, how Stochastic Gradient Descent saves time compared to Standard Gradient Descent.
+  
+For both Convex, and Non-Convex Problems, does the Gradient in SGD always point to the global extreme value?  Related To: Optimisation
+
+What are some applications of k-Means Clustering?  
+
+What is the difference between KNN and K-means Clustering?  Related To: Supervised Learning, Unsupervised Learning, Classification
+
+Explain what is k-Means Clustering?  
+
+What is the Uniform Effect that k-Means Clustering tends to produce?  
+
+What are some Stopping Criteria for k-Means Clustering?  
+
+Explain the steps of k-Means Clustering Algorithm  Related To: Cost Function
+
+Why does k-Means Clustering use mostly the Euclidean Distance metric? 
+
+What is the main difference between k-Means and k-Nearest Neighbours?  Related To: K-Nearest Neighbors
+
+How does K-Means perform Clustering?  Related To: Unsupervised Learning
+
+What is the use of Fuzzy C-Means Clustering?  
+
+How would you Pre-Process the data for k-Means?  
+
+Explain some cases where k-Means clustering fails to give good results  Related To: Anomaly Detection
+
+How would you perform k-Means on very large datasets?  
+
+What is the difference between traditional k-Means and the SAIL algorithm?  
+
+What is the difference between Classical k-Means and Spherical k-Means?  
+
+What is the k-Means based Consensus Clustering?  
+
+What is the difference between the Manhattan Distance and Euclidean Distance in Clustering?  Related To: Clustering
+
+How to determine k using the Elbow Method? PY Related To: Python
+
+What is the difference between k-Means and k-Medians and when would you use one over another?  
+
+How do you measure the Consistency between different k-Means Clustering outputs?  
+
+What is the Objective Function of k-Means?  Related To: Cost Function
+
+Can you find Outliers using k-Means?  Related To: Anomaly Detection
+
+While performing K-Means Clustering, how do you determine the value of K?  Related To: Clustering
+
+Compare Hierarchical Clustering and k-Means Clustering  Related To: Clustering
+
+What is a Mixture Model?  Related To: Clustering
+
+How is Entropy used as a Clustering Validation Measure?  
+How to tell if data is clustered enough for clustering algorithms to produce meaningful results?  Related To: Clustering, Unsupervised Learning
+
+How does Spherical k-Means work with high dimensional data such as text?  
+
+What makes the distance measurement of k-Medoids better than k-Means?  Related To: Clustering
+
+When would you use Hierarchical Clustering over k-Means Clustering?  Related To: Clustering
+
+How to determine k using the Silhouette Method? PY Related To: Python
+
+When would you use Fuzzy C-Means as opposed to k-Means?  
+
+How do the clusters generated by k-Means and Mini Batch k-Means compare?  
+
+How does the Curse of Dimensionality affect k-Means Clustering?  Related To: Dimensionality Reduction, Curse of Dimensionality
+
+How would you choose the number of Clusters when designing a K-Medoid Clustering Algorithm?  Related To: Clustering
+
+How does Forgy Initialization, Random Partition Initialization, and kmeans++ Initialization compare with each other?  
+
+Why would you use Correlation-based Distances in k-Means Clustering?  
+
+What are some properties of the Point-to-Centroid Distance?  
+
+Explain the different frameworks used for k-Means Clustering  Related To: Clustering
+
+What is the relationship between k-Means Clustering and PCA?  Related To: Clustering, PCA
+
+ How do you choose the optimal k in k-NN?  Related To: Classification
+
+Would you use K-NN for large datasets?  Related To: Data Processing
+
+What's the difference between k-Nearest Neighbors and Radius Nearest Neighbors?  
+
+What is k-Nearest Neighbors algorithm?  Related To: Supervised Learning
+
+What is the main difference between k-Means and k-Nearest Neighbours?  Related To: K-Means Clustering
+
+Compare K-Nearest Neighbors (KNN) and SVM  Related To: SVM
+
+What are some advantages and disadvantages of k-Nearest Neighbors?  
+How can you relate the KNN Algorithm to the Bias-Variance tradeoff?  Related To: Bias & Variance
+
+How do you select the value of K for k-Nearest Neighbors?  
+
+If you are using k-Nearest Neighbors, what type of Normalization should be used?  Related To: Data Processing
+
+Does kNN suffer from the Curse of Dimensionality and if it why?  Related To: Dimensionality Reduction, Curse of Dimensionality
+
+Compare Decision Trees and k-Nearest Neighbors  Related To: Decision Trees
+
+How do you know if a system of two linear equations has one solution, multiple solutions or no solutions?  
+
+What's the difference between Cross Product and Dot Product?  
+
+What is Frobenius norm?  
+
+How do you find eigenvalues of a matrix? Could you provide an example?
+  
+What is Ax=b? When does Ax=b has a unique solution?  
+
+ At what conditions does the inverse of a diagonal matrix exist? 
+ 
+ What's the normal vector to the surface S provide below?  
+
+Why is Centering and Scaling the data important before performing PCA?  Related To: PCA, Dimensionality Reduction
+
+Is the Eigendecomposition guaranteed to be unique for a real matrix? If not, then how do we represent it? 
+ 
+What is the determinant of a square matrix? How is it calculated?   
+
+Can the number of nonzero elements in a vector be defined as norm? If no, why?  
+
+How do you diagonalize a matrix?  
+
+What’s the difference between a Matrix and a Tensor?  
+
+What happens if we transform a vector z using a positive definite matrix?  
+
+What is Hadamard product of two matrices?  
+
+What is an Orthogonal Matrix? Why is computationally preferred? 
+ 
+What are positive definite, negative definite, positive semi definite and negative semi definite matrices?  
+At what conditions does the inverse of a matrix exist?  
+
+What are the conditions that a norm function has to satisfy?  
+
+How many ways of measure a vector do you know?  
+
+Diagonalize, if it's possible, the following matrix  
+
+Discuss span and linear dependence  
+
+What is broadcasting in connection to Linear Algebra?  Related To: NumPy
+
+How to assign values to a MATLAB matrix on the diagonal with vectorization?  Related To: MATLAB
+
+Given a matrix M, how do you calculate its Singular Value Decomposition?  
+
+What are Singular Eigenvalues, Left Singulars and Right Singulars?  
+
+When performing regularization, when would you choose L1-norm over L2-norm?  
+
+Why do we use Singular Value Decomposition? Why not just use Eigendecomposition?  
+
+Why would you use the Moore-Penrose Pseudoinverse and how would you calculate it?  
+
+What is Linear Regression?  Related To: Supervised Learning
+
+How would you detect Overfitting in Linear Models?  Related To: Model Evaluation
+
+What are types of Linear Regression?  
+
+How can you check if the Regression model fits the data well?   
+
+Define Linear Regression and its structure  Related To: Supervised Learning
+
+How does a Non-Linear regression analysis differ from Linear regression analysis?  
+
+What is the difference between Mean Absolute Error (MAE) vs Mean Squared Error (MSE)?  
+
+What's the difference between Covariance and Correlation?  Related To: Data Processing
+
+Explain the intuition behind Gradient Descent algorithm  Related To: Gradient Descent
+
+Provide an intuitive explanation of the Learning Rate?  
+
+How is the Error calculated in a Linear Regression model?  
+
+Explain what the Intercept Term means  
+
+Why use Root Mean Squared Error (RMSE) instead of Mean Absolute Error (MAE)?  
+
+Explain how does the Gradient descent work in Linear Regression  Related To: Gradient Descent
+
+What are the Assumptions of Linear Regression?  
+What is the difference between Ordinary Least Squares and Ridge Regression?  
+How would you decide on the importance of variables for the Multivariate Regression model?   Related To: Feature Engineering
+What are the assumptions before applying the OLS estimator?  Related To: Data Processing
+What is the difference between a Regression Model and an ANOVA Model?  
+How does it work the Backward Selection Technique?  
+In which case you would use Gradient Descent method or Ordinary Least Squares and why?  Related To: Gradient Descent
+What are some challenges faced when using a Supervised Regression Model?  Related To: Supervised Learning
+Name a disadvantage of R-squared and explain how would you address it?  
+What is the difference between Ordinary Least Squares and Lasso regression?  
+How is Hypothesis Testing using in Linear Regression?  
+Name some Evaluation Metrics for Regression Model and when you would use one?  Related To: Gradient Descent
+What is the difference between Linear Regression and Logistic Regression?  Related To: Logistic Regression
+Why would you use Normalisation vs Standardisation for Linear Regression?  
+Why can't a Linear Regression be used instead of Logistic Regression?  Related To: Logistic Regression
+How would you fix Logistic Regression Overfitting problem?  Related To: Model Evaluation, Cost Function
+Compare Linear Regression and Decision Trees  Related To: Decision Trees
+What's the difference between Homoskedasticity and Heteroskedasticity?  Related To: Statistics
+How do you cope with Missing data in Regression?  Related To: Data Processing
+Explain the Stepwise Regression technique  Related To: Feature Engineering
+How would you detect Collinearity and what is Multicollinearity?  
+How would you address the problem of Heteroskedasticity caused for a Measurement error?  Related To: Data Processing
+How would you deal with Outliers in your dataset?  Related To: Anomaly Detection, Data Processing
+How would you detect Heteroskedasticity?  Related To: Data Processing
+Name some advantages of using Gradient descent vs Ordinary Least Squares for Linear Regression  Related To: Gradient Descent
+How would you deal with Overfitting in Linear Regression models?  Related To: Model Evaluation
+Explain what is an Unrepresentative Dataset and how would you diagnose it?  Related To: Data Processing
+How would you compare models using the Akaike Information Criterion?  
+How would you check if a Linear Model follows all Regression assumptions?  
+How would you implement Linear Regression Function in SQL?  Related To: SQL
+What types of Robust Regression Algorithms do you know?  Related To: Anomaly Detection
+Provide an intuitive explanation of RANSAC Regression algorithm  
+When Logistic Regression can be used?  
+Why is Logistic Regression called Regression and not Classification?  
+What is a Decision Boundary?  Related To: Classification
+How would you make a prediction using a Logistic Regression model?  Related To: Classification
+Why don’t we use Mean Squared Error as a cost function in Logistic Regression?  Related To: Cost Function
+What's the difference between Softmax and Sigmoid functions?  Related To: Classification
+Why is Logistic Regression considered a Linear Model?  
+Compare SVM and Logistic Regression in handling outliers  Related To: SVM, Anomaly Detection
+What is the difference between Linear Regression and Logistic Regression?  Related To: Linear Regression
+Provide a mathematical intuition for Logistic Regression?  
+Why can't a Linear Regression be used instead of Logistic Regression?  Related To: Linear Regression
+What can you infer from each of the hand drawn decision boundary of Logistic Regression below?  
+How a Logistic Regression model is trained?  
+How do you use a supervised Logistic Regression for Classification?  Related To: Supervised Learning, Classification
+In Logistic Regression, why is the Binary Cross-Entropy loss function convex?  
+Explain the Vectorized Implementation of Logistic Regression?  
+Explain the Space Complexity Analysis of Logistic Regression   
+How can we avoid Over-fitting in Logistic Regression models?  
+Imagine that you know there are outliers in your data, would you use Logistic Regression?  Related To: Anomaly Detection, Decision Trees, Random Forest
+Name some advantages of using Support Vector Machines vs Logistic Regression for classification  Related To: SVM, Classification
+When would you use SVM vs Logistic regression?  Related To: SVM, Classification
+Compare Naive Bayes vs with Logistic Regression to solve classification problems  Related To: Naïve Bayes, Classification
+Compare Decision Trees and Logistic Regression  Related To: Decision Trees
+Can Logistic Regression be used for an Imbalanced Classification problem?  Related To: Classification
+How many ways do you know to implement MLOps?  
+What is a Model Registry and what are its benefits?  
+What's the difference between Static Deployment and Dynamic Deployment?  
+What production Testing methods do you know?  
+What's the difference between Batch Processing and Stream Processing?  
+What is Training-Serving Skew?  
+How does the Champion-Challenger technique work?  
+What is a structure of a typical ML Artifact?  
+What are the pros and cons of using Microservices?  
+Why you should package ML models?  
+What Feature Attribution methods do you know?  
+What's the difference between Continuous Integration, Continuous Delivery and Continuous Deployment?  
+What kind of test can you perform in the MLOps cycle?  
+What approaches can you take for testing the ML model during the training process?  
+Why would you need a Model Store for your MLOps projects?  
+What are some good practices for monitoring training in production?  
+What are the pros and the cons of using Rolling Deployment?  
+What are the benefits of using Blue-Green deployments?  
+What are the steps in a basic ML Pipeline?  
+How many ways of ML models packaging do you know?  
+What are the benefits of CI/CD for Machine Learning systems?  
+What are some good practices when performing testing in the MLOps cycle?  
+Why would you use feature flags?  
+Why would you monitor Feature Attribution instead of Feature Distribution?  
+What types of Model Drift problems can you faced and how can you overcome it?  
+What are the differences between Canary and Blue-Green strategies deployments?  
+Why would you need to use a Feature Store service?  
+How does the ML Test Score work?  
+What's the difference between A/B testing model deployment strategy and Multi-Arm Bandit?  
+When would you use Statistical Methods vs Statistical Process Control for Data Drift detection?
+What is a Naïve Bayes Classifier?  
+Why Naive Bayes is called Naive?  Related To: Supervised Learning, Classification
+What are the basic components of a Content-Based System?  Related To: Recommendation Systems
+What Bayes' Theorem (Bayes Rule) is all about?  
+Find a probability of dangerous Fire when there is Smoke  Related To: Probability
+Can you choose a classifier based on the size of the training set?  Related To: Classification
+How would you use Naive Bayes classifier for categorical features? What if some features are numerical?  Related To: Classification
+What are some advantages of using Naive Bayes Algorithm?  
+How does the Naive Bayes classifier work?  Related To: Classification
+What are some disadvantages of using Naive Bayes Algorithm?  
+What's the difference between Generative Classifiers and Discriminative Classifiers? Name some examples of each one  Related To: Classification
+What's the difference between the likelihood and the posterior probability in Bayesian statistics?  Related To: Probability
+How would you test hypotheses using Bayes' Rule?  Related To: Probability
+How do you use Naive Bayes model for Collaborative Filtering?  Related To: Recommendation Systems
+What is Bayesian Network?  
+Compare Naive Bayes vs with Logistic Regression to solve classification problems  Related To: Logistic Regression, Classification
+What are the trade-offs between the different types of Classification Algorithms? How would do you choose the best one?  Related To: Ensemble Learning, Classification
+Are there any problems using Naive Bayes for Classification?  Related To: Classification
+Does Noisy Data benefit Bayesian?  Related To: Data Mining
+Why to use NumPy?  
+Compute the min/max for each row for a NumPy 2D array  
+What is the difference between ndarray and array in NumPy?  
+Explain what is ndarray in NumPy  
+How would you convert a Pandas DataFrame into a NumPy array?  
+What are the advantages of NumPy over regular Python lists?  
+What are the differences between np.mean() vs np.average() in Python NumPy?  
+What are the differences between NumPy arrays and matrices?  
+What is the difference between Vectorisation vs Broadcasting in NumPy?  
+Explain what is Vectorization in NumPy  
+What is the difference between flatten and ravel functions in NumPy?  
+What does einsum do in NumPy?  
+What is the most efficient way to map a function over a NumPy array?  
+What is the purpose of meshgrid in Python/NumPy?  Related To: Python
+What is broadcasting in connection to Linear Algebra?  Related To: Linear Algebra
+Is there a difference between Numpy var() and Pandas var()?  Related To: Pandas
+How to normalize an array in NumPy to a Unit Vector?  
+What's the difference between a View and a Shallow Copy of a NumPy array?  
+What are Strides in NumPy? How does it work?  
+What is the difference between the following assignment methods?  
+What is the difference between contiguous and non-contiguous arrays?  
+What are some main reason why NumPy is so fast?  
+What is Fortran contiguous arrays?  
+Calculate the Euclidean Distance between two points   
+How to access the i-th column of a NumPy multidimensional array?  
+How to find all occurrences of an Element in a list  Related To: Python
+How would you reverse a NumPy array?  
+What is the difference between test[:,0] vs test[:,[0]]? When would you use one?  
+Extract all numbers between a given range from a NumPy array  
+What's the easiest way to implement a moving average with NumPy?  
+How to find all the local maxima (or peaks) in a 1D array?  
+Convert array of indices to One-Hot encoded NumPy array  
+How to convert a numeric array to a categorical (text) array?  
+How would you get indices of N-max values in a NumPy array?  
+Transpose matrix using einsum similar to np.transpose(arr)  
+How to convert an array of arrays into a flat 1D array?  
+Write the einsum equivalent of inner, outer, sum, and multiplication functions  
+Consider an array Z = [1,2,3,4,5,6,7,8,9,10,11,12,13,14], how to generate an array R = [[1,2,3,4], [2,3,4,5], [3,4,5,6], ..., [11,12,13,14]]?  
+Consider a one-dimensional array Z, build a two-dimensional array whose first row is (Z[0],Z[1],Z[2]) and each subsequent row is shifted by 1 (last row should be (Z[-3],Z[-2],Z[-1]))  
+Sum over last two axis at once  
+How would you detect Overfitting in Linear Models?  Related To: Linear Regression
+What is Underfitting in Machine Learning?  Related To: Machine Learning
+What is Hyper-Parameters in ML Model?  Related To: Machine Learning
+What is Overfitting in Machine Learning?  Related To: Machine Learning
+What is a model Learning Rate? Is a high learning rate always good?  Related To: Machine Learning
+How to know whether your model is suffering from the problem of Exploding Gradients?  Related To: Deep Learning, Neural Networks
+What methods of Hyperparameters Tuning do you know?  Related To: Optimisation, ML Design Patterns, Dimensionality Reduction
+What are the difference between Type I and Type II errors?  Related To: Machine Learning, Data Processing
+How does ROC curve and AUC value help measure how good a model is?  Related To: Classification
+What performance parameters can be calculated using Confusion Matrix?  
+How would you prevent Overfitting when designing an Artificial Neural Network?  Related To: Neural Networks
+How would you fix Logistic Regression Overfitting problem?  Related To: Linear Regression, Cost Function
+What is a Confusion Matrix?  Related To: Supervised Learning, Classification
+What are some advantages and disadvantages of using AUC to measure the performance of the model?  Related To: Classification
+What is the F-Score?  Related To: Statistics, Classification
+How do you reduce the risk of making a Type I and Type II error?  Related To: Statistics
+How is AUC - ROC curve used in classification problems?   Related To: Classification
+How would you use a Confusion Matrix for determining a model performance?  Related To: Data Processing, Classification
+If one algorithm has Higher Precision but Lower Recall than other, how can you tell which algorithm is better?  
+What is BIC?  
+How would you deal with Overfitting in Linear Regression models?  Related To: Linear Regression
+How would you choose an evaluation metric for an Imbalanced classification?  Related To: Classification
+What is AIC?  Related To: Classification
+What is MDL?  
+What are Concordance and Discordance?  
+Compare AIC and BIC methods for model selection   
+What are some approaches to get a quantitative estimate of a model's Maximum Predictive Power given a certain level of noise?  Related To: Data Processing
+When Overfitting can be useful?  Related To: ML Design Patterns
+Why would you need to use the Continued Model Evaluation Design Pattern?  Related To: ML Design Patterns
+What's the difference between ROC and Precision-Recall Curves?  Related To: Classification
+How to interpret F-measure values?  Related To: Classification
+Are there any troubles when using Early Stopping?  Related To: ML Design Patterns, Data Processing, Neural Networks
+What is Optimisation in Machine Learning?  
+What are Non-Differentiable Objective Functions?  
+What are Bayesian Optimization Methods?  
+Why do you need to know Convex Optimization?  
+What are Differentiable Objective Functions?  
+What methods of Hyperparameters Tuning do you know?  Related To: ML Design Patterns, Model Evaluation, Dimensionality Reduction
+When would you use Grid Search vs Random Search for Hyperparameter Tuning?  Related To: ML Design Patterns, Dimensionality Reduction
+What is Random Search Optimization?  
+How does the Adam method of Stochastic Gradient Descent work?  Related To: Gradient Descent
+How does Batch Size affect the Convergence of SGD and why?  Related To: Gradient Descent
+When are Genetic Algorithms a good choice for Optimisation?  Related To: Genetic Algorithms
+How is AdaGrad used to optimize a Learning Rate?  
+When should we use Algorithms like Adam as opposed to SGD?  Related To: Gradient Descent
+Compare Batch Gradient Descent and Stochastic Gradient Descent  Related To: Gradient Descent
+When you are Optimizing a Neural Network, does it make sense to combine both Momentum and Weight Decay to improve the performance?  Related To: Neural Networks
+When Optimizing a Neural Network, how do you define the Termination Condition for Gradient Descent?  Related To: Gradient Descent
+Why is Newton's Method not used in Optimisation as opposed to Gradient Descent?  
+Why does Newton's Method only use First and Second Derivatives, not Third or Higher Derivatives?  
+How do you use the Convex Optimization Approach to Minimize Regret?  
+Compare using Newton's Method and Gradient Descent for Optimisation  
+What is the difference between Momentum based Gradient Descent and Nesterov's Accelerated Gradient Descent?  Related To: Gradient Descent
+In what situations would you prefer Coordinate Descent over Gradient Descent?  Related To: Gradient Descent
+What is the Mirror Descent?  Related To: Gradient Descent
+Explain in detail how Momentum-based Gradient Descent and Nesterov's Accelerated Gradient Descent work  Related To: Gradient Descent
+In Random Forests, how do you optimize the Number of Trees T in the Forest?  Related To: Random Forest
+Should Training Samples Randomly Drawn for Mini-Batch Training Neural Networks be drawn with or without Replacement?  Related To: Neural Networks
+Why is Newton's Method not sensitive to ill-conditioned Hessian?  
+In Hyperparameter Optimization, would you use Random Search or Grid Search to achieve a better performance?  
+When you are Optimizing your Neural Network, is it a good idea to Prune the Network?  Related To: Neural Networks
+For both Convex, and Non-Convex Problems, does the Gradient in SGD always point to the global extreme value?  Related To: Gradient Descent
+How Bayesian Optimisation is used in Hyperparameter Tuning?  
+What does "almost all local minimum have very similar function value to the global optimum" mean?  
+What is an Optimization Strategy which can be used to solve Convex Problems but is Blind to the Problem Structure?  
+ How Principal Component Analysis (PCA) is used for Dimensionality Reduction?  Related To: Dimension Reduction, Unsupervised Learning
+What is Principal Component Analysis (PCA)?  Related To: Dimensionality Reduction
+Can we use PCA for feature selection?  Related To: Feature Engineering
+How is the first principal component axis selected in PCA?  Related To: Dimensionality Reduction
+Why is Centering and Scaling the data important before performing PCA?  Related To: Linear Algebra, Dimensionality Reduction
+What is the difference between PCA and Random Projection approaches?  Related To: Dimensionality Reduction
+What are some advantages of using LLE over PCA?  Related To: Unsupervised Learning, Dimensionality Reduction
+How do you perform Principal Component Analysis (PCA)?  Related To: Feature Engineering
+Would you use PCA on large datasets or there is a better alternative?  Related To: Scikit-Learn
+What's the difference between PCA and t-SNE?  Related To: Dimensionality Reduction
+Is PCA checks what characteristics are redundant and discards them?  Related To: Dimension Reduction
+What is Sparse PCA?  Related To: Dimensionality Reduction
+How is PCA used for Anomaly Detection?  Related To: Anomaly Detection, Unsupervised Learning
+When would you use Manifold Learning techniques over PCA?  Related To: Dimensionality Reduction
+What's the difference between Principal Component Analysis and Independent Component Analysis?  Related To: Feature Engineering
+What is the relationship between k-Means Clustering and PCA?  Related To: Clustering, K-Means Clustering
+How can you obtain the principal components and the eigenvalues from Scikit-Learn PCA?  Related To: Scikit-Learn
+How to create new columns derived from existing columns in Pandas?  
+How are iloc() and loc() different?  
+What are the operations that Pandas Groupby method is based on ?  
+Describe how you will get the names of columns of a DataFrame in Pandas  
+In Pandas, what do you understand as a bar plot and how can you generate a bar plot visualization  
+How would you iterate over rows in a DataFrame in Pandas?  
+How to check whether a Pandas DataFrame is empty?  
+What does the in operator do in Pandas?  
+How does the groupby() method works in Pandas?  
+Why do should make a copy of a DataFrame in Pandas?  
+Name some methods you know to replace NaN values of a DataFrame in Pandas  
+Define the different ways a DataFrame can be created in Pandas  
+Name the advantage of using applymap() vs apply() method  
+Describe how you can combine (merge) data on Common Columns or Indices?  
+Compare the Pandas methods: map(), applymap(), apply()  
+When cleaning data, mention how you will identify outliers present in a DataFrame object  
+What is the difference between join() and merge() in Pandas?  
+What is the difference(s) between merge() and concat() in Pandas?  
+When to use merge() over concat() and vice-versa in Pandas?  
+Is it a good idea to iterate over DataFrame rows in Pandas?  
+Name some type conversion methods in Pandas  
+How will you write DataFrame to PostgreSQL table?  
+How can I achieve the equivalents of SQL's IN and NOT IN in Pandas?  
+How would you create Test (20%) and Train (80%) Datasets with Pandas?  Related To: Scikit-Learn
+Is there a difference between Numpy var() and Pandas var()?  Related To: NumPy
+How would you convert continuous values into discrete values in Pandas?  
+When would you use Scikit-Learn OneHotEncoder() vs Pandas pd.get_dummies()?   Related To: Scikit-Learn
+What's the difference between pivot_table() and groupby()?  
+What's the difference between interpolate() and fillna() in Pandas?  
+What's the difference between at and iat in Pandas?  
+What are some best-practices to work with Large Files in Pandas?  
+Explain what is Multi-indexing in Pandas?  
+What are some best practises to optimize Pandas code?  
+What is Vectorization in a context of using Pandas?  
+How would you deal with large CSV files in Pandas?  
+What's the difference between apply and transform on a Group object?   
+What does the stack() and unstack() functions do in a DataFrame?  
+How is a Pandas crosstab different from a Pandas pivot_table? When would you use each one?  
+What is the pipe method? When you would use it?  
+How do you construct a MultiIndex for a DataFrame? Provide an example  
+What is a Probability Distribution?  
+What is the difference between the Bernoulli and Binomial distribution?  
+What's the difference between Probability Mass Functions and Density Probability Functions?  
+What is the difference between a Combination and a Permutation?  
+Find a probability of dangerous Fire when there is Smoke  Related To: Naïve Bayes
+What is a Poisson process?  
+What's the difference between Disjoint Events and Independent Events?  
+What's the difference between the likelihood and the posterior probability in Bayesian statistics?  Related To: Naïve Bayes
+When is an event Independent of Itself?  
+What's the difference between Binomial Distribution and Geometric Distribution?  
+How would you test hypotheses using Bayes' Rule?  Related To: Naïve Bayes
+Name some Probability Distributions you know  
+What is the Bayesian approach to probability?  
+What's the difference between Cumulative Distribution Functions and Probability Density Functions?  
+How do you transform a Skewed Distribution into a Normal Distribution?  
+How would you Calibrate Probabilities for a classification model?  Related To: Classification
+Name some methods you will use to estimate the Parameters of a Probability Distribution  
+How would you check if two events are Independent?  
+Explain if the inference using the Frequentist Approach will always yield the same result as the Bayesian approach?  
+What is the Cumulative Distribution Function?  
+Why would you use Probability Calibration?  Related To: Classification
+What is the difference between Bayesian Estimation and Maximum Likelihood Estimation?  
+What's the difference between Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN) and in which cases would use each one?  Related To: CNN, Neural Networks
+What are the uses of using RNN in NLP?  Related To: NLP, Neural Networks
+Why are RNNs (Recurrent Neural Network) better than MLPs at predicting Time Series Data?  Related To: Time Series
+What's the difference between Recurrent Neural Networks and Recursive Neural Networks?  Related To: Neural Networks
+How many dimensions must the inputs of an RNN layer have? What does each dimension represent? What about its outputs?  Related To: Neural Networks
+Why would you use Encoder-Decoder RNNs vs plain sequence-to-sequence RNNs for automatic translation?  Related To: NLP, Neural Networks
+What's the difference between Traditional Feedforward Networks and Recurrent Neural Networks?  Related To: Neural Networks
+What are the main difficulties when training RNNs? How can you handle them?  Related To: Neural Networks
+What types of Recurrent Neural Networks (RNN) do you know?  Related To: Neural Networks
+What's the difference between Stateful RNN vs Stateless RNN? What are their pros and cons?  Related To: NLP, Neural Networks
+When would you use MLP, CNN, and RNN?  Related To: CNN, Neural Networks
+Explain the intuition behind RNN having a Vanishing Gradient Problem?  Related To: Neural Networks
+Compare Feed-forward and Recurrent Neural Network  Related To: Neural Networks
+How to calculate the output of a Recurrent Neural Network (RNN)?  Related To: Neural Networks
+Explain how a Recurrent Architecture for leveraging visual attention works  Related To: Neural Networks
+How does LSTM compare to RNN?  Related To: Neural Networks
+Why would you want to use 1D convolutional layers in an RNN?  Related To: Neural Networks
+How would you define Random Forest?  Related To: Ensemble Learning
+Explain how the Random Forests give output for Classification, and Regression problems?  
+Does Random Forest need Pruning? Why or why not?  
+What are Ensemble Methods?  Related To: Ensemble Learning
+How is a Random Forest related to Decision Trees?  Related To: Decision Trees, Ensemble Learning
+What are some hyperparameters in Random Forest?  
+How would you find the optimal size of the Bootstrapped Dataset?  
+Is it necessary to do Cross Validation in Random Forest?  
+Is Random Forest an Ensemble Algorithm?  Related To: Ensemble Learning
+How do you determine the Depth of the Individual Trees?  
+How does Random Forest handle missing values?  
+What is Entropy criteria used to split a node?  
+What is Variable Selection and what are its Objectives in Random Forest?  
+How would you improve the performance of Random Forest?  Related To: Feature Engineering
+How is it possible to perform Unsupervised Learning with Random Forest?  Related To: Unsupervised Learning
+Why Random Forest models are considered not interpretable?  
+What is Out-of-Bag Error?  
+How does the number of trees affect the Random Forest model?  
+What does Random refer to in Random Forest?  
+When would you use SVMs over Random Forest and vice-versa?  Related To: SVM
+Explain the advantages of using Random Forest  
+What are some drawbacks of using Random Forest?  
+Explain the concept behind BAGGing  Related To: Ensemble Learning
+What is the difference between OOB score and validation score?  Related To: Decision Trees, Ensemble Learning
+What are proximities in Random Forests?  
+How would you define the criteria to split on at each node of the trees?  
+Why is the training efficiency of Random Forest better than Bagging?  
+What is AdaBoost algorithm?  
+What is the Isolation Forest Algorithm?  Related To: Anomaly Detection
+How are feature_importances_ in RandomForestClassifier determined in Scikit-Learn?  Related To: Scikit-Learn
+How can you tell the importance of features using Random Forest?  
+What is Gini Impurity used to split a node?  
+Imagine that you know there are outliers in your data, would you use Logistic Regression?  Related To: Anomaly Detection, Decision Trees, Logistic Regression
+Give some reasons to choose Random Forests over Neural Networks  Related To: Ensemble Learning, Neural Networks
+What are some advantages of Neural Network over Random Forest?  Related To: Neural Networks
+Explain how it is possible to get feature importance in Random Forest using Out Of Bag Error  
+Does Random Forest suffer from the Curse of Dimensionality?  Related To: Dimensionality Reduction, Curse of Dimensionality
+In Random Forests, how do you optimize the Number of Trees T in the Forest?  Related To: Optimisation
+How would you find the optimal number of random features to consider at each split?  Related To: Ensemble Learning
+Explain a method of Variable Selection for Random Forest  
+What technique would you use to prevent Swamping and Masking for Isolation Forest Anomaly Detection?  Related To: Anomaly Detection
+What are Recommendation Systems?  
+How are Knowledge-based Recommender Systems different from Collaborative and Content-based Recommender Systems?  
+What is the difference between Collaborative and Content based Recommender Systems?  
+What are some Domain-Specific Challenges in Recommender Systems?  
+What are some applications of Recommender Systems?  
+What is a Model-Based Collaborative approach?  
+What are the basic components of a Content-Based System?  Related To: Naïve Bayes
+What is the difference between Personalization Systems, User-Adaptive Systems, and Recommender Systems?  
+What is the basic structure of a Content-Based Recommender System?  
+How would you create a Recommender System for Text Inputs? PY Related To: Python
+How do you use Naive Bayes model for Collaborative Filtering?  Related To: Naïve Bayes
+How do you maintain User Privacy when collecting Data for Recommendation Systems?  
+What are some advantages of using Neighborhood-based approaches for Recommender Systems?  
+How does the Neighborhood-based Recommendation work?  
+What is the difference between Constraint-based Recommender Systems and Case-based Recommender Systems?  
+What is the importance of Multi-Armed Bandit Methods for Computational Advertising?  
+How do you choose between User-Based and Item-Based Neighborhood Recommender System?  
+What are the different types of Memory-Based Collaborative approaches?  
+What are some advantages of Content-Based Recommendation paradigm over Collaborative-Based Recommendation?  
+What are the different methods that you can collect User Data for the Recommendation Process?  
+What are the differences between Computational Advertising and Recommender Systems?  
+How should Recommender Systems work in a Changing Environment?  
+What are the differences between Content-Based and Collaborative Methods in terms of Bias and Variance?  Related To: Bias & Variance
+What is the difference between Factorisation Machines and Matrix Factorisation?  
+What is the difference between Item-Item Collaborative Filtering and Market Basket Analysis?  
+How can SVD be used in Collaborative Filtering in Theory?  
+What algorithm does Google News Personalisation Engine use?  
+What is the difference between Collaborative Quality Filtering and Collaborative Filtering?  
+How do you extend Decision Trees to Collaborative Filtering?  Related To: Decision Trees
+Can SVD work for Recommender Systems?  
+What is Support Vector Machine?  Related To: Supervised Learning
+What is Hyperplane in SVM?  
+What are Support Vectors in SVMs?  
+What are Hard-Margin and Soft-Margin SVMs?  
+What types of SVM kernels do you know?  
+Why would you use the Kernel Trick?  Related To: Classification
+What are some applications of SVMs?  
+Name some advantages of SVM  
+For N dimensional data set what is the minimum possible number of Support Vectors?  
+What happens when there is no clear Hyperplane in SVM?  
+How can less Training Data give Higher Accuracy?  Related To: Data Processing
+What is the Hinge Loss in SVM?  Related To: Classification, Cost Function
+What is the role of C hyperparameter in SVM?  
+While designing an SVM classifier, what values should the designer select?  
+Compare K-Nearest Neighbors (KNN) and SVM  Related To: K-Nearest Neighbors
+What is the difference between Classification and Regression when using SVM?  
+What are the Convex Hulls?  
+How to use one-class SVM for Anomalies Detections?  Related To: Anomaly Detection
+Compare SVM and Logistic Regression in handling outliers  Related To: Anomaly Detection, Logistic Regression
+What is the Kernel Trick?  
+When would you use SVMs over Random Forest and vice-versa?  Related To: Random Forest
+What are some similarities between SVMs and Neural Networks?  Related To: Neural Networks
+What are some differences between SVMs and Neural Networks?  Related To: Neural Networks
+When SVM is not a good approach?  
+What is Ranking SVM?  
+What are Support Vectors?  
+Provide an intuitive explanation of Linear Support Vector Machines (SVMs)  Related To: Classification
+What is Quadratic Optimisation Problem in SVM?  
+What are Polynomial Kernels?  
+What is the difference between a Decision Boundary and a Hyperplane?  
+Does Redundant data affect an SVM-based classifier?  Related To: Data Processing
+Why is the Lagrangian important in SVM?  
+What is the Dual Problem?  
+How does the value of Gamma affect the SVM?  
+How does the value of C affect the SVM?  
+Is there a relation between the Number of Support Vectors and the classifiers performance?  
+Explain the dual form of SVM formulation  
+What is Structured SVM?  
+What is Sequential Minimal Optimization?  Related To: Neural Networks
+Name some advantages of using Support Vector Machines vs Logistic Regression for classification  Related To: Logistic Regression, Classification
+When would you use SVM vs Logistic regression?  Related To: Logistic Regression, Classification
+What are Slack Variables in SVM?  
+What are C and Gamma (γ) with regards to a Support Vector Machine?  
+What are Radial Basis Function Kernels?  
+How would you deal with classification on Non-linearly Separable data?  Related To: Classification
+Can you explain PAC learning theory intuitively?  Related To: Machine Learning
+What is the difference between Deep Learning and SVM?  Related To: Deep Learning
+Can Support Vector Machines be used for Outlier Detection?  Related To: Anomaly Detection
+How does the Algorithm "The 10% You Don't Need" remove the Redundant Data?  Related To: Data Processing
+Does linear SVMs suffer from the Curse of Dimensionality?  Related To: Dimensionality Reduction, Curse of Dimensionality
+What is Mercer's theorem and how is it related to SVM?  
+How do you approximate RBF kernel to scale with large numbers of training samples?  
+Why is SVM not popular nowadays? Also, when did SVM perform poorly?  
+Why does SVM work well in practice, even if the reproduced space is very high dimensional?  
+What is the Probably Approximately Correct learning?  Related To: Machine Learning
+How to select Kernel for SVM?  
+What is Data Leakage and how do you avoid it in Scikit-Learn?  
+How to obtain reproducible results across multiple program executions in Scikit-Learn?  
+What's the difference between GridSearchCV and RandomSearchCV? What is the advantage of each one? 
+What are the basic objects that a ML pipeline should contain?  Related To: Feature Engineering
+What's the problem if you call the fit() method multiple times with different X and y data? How can you overcome this issue?  
+What's the difference between StandardScaler and Normalizer and when would you use each one?  
+What is the difference between Recursive Feature Elimination (RFE) function and SelectFromModel in Scikit-Learn?  
+How would you create Test (20%) and Train (80%) Datasets with Pandas?  Related To: Pandas
+While using KNeighborsClassifier, when would you set weights="distance"?  
+How do you optimize the Ridge Regression parameter?  
+When to use OneHotEncoder vs LabelEncoder in Scikit-Learn?  Related To: Data Processing
+Is max_depth in Scikit-learn the equivalent of pruning in decision trees? If not, how a decision tree is pruned using scikit?  
+What's the difference between StratifiedKFold (with shuffle = True) and StratifiedShuffleSplit in Scikit-Learn?  Related To: Data Processing
+Suppose you have multiple CPU cores available, how can you use them to reduce the computational cost?  
+What's the difference between fit(), transform() and fit_transform()? Why do we need these separate methods?  
+How do you scale data that has many outliers in Scikit-Learn?  
+When would you use Scikit-Learn OneHotEncoder() vs Pandas pd.get_dummies()?   Related To: Pandas
+How would you split Train and Test samples in imbalanced classifications?  
+How are feature_importances_ in RandomForestClassifier determined in Scikit-Learn?  Related To: Random Forest
+What is the difference between cross_validate and cross_val_score in Scikit-Learn?  
+Would you use PCA on large datasets or there is a better alternative?  Related To: PCA
+Are there any advantage of XGBoost over GradientBoostingClassifier?  
+How does sklearn KNeighborsClassifier compute class probabilites when setting weights='uniform'?  
+Can you use SVM with a custom kernel in Scikit-Learn?  
+Does scikit-learn have a forward selection/stepwise regression algorithm?  
+When you would use StratifiedKFold instead of KFold?  
+How does Recursive Feature Elimination (RFE) works in Scikit-learn?  
+When you would use TheilSenRegressor, RANSAC and HuberRegressor?  
+How to adjust the hyperparameters of MLP classifier using GridSearchCV to get more perfect performance?  
+What is Linear Regression?  Related To: Linear Regression
+What are Decision Trees?  Related To: Decision Trees
+What do you understand by the term Supervised Learning?  
+What is Support Vector Machine?  Related To: SVM
+What is a Perceptron?  Related To: Neural Networks, Classification
+What are the two types of problems solved by Supervised Learning?  
+What is the difference between Supervised Learning and Unsupervised Learning?  Related to: Unsupervised Learning
+Why Naive Bayes is called Naive?  Related To: Naïve Bayes, Classification
+What is the difference between KNN and K-means Clustering?  Related To: K-Means Clustering, Unsupervised Learning, Classification
+Explain the structure of a Decision Tree  Related To: Decision Trees
+Define Linear Regression and its structure  Related To: Linear Regression
+Give a real life example of Supervised Learning and Unsupervised Learning  Related To: Unsupervised Learning
+What is Bias in Machine Learning?  Related To: Bias & Variance
+How are the different nodes of decision trees represented?  Related To: Decision Trees
+What is the Bias-Variance tradeoff?  Related To: Bias & Variance
+What is the difference between a Regression problem and a Classification problem?  
+What is k-Nearest Neighbors algorithm?  Related To: K-Nearest Neighbors
+In statistics, what is the difference between Bias and Error?  Related To: Statistics
+What is Cross-Validation and why is it important in supervised learning?  Related To: Data Processing
+What is the difference between a Multiclass problem and a Multilabel problem?  Related To: Clustering
+What is the Bias Error?  Related To: Bias & Variance
+What is the Variance Error?  Related To: Bias & Variance
+What are some challenges faced when using a Supervised Regression Model?  Related To: Linear Regression
+How do you use a supervised Logistic Regression for Classification?  Related To: Logistic Regression, Classification
+What is a Confusion Matrix?  Related To: Model Evaluation, Classification
+How is Gradient Boosting used to improve Supervised Learning?  Related To: Ensemble Learning
+What are some disadvantages of Supervised Learning?  
+What is the difference between Supervised and Unsupervised learning?  Related To: Unsupervised Learning
+Compare Reinforced Learning and Supervised Learning  Related To: Reinforcement Learning
+What is the difference between Gradient Boosting and Adaptive Boosting?  Related To: Decision Trees
+What is Semi-Supervised learning?  
+How do you choose between Supervised and Unsupervised learning?  Related To: Unsupervised Learning
+What is Time Series?  
+How are CNNs used for Time Series Prediction?  Related To: CNN, Neural Networks
+What are some common Data Preparation Operations you would use for Time Series Data?  
+How do you handle Missing Values in Time-Series Data?  
+How the IQR (Interquartile Range) is used in Time Series Forecasting?  Related To: Anomaly Detection
+What is the Sliding Window method for Time Series Forecasting?  
+Why does a Time Series have to be Stationary?  
+What are some real-world applications of Time-Series Forecasting?  
+What does "irregularly spaced spatial data" mean?  
+What are some examples of Time-Series Data which can be Mined?  
+Can Non-Sequential Deep Learning Models outperform Sequential Models in Time-Series Forecasting?  
+If your Time-Series Dataset is very long, what architecture would you use?  
+How is Pearson Correlation used with Time Series?  
+What statistical methods can I use to assess the differences between the time series?  
+List some Advantages of using State-Space Models and Kalman Filter for Time-Series Modelling  
+What is Discrete Wavelet Transform?  
+What would be some reasons that LSTM Models do not improve the Time-Series Forecasting significantly as compared to MLP Models?  
+Why are RNNs (Recurrent Neural Network) better than MLPs at predicting Time Series Data?  Related To: RNN
+How do you Normalise Time-Series Data?  
+What are some different Neural Architectures for predicting Time-Series Values?  
+What are some advantages of using MLP (Multilayer Perceptrons) for Time Series Prediction?  
+How do you mine Contextual Spatial Attributes?  
+Compare some Forecasting Techniques for Stationary and Non-stationary Time-Series  
+What process do you go through to design a Neural Network for Time-Series Forecasting?  
+How would you compare the two Time Series shown below?  
+What is a Moving Average Process? Give some Real-life Examples.  
+What are some Similarity Measures used for Sequence Data?  Related To: Data Mining
+What are some Similarity Measures which can be used with Time Series data?  
+How do you Auto-correlate Discrete and Abstract Time Series Data?  
+Explain briefly the different methods of Noise-Removal for Time-Series Data  
+What are some different ways of Trajectory Patterns Mining?  
+Explain how the Facebook Prophet is used to predict Time-Series Data  
+After you develop a Real-Time Classifier of Time Series Events, how do you know if a Low Power Embedded System can classify events in real-time?  
+Can Hidden Markov Models be used to model Time-Series data?  
+Why does Time-Series have to be Stationary before you can run ARIMA or ARM Models?  
+When would you use Sequential Split of data?   Related To: ML Design Patterns, Data Processing
+Compare State-Space Models and ARIMA models  
+What are some common Machine Learning problems that Unsupervised Learning can help with?  Related To: Feature Engineering
+What are some applications of Unsupervised Learning?  
+What is the difference between Supervised Learning and Unsupervised Learning?  Related To: Supervised Learning
+How Principal Component Analysis (PCA) is used for Dimensionality Reduction?  Related To: Dimension Reduction, PCA
+What is the difference between KNN and K-means Clustering?  Related To: K-Means Clustering, Supervised Learning, Classification
+Give a real life example of Supervised Learning and Unsupervised Learning  Related To: Supervised Learning
+What is the Curse of Dimensionality and how can Unsupervised Learning help with it?  Related To: Dimensionality Reduction, Curse of Dimensionality
+How can Neural Networks be Unsupervised?  Related To: Autoencoders, Neural Networks
+How is it possible to perform Unsupervised Learning with Random Forest?  Related To: Random Forest
+How does K-Means perform Clustering?  Related To: K-Means Clustering
+What is the difference between Supervised and Unsupervised learning?  Related To: Supervised Learning
+What are some differences between Unsupervised Learning and Reinforcement Learning?  
+Describe the approach used in Denoising Autoencoders  Related To: Autoencoders
+What is the difference between the two types of Hierarchical Clustering?  Related To: Clustering
+What are some advantages of using LLE over PCA?  Related To: PCA, Dimensionality Reduction
+What’s the LDA algorithm? Give an example.  
+What is the difference and connection between Clustering and Dimension Reduction?  Related To: Clustering, Dimensionality Reduction
+Why does K-Means have a higher bias when compared to Gaussian Mixture Model?  Related To: Clustering
+Explain the Locally Linear Embedding algorithm for Dimensionality Reduction  Related To: Dimensionality Reduction
+How do you choose between Supervised and Unsupervised learning?  Related To: Supervised Learning
+Can you use Batch Normalisation in Sparse Auto-encoders?  Related To: Autoencoders
+What are the main differences between Sparse Autoencoders and Convolution Autoencoders?  Related To: Autoencoders
+What are some differences between the Undercomplete Autoencoder and the Sparse Autoencoder?  Related To: Autoencoders
+How is PCA used for Anomaly Detection?  Related To: Anomaly Detection, PCA
+Explain how a cluster is formed in the DBSCAN Clustering Algorithm  Related To: Clustering
+How to tell if data is clustered enough for clustering algorithms to produce meaningful results?  Related To: Clustering, K-Means Clustering
+Are GANs unsupervised?  
+
+
