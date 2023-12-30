@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="15">
+            <item index="0" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="1" class="java.lang.String" itemvalue="pytest" />
+            <item index="2" class="java.lang.String" itemvalue="pyzmq" />
+            <item index="3" class="java.lang.String" itemvalue="imutils" />
+            <item index="4" class="java.lang.String" itemvalue="numpy" />
+            <item index="5" class="java.lang.String" itemvalue="pytest-runner" />
+            <item index="6" class="java.lang.String" itemvalue="pylama" />
+            <item index="7" class="java.lang.String" itemvalue="mock" />
+            <item index="8" class="java.lang.String" itemvalue="tox" />
+            <item index="9" class="java.lang.String" itemvalue="fastapi" />
+            <item index="10" class="java.lang.String" itemvalue="azure-function" />
+            <item index="11" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="12" class="java.lang.String" itemvalue="aiohttp" />
+            <item index="13" class="java.lang.String" itemvalue="azure-cosmos" />
+            <item index="14" class="java.lang.String" itemvalue="azure-functions" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
