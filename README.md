@@ -15,7 +15,7 @@
 
 
 
-| ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
+| ![space-1.jpg](./Img/logo.jpg) | 
 |:--:| 
 | Image Credits [Wallpaper Flare](https://www.wallpaperflare.com/programming-is-an-art-text-code-python-computer-python-programming-wallpaper-srfia) |
 
@@ -48,7 +48,7 @@
 Follow the steps down below to get started coding in python!!!
 
 <p align="center"> 
-<img src = "https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/Python.PNG">
+<img src = "./Img/Python.PNG">
 </p>
 
 
@@ -57,20 +57,20 @@ Follow the steps down below to get started coding in python!!!
 <details>
   <summary>Chapter 1️⃣ ⮕ Basic Concepts</summary>
 
- - <b>[Python Input, Output and Import functions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Input%2C_Output_and_Import.ipynb)</b>
+ - <b>[Python Input, Output and Import functions](./Python_Input%2C_Output_and_Import.ipynb)</b>
  
- - <b>[Python Variables](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Variables.ipynb)</b>
-   * <b>[Python Global, Local and Nonlocal Variables](https://github.com/Tanu-N-Prabhu/Python/blob/master/Global%2C_Local_and_Nonlocal_variables_in_Python.ipynb)</b>
+ - <b>[Python Variables](./Python_Variables.ipynb)</b>
+   * <b>[Python Global, Local and Nonlocal Variables](./Global%2C_Local_and_Nonlocal_variables_in_Python.ipynb)</b>
    
- - <b>[Python Strings](https://github.com/Tanu-N-Prabhu/Python/tree/master/Strings)</b>
+ - <b>[Python Strings](./Strings/Strings.ipynb)</b>
  
- - <b>[Python Lists](https://github.com/Tanu-N-Prabhu/Python/tree/master/Lists)</b> 
+ - <b>[Python Lists](./Lists/Lists.ipynb)</b> 
  
- - <b>[Python Tuples](https://github.com/Tanu-N-Prabhu/Python/tree/master/Tuples)</b>
+ - <b>[Python Tuples](./Tuples/Tuples.ipynb)</b>
  
- -  <b>[Python Dictionary](https://github.com/Tanu-N-Prabhu/Python/tree/master/Dictionary%20)</b>
+ -  <b>[Python Dictionary](./Dictionary/Python_Dictionary.ipynb)</b>
  
- - <b>[Python Operators](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Operators.ipynb)</b>
+ - <b>[Python Operators](./Python_Operators.ipynb)</b>
 
 </details>
 
@@ -78,68 +78,68 @@ Follow the steps down below to get started coding in python!!!
 <details>
   <summary>Chapter 2️⃣ ⮕ Built-in Functions</summary>
 
- - <b>[Python Input, Output and Import built-in-functions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Input%2C_Output_and_Import.ipynb)</b>
+ - <b>[Python Input, Output and Import built-in-functions](./Python_Input%2C_Output_and_Import.ipynb)</b>
  
- - <b>[Eval built-in-function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Eval_built_in_function.ipynb)</b>
+ - <b>[Eval built-in-function](./Eval_built_in_function.ipynb)</b>
    
- - <b>[Range built-in-function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Range_built_in_function.ipynb)</b>
+ - <b>[Range built-in-function](./Range_built_in_function.ipynb)</b>
  
- - <b>[Python Lambda Function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Lambda_Function.ipynb)</b>
+ - <b>[Python Lambda Function](./Python_Lambda_Function.ipynb)</b>
  
- - <b>[Python Enumerate Function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_enumerate()_built_in_function.ipynb)</b>
+ - <b>[Python Enumerate Function](./Python_enumerate()_built_in_function.ipynb)</b>
  
- - <b>[Python len function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_len()_built_in_function.ipynb)</b>  
+ - <b>[Python len function](./Python_len()_built_in_function.ipynb)</b>  
  
 </details>
 
 <details>
   <summary>Chapter 3️⃣ ⮕ Libraries</summary>
 
- - <b>[Numpy library](https://github.com/Tanu-N-Prabhu/Python/tree/master/Numpy)</b>
+ - <b>[Numpy library](./Numpy)</b>
  
- - <b>[Pandas library](https://github.com/Tanu-N-Prabhu/Python/tree/master/Pandas)</b>
+ - <b>[Pandas library](./Pandas)</b>
    
- - <b>[Math Module](https://github.com/Tanu-N-Prabhu/Python/blob/master/Learn_the_Python_Math_Module.ipynb)</b>
+ - <b>[Math Module](./Learn_the_Python_Math_Module.ipynb)</b>
  
- - <b>[JSON library](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_handle_JSON_in_Python%3F.ipynb)</b>
+ - <b>[JSON library](./How_to_handle_JSON_in_Python%3F.ipynb)</b>
 
 </details>
 
 <details>
   <summary>Chapter 4️⃣ ⮕ API's</summary>
 
- - <b>[Google Translate API for Python](https://github.com/Tanu-N-Prabhu/Python/tree/master/Google%20Translate%20API)</b>
+ - <b>[Google Translate API for Python](./Google%20Translate%20API)</b>
  
- - <b>[Google Trends API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Google_Trends_API.ipynb)</b>
+ - <b>[Google Trends API for Python](./Google_Trends_API.ipynb)</b>
    
- - <b>[Wikipedia API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Wikipedia_API_for_Python.ipynb)</b>
+ - <b>[Wikipedia API for Python](./Wikipedia_API_for_Python.ipynb)</b>
  
- - <b>[Google Search API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/The_two_Google_Search_Python_Libraries_you_should_never_miss.ipynb)</b>
+ - <b>[Google Search API for Python](./The_two_Google_Search_Python_Libraries_you_should_never_miss.ipynb)</b>
 
 </details>
 
 <details>
   <summary>Chapter 5️⃣ ⮕ Additional Materials</summary>
 
- - <b>[How to get started coding in Python?](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_get_started_coding_in_Python%3F.ipynb)</b>
+ - <b>[How to get started coding in Python?](./How_to_get_started_coding_in_Python%3F.ipynb)</b>
  
- - <b>[Is Python Object Oriented?](https://github.com/Tanu-N-Prabhu/Python/blob/master/Is_Python_object_oriented%3F.ipynb)</b>
+ - <b>[Is Python Object Oriented?](./Is_Python_object_oriented%3F.ipynb)</b>
  
- - <b>[Speech Recognition using Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Speech_Recognition_using_Python.ipynb)</b>
+ - <b>[Speech Recognition using Python](./Speech_Recognition_using_Python.ipynb)</b>
  
- - <b>[One-Hot encoding in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Learning_One_Hot_Encoding_in_Python_the_Easy_Way.ipynb)</b>
+ - <b>[One-Hot encoding in Python](./Learning_One_Hot_Encoding_in_Python_the_Easy_Way.ipynb)</b>
  
- - <b>[Reading An Image In Python (Without Using Special Libraries)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Reading_An_Image_In_Python_(Without_Using_Special_Libraries).ipynb)</b>
+ - <b>[Reading An Image In Python (Without Using Special Libraries)](./Reading_An_Image_In_Python_(Without_Using_Special_Libraries).ipynb)</b>
  
- - <b>[Rendering Images inside a Pandas DataFrame](https://github.com/Tanu-N-Prabhu/Python/blob/master/Rendering_Images_inside_a_Pandas_DataFrame.ipynb)</b>
+ - <b>[Rendering Images inside a Pandas DataFrame](./Rendering_Images_inside_a_Pandas_DataFrame.ipynb)</b>
  
- - <b>[Using the Pandas Data Frame as a Database](https://github.com/Tanu-N-Prabhu/Python/blob/master/Using_the_Pandas_Data_Frame_as_a_Database_.ipynb)</b>
+ - <b>[Using the Pandas Data Frame as a Database](./Using_the_Pandas_Data_Frame_as_a_Database_.ipynb)</b>
  
- - <b>[Using the Pandas DataFrame in Day-To-Day Life](https://github.com/Tanu-N-Prabhu/Python/blob/master/Using_the_Pandas_DataFrame_in_Day_To_Day_Life.ipynb)</b>
+ - <b>[Using the Pandas DataFrame in Day-To-Day Life](./Using_the_Pandas_DataFrame_in_Day_To_Day_Life.ipynb)</b>
  
- - <b>[Presenting Python code using RISE](https://github.com/Tanu-N-Prabhu/Python/blob/master/Presenting_Python_code_using_RISE.ipynb)</b>
+ - <b>[Presenting Python code using RISE](./Presenting_Python_code_using_RISE.ipynb)</b>
  
- - <b>[Cheat Sheet for Google Colab](https://github.com/Tanu-N-Prabhu/Python/blob/master/Cheat_sheet_for_Google_Colab.ipynb)</b>
+ - <b>[Cheat Sheet for Google Colab](./Cheat_sheet_for_Google_Colab.ipynb)</b>
  
 </details>
 
@@ -147,30 +147,30 @@ Follow the steps down below to get started coding in python!!!
 <details>
   <summary>Chapter 6️⃣ ⮕ Exercises</summary>
 
- - <b>[String Concatenation Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/String_Concatenation_Exercise_Questions.ipynb)</b>
-   * <b>[String Concatenation Answers](https://github.com/Tanu-N-Prabhu/Python/blob/master/String_Concatenation_Exercise_Answers.ipynb)</b>
+ - <b>[String Concatenation Questions](./String_Concatenation_Exercise_Questions.ipynb)</b>
+   * <b>[String Concatenation Answers](./String_Concatenation_Exercise_Answers.ipynb)</b>
    
- - <b>[Built-In Functions Exercise Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Built_In_Functions_Exercise_Questions.ipynb)</b>
+ - <b>[Built-In Functions Exercise Questions](./Built_In_Functions_Exercise_Questions.ipynb)</b>
  
 </details>
 
 <details>
   <summary>Chapter 7️⃣ ⮕ Quiz</summary>
 
- - <b>[Quiz - 1](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_1.ipynb)</b>
+ - <b>[Quiz - 1](./Quiz/Python_Quiz_1.ipynb)</b>
    
- - <b>[Quiz - 2](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_2.ipynb)</b>
+ - <b>[Quiz - 2](./Quiz/Python_Quiz_2.ipynb)</b>
  
- - <b>[Quiz - 3](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_3.ipynb)</b>
+ - <b>[Quiz - 3](./Quiz/Python_Quiz_3.ipynb)</b>
  
 </details>
 
 <details>
   <summary>Chapter 8️⃣ ⮕ Interview Preparation</summary>
 
- - <b>[Python Coding Interview Questions (Beginner to Advanced)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md)</b>
+ - <b>[Python Coding Interview Questions (Beginner to Advanced)](./Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md)</b>
  
- - <b>[35 Python interview questions for experienced](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/35%20Python%20interview%20questions%20for%20experienced.md)</b>
+ - <b>[35 Python interview questions for experienced](./Python%20Coding%20Interview%20Prep/35%20Python%20interview%20questions%20for%20experienced.md)</b>
    
 
 </details>
@@ -194,7 +194,7 @@ Follow the steps below to get started learning Data Science!!!
 <details>
   <summary>Data Exploration</summary>
 
- - <b>[Loading a File using Pandas](https://github.com/Tanu-N-Prabhu/Python/blob/master/data_load.md)</b>
+ - <b>[Loading a File using Pandas](./data_load.md)</b>
  
  
 </details>
@@ -203,9 +203,9 @@ Follow the steps below to get started learning Data Science!!!
 <details>
   <summary>Data Scraping from the Web</summary>
 
- - <b>[Scraping Two YouTube Accounts - PewDiePie vs T-Series](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Scraping%20from%20the%20Web/Scraping%20YouTube%20accounts%20with%20python.ipynb)</b>
+ - <b>[Scraping Two YouTube Accounts - PewDiePie vs T-Series](./Data%20Scraping%20from%20the%20Web/Scraping%20YouTube%20accounts%20with%20python.ipynb)</b>
  
- - <b>[Scraping Rate My Professor Website - My Graduate Professor](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Scraping%20from%20the%20Web/Web_Scraping_Rate_My_Professor_Website.ipynb)</b>
+ - <b>[Scraping Rate My Professor Website - My Graduate Professor](./Data%20Scraping%20from%20the%20Web/Web_Scraping_Rate_My_Professor_Website.ipynb)</b>
 
  - <b>[Scraping Pick Up Lines from the Knot]()</b>
  
@@ -252,7 +252,7 @@ Follow the steps below to get started learning Data Science!!!
 
 # HackerRank Exercises - Solved
 
-1) [HackerRank Exercise Solved](https://github.com/Tanu-N-Prabhu/Python/tree/master/Hacker_Rank_Exercises)
+1) [HackerRank Exercise Solved](./Hacker_Rank_Exercises)
 
 
 ---

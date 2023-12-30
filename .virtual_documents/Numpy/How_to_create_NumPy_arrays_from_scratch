@@ -1,0 +1,264 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+import numpy
+print(numpy.__version__)
+
+
+
+
+
+import numpy as np
+print(np.__version__)
+
+
+
+
+
+
+
+
+
+
+
+import array
+# Creating an array
+print(array.array('i', [1, 2, 3, 4, 5]))
+
+
+
+
+
+import array
+# Creating an array
+print(array.array('i', [1, 2.0, 3, 4, 5]))
+
+
+
+
+
+
+
+
+import numpy as np
+# Creating a list named "a"
+a = [1, 2, 3, 4, 5]
+print(type(a))
+
+
+# Creating a numpy array from the list
+print(np.array(a))
+
+
+print(type(np.array(a)))
+
+
+
+
+
+import numpy as np
+# Creating a list named "a"
+a = [1, 2.0, 3, 4, 5]
+print(type(a))
+
+
+# Creating a numpy array from the list
+print(np.array(a))
+
+
+print(type(np.array(a)))
+
+
+
+
+
+
+
+
+import numpy as np
+# Creating a list named "a"
+a = [1, 2, 3, 4, 5]
+# Creating a numpy array from the list
+np.array(a, dtype='float64')
+print(np.array(a, dtype='float64'))
+
+
+
+
+
+import numpy as np
+# Creating a list named "a"
+a = [1, 2, 3, 4, 5]
+# Creating a numpy array from the list
+np.array([range(i, i + 4) for i in a])
+
+
+
+
+
+
+
+
+import numpy as np
+# Creating a numpy array of zeros of length 5
+print(np.zeros(5, dtype='int'))
+
+
+
+
+
+
+
+
+import numpy as np
+# Creating a numpy array of 1’s which should have 3 rows and 4 columns
+print(np.ones((3, 4)))
+
+
+
+
+
+
+
+
+import numpy as np
+# Creating a numpy array of 500’s which should have 3 rows and 4 columns
+print(np.full((3, 4), 500))
+
+
+
+
+
+
+
+
+import numpy as np
+# Create a 3x3 array of uniformly distributed 
+# random values between 0 and 1
+print(np.random.random((3, 3)))
+
+
+
+
+
+
+
+
+import numpy as np
+# Create a random number arrays of size 5
+np.random.seed(0)
+print(np.random.random(5))
+
+
+
+
+
+import numpy as np
+# Create a random number arrays of size 5
+np.random.seed(1)
+print(np.random.random(5))
+
+
+print(np.random.random(5))
+
+
+np.random.seed(1)
+print(np.random.random(5))
+
+
+
+
+
+
+
+
+import numpy as np
+np.random.seed(-1)
+
+
+
+
+
+import numpy as np
+# Create a 3x3 array of normally distributed random values
+# with mean 0 and standard deviation 1
+print(np.random.normal(0, 1, (3, 3)))
+
+
+
+
+
+
+
+
+import numpy as np
+# Create a identity matrix of 4 rows and 4 columns
+print(np.eye(4))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+u=np.array([1,2,3])
+v=np.array([4,5,6])
+print(u*v)
+
+
+
+
+
+dot_product=np.dot(u,v)
+print(dot_product)
+
+
+
+
+
+u_broadcasted=u+1
+
+
+
+
+
+minimum_element_of_u=u.min()
+maximum_element_of_u=u.max()
+print(minimum_element_of_u,maximum_element_of_u)
+
+
+
+
+
+print("mean of matrix u is ",u.mean())
+
+
+
+
+
+print("standard deviation of matrix u is ",u.std())
