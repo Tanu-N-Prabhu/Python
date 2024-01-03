@@ -27,6 +27,9 @@ Coffeescript/C++/Go/JavaScript/Julia/PHP/Python/Ruby/TypeScript: MORSE_CODE['.--
 
 All the test strings would contain valid Morse code, so you may skip checking for errors and exceptions. In C#, tests will fail if the solution code throws an exception, please keep that in mind. This is mostly because otherwise the engine would simply ignore the tests, resulting in a "valid" solution.
 """
+import unittest
+
+
 MORSE_CODE = {'.-': 'A', '-...': 'B', '-.-.': 'C', '-..': 'D', '.': 'E', '..-.': 'F',
               '--.': 'G', '....': 'H', '..': 'I', '.---': 'J', '-.-': 'K', '.-..': 'L',
               '--': 'M', '-.': 'N', '---': 'O', '.--.': 'P', '--.-': 'Q', '.-.': 'R',
@@ -34,13 +37,15 @@ MORSE_CODE = {'.-': 'A', '-...': 'B', '-.-.': 'C', '-..': 'D', '.': 'E', '..-.':
               '-.--': 'Y', '--..': 'Z', '-----': '0', '.----': '1', '..---': '2',
               '...--': '3', '....-': '4', '.....': '5', '-....': '6', '--...': '7',
               '---..': '8', '----.': '9', '.-.-.-': '.', '--..--': ',', '..--..': '?',
-              '.----.': "'", '-.-.--': '!', '-..-.': '/', '-.--.': '(', '-.--.-': ')'}
+              '.----.': "'", '-.-.--': '!', '-..-.': '/', '-.--.': '(', '-.--.-': ')',
+              '...-..-': "$", '.-...': '&', '---...': ':', '-.-.-.': ';', '-...-': '=',
+              '...---...': 'SOS'}
 
 
 def decode_morse(morse_code):
     """Decodes Morse code into human-readable text."""
     words = morse_code.strip().split("   ")  # Split into words
-    decoded_words = []
+    decoded_words = [] # result list
     for word in words:
         letters = word.split(" ")  # Split word into letters
         # join the letters in a string to form a word
@@ -55,3 +60,39 @@ def decode_morse(morse_code):
 encoded_message = ".... . -.--   .--- ..- -.. ."
 decoded_message = decode_morse(encoded_message)
 print(decoded_message)  # Output: HEY JUDE
+
+
+class TestDecodeMorse(unittest.TestCase):
+    def test_decode_morse(self):
+        self.assertEqual(decode_morse('.... . -.--   .--- ..- -.. .'), 'HEY JUDE')
+        self.assertEqual(decode_morse('.-'), 'A')
+        self.assertEqual(decode_morse('--...'), '7')
+        self.assertEqual(decode_morse('...-..-'), '$')
+        self.assertEqual(decode_morse('.'), 'E')
+        self.assertEqual(decode_morse('..'), 'I')
+        self.assertEqual(decode_morse('. .'), 'EE')
+        self.assertEqual(decode_morse('.   .'), 'E E')
+        self.assertEqual(decode_morse('...-..- ...-..- ...-..-'), '$$$')
+        self.assertEqual(decode_morse('----- .---- ..--- ---.. ----.'), '01289')
+        self.assertEqual(decode_morse('.-... ---...   -..-. --...'), '&: /7')
+        self.assertEqual(decode_morse('...---...'), 'SOS')
+        self.assertEqual(decode_morse('... --- ...'), 'SOS')
+        self.assertEqual(decode_morse('...   ---   ...'), 'S O S')
+        self.assertEqual(decode_morse(' . '), 'E')
+        self.assertEqual(decode_morse('   .   . '), 'E E')
+        self.assertEqual(decode_morse(
+            '      ...---... -.-.--   - .... .   --.- ..- .. -.-. -.-   -... .-. --- '
+            '.-- -.   ..-. --- -..-   .--- ..- -- .--. ...   --- ...- . .-.   - .... .'
+            '   .-.. .- --.. -.--   -.. --- --. .-.-.-  '),
+            'SOS! THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.')
+
+        # Add more test cases as needed
+
+
+if __name__ == '__main__':
+    test_decode_morse = TestDecodeMorse()
+    TestDecodeMorse.test_decode_morse(self=test_decode_morse)
+
+
+
+
