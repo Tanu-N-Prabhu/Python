@@ -35,7 +35,7 @@
 |[Jupyter Notebook](https://jupyter.org/install)|
 |[Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)|
 
-> I personally use Google Colab for python programming. It's one of the best interactive tool in the world. I like it because I can provide more documentation to the code and write some quality tutorials.</p>
+> I use Google Colab for Python programming. It's one of the best interactive tools in the world. I like it because I can provide more documentation to the code and write some quality tutorials.</p>
 
 
 
@@ -45,7 +45,7 @@
 
 # Python Coding
 
-Follow the steps down below to get started coding in python!!!
+Follow the steps down below to get started coding in Python!!!
 
 <p align="center"> 
 <img src = "https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/Python.PNG">
@@ -140,6 +140,8 @@ Follow the steps down below to get started coding in python!!!
  - <b>[Presenting Python code using RISE](https://github.com/Tanu-N-Prabhu/Python/blob/master/Presenting_Python_code_using_RISE.ipynb)</b>
  
  - <b>[Cheat Sheet for Google Colab](https://github.com/Tanu-N-Prabhu/Python/blob/master/Cheat_sheet_for_Google_Colab.ipynb)</b>
+
+ - <b>[Pick-Up Line Generator using Python Dictionaries]()</b>
  
 </details>
 
@@ -327,7 +329,7 @@ If you have access to ChatGPT premium, there is a GPT Librarian with access to a
 
 # Version
 
-<b> Version 14 - Last Updated on October 15, 2023 - 3:49 PM <b>
+<b> Version 14 - Last Updated on Jan 07, 2024 - 7:46 PM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
