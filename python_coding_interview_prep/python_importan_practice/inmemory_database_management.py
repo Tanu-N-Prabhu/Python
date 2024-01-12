@@ -30,6 +30,7 @@ def solution(queries):
                 value = sublist[3]
 
                 # Update the in-memory database with the key-value pair.
+                # is using a tuple (key, field) pair as a key in a dictionary
                 temp[(key, field)] = str(value)
 
                 # Append the value to the result list.
