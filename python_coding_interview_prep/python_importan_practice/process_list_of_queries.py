@@ -19,41 +19,28 @@ def solution(queries):
     result = []
 
     # Check if queries list is not empty
-    if queries != []:
+    if queries:
         # Iterate through each sublist in queries
-        for sublist in queries:
-            # Extract key and value from the current sublist
-            key, value = sublist[0], sublist[1]
-
+        for key, value in queries:
             # Add operation: Add value to the temporary list if conditions are met
             if key.lower() == "add" and -100 <= int(value) <= 100:
                 temp.append(int(value))
-                temp = sorted(temp)  # Sort the temporary list
+                temp.sort()  # Sort the temporary list
                 result.append("")  # Append an empty string to the result list
 
             # Exists operation: Check if the value exists in the temporary list
             elif key.lower() == "exists":
-                if int(value) in temp:
-                    result.append("true")
-                else:
-                    result.append("false")
+                result.append("true" if int(value) in temp else "false")
 
             # Get_next operation: Find the next bigger element in the temporary list
             elif key.lower() == "get_next":
                 find_bigger = lambda x: next((element for element in temp if element > x), None)
-                bigger = find_bigger(int(value))
-                if bigger is not None:
-                    result.append(str(bigger))
-                else:
-                    result.append("")
+                result.append(str(find_bigger(int(value))) if find_bigger(int(value)) is not None else "")
 
             # Remove operation: Remove the value from the temporary list if it exists
             elif key.lower() == "remove":
-                if int(value) in temp:
-                    temp.remove(int(value))
-                    result.append("true")
-                else:
-                    result.append("false")
+                # after successfully removed the value it must return None
+                result.append("true" if int(value) in temp and temp.remove(int(value)) is None else "false")
 
     # Return the result list
     return result

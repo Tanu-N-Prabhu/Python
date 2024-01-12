@@ -39,6 +39,7 @@ def solution(queries):
             # Process "get" command.
             elif command.lower() == "get":
                 # Retrieve the value for the specified key and field from the database.
+                # if not found matched key then send empty string
                 result.append(temp.get((key, field), ""))
 
             # Process "delete" command.
