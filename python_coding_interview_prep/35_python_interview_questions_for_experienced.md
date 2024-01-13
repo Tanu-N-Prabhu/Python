@@ -83,6 +83,7 @@ print(days.count('M'))
 days = ['S','M','M','M','F','S']
 y = set(days)
 
+# this is just like value_counts() in pandas and Counter in dict
 print([[x,days.count(x)] for x in y])
 
 > [['M', 3], ['S', 2], ['F', 1]]
