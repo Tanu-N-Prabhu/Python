@@ -1,4 +1,4 @@
-# Python Coding Interview Prepration 2022
+# Python Coding Interview Preparation 2024
 ## Last Minute Python Review
 | ![space-1.jpg](https://www.omadasearch.com/wp-content/uploads/2020/03/Interview.png) | 
 |:--:| 
