@@ -20,6 +20,7 @@
 
 6. [Assigning Candies to Children Problem with Solution](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Children_with_candy.ipynb)
 
+7. [Basic Calculator](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Basic_calculator.ipynb)
 
 
 
@@ -32,4 +33,5 @@
 
 
 
-> Note - This page is really dynamic, new contents and snippets will be added every hour/day. Stay Tuned!
+
+> Note - This page is dynamic, new content and snippets will be added every hour/day. Stay Tuned!
