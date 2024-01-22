@@ -24,7 +24,7 @@
 
 8. [Text Justification](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Text_Justification.ipynb)
 
-
+9. [Removing an Element](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Remove_Element.ipynb)
 
 
 
