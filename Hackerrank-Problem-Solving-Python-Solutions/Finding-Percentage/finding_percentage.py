@@ -51,4 +51,4 @@ if __name__ == '__main__':
     query_name = input()
     
     # Print the average of the marks obtained by the particular student correct to 2 decimal places.
-    print("{:.2f}".format(sum(student_marks[query_name])/3))
+    print("{:.2f}".format(sum(student_marks[query_name])/len(student_marks[query_name])))

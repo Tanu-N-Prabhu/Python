@@ -1,0 +1,10 @@
+$ar = []
+$('.challengecard-title>.js-track-click').each(function(){
+   $title = $(this).html().trim();
+   $title = $title.toString().replace(/"/g,'');
+   $title = $title.replace(/'/g,'');
+   $ar.push($title);
+})
+$subdomain = $('.current>a').html().trim();
+console.log($subdomain);
+console.log($ar);

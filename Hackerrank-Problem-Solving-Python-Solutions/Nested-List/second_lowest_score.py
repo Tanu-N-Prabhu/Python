@@ -82,7 +82,8 @@ if __name__ == '__main__':
     sorted_python_students = sorted(python_students, key=lambda x: (x[sorting_element_index], x[0]))
 
     # Find the second lowest score
-    second_lowest_value = sorted(set(score for name, score in sorted_python_students))[sorting_element_index]
+    # second_lowest_value = sorted(set(score for name, score in sorted_python_students))[sorting_element_index]
+    second_lowest_value = sorted(set(score for _, score in sorted_python_students))[sorting_element_index]
 
     # Create a list of names for students with the second lowest score
     result = [name for name, score in sorted_python_students if score == second_lowest_value]
