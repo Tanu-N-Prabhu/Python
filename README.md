@@ -173,6 +173,22 @@ Follow the steps down below to get started coding in Python!!!
  - <b>[Python Coding Interview Questions (Beginner to Advanced)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md)</b>
  
  - <b>[35 Python interview questions for experienced](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/35%20Python%20interview%20questions%20for%20experienced.md)</b>
+
+- <b> [Python Interview Questions - Strings](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Interview_Questions_and_Answers_Strings.md)</b>
+
+ - <b> [Python Theoretical Interview Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Theoritical_Interview_Questions.md)</b>
+
+
+- <b> [15 Python Interview Questions and Answers](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/15_Python_Interview_Questions_and_Answers.md) </b>
+
+- <b>[Assigning Candies to Children Problem with Solution](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Children_with_candy.ipynb)</b>
+
+- <b>[Basic Calculator](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Basic_calculator.ipynb)</b>
+
+- <b> [Text Justification](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Text_Justification.ipynb)</b>
+
+- <b>[Removing an Element](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Remove_Element.ipynb)</b>
+
    
 
 </details>
