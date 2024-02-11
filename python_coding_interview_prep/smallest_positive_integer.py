@@ -23,7 +23,7 @@ each element of array A is an integer within the range [−1,000,000..1,000,000]
 
 def solution(A):
     if 1 <= len(A) <= 100000:
-        all_in_range = all(1 <= x <= 1000000 for x in A)
+        all_in_range = all(-1000000 <= x <= 1000000 for x in A)
         if all_in_range:
             positive_integers = set(x for x in A if x > 0)
 
