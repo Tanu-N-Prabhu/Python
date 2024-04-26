@@ -1,27 +1,36 @@
 import asyncio
 import time
 
+# Example 1
+async def main1():
+    """
+    Demonstrates a basic async function.
+    """
+    start = time.time()
+    print(f'hello {start}')
+    await asyncio.sleep(.1)
+    print('world')
 
-# eg. 1
-async def main():
-	start = time.time()
-	print('hello')
-	await asyncio.sleep(.1)
-	print('world')
+# asyncio.run(main1())
 
-# asyncio.run(main())
+# Example 2
+async def count():
+    """
+    Prints numbers asynchronously.
+    """
+    print("One")
+    await asyncio.sleep(1)
+    print("Two")
 
-# eg. 2
-# async def count():
-#     print("One")
-#     await asyncio.sleep(1)
-#     print("Two")
-
-# async def main():
-#     await asyncio.gather(count(), count(), count())
+async def main2():
+    """
+    Runs multiple 'count' coroutines concurrently.
+    """
+    await asyncio.gather(count(), count(), count())
 
 if __name__ == "__main__":
-    s = time.perf_counter()
-    asyncio.run(main())
-    elapsed = time.perf_counter() - s
-    print(f"{__file__} executed in {elapsed:0.2f} seconds.")
+    asyncio.run(main1())
+    start_time = time.perf_counter()
+    asyncio.run(main2())
+    elapsed_time = time.perf_counter() - start_time
+    print(f"{__file__} executed in {elapsed_time:0.2f} seconds.")

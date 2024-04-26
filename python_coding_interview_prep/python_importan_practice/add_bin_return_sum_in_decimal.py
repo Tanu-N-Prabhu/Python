@@ -30,3 +30,14 @@ print(result2)  # Should print 15 (1111 + 10 = 15 in decimal)
 
 result3 = add_binary(1, 0)
 print(result3)
+
+# also possible witout using bin() function
+dec = 10
+binary = ""
+
+while dec > 0:
+    binary = str(dec % 2) + binary
+    dec = dec // 2
+
+print(binary)
+
