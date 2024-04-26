@@ -72,9 +72,11 @@ class Solution:
                     right -= 1
                 elif total < 0:
                     # The sum is too small, move the left pointer to the right
+                    # as numbers are sorted in asc order
                     left += 1
                 else:
                     # The sum is too large, move the right pointer to the left
+                    # as mumber as sorted in asc order
                     right -= 1
 
         return result

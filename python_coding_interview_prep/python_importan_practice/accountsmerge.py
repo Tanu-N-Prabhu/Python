@@ -38,35 +38,54 @@ accounts[i][0] consists of English letters.
 accounts[i][j] (for j > 0) is a valid email.
 """
 from collections import defaultdict
+from typing import List
 
 
 class Solution:
-    def accountsMerge(self, accounts: List[List[str]) -> List[List[str]]:
+    """
+    This solution uses a graph to represent the accounts.
+    The graph is represented by a dictionary where the keys are the emails and the values are the emails
+    """
+    def accountsMerge(self, accounts: List[List[str]]) -> List[List[str]]:
+        # Depth-first search function to traverse connected emails
         def dfs(email, component):
-            visited.add(email)
-            component.append(email)
-            for neighbor in graph[email]:
-                if neighbor not in visited:
-                    dfs(neighbor, component)
+            visited.add(email)  # Mark email as visited
+            component.append(email)  # Add email to the current component
+            for neighbor in graph[email]:  # Traverse neighbors of the current email
+                if neighbor not in visited:  # If neighbor is not visited
+                    dfs(neighbor, component)  # Recursively traverse neighbor
 
-        email_to_name = {}
-        graph = defaultdict(list)
+        email_to_name = {}  # Dictionary to map email to name
+        graph = defaultdict(list)  # Graph to represent connections between emails
 
+        # Populate email_to_name and graph
         for account in accounts:
             name = account[0]
             for email in account[1:]:
-                graph[email].append(account[1])
-                graph[account[1]].append(email)
-                email_to_name[email] = name
+                graph[email].append(account[1])  # Add edge between email and account's first email
+                graph[account[1]].append(email)  # Add edge between account's first email and email
+                email_to_name[email] = name  # Map email to name
 
-        visited = set()
-        result = []
+        visited = set()  # Set to store visited emails
+        result = []  # List to store merged accounts
 
+        # Traverse each email in the graph
         for email in graph:
-            if email not in visited:
-                component = []
-                dfs(email, component)
+            if email not in visited:  # If email is not visited
+                component = []  # Initialize component for the current email
+                dfs(email, component)  # Traverse connected emails
+                # Append merged account to result list
                 result.append([email_to_name[email]] + sorted(component))
 
-        return result
+        return result  # Return merged accounts
 
+
+if __name__ == '__main__':
+    accounts = [
+        ["John","johnsmith@mail.com","john_newyork@mail.com"],
+        ["John","johnsmith@mail.com","john00@mail.com"],
+        ["Mary","mary@mail.com"],
+        ["John","johnnybravo@mail.com"]
+        ]
+    # Print the merged accounts using Solution class
+    print(Solution().accountsMerge(accounts))
