@@ -8,7 +8,17 @@
 
 
 def binary_search(lo, hi, condition):
-    """TODO - add docs"""
+    """
+    Performs binary search to find the index of an element that meets a specified condition.
+
+    Parameters:
+    lo (int): The lower bound index of the search range.
+    hi (int): The upper bound index of the search range.
+    condition (function): A function that takes the index as input and returns 'found', 'left', or 'right' based on the search condition.
+
+    Returns:
+    int: The index of the element that meets the condition, or -1 if not found.
+    """
     while lo <= hi:
         mid = (lo + hi) // 2
         result = condition(mid)
@@ -23,6 +33,16 @@ def binary_search(lo, hi, condition):
 
 # decorator
 def locate_card(cards, query):
+    """
+    Locates the position of a query element within a sorted list using binary search.
+
+    Parameters:
+    cards (List[int]): A sorted list of integers representing cards.
+    query (int): The integer to search for within the list.
+
+    Returns:
+    int: The index of the query element in the list, or -1 if not found.
+    """
     def condition(mid):
         if cards[mid] == query:
             if mid > 0 and cards[mid-1] == query:
@@ -44,5 +64,4 @@ test = {
        },
        'output': 3
     }
-
 print(locate_card(**test['input']) == test['output'])

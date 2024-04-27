@@ -22,8 +22,9 @@ The number of nodes in the tree is in the range [1, 104].
 -231 <= Node.val <= 231 - 1
 """
 
-
 from collections import deque
+from typing import List
+
 
 # Definition for a binary tree node.
 class TreeNode:

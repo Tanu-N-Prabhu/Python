@@ -34,10 +34,15 @@ class Solution:
         max_profit = 0
 
         for price in prices:
+            # if price is less than min_price, update min_price
             if price < min_price:
                 min_price = price
+                print(f'min_price {min_price}')
+            # if price is greater than min_price, update max_profit
             else:
+                # Update max_profit if current price is greater
                 max_profit = max(max_profit, price - min_price)
+                print(f'max_profit {max_profit}')
 
         return max_profit
 
