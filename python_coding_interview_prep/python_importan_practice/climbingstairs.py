@@ -31,12 +31,17 @@ class Solution:
         if n <= 2:
             return n
 
+        # Initialize the DP array with 0s
         dp = [0] * (n + 1)
+        # Fill the first two positions with 1s
         dp[1] = 1
         dp[2] = 2
-
+        
+        # Fill the DP array from 3rd to end 
         for i in range(3, n + 1):
+            # Recurrence relation for the DP array
             dp[i] = dp[i - 1] + dp[i - 2]
+            print(dp)
 
         return dp[n]
 

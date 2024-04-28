@@ -28,6 +28,7 @@ Constraints:
 nums is a non-decreasing array.
 -109 <= target <= 109
 """
+from typing import List
 
 
 class Solution:
@@ -40,6 +41,7 @@ class Solution:
 
         # Find the starting position
         while left <= right:
+            # Calculate the middle index
             mid = left + (right - left) // 2
             if nums[mid] == target:
                 start = mid
@@ -51,6 +53,7 @@ class Solution:
 
         # Find the ending position
         left, right = 0, len(nums) - 1
+        
         while left <= right:
             mid = left + (right - left) // 2
             if nums[mid] == target:

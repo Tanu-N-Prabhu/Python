@@ -25,22 +25,31 @@ Constraints:
 """
 from typing import List
 
-
 class Solution:
-    def combine(self, n: int, k: int) -> List[List[int]:
+    def combine(self, n: int, k: int) -> List[List[int]]:
 
+        # Define a helper function for backtracking
         def backtrack(start, current_combination):
+            # If the current combination has reached the desired length, append it to the result
             if len(current_combination) == k:
                 result.append(current_combination[:])
                 return
+            # Iterate over possible elements to include in the combination
             for i in range(start, n + 1):
+                # Add the current element to the combination
                 current_combination.append(i)
+                # Recursively call backtrack with the next start index and updated combination
                 backtrack(i + 1, current_combination)
+                # Backtrack: remove the last added element to explore other combinations
                 current_combination.pop()
 
+        # Initialize an empty list to store the resulting combinations
         result = []
+        # Start backtracking from index 1 with an empty initial combination
         backtrack(1, [])
+        # Return the resulting combinations
         return result
+
 
 
 # Example usage
