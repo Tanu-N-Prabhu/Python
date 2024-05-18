@@ -3,8 +3,6 @@ Given two integers n and k, return all possible combinations of k numbers chosen
 
 You may return the answer in any order.
 
-
-
 Example 1:
 
 Input: n = 4, k = 2
@@ -26,6 +24,12 @@ Constraints:
 from typing import List
 
 class Solution:
+    """
+    Backtracking solution.
+    Time complexity: O(n^k)
+    Space complexity: O(k)
+    where n is the number of elements in the input array and k is the desired length of the combinations.
+    """
     def combine(self, n: int, k: int) -> List[List[int]]:
 
         # Define a helper function for backtracking

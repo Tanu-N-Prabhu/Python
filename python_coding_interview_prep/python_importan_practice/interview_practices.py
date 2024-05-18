@@ -10,6 +10,7 @@ s2 = []
 
 
 def get_missing_number(lst):
+    # return [x for x in range(1, lst[-1]) if x not in lst]
     return set(range(lst[-1])[1:]) - set(lst)
 
 
@@ -23,6 +24,7 @@ print(get_missing_number(l))
 
 
 def find_duplicates(elements):
+    # return [x for x in elements if elements.count(x) > 1]
     duplicates, seen = set(), set()
     for element in elements:
         if element in seen:
@@ -39,6 +41,7 @@ print(find_duplicates(l))
 
 
 def intersect(lst1, lst2):
+    # return [x for x in lst1 if x in lst2]
     res, lst2_copy = [], lst2[:]
     for el in lst1:
         if el in lst2_copy:
@@ -53,6 +56,7 @@ print(intersect(l1, l2))
 
 
 def is_anagram(s1: str, s2: str) -> bool:
+    # return sorted(s1) == sorted(s2)
     if len(s1) != len(s2):
         return False
     return set(s1) == set(s2)
@@ -73,6 +77,7 @@ print(lst)
 
 
 def reverse(str):
+    # return str[::-1]
     if len(str) <= 1:
         return str
     return reverse(str[1:]) + str[0]

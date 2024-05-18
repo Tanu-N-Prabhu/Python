@@ -34,6 +34,7 @@ def frog_jump_combinations(stones: List[int], target_distance: int, modulo: int)
     """
     n = len(stones)
     # Initialize dynamic programming array with 1 at index 0
+    # [1, 0, 0, 0, 0, 0, 0............]
     dp = [1] + [0] * target_distance
 
     # Iterate through each distance from 1 to target_distance
