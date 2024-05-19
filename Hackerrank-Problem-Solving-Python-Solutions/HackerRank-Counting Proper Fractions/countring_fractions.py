@@ -75,7 +75,6 @@ def gcd(a, b):
         a, b = b, a % b
     return a
 
-
 d = 5
 result = count_proper_fractions(d)
 print(result)

@@ -7,11 +7,11 @@ import re
 import sys
 
 # Complete the birthdayCakeCandles function below.
-def birthdayCakeCandles(ar):
+def birthdayCakeCandles(candles):
     count=0
-    big = max(ar)
-    for i in range(len(ar)):
-        if(ar[i]==big):
+    big = max(candles)
+    for i in range(len(candles)):
+        if(candles[i]==big):
             count+=1
     return count
         
