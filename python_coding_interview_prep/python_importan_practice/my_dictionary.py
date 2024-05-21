@@ -20,7 +20,7 @@ print(d["c"])
 
 phonebook = {"John": 938477566, "Jack": 938377264, "Jill": 947662781}
 print(phonebook)
-phonebook["Dhiraj"] = 7893273022
+phonebook["Dhiraj"] = 7893493052
 print(phonebook)
 
 for name, number in phonebook.items():
@@ -71,10 +71,10 @@ print("Sorted by values: ", sorted(lst))
 def myfunc(x, y, z):
     print(x, y, z)
 
-
 tuple_vec = (1, 0, 1)
 dict_vec = {'x': 1, 'y': 0, 'z': 1}
 
+# args and kargs
 myfunc(*tuple_vec)
 myfunc(**dict_vec)
 
