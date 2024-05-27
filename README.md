@@ -189,6 +189,8 @@ Follow the steps down below to get started coding in Python!!!
 
 - <b>[Removing an Element](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Remove_Element.ipynb)</b>
 
+- <b>[Vowel Count in a Sentence](https://github.com/Tanu-N-Prabhu/Python/blob/master/Vowel_Count.ipynb)</b>
+
    
 
 </details>
