@@ -26,6 +26,8 @@
 
 9. [Removing an Element](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Remove_Element.ipynb)
 
+10. [Vowel Count in a Sentence](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Vowel_Count.ipynb)
+
 
 
 
