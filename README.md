@@ -191,6 +191,8 @@ Follow the steps down below to get started coding in Python!!!
 
 - <b>[Vowel Count in a Sentence](https://github.com/Tanu-N-Prabhu/Python/blob/master/Vowel_Count.ipynb)</b>
 
+- <b>[Pick-Up Line Generator - Based on Sentiments](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/pick_up_line_generator_sentiments.ipynb)</b>
+
    
 
 </details>
