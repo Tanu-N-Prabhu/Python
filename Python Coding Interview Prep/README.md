@@ -28,6 +28,8 @@
 
 10. [Vowel Count in a Sentence](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Vowel_Count.ipynb)
 
+11. [Pick-Up Line Generator - Based on Sentiments](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/pick_up_line_generator_sentiments.ipynb)
+
 
 
 
