@@ -377,7 +377,7 @@ If you have access to ChatGPT premium, there is a GPT Librarian with access to a
 
 # Version
 
-<b> Version 14 - Last Updated on Jan 07, 2024 - 7:46 PM <b>
+<b> Version 15 - Last Updated on June 03, 2024 - 10:44 AM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
