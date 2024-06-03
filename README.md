@@ -193,6 +193,8 @@ Follow the steps down below to get started coding in Python!!!
 
 - <b>[Pick-Up Line Generator - Based on Sentiments](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/pick_up_line_generator_sentiments.ipynb)</b>
 
+- <b>[Sentimental Analysis](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Sentimental_Analysis.ipynb)</b>
+
    
 
 </details>
