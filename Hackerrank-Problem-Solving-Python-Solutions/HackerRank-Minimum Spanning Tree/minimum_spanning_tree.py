@@ -79,55 +79,116 @@ to the value of the minimum spanning tree. So the answer is 6.
 #!/bin/python3
 import sys
 
-class Graph():
+class Graph:
     def __init__(self, vertices):
         self.V = vertices
-        self.graph = [[0 for _ in range(vertices)] for _ in range(vertices)]
+        self.graph = []
 
-    def minKey(self, key, mstSet):
-        min_val = sys.maxsize
-        min_index = 0
-        for v in range(self.V):
-            if key[v] < min_val and not mstSet[v]:
-                min_val = key[v]
-                min_index = v
-        return min_index
+    def add_edge(self, u, v, weight):
+        self.graph.append([u, v, weight])
 
-    def primMST(self):
-        key = [sys.maxsize] * self.V
-        parent = [None] * self.V
-        key[0] = 0
-        mstSet = [False] * self.V
+    def find(self, parent, i):
+        if parent[i] == i:
+            return i
+        return self.find(parent, parent[i])
 
-        for _ in range(self.V):
-            u = self.minKey(key, mstSet)
-            mstSet[u] = True
-            for v in range(self.V):
-                if self.graph[u][v] > 0 and not mstSet[v] \
-                        and key[v] > self.graph[u][v]:
-                    key[v] = self.graph[u][v]
-                    parent[v] = u
+    def union(self, parent, rank, x, y):
+        root_x = self.find(parent, x)
+        root_y = self.find(parent, y)
 
-        return sum(key)
+        if rank[root_x] < rank[root_y]:
+            parent[root_x] = root_y
+        elif rank[root_x] > rank[root_y]:
+            parent[root_y] = root_x
+        else:
+            parent[root_y] = root_x
+            rank[root_x] += 1
 
-def min_sum_of_edge_lengths(n, m, s, graph):
-    if m >= n - 1:
+    def kruskal_mst(self):
+        result = []
+        i = 0
+        e = 0
+        self.graph = sorted(self.graph, key=lambda item: item[2])
+        parent = []
+        rank = []
+
+        for node in range(self.V):
+            parent.append(node)
+            rank.append(0)
+
+        while e < self.V - 1:
+            u, v, w = self.graph[i]
+            i += 1
+            x = self.find(parent, u)
+            y = self.find(parent, v)
+
+            if x != y:
+                e += 1
+                result.append([u, v, w])
+                self.union(parent, rank, x, y)
+
+        return sum([w for u, v, w in result]), result
+
+def min_sum_of_edge_lengths(n, m, s):
+    if m == n - 1:
         return s
-    else:
-        return graph.primMST()
+
+    base_graph = Graph(n)
+
+    # Create a base MST with n-1 edges and total weight `s`
+    edges_needed = n - 1
+    base_weight = s // edges_needed
+    remainder = s % edges_needed
+
+    for i in range(edges_needed):
+        weight = base_weight + (1 if i < remainder else 0)
+        base_graph.add_edge(i, i + 1, weight)
+
+    mst_value, mst_edges = base_graph.kruskal_mst()
+
+    total_edges = mst_edges[:]
+
+    # Add extra edges with minimal weight (1)
+    for i in range(m - (n - 1)):
+        total_edges.append([0, 0, 1])
+
+    # Calculate the total sum of all edges
+    total_sum = sum([weight for u, v, weight in total_edges])
+    
+    return total_sum
+
 
 if __name__ == '__main__':
-    g = int(input("Enter the number of test cases: "))
+    # q = int(input().strip())
 
-    for _ in range(g):
-        n, m, s = map(int, input().split())
+    # for _ in range(q):
+    #     n, m, s = map(int, input().strip().split())
+    #     print(min_sum_of_edge_lengths(n, m, s))
+
+    test_cases = [
+        ("1\n4 5 4", "7\n"),
+        ("1\n4 3 6", "6\n"),
+        ("1\n3 3 2", "3\n"),
+        ("1\n5 7 10", "12\n"),
+        ("1\n2 1 1", "1\n"),
+        ("2\n3 2 2\n4 6 5", "2\n7\n")
+        ]
+
+    for i, (input_data, expected_output) in enumerate(test_cases):
+        input_lines = input_data.split('\n')
+        output = []
         
-        # Construct the graph
-        graph = Graph(n)
-        for _ in range(m):
-            u, v, weight = map(int, input().split())
-            graph.graph[u - 1][v - 1] = weight
-            graph.graph[v - 1][u - 1] = weight
-
-        # Print the minimum sum of edge lengths
-        print(min_sum_of_edge_lengths(n, m, s, graph))
+        input_mock = lambda: input_lines.pop(0)
+        input = input_mock
+        
+        n_cases = int(input())
+        
+        for _ in range(n_cases):
+            n, m, s = map(int, input().split())
+            mst = min_sum_of_edge_lengths(n, m, s)
+            print(mst)
+            output.append(str(mst))
+        
+        result = "\n".join(output) + "\n"
+        
+        print(f"Test Case {i + 1}: {'Passed' if result == expected_output else 'Failed'}")

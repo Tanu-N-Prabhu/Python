@@ -787,3 +787,23 @@ def is_valid_zip(zip_code):
     except TypeError:
         print(f'invalid literal for int() with base 10: {zip_code}')
     return False
+
+
+# sort binary array in place
+def sort_binary_digits(arr):
+    left, right = 0, len(arr) - 1
+
+    while left < right:
+        if arr[left] == 1 and arr[right] == 0:
+            arr[left], arr[right] = arr[right], arr[left]
+            left += 1
+            right -= 1
+        if arr[left] == 0:
+            left += 1
+        if arr[right] == 1:
+            right -= 1
+
+# Example usage:
+binary_digits = [0, 1, 1, 0, 1, 0, 0, 1]
+sort_binary_digits(binary_digits)
+print(binary_digits)  # Output: [0, 0, 0, 0, 1, 1, 1, 1]

@@ -1,3 +1,4 @@
+from functools import wraps
 import re
 
 movies = [
@@ -42,9 +43,6 @@ def sum(a, b):
     1
     """
     return a + b
-
-
-from functools import wraps
 
 
 def makebold(fn):
@@ -129,3 +127,39 @@ def find_duplicate(arr):
 arr = [0, 1, 2, 3, 1]  # N = 5
 duplicate_number = find_duplicate(arr)
 print("Duplicate number:", duplicate_number)
+
+
+# given a string s find the length of the longest substring without repeating characters
+# sliding window problem
+def length_of_longest_substring(s):
+    """
+    Finds the length of the longest substring in a string without repeating characters.
+
+    Args:
+        s: The string to search.
+
+    Returns:
+        The length of the longest substring without repeating characters.
+    """
+    used = {}
+    max_length = 0
+    start = 0
+
+    for i, char in enumerate(s):
+        # If the character is already in used and within the current window
+        if char in used and used[char] >= start:
+            # Shift the starting index to avoid duplicates
+            start = used[char] + 1
+        else:
+            # Update the max_length if the current window is longer
+            max_length = max(max_length, i - start + 1)
+        # Update the used dictionary
+        used[char] = i
+
+    return max_length
+
+
+# Example usage
+string = "abcabcbb"
+length = length_of_longest_substring(string)
+print(f"The length of the longest substring without repeating characters in '{string}' is: {length}")
