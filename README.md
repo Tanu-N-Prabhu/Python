@@ -221,6 +221,8 @@ Follow the steps down below to get started coding in Python!!!
 
 - <b>[Sentimental Analysis](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Sentimental_Analysis.ipynb)</b>
 
+- <b>[Creating a Regular Polygon Visualizer Using Matplotlib in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Draw_polygon.ipynb)</b>
+
    
 
 </details>
@@ -377,7 +379,7 @@ If you have access to ChatGPT premium, there is a GPT Librarian with access to a
 
 # Version
 
-<b> Version 15 - Last Updated on June 03, 2024 - 10:44 AM <b>
+<b> Version 15 - Last Updated on July 01, 2024 - 8:55 PM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
