@@ -64,8 +64,61 @@ Upon executing this program, you will get the result as `The Current World Popul
 ## Reason
 If the program is stuck while executing “retrieving data” it may be because of the following reasons.
 
-1. Blocking — Worldometer will block if it detects an automated behavior
-2. Incorrect HTML Structure — The scraper cannot scrape the correct form of data. Check the selectors and their attributes.
-3. Slow Network — If your internet is slow, then it can cause a delay in fetching the data.
+1. **Blocking** — Worldometer will block if it detects an automated behavior
+2. **Incorrect HTML Structure** — The scraper cannot scrape the correct form of data. Check the selectors and their attributes.
+3. **Slow Network** — If your internet is slow, then it can cause a delay in fetching the data.
 
 ---
+
+## API
+An Application Program Interface is an intermediate software that allows applications to talk to each other. For example, your phone’s weather app uses APIs to communicate with this system, providing daily weather updates. We shall use the [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-about-the-indicators-api) to access the population data.
+
+```Python
+
+# Requests allows you to send HTTP/1.1 requests extremely easily
+import requests
+
+# API endpoint for World Bank population data
+url = "http://api.worldbank.org/v2/country/WLD/indicator/SP.POP.TOTL?format=json"
+
+# Send a GET request to the API
+response = requests.get(url)
+
+# Check if the request was successful
+if response.status_code == 200:
+    # Parse JSON response
+    data = response.json()  
+    # Extract population value
+    population = data[1][0]["value"]  
+    print(f"The World Population is: {population}")
+else:
+    print(f"Failed to fetch data. HTTP Status Code: {response.status_code}")
+
+```
+
+## Explanation
+You fetch the data from the API using `requests` and use the `json()` to parse the response and access the first element when the data is returned. This can be done using `data[1][0][“value”]`
+
+---
+
+
+## Output
+Upon executing this program, the result will be `The World Population is: 8061876001`. Unlike web scraping, the execution was quick and never prompted `retrieving data`. This is why I love the API. They make our jobs so much easier and better.
+
+---
+
+# Benefits of Leveraging APIs
+
+1. **Structured Data** — APIs' well-defined formats (JSON, XML, etc.) make their data easy to parse and use.
+2. **Reliability** — API formats are less prone to frequent changes than HTML.
+3. **Speed** — API data retrieval proved significantly faster than web scraping, as the example above demonstrates.
+4. **Regulatory Adherence** — APIs usually include simple terms of service, thus offering better legal protection.
+5. **Documentation** — Each available API includes comprehensive documentation. This significantly improves API understanding.
+6. **Accessibility** — APIs let you access and use data and services from countless different sources.
+7. 
+For more on real-time API usage, see the article below.
+
+[What is API? Use Case and Benefits](https://konghq.com/blog/learning-center/what-is-api?source=post_page-----c578464d6083--------------------------------)
+
+---
+
