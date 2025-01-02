@@ -107,7 +107,7 @@ Upon executing this program, the result will be `The World Population is: 806187
 
 ---
 
-# Benefits of Leveraging APIs
+## Benefits of Leveraging APIs
 
 1. **Structured Data** — APIs' well-defined formats (JSON, XML, etc.) make their data easy to parse and use.
 2. **Reliability** — API formats are less prone to frequent changes than HTML.
