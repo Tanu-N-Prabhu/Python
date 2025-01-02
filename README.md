@@ -259,7 +259,7 @@ Follow the steps below to get started learning Data Science!!!
  
  - <b>[Scraping Rate My Professor Website - My Graduate Professor](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Scraping%20from%20the%20Web/Web_Scraping_Rate_My_Professor_Website.ipynb)</b>
 
- - <b>[Web Scraping vs API: Which Data Extraction Method is Best for Your Needs?](Data Scraping from the Web/Web_Scraping_Vs_API.md)
+ - <b>[Web Scraping vs API: Which Data Extraction Method is Best for Your Needs?](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Scraping%20from%20the%20Web/Web_Scraping_Vs_API.md)
  
 </details>
 
