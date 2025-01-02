@@ -115,10 +115,44 @@ Upon executing this program, the result will be `The World Population is: 806187
 4. **Regulatory Adherence** — APIs usually include simple terms of service, thus offering better legal protection.
 5. **Documentation** — Each available API includes comprehensive documentation. This significantly improves API understanding.
 6. **Accessibility** — APIs let you access and use data and services from countless different sources.
-7. 
+
 For more on real-time API usage, see the article below.
 
 [What is API? Use Case and Benefits](https://konghq.com/blog/learning-center/what-is-api?source=post_page-----c578464d6083--------------------------------)
 
 ---
 
+## Limitations of APIs
+
+1. **Restricted Access** — To gain access to certain APIs, you may need to register, purchase API keys, or pay.
+2. **Less Flexibility** — Customization may be limited by APIs’ inability to supply all of the data that is displayed on a webpage.
+3. **Rate Limits** — The maximum number of queries you may make in a given second, hour, or day is frequently limited by APIs.
+
+---
+
+## Benefits of Web Scraping
+
+1. **Dependency** — Scraping may be the sole choice if there is no API or if the API does not provide the necessary data.
+2. **Visibility** — Any information seen on the webpage, including dynamically loaded content, can be captured via scraping.
+3. **Access Without Registration** — Often, scraping doesn’t require you to sign up or pay for
+
+---
+
+## Limitations of Web Scraping
+
+1. **Fragility** — When the structure of a website changes, web scraping scripts are prone to breaking.
+2. **Legal and Ethical Issues** — Depending on the jurisdiction, scraping may be against local laws or even a website’s terms of service.
+3. **Performance Overhead** — Scraping can be resource-intensive and slow because it requires downloading and parsing whole HTML pages.
+4. **Error Handling** — It can be difficult to handle edge circumstances, like dynamic JavaScript content.
+
+---
+
+## Opinion
+Whenever feasible, use the API if it's available. It is more dependable, quicker, and safer from a legal standpoint. If not then use Web Scraping. To stay out of trouble with the law, review the website’s terms of service. For scripts that are effective and maintainable, use scraping libraries such as `BeautifulSoup`, `Selenium`, or `Scrapy`. Use tools such as `Playwright` or `Selenium` to manage dynamic content. For more information about the law standpoint I would highly recommend you guys read the below-listed article by [Lisa R. Lifshitz](https://www.canadianlawyermag.com/external-contributors/lisa-r.-lifshitz)
+
+[Federal Court Makes Clear: Website Scraping is Illegal](https://www.canadianlawyermag.com/news/opinion/federal-court-makes-clear-website-scraping-is-illegal/276128?source=post_page-----c578464d6083--------------------------------)
+
+---
+
+## Conclusion
+For population data, APIs such as the World Bank API are more reliable and efficient than scraping the [Worldometer](https://www.worldometers.info/world-population/), which should only be used as a last resort. Prioritize APIs for accurate and dependable data retrieval. I hope you enjoyed reading my article. Suggestions are always welcomed. Until then, see you next time. Happy Writing!
