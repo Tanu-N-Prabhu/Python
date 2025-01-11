@@ -5,6 +5,8 @@
 |:--:| 
 | Photo by <a href="https://unsplash.com/@officestock?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sebastian Herrmann</a> on <a href="https://unsplash.com/photos/four-men-looking-to-the-paper-on-table-O2o1hzDA7iE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>|
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTanu-N-Prabhu%2FPython%2Fblob%2Fmaster%2FPython%2520Coding%2520Interview%2520Prep%2FPython%2520Coding%2520Interview%2520Questions%2520%28Beginner%2520to%2520Advanced%29.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!-- Content-->
 
 ## 1. Converting an Integer into Decimals
