@@ -373,6 +373,17 @@ print(lst)
 
 ---
 
+## 21. What are Python’s key features?
+
+* Interpreted: Python code is executed line-by-line.
+* Dynamically Typed: No need to declare the data type of variables.
+* Garbage Collection: Automatic memory management.
+* Extensive Libraries: Large standard library and third-party modules.
+* Object-Oriented: Supports OOP with classes and objects.
+* Cross-Platform: Runs on various platforms without modification.
+
+---
+
 
 <br>
 <br>
