@@ -375,15 +375,32 @@ print(lst)
 
 ## 21. What are Python’s key features?
 
-* Interpreted: Python code is executed line-by-line.
-* Dynamically Typed: No need to declare the data type of variables.
-* Garbage Collection: Automatic memory management.
-* Extensive Libraries: Large standard library and third-party modules.
-* Object-Oriented: Supports OOP with classes and objects.
-* Cross-Platform: Runs on various platforms without modification.
+* **Interpreted** - Python code is executed line-by-line.
+* **Dynamically Typed** - No need to declare the data type of variables.
+* **Garbage Collection** - Automatic memory management.
+* **Extensive Libraries** - Large standard library and third-party modules.
+* **Object-Oriented** - Supports OOP with classes and objects.
+* **Cross-Platform** - Runs on various platforms without modification.
 
 ---
 
+## 22. Explain Python’s memory management
+
+* Python uses a private heap to store objects and data structures.
+* Memory management includes reference counting for garbage collection.
+* The `gc` (garbage collector) module can be used to manually manage memory.
+
+---
+
+## 23. What are Python’s data types?
+
+* **Numeric Types** - `int`, `float`, `complex`
+* **Sequence Types** - `list`, `tuple`, `range`
+* **Text Type** - `str`
+* **Set Types** - `set`, `frozenset`
+* **Mapping Type** - `dict`
+* **Boolean Type** - `bool`
+* **None Type** - `NoneType`
 
 <br>
 <br>
