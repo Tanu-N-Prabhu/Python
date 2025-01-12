@@ -9,8 +9,8 @@
 
 <!-- Shield Badges -->
 
-| [![Discord](https://img.shields.io/discord/718138360538857794.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qFryjbX)  | ![GitHub forks](https://img.shields.io/github/forks/Tanu-N-Prabhu/Python?label=Fork&style=social)  | ![GitHub stars](https://img.shields.io/github/stars/Tanu-N-Prabhu/Python?style=social) | ![GitHub repo size](https://img.shields.io/github/repo-size/Tanu-N-Prabhu/Python) |  ![GitHub contributors](https://img.shields.io/github/contributors/Tanu-N-Prabhu/Python)| [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Tanu-N-Prabhu/Python)|
-|:--:|:--:|:--:|:--:|:--:|:--:|
+| [![Discord](https://img.shields.io/discord/718138360538857794.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qFryjbX)  | ![GitHub forks](https://img.shields.io/github/forks/Tanu-N-Prabhu/Python?label=Fork&style=social)  | ![GitHub stars](https://img.shields.io/github/stars/Tanu-N-Prabhu/Python?style=social) | ![GitHub repo size](https://img.shields.io/github/repo-size/Tanu-N-Prabhu/Python) |  ![GitHub contributors](https://img.shields.io/github/contributors/Tanu-N-Prabhu/Python)| [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Tanu-N-Prabhu/Python)| [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python/main)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 
 
 
@@ -383,10 +383,7 @@ If you have access to ChatGPT premium, there is a GPT Librarian with access to a
 [![Star History Chart](https://api.star-history.com/svg?repos=Tanu-N-Prabhu/Python&type=Date)](https://star-history.com/#Tanu-N-Prabhu/Python&Date)
 
 ---
-# Version
 
-![1.3.0](https://img.shields.io/github/last-commit/badges/shields/1.3.0)
-  
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 [![Maintened by - Tanu Nanda Prabhu](https://img.shields.io/badge/Maintained%20by-Tanu%20Nanda%20Prabhu-red)](https://tanu-n-prabhu.github.io/myWebsite.io/)
