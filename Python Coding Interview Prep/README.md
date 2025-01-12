@@ -4,6 +4,7 @@
 |:--:| 
 | Image Credits [Omada Search](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.omadasearch.com%2F2020%2F03%2F7-interview-questions-to-help-determine-the-best-candidate%2F&psig=AOvVaw3IMwK6o41H_A9XbVmeV72D&ust=1649477361590000&source=images&cd=vfe&ved=0CAsQjhxqFwoTCIDshZfMg_cCFQAAAAAdAAAAABAX) |
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTanu-N-Prabhu%2FPython%2Ftree%2Fmaster%2FPython%2520Coding%2520Interview%2520Prep&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Table of Contents
 
