@@ -54,5 +54,108 @@ An array is a special variable that holds more than one value at a time. Python 
 
 ---
 
-## 7. 
+## 7. What are Python’s key features?
+
+* **Interpreted** - Python code is executed line-by-line.
+* **Dynamically Typed** - No need to declare the data type of variables.
+Garbage Collection: Automatic memory management.
+Extensive Libraries: Large standard library and third-party modules.
+Object-Oriented: Supports OOP with classes and objects.
+Cross-Platform: Runs on various platforms without modification.
+2. Explain Python’s memory management.
+Python uses a private heap to store objects and data structures.
+Memory management includes reference counting for garbage collection.
+The gc (garbage collector) module can be used to manually manage memory.
+3. What are Python’s data types?
+Numeric Types: int, float, complex
+Sequence Types: list, tuple, range
+Text Type: str
+Set Types: set, frozenset
+Mapping Type: dict
+Boolean Type: bool
+None Type: NoneType
+4. How is memory managed in Python?
+Memory management is handled by the Python memory manager.
+It includes private heap space and garbage collection.
+Python’s memory manager automatically handles the allocation and deallocation of memory.
+5. What is the difference between deep copy and shallow copy?
+Shallow Copy: Creates a new object but inserts references to the same objects in the original.
+python
+Copy code
+import copy
+original_list = [[1, 2], [3, 4]]
+shallow_copy = copy.copy(original_list)
+Deep Copy: Creates a new object and recursively copies all objects found in the original.
+python
+Copy code
+deep_copy = copy.deepcopy(original_list)
+6. What are Python decorators?
+Decorators are functions that modify the behavior of another function or method.
+They are commonly used for logging, enforcing access control, instrumentation, etc.
+python
+Copy code
+def decorator(func):
+    def wrapper():
+        print("Something before the function.")
+        func()
+        print("Something after the function.")
+    return wrapper
+
+@decorator
+def say_hello():
+    print("Hello!")
+7. What are Python’s built-in data structures?
+List: Ordered, mutable, allows duplicates.
+Tuple: Ordered, immutable, allows duplicates.
+Set: Unordered, mutable, no duplicates.
+Dictionary: Key-value pairs, unordered, mutable.
+8. Explain the use of Python’s with statement.
+The with statement simplifies exception handling by encapsulating standard uses of try/finally statements in so-called context managers.
+Example with file handling:
+python
+Copy code
+with open('file.txt', 'r') as file:
+    data = file.read()
+9. How does Python handle exceptions?
+Python uses try, except, finally, and else blocks to handle exceptions.
+python
+Copy code
+try:
+    result = 10 / 0
+except ZeroDivisionError:
+    print("Cannot divide by zero!")
+finally:
+    print("Execution complete.")
+10. What are Python’s lambda functions?
+Anonymous functions defined using the lambda keyword.
+python
+Copy code
+add = lambda x, y: x + y
+print(add(2, 3))  # Output: 5
+11. Explain list comprehension.
+A concise way to create lists using a single line of code.
+python
+Copy code
+squares = [x**2 for x in range(10)]
+12. What are Python’s *args and **kwargs?
+*args is used to pass a variable number of positional arguments.
+**kwargs is used to pass a variable number of keyword arguments.
+python
+Copy code
+def example_function(*args, **kwargs):
+    print(args)
+    print(kwargs)
+example_function(1, 2, 3, name="John", age=30)
+13. What is Python’s GIL (Global Interpreter Lock)?
+The GIL is a mutex that protects access to Python objects, preventing multiple native threads from executing Python bytecodes simultaneously in CPython.
+It simplifies memory management but can be a bottleneck in CPU-bound multi-threaded programs.
+14. How is Python different from other programming languages?
+Python emphasizes readability and simplicity.
+It is dynamically typed and interpreted.
+It has extensive libraries and is often considered more beginner-friendly.
+15. What is the difference between Python 2 and Python 3?
+Print Statement: Python 2 uses print, Python 3 uses print().
+Integer Division: Python 2’s division of integers truncates the decimal, Python 3 returns a float.
+Unicode: Python 3 uses Unicode by default for strings.
+These questions cover fundamental concepts and common practices in Python, providing a solid foundation for coding interviews.
 
