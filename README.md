@@ -377,9 +377,15 @@ If you have access to ChatGPT premium, there is a GPT Librarian with access to a
 
 ---
 
+# Star History
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Tanu-N-Prabhu/Python&type=Date)](https://star-history.com/#Tanu-N-Prabhu/Python&Date)
+
+---
 # Version
 
-<b> Version 15 - Last Updated on July 01, 2024 - 8:55 PM <b>
+<b> Version 16 - Last Updated on Jan 11, 2025 - 9:27 PM <b>
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
