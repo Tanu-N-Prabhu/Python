@@ -385,7 +385,7 @@ If you have access to ChatGPT premium, there is a GPT Librarian with access to a
 ---
 # Version
 
-<b> Version 16 - Last Updated on Jan 11, 2025 - 9:27 PM <b>
+![1.3.0](https://img.shields.io/github/last-commit/badges/shields/1.3.0)
   
   
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
