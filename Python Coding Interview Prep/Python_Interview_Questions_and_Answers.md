@@ -1,4 +1,4 @@
-# 15 Python Interview Questions and Answers
+# Mastering Python Interviews: Essential Questions and Expert Answers
 
 ### 1. Discuss some characteristics of the Python programming language.
 
