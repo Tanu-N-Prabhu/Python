@@ -1,4 +1,13 @@
 # Mastering Python Interviews: Essential Questions and Expert Answers
+## Your Ultimate Guide to Acing Python Coding Interviews with Confidence
+
+<!-- Feature Image -->
+| ![Interview Photo](https://github.com/Tanu-N-Prabhu/Python/blob/2c41792a104c0701cdcbc0c37c3651b9aaf1f31b/Img/zach-graves-wtpTL_SzmhM-unsplash.jpg) | 
+|:--:| 
+| Photo by <a href="https://unsplash.com/@zgraves?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Zach Graves</a> on <a href="https://unsplash.com/photos/a-screen-shot-of-a-computer-wtpTL_SzmhM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>|
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTanu-N-Prabhu%2FPython%2Fblob%2Fmaster%2FPython%2520Coding%2520Interview%2520Prep%2FPython_Interview_Questions_and_Answers.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 1. Discuss some characteristics of the Python programming language.
 
