@@ -205,7 +205,7 @@ Follow the steps down below to get started coding in Python!!!
  - <b> [Python Theoretical Interview Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Theoritical_Interview_Questions.md)</b>
 
 
-- <b> [15 Python Interview Questions and Answers](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/15_Python_Interview_Questions_and_Answers.md) </b>
+- <b> [15 Python Interview Questions and Answers](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Interview_Questions_and_Answers.md) </b>
 
 - <b>[Assigning Candies to Children Problem with Solution](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Children_with_candy.ipynb)</b>
 
