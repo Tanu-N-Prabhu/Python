@@ -1,4 +1,4 @@
-# Python Coding Interview Questions And Answers
+# Python Coding Interview Questions And Answers - Experienced
 
 Here Coding compiler sharing a list of 35 Python interview questions for experienced. These Python questions are prepared by expert Python developers. This list of interview questions on Python will help you to crack your next Python job interview. All the best for your future and happy [python learning](https://codingcompiler.com/python-coding-interview-questions-answers/)
 
@@ -107,8 +107,162 @@ print(type(arr))
   ```
   ---
 
+## 8. Implement a LRU (Least Recently Used) Cache
 
+```python
+from collections import OrderedDict
+
+class LRUCache:
+    def __init__(self, capacity: int):
+        self.cache = OrderedDict()
+        self.capacity = capacity
+
+    def get(self, key: int) -> int:
+        if key not in self.cache:
+            return -1
+        else:
+            self.cache.move_to_end(key)
+            return self.cache[key]
+
+    def put(self, key: int, value: int) -> None:
+        if key in self.cache:
+            self.cache.move_to_end(key)
+        self.cache[key] = value
+        if len(self.cache) > self.capacity:
+            self.cache.popitem(last=False)
+
+# Example usage:
+lru = LRUCache(2)
+lru.put(1, 1)
+lru.put(2, 2)
+print(lru.get(1)) 
+lru.put(3, 3)
+
+> 1
+```
+---
+
+## 9. Find the Longest Substring Without Repeating Characters
+
+```python
+def length_of_longest_substring(s: str) -> int:
+    char_index_map = {}
+    start = max_length = 0
+
+    for i, char in enumerate(s):
+        if char in char_index_map and char_index_map[char] >= start:
+            start = char_index_map[char] + 1
+        char_index_map[char] = i
+        max_length = max(max_length, i - start + 1)
+
+    return max_length
+
+# Example usage:
+print(length_of_longest_substring("abcabcbb"))
+
+> 3
+
+```
+---
+
+## 10. Find the Kth Largest Element in an Array
+
+```python
+import heapq
+
+def find_kth_largest(nums: list, k: int) -> int:
+    return heapq.nlargest(k, nums)[-1]
+
+# Example usage:
+print(find_kth_largest([3, 2, 1, 5, 6, 4], 2))
+
+> 5
+
+```
 
 ---
+
+## 11. Detect a Cycle in a Linked List
+
+```python
+
+class ListNode:
+    def __init__(self, value=0, next=None):
+        self.value = value
+        self.next = next
+
+def has_cycle(head: ListNode) -> bool:
+    slow = fast = head
+    while fast and fast.next:
+        slow = slow.next
+        fast = fast.next.next
+        if slow == fast:
+            return True
+    return False
+
+# Example usage:
+# Creating a linked list with a cycle for demonstration:
+node1 = ListNode(1)
+node2 = ListNode(2)
+node3 = ListNode(3)
+node1.next = node2
+node2.next = node3
+node3.next = node1  # Cycle here
+print(has_cycle(node1))
+
+> True
+
+```
+---
+
+## 12. Serialize and Deserialize a Binary Tree
+
+```python
+
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
+
+class Codec:
+    def serialize(self, root: TreeNode) -> str:
+        def dfs(node):
+            if not node:
+                result.append("None")
+            else:
+                result.append(str(node.val))
+                dfs(node.left)
+                dfs(node.right)
+        result = []
+        dfs(root)
+        return ','.join(result)
+
+    def deserialize(self, data: str) -> TreeNode:
+        def dfs():
+            val = next(values)
+            if val == "None":
+                return None
+            node = TreeNode(int(val))
+            node.left = dfs()
+            node.right = dfs()
+            return node
+        values = iter(data.split(','))
+        return dfs()
+
+# Example usage:
+codec = Codec()
+tree = TreeNode(1, TreeNode(2), TreeNode(3, TreeNode(4), TreeNode(5)))
+serialized = codec.serialize(tree)
+print(serialized) 
+deserialized = codec.deserialize(serialized)
+
+> "1,2,None,None,3,4,None,None,5,None,None"
+
+```
+---
+
+
+
 
 
