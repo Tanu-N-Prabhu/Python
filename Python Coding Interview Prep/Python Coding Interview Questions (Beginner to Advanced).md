@@ -356,6 +356,74 @@ print(find_largest_element([1, 2, 3, 4, 5]))
 > 5
 ```
 
+---
+
+## 22. Remove Duplicates from a List
+
+```python
+def remove_duplicates(lst):
+    return list(set(lst))
+
+# Example usage:
+print(remove_duplicates([1, 2, 2, 3, 4, 4, 5]))
+
+> [1, 2, 3, 4, 5]
+
+```
+---
+
+## 23. Factorial of a Number
+
+```python
+def factorial(n):
+    if n == 0:
+        return 1
+    return n * factorial(n - 1)
+
+# Example usage:
+print(factorial(5))
+
+> 120
+
+```
+
+---
+
+## 24. Merge Two Sorted Lists
+
+```python
+def merge_sorted_lists(lst1, lst2):
+    return sorted(lst1 + lst2)
+
+# Example usage:
+print(merge_sorted_lists([1, 3, 5], [2, 4, 6]))
+
+> [1, 2, 3, 4, 5, 6]
+
+```
+
+---
+
+## 25. Find the First Non-Repeating Character
+
+```python
+def first_non_repeating_character(s):
+    for i in s:
+        if s.count(i) == 1:
+            return i
+    return None
+
+# Example usage:
+print(first_non_repeating_character("swiss"))
+
+> w
+
+```
+---
+
+
+
+
 
 
 <br>
