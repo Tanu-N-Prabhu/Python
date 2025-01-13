@@ -2,6 +2,8 @@
 
 Here Coding compiler sharing a list of 35 Python interview questions for experienced. These Python questions are prepared by expert Python developers. This list of interview questions on Python will help you to crack your next Python job interview. All the best for your future and happy [python learning](https://codingcompiler.com/python-coding-interview-questions-answers/)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTanu-N-Prabhu%2FPython%2Fblob%2Feb5b22ff1e660645bad4f88c89bed8dcba9388c4%2FPython%2520Coding%2520Interview%2520Prep%2F35%2520Python%2520interview%2520questions%2520for%2520experienced.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 ## 1. Debugging a Python Program
 
@@ -262,6 +264,7 @@ deserialized = codec.deserialize(serialized)
 ```
 ---
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTanu-N-Prabhu%2FPython%2Fblob%2Feb5b22ff1e660645bad4f88c89bed8dcba9388c4%2FPython%2520Coding%2520Interview%2520Prep%2F35%2520Python%2520interview%2520questions%2520for%2520experienced.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
