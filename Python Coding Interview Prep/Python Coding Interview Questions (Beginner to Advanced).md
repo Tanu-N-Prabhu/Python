@@ -344,6 +344,20 @@ print(lst)
 
 ---
 
+## 21. Find the Largest Element in a List
+
+```python
+def find_largest_element(lst):
+    return max(lst)
+
+# Example usage:
+print(find_largest_element([1, 2, 3, 4, 5]))
+
+> 5
+```
+
+
+
 <br>
 <br>
 
