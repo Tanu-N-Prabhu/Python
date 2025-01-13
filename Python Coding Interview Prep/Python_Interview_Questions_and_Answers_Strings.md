@@ -1,4 +1,5 @@
-# Python Interview Questions and Answers - Strings
+# Python Interview Questions and Answers - Strings 2025
+## Master Advanced String Manipulation Techniques for Python Interviews
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/56b9c2ffea9d34a5b1d1d2243257a2eeeb9494eb/Img/gaelle-marcel-vrkSVpOwchk-unsplash.jpg)| 
 |:--:| 
@@ -8,7 +9,17 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTanu-N-Prabhu%2FPython%2Fblob%2F17433a8641945535243f296c5409d86bdbd037c9%2FPython%2520Coding%2520Interview%2520Prep%2FPython_Interview_Questions_and_Answers_Strings.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## 1. Python program to remove characters from string
+# Introduction
+
+Strings are a fundamental aspect of Python programming, playing a crucial role in many applications, from web development to data analysis. In technical interviews, string manipulation questions are commonly asked to evaluate a candidate’s problem-solving abilities and understanding of key programming concepts.
+
+This repository focuses on advanced Python string interview questions and their solutions. It covers a wide range of topics, including permutations, palindromes, anagram grouping, regular expression matching, and more. Whether you're preparing for a coding interview or looking to enhance your Python skills, these examples will provide valuable insights and practical techniques to handle complex string problems efficiently.
+
+Dive into these advanced string challenges and sharpen your skills to ace your next technical interview!
+
+---
+
+## 1. Python program to remove characters from a string
 
 
 <details><summary><b>Hint</b></summary>
