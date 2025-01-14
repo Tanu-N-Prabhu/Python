@@ -13,11 +13,81 @@
 
 Python is a versatile and widely used programming language known for its simplicity and readability. As one of the most popular languages in the tech industry, Python is a common focus in technical interviews for various roles, including software development, data science, and automation.
 
-In this guide, we’ll explore a variety of Python interview questions and answers, covering fundamental concepts such as data structures, algorithms, and problem-solving techniques. These questions are designed to test your understanding of Python’s core features, including string manipulation, list operations, recursion, and more. Whether you're a beginner or an experienced developer, practicing these questions will help you prepare effectively for your next Python interview, ensuring you can demonstrate your skills and knowledge confidently.
+In this guide, we’ll explore a variety of Python interview questions and answers, covering fundamental concepts such as data structures, algorithms, and problem-solving techniques. These questions are designed to test your understanding of Python’s core features, including string manipulation, list operations, recursion, and more. Whether you're a beginner or an experienced developer, practicing these questions will help you prepare effectively for your next Python interview, ensuring you can confidently demonstrate your skills and knowledge.
+
+---
+# Beginner Level
+
+## 1. What is Python?
+
+Python is an interpreted, high-level, general-purpose programming language. It emphasizes code readability with its use of significant indentation. Python supports multiple programming paradigms, including structured (particularly procedural), object-oriented, and functional programming.
 
 ---
 
-## 1. Converting an Integer into Decimals
+## 2. How is Python interpreted?
+
+
+Python code is executed line by line at runtime. Python internally converts the source code into an intermediate form called bytecode, which is then executed by the Python virtual machine (PVM).
+
+---
+
+## 3. What are Python's key features?
+
+* Easy to learn and use
+* Interpreted language
+* Dynamically typed
+* Extensive libraries
+* Object-oriented
+* Portable
+
+---
+
+## 4. What is PEP 8?
+
+PEP 8 is the Python Enhancement Proposal that provides guidelines and best practices for writing Python code. It covers various aspects such as naming conventions, code layout, and indentation.
+
+---
+
+## 5. How do you manage memory in Python?
+
+Python uses automatic memory management and a garbage collector to handle memory. The garbage collector recycles memory when objects are no longer in use.
+
+---
+
+## 6. What are Python's data types?
+
+* Numeric types: `int`, `float`, `complex`
+* Sequence types: `list`, `tuple`, `range`
+* Text type: `str`
+* Set types: `set`, `frozenset`
+* Mapping type: `dict`
+* Boolean type: `bool`
+* Binary types: `bytes`, `bytearray`, `memoryview`
+
+---
+
+## 7. What is the difference between a list and a tuple?
+
+* List: Mutable, can be changed after creation.
+* Tuple: Immutable, cannot be changed after creation.
+
+---
+
+## 8. How do you handle exceptions in Python?
+
+Using the `try-except` block:
+
+```python
+try:
+    # code that may raise an exception
+except SomeException as e:
+    # code to handle the exception
+
+```
+
+---
+
+## 9. Converting an Integer into Decimals
 
 ```python
 import decimal
@@ -31,7 +101,7 @@ print(type(decimal.Decimal(integer)))
 ```
 ---
 
-## 2. Converting a String of Integers into Decimals
+## 10. Converting a String of Integers into Decimals
 
 ```python
 import decimal
@@ -46,7 +116,7 @@ print(type(decimal.Decimal(string)))
 
 ---
 
-## 3. Reversing a String using an Extended Slicing Technique
+## 11. Reversing a String using an Extended Slicing Technique
 
 ```python
 string = "Python Programming"
@@ -59,7 +129,7 @@ print(string[::-1])
 ---
 
 
-## 4. Counting Vowels in a Given Word
+## 12. Counting Vowels in a Given Word
 
 ```python
 vowel = ['a', 'e', 'i', 'o', 'u']
@@ -76,7 +146,7 @@ print(count)
 
 ---
 
-## 5. Counting Consonants in a Given Word
+## 13. Counting Consonants in a Given Word
 
 ```python
 vowel = ['a', 'e', 'i', 'o', 'u']
@@ -93,7 +163,7 @@ print(count)
 ---
 
 
-## 6. Counting the Number of Occurrences of a Character in a String
+## 14. Counting the Number of Occurrences of a Character in a String
 
 ```python
 word = "python"
@@ -109,7 +179,7 @@ print(count)
 
 ---
 
-## 7. Writing Fibonacci Series
+## 15. Writing Fibonacci Series
 
 ```python
 fib = [0,1]
@@ -126,7 +196,7 @@ print(', '.join(str(e) for e in fib))
 
 ---
 
-## 8. Finding the Maximum Number in a List
+## 16. Finding the Maximum Number in a List
 
 ```python
 numberList = [15, 85, 35, 89, 125]
@@ -143,7 +213,7 @@ print(maxNum)
 
 ---
 
-## 9. Finding the Minimum Number in a List
+## 17. Finding the Minimum Number in a List
 
 ```python
 numberList = [15, 85, 35, 89, 125, 2]
@@ -161,7 +231,7 @@ print(minNum)
 ---
 
 
-## 10. Finding the Middle Element in a List
+## 18. Finding the Middle Element in a List
 
 ```python
 numList = [1, 2, 3, 4, 5]
@@ -175,7 +245,7 @@ print(numList[midElement])
 ---
 
 
-## 11. Converting a List into a String
+## 19. Converting a List into a String
 
 ```python
 lst = ["P", "Y", "T", "H", "O", "N"]
@@ -191,7 +261,7 @@ print(type(string))
 ---
 
 
-## 12. Adding Two List Elements Together
+## 20. Adding Two List Elements Together
 
 ```python
 lst1 = [1, 2, 3]
@@ -208,7 +278,7 @@ print(res_lst)
 
 ---
 
-## 13. Comparing Two Strings for Anagrams
+## 21. Comparing Two Strings for Anagrams
 
 ```python
 str1 = "Listen"
@@ -227,7 +297,7 @@ else:
 
 ```
 
-## 14. Checking for Palindrome Using Extended Slicing Technique
+## 22. Checking for Palindrome Using Extended Slicing Technique
 
 ```python
 str1 = "Kayak".lower()
@@ -244,7 +314,7 @@ else:
 
 ---
 
-## 15. Counting the White Spaces in a String
+## 23. Counting the White Spaces in a String
 
 ```python
 string = "P r ogramm in g "
@@ -255,7 +325,7 @@ print(string.count(' '))
 
 ---
 
-## 16. Counting Digits, Letters, and Spaces in a String
+## 24. Counting Digits, Letters, and Spaces in a String
 
 ```python
 # Importing Regular Expressions Library
@@ -278,7 +348,7 @@ print(len(spaceCount))
 
 ---
 
-## 17. Counting Special Characters in a String
+## 25. Counting Special Characters in a String
 
 ```python
 # Importing Regular Expressions Library
@@ -294,7 +364,7 @@ print(len(count))
 ---
 
 
-## 18. Removing All Whitespace in a String
+## 26. Removing All Whitespace in a String
 
 ```python
 import re
@@ -311,7 +381,7 @@ print(result)
 ---
 
 
-## 19. Building a Pyramid in Python
+## 27. Building a Pyramid in Python
 
 ```python
 floors = 3
@@ -327,7 +397,7 @@ for i in range(1, 2*floors, 2):
 
 ---
 
-## 20. Randomizing the Items of a List in Python
+## 28. Randomizing the Items of a List in Python
 
 ```python
 
@@ -344,7 +414,7 @@ print(lst)
 
 ---
 
-## 21. Find the Largest Element in a List
+## 29. Find the Largest Element in a List
 
 ```python
 def find_largest_element(lst):
@@ -358,7 +428,7 @@ print(find_largest_element([1, 2, 3, 4, 5]))
 
 ---
 
-## 22. Remove Duplicates from a List
+## 30. Remove Duplicates from a List
 
 ```python
 def remove_duplicates(lst):
@@ -372,7 +442,7 @@ print(remove_duplicates([1, 2, 2, 3, 4, 4, 5]))
 ```
 ---
 
-## 23. Factorial of a Number
+## 31. Factorial of a Number
 
 ```python
 def factorial(n):
@@ -389,7 +459,7 @@ print(factorial(5))
 
 ---
 
-## 24. Merge Two Sorted Lists
+## 32. Merge Two Sorted Lists
 
 ```python
 def merge_sorted_lists(lst1, lst2):
@@ -404,7 +474,7 @@ print(merge_sorted_lists([1, 3, 5], [2, 4, 6]))
 
 ---
 
-## 25. Find the First Non-Repeating Character
+## 33. Find the First Non-Repeating Character
 
 ```python
 def first_non_repeating_character(s):
