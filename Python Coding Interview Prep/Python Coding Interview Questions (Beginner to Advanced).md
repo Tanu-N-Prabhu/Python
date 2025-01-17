@@ -565,6 +565,47 @@ Magic methods (or dunder methods) are special methods with double underscores at
 * `__add__`: Addition operator
 
 ---
+
+## 42. How do you handle multi-threading in Python?
+
+Using the `threading` module:
+
+```python
+import threading
+
+def print_numbers():
+    for i in range(10):
+        print(i)
+
+thread = threading.Thread(target=print_numbers)
+thread.start()
+thread.join()
+
+```
+---
+
+## 43. What are Python's coroutine functions?
+
+Coroutines are a type of function that can pause and resume their execution. They are defined with `async def` and use `await` to yield control back to the event loop.
+
+```python
+import asyncio
+
+async def say_hello():
+    await asyncio.sleep(1)
+    print("Hello")
+
+asyncio.run(say_hello())
+```
+
+---
+
+
+
+
+
+
+
 <br>
 <br>
 
