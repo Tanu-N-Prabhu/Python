@@ -491,9 +491,21 @@ print(first_non_repeating_character("swiss"))
 ```
 ---
 
+# Advanced
+
+## 34. What are Python metaclasses?
+
+Metaclasses are classes of classes that define how classes behave. A class is an instance of a metaclass. They allow customization of class creation.
+
+---
+## 35. Explain the difference between `is` and `==`.
 
 
+`is`: Checks if two references point to the same object.
 
+`==`: Checks if the values of two objects are equal.
+
+---
 
 
 <br>
