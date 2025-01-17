@@ -265,10 +265,7 @@ Follow the steps below to get started learning Data Science!!!
 
 <details>
   <summary>Cracking Transit Data — Calgary 2025</summary>
-
  - <b>[How to Decode and Leverage GTFS for Real-Time Transit Insights](https://github.com/Tanu-N-Prabhu/Python/blob/master/Transit_Data_Calgary_2025.ipynb)</b>
- 
- 
 </details>
 
 
