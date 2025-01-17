@@ -507,7 +507,64 @@ Metaclasses are classes of classes that define how classes behave. A class is an
 
 ---
 
+## 36. How does Python's memory management work?
 
+Python uses reference counting and garbage collection. Objects with a reference count of zero are automatically cleaned up by the garbage collector.
+
+---
+
+## 37. What is the purpose of Python's `with` statement?
+
+The with statement simplifies exception handling by encapsulating common preparation and cleanup tasks in so-called context managers.
+
+```python
+with open('file.txt', 'r') as file:
+    data = file.read()
+```
+---
+
+## 38. What are Python's `@staticmethod` and `@classmethod?`
+
+`@staticmethod`: Defines a method that does not operate on an instance or class; no access to self or cls.
+
+`@classmethod`: Defines a method that operates on the class itself; it receives the class as an implicit first argument (cls).
+
+---
+
+## 39. How do you implement a singleton pattern in Python?
+
+Using a metaclass
+
+```python
+class Singleton(type):
+    _instances = {}
+    def __call__(cls, *args, **kwargs):
+        if cls not in cls._instances:
+            cls._instances[cls] = super(Singleton, cls).__call__(*args, **kwargs)
+        return cls._instances[cls]
+
+class MyClass(metaclass=Singleton):
+    pass
+
+```
+
+---
+
+## 40. Explain Python's garbage collection mechanism
+
+Python uses a garbage collection mechanism based on reference counting and a cyclic garbage collector to detect and collect cycles (groups of objects that reference each other but are not accessible from any other object).
+
+---
+
+## 41. What are Python's magic methods?
+
+Magic methods (or dunder methods) are special methods with double underscores at the beginning and end. They enable the customization of behavior for standard operations
+
+* `__init__`: Constructor
+* `__str__`: String representation
+* `__add__`: Addition operator
+
+---
 <br>
 <br>
 
