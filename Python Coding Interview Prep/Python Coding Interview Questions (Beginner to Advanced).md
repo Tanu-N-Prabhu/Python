@@ -600,9 +600,52 @@ asyncio.run(say_hello())
 
 ---
 
+## 44. Explain Python's Global Interpreter Lock (GIL). How does it affect multithreading?
+
+The Global Interpreter Lock (GIL) is a mutex that protects access to Python objects, preventing multiple native threads from executing Python bytecodes simultaneously in CPython. This lock simplifies memory management and ensures thread safety but limits the performance of multi-threaded Python programs by allowing only one thread to execute at a time. As a result, Python multithreading is more suitable for I/O-bound tasks rather than CPU-bound tasks. Multiprocessing or other Python implementations like Jython or IronPython may be preferred for CPU-bound tasks.
+
+---
+
+## 45. What are metaclasses in Python, and how are they used?
+
+A metaclass in Python is a class of a class that defines how a class behaves. Classes themselves are instances of metaclasses. You can customize class creation by defining a metaclass, such as modifying class properties, adding methods, or implementing design patterns. A common use case for metaclasses is enforcing coding standards or design patterns, such as singleton, or auto-registering classes.
+
+---
+
+## 46. Can you explain the difference between `deepcopy` and `copy` in Python?
+
+The `copy` module in Python provides two methods: `copy()` and `deepcopy()`.
+
+* `copy.copy()` creates a shallow copy of an object. It copies the object's structure but not the elements themselves, meaning it only copies references for mutable objects.
+
+* `copy.deepcopy()` creates a deep copy of the object, including recursively copying all objects contained within the original object. Changes made to the deep-copied object do not affect the original object.
 
 
+---
 
+## 47. Describe Python’s `__slots__` and its benefits.
+
+`__slots__` is a special attribute in Python that allows you to explicitly declare data members (slots) and prevent the creation of `__dict__`, thereby reducing memory overhead. By using `__slots__`, you can limit the attributes of a class to a fixed set of fields and reduce the per-instance memory consumption. This is particularly beneficial when creating a large number of instances of a class.
+
+---
+
+## 48. What is the difference between `is` and `==` in Python?
+
+* `is` checks for identity, meaning it returns `True` if two references point to the same object in memory.
+
+* `==` checks for equality, meaning it returns `True` if the values of the objects are equal, even if they are different objects in memory.
+
+```python
+
+a = [1, 2, 3]
+b = a
+c = [1, 2, 3]
+
+print(a is b)  # True, because both a and b refer to the same object
+print(a is c)  # False, because a and c refer to different objects
+print(a == c)  # True, because a and c have the same values
+
+```
 
 
 
