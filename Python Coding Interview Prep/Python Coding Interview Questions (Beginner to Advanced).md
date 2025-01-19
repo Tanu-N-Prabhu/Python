@@ -33,7 +33,17 @@ Get ready to boost your confidence and showcase your Python prowess! 🚀👨‍
 
 
 ---
-# Beginner Level
+# 🌱 Beginner Level
+
+In this section, we cover the basics of Python, ideal for those just starting their programming journey. You'll explore:
+
+* 🔤 Basic Syntax: Understand Python's simple and intuitive syntax.
+* 📋 Data Types: Get familiar with integers, strings, lists, and more.
+* ➗ Basic Operations: Learn arithmetic operations, string manipulations, and list handling.
+* 🔄 Control Structures: Master loops, conditionals, and basic flow control.
+* 🛠️ Simple Functions: Start writing your functions to organize and reuse code.
+  
+This level is designed to build a strong foundation, ensuring you're well-prepared to move on to more advanced topics.
 
 ## 1. What is Python?
 
@@ -508,7 +518,19 @@ print(first_non_repeating_character("swiss"))
 ```
 ---
 
-# Advanced
+#  🚀 Advanced Level
+
+In this section, we dive into more complex Python topics, aimed at those looking to deepen their expertise. You’ll tackle:
+
+* 🧠 Advanced Data Structures: Work with sets, tuples, and more complex data types.
+* 🔄 Recursion and Iteration: Solve problems using advanced looping and recursive techniques.
+* 🔍 Algorithms: Explore sorting, searching, and optimization algorithms in depth.
+* 📦 Modules and Libraries: Leverage powerful Python libraries for various applications.
+* 🛡️ Error Handling and Debugging: Learn to write robust code with effective error handling and debugging techniques.
+* 🕸️ Web Scraping and APIs: Gain experience in extracting data from websites and interacting with APIs.
+* 🕹️ Advanced Object-Oriented Programming (OOP): Master OOP concepts like inheritance, polymorphism, and design patterns.
+
+This level will challenge you to think critically and apply your knowledge to complex problems, preparing you for high-level Python applications and interviews.
 
 ## 34. What are Python metaclasses?
 
@@ -664,6 +686,10 @@ print(a == c)  # True, because a and c have the same values
 
 ```
 
+# 🙌 Credits
+This repository is created and maintained by [Tanu N Prabhu](https://medium.com/@tanunprabhu95). With a passion for programming and education, I aim to provide valuable resources to help others succeed in their Python journey.
+
+Feel free to explore, contribute, and share your feedback. Happy coding! 😊👩‍💻👨‍💻
 
 
 <br>
