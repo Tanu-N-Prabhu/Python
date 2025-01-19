@@ -67,9 +67,9 @@ The Python Mastery Repository is more than just a repository; it's a gateway to 
 
 # Repository Contents
 
-### This repository is divided into two parts such as Python Coding and Data Science for Beginners.
+#### This repository is divided into two parts such as Python Coding and Data Science for Beginners.
 
-# Python Coding
+## Python Coding
 
 Follow the steps down below to get started coding in Python!!!
 
@@ -78,7 +78,7 @@ Follow the steps down below to get started coding in Python!!!
 </p>
 
 
-## Pythonic Materials
+### Pythonic Materials
 
 <details>
   <summary>Chapter 1️⃣ ⮕ Basic Concepts</summary>
@@ -163,7 +163,7 @@ Follow the steps down below to get started coding in Python!!!
  
  - <b>[Using the Pandas Data Frame as a Database](https://github.com/Tanu-N-Prabhu/Python/blob/master/Using_the_Pandas_Data_Frame_as_a_Database_.ipynb)</b>
  
- - <b>[Using the Pandas DataFrame in Day-To-Day Life](https://github.com/Tanu-N-Prabhu/Python/blob/master/Using_the_Pandas_DataFrame_in_Day_To_Day_Life.ipynb)</b>
+ - <b>[Using the Pandas Data Frame in Day-To-Day Life](https://github.com/Tanu-N-Prabhu/Python/blob/master/Using_the_Pandas_DataFrame_in_Day_To_Day_Life.ipynb)</b>
  
  - <b>[Presenting Python code using RISE](https://github.com/Tanu-N-Prabhu/Python/blob/master/Presenting_Python_code_using_RISE.ipynb)</b>
  
@@ -235,7 +235,7 @@ Follow the steps down below to get started coding in Python!!!
 ---
 
   
-# Data Science
+## Data Science
 
 Follow the steps below to get started learning Data Science!!!
 
@@ -243,7 +243,7 @@ Follow the steps below to get started learning Data Science!!!
 <img src = "Img/Data.PNG" >
 </p>
 
-## Data Science Materials
+### Data Science Materials
 
 <details>
   <summary>Data Exploration</summary>
