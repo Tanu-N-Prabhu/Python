@@ -15,15 +15,17 @@ Python is a versatile and widely used programming language, celebrated for its s
 
 In this guide, we’ll dive into a wide array of Python interview questions and answers, covering essential topics such as:
 
-📊 Data Structures: Master lists, dictionaries, sets, and more.
-🧮 Algorithms: Understand sorting, searching, and optimization techniques.
-🧩 Problem-solving: Sharpen your skills with real-world coding challenges.
+* 📊 Data Structures: Master lists, dictionaries, sets, and more.
+* 🧮 Algorithms: Understand sorting, searching, and optimization techniques.
+* 🧩 Problem-solving: Sharpen your skills with real-world coding challenges.
+
 These questions are designed to test your grasp of Python's core features, including:
 
-✂️ String Manipulation
-📋 List Operations
-🔁 Recursion
-➕ And much more!
+* ✂️ String Manipulation
+* 📋 List Operations
+* 🔁 Recursion
+* ➕ And much more!
+
 Whether you're a beginner just starting your coding journey or an experienced developer brushing up on your skills, this guide will help you prepare effectively for your next Python interview. 💪✨
 
 Get ready to boost your confidence and showcase your Python prowess! 🚀👨‍💻👩‍💻
