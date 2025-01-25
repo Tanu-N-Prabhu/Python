@@ -689,7 +689,9 @@ print(a == c)  # True, because a and c have the same values
 # 👩🏻‍💻 Python Projects 
 
 1. [Ditch the Paper, Embrace Python: Build a Note-Taking App in 2025](https://medium.com/gitconnected/ditch-the-paper-embrace-python-build-a-note-taking-app-in-2025-1b1696ebed54)
-2. 
+2. [Cracking Transit Data — Calgary 2025](https://medium.com/gitconnected/cracking-transit-data-calgary-2025-49baea30833e)
+3. [Webscraping vs API](https://medium.com/gitconnected/web-scraping-vs-api-which-data-extraction-method-is-best-for-your-needs-c578464d6083)
+4. [Python’s If and Else Statements](https://towardsdev.com/pythons-if-and-else-statements-3b0b0bf3ea00)
 
 # 🙌 Credits
 This repository is created and maintained by [Tanu N Prabhu](https://medium.com/@tanunprabhu95). With a passion for programming and education, I aim to provide valuable resources to help others succeed in their Python journey.
