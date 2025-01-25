@@ -686,6 +686,11 @@ print(a == c)  # True, because a and c have the same values
 
 ```
 
+# 👩🏻‍💻 Python Projects 
+
+1. [Ditch the Paper, Embrace Python: Build a Note-Taking App in 2025](https://medium.com/gitconnected/ditch-the-paper-embrace-python-build-a-note-taking-app-in-2025-1b1696ebed54)
+2. 
+
 # 🙌 Credits
 This repository is created and maintained by [Tanu N Prabhu](https://medium.com/@tanunprabhu95). With a passion for programming and education, I aim to provide valuable resources to help others succeed in their Python journey.
 
