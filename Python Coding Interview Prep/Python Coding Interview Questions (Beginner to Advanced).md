@@ -9,6 +9,11 @@
 
 <!-- Content-->
 
+# Table of Contents
+
+[Introduction]
+
+
 # Introduction
 
 Python is a versatile and widely used programming language, celebrated for its simplicity and readability. 🌟 As one of the top choices in the tech industry, Python frequently appears in technical interviews across various roles, including software development, data science, and automation.
