@@ -18,7 +18,7 @@
 
 ➡ [Advanced Level](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#-advanced-level)
 
-➡ [Python Projects](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#-python-projects)
+➡ [Python Projects That Can Land You Your Dream Job](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#-python-projects-that-can-land-you-your-dream-job)
 
 ➡ [Credits](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#-credits)
 
@@ -703,7 +703,7 @@ print(a == c)  # True, because a and c have the same values
 
 ```
 
-# 👩🏻‍💻 Python Projects 
+# 👩🏻‍💻 Python Projects That Can Land You Your Dream Job 
 
 1. [Unleashing Dog Breeds with Python for Fun and Laughs](https://medium.com/gitconnected/unleashing-dog-breeds-with-python-for-fun-and-laughs-1f9f81034969)
 2. [Ditch the Paper, Embrace Python: Build a Note-Taking App in 2025](https://medium.com/gitconnected/ditch-the-paper-embrace-python-build-a-note-taking-app-in-2025-1b1696ebed54)
@@ -718,6 +718,8 @@ print(a == c)  # True, because a and c have the same values
 11. [Using the Pandas DataFrame in Day-To-Day Life](https://towardsdatascience.com/using-the-pandas-dataframe-in-day-to-day-life-91859ee12cca)
 12. [Global, Local, and Nonlocal variables in Python](https://towardsdatascience.com/global-local-and-nonlocal-variables-in-python-6b11c20d73b0)
 13. [Rendering Images inside a Pandas DataFrame](https://towardsdatascience.com/rendering-images-inside-a-pandas-dataframe-3631a4883f60)
+
+14. 
 
 # 🙌 Credits
 This repository is created and maintained by [Tanu N Prabhu](https://medium.com/@tanunprabhu95). With a passion for programming and education, I aim to provide valuable resources to help others succeed in their Python journey.
