@@ -2,7 +2,6 @@
 <h1 align = "center"> 🐍📊 Welcome to the Python Programming Hub 📊🐍</h1>
 
 
-
 <h2 align = "center">The Best place to learn Python and Data Science</h2>
 
 
