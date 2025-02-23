@@ -658,7 +658,7 @@ asyncio.run(say_hello())
 
 ## 44. Explain Python's Global Interpreter Lock (GIL). How does it affect multithreading?
 
-The Global Interpreter Lock (GIL) is a mutex that protects access to Python objects, preventing multiple native threads from executing Python bytecodes simultaneously in CPython. This lock simplifies memory management and ensures thread safety but limits the performance of multi-threaded Python programs by allowing only one thread to execute at a time. As a result, Python multithreading is more suitable for I/O-bound tasks rather than CPU-bound tasks. Multiprocessing or other Python implementations like Jython or IronPython may be preferred for CPU-bound tasks.
+The Global Interpreter Lock (GIL) is a mutex that protects access to Python objects, preventing multiple native threads from executing Python bytecodes simultaneously in CPython. This lock simplifies memory management and ensures thread safety, but it limits the performance of multi-threaded Python programs by allowing only one thread to execute at a time. As a result, Python multithreading is more suitable for I/O-bound tasks than CPU-bound tasks. Multiprocessing or other Python implementations, like Jython or IronPython, may be preferred for CPU-bound tasks.
 
 ---
 
@@ -704,6 +704,7 @@ print(a == c)  # True, because a and c have the same values
 ```
 
 # 👩🏻‍💻 Python Projects That Can Land You Your Dream Job 
+
 
 1. [Comparing Excel to PDF Conversion Methods with Python Hacks](https://medium.com/gitconnected/comparing-excel-to-pdf-conversion-methods-with-python-hacks-1aa7300f4bd5)
 2. [Unleashing Dog Breeds with Python for Fun and Laughs](https://medium.com/gitconnected/unleashing-dog-breeds-with-python-for-fun-and-laughs-1f9f81034969)
