@@ -705,6 +705,8 @@ print(a == c)  # True, because a and c have the same values
 
 # 👩🏻‍💻 Python Projects That Can Land You Your Dream Job 
 
+> If you use Visual Studio Code, don't forget to read about these mind-blowing [free extensions](https://medium.com/gitconnected/5-must-use-visual-studio-code-extensions-in-2025-00e121400690). 
+
 
 1. [Comparing Excel to PDF Conversion Methods with Python Hacks](https://medium.com/gitconnected/comparing-excel-to-pdf-conversion-methods-with-python-hacks-1aa7300f4bd5)
 2. [Unleashing Dog Breeds with Python for Fun and Laughs](https://medium.com/gitconnected/unleashing-dog-breeds-with-python-for-fun-and-laughs-1f9f81034969)
