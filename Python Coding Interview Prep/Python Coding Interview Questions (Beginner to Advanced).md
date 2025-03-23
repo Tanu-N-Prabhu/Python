@@ -799,7 +799,7 @@ Using Python's `heapq.nsmallest()` function efficiently finds the Kth smallest e
 
 ---
 
-## 3 Merge Intervals
+## 3. Merge Intervals
 
 Given a collection of intervals, merge all overlapping intervals.
 
@@ -829,7 +829,7 @@ First, we sort intervals by the starting point. Then, we iterate through and mer
 > Asked by: Microsoft
 ---
 
-## 4 Count Distinct Substrings in a String
+## 4. Count Distinct Substrings in a String
 Given a string, find the number of distinct substrings in the string.
 
 #### Answer
