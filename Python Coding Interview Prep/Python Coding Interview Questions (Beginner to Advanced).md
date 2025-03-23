@@ -741,9 +741,7 @@ print(longest_consecutive([100, 4, 200, 1, 3, 2]))  # Output: 4
 
 # 😎 Prepare for the Worst: Most Frequently Asked Questions by Big Tech Companies
 
-
-
-As we gear up for technical interviews, it’s essential to be prepared for the toughest Python questions. If you're preparing for high-level technical interviews, you'll want to master these complex Python problems. Here’s a list of coding questions that’s been asked by a top-tier companies!
+As we gear up for technical interviews, it’s essential to be prepared for the toughest Python questions. If you're preparing for high-level technical interviews, you'll want to master these complex Python problems. Here’s a list of coding questions that’s been asked by top-tier companies!
 
 ## 1: Find the Longest Substring Without Repeating Characters
 Given a string, find the length of the longest substring without repeating characters.
@@ -798,6 +796,64 @@ print(kth_smallest(nums, k))  # Output: 2
 Using Python's `heapq.nsmallest()` function efficiently finds the Kth smallest element by retrieving the first K elements from the list and then returning the last element of that list.
 
 > Asked by: Apple
+
+---
+
+## 3 Merge Intervals
+
+Given a collection of intervals, merge all overlapping intervals.
+
+Answer:
+
+```python
+def merge_intervals(intervals):
+    intervals.sort(key=lambda x: x[0])
+    merged = []
+
+    for interval in intervals:
+        if not merged or merged[-1][1] < interval[0]:
+            merged.append(interval)
+        else:
+            merged[-1][1] = max(merged[-1][1], interval[1])
+
+    return merged
+
+# Example usage:
+intervals = [[1,3],[2,6],[8,10],[15,18]]
+print(merge_intervals(intervals))  # Output: [[1, 6], [8, 10], [15, 18]]
+
+```
+#### Explanation
+First, we sort intervals by the starting point. Then, we iterate through and merge intervals if they overlap.
+
+> Asked by: Microsoft
+---
+
+## 4 Count Distinct Substrings in a String
+Given a string, find the number of distinct substrings in the string.
+
+#### Answer
+
+```python
+def count_distinct_substrings(s: str) -> int:
+    n = len(s)
+    substrings = set()
+
+    for i in range(n):
+        for j in range(i+1, n+1):
+            substrings.add(s[i:j])
+
+    return len(substrings)
+
+# Example usage:
+input_str = "abc"
+print(count_distinct_substrings(input_str))  # Output: 6
+```
+
+#### Explanation
+This solution generates all possible substrings and stores them in a set, ensuring uniqueness.
+
+> Asked by: Netflix
 
 
 ---
@@ -861,6 +917,9 @@ Using Python's `heapq.nsmallest()` function efficiently finds the Kth smallest e
 This repository is created and maintained by [Tanu N Prabhu](https://medium.com/@tanunprabhu95). With a passion for programming and education, I aim to provide valuable resources to help others succeed in their Python journey.
 
 Feel free to explore, contribute, and share your feedback. Happy coding! 😊👩‍💻👨‍💻
+
+> 💡 Tip for interview prep: Always understand the logic behind these problems and practice writing clean, efficient code. Challenge yourself with more problems to boost your skills! 🔥
+
 
 
 <br>
