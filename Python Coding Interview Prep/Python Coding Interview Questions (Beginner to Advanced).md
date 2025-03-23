@@ -18,6 +18,8 @@
 
 ➡ [Advanced Level](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#-advanced-level)
 
+➡ [Prepare for the Worst (Tech Company Frequently Questions)]()
+
 ➡ [Python Projects That Can Land You Your Dream Job](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#-python-projects-that-can-land-you-your-dream-job)
 
 ➡ [Credits](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#-credits)
@@ -735,10 +737,68 @@ print(longest_consecutive([100, 4, 200, 1, 3, 2]))  # Output: 4
 
 > Complexity: `O(N)`, where `N` is the number of elements.
 
+---
 
+# 😎 Prepare For The Worst (Tech Companies Most Frequently Questions)
+
+As we gear up for technical interviews, it’s essential to be prepared for the toughest Python questions. If you're preparing for high-level technical interviews, you'll want to master these complex Python problems. Here’s a list of coding questions that’s been asked by a top-tier companies!
+
+## 1: Find the Longest Substring Without Repeating Characters
+Given a string, find the length of the longest substring without repeating characters.
+
+#### Answer
+
+```python
+def length_of_longest_substring(s: str) -> int:
+    char_set = set()
+    left = 0
+    max_len = 0
+
+    for right in range(len(s)):
+        while s[right] in char_set:
+            char_set.remove(s[left])
+            left += 1
+        char_set.add(s[right])
+        max_len = max(max_len, right - left + 1)
+
+    return max_len
+
+# Example usage:
+input_str = "abcabcbb"
+print(length_of_longest_substring(input_str))  # Output: 3
+```
+
+#### Explanation
+This approach uses a sliding window and a set to keep track of characters. The left pointer moves when a duplicate character is found, ensuring all characters in the window are unique.
+
+> Asked by: Facebook
 
 ---
 
+## 2. Find the Kth Smallest Element in an Unsorted Array
+Given an unsorted array, find the Kth smallest element in the array.
+
+#### Answer
+
+```python
+import heapq
+
+def kth_smallest(nums, k):
+    return heapq.nsmallest(k, nums)[-1]
+
+# Example usage:
+nums = [3, 2, 1, 5, 6, 4]
+k = 2
+print(kth_smallest(nums, k))  # Output: 2
+```
+
+#### Explanation
+Using Python's `heapq.nsmallest()` function efficiently finds the Kth smallest element by retrieving the first K elements from the list and then returning the last element of that list.
+
+> Asked by: Apple
+
+
+---
 
 # 👩🏻‍💻 Python Projects That Can Land You Your Dream Job 
 
