@@ -10,30 +10,32 @@
 
 1. [35 Python interview questions for experienced](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/35%20Python%20interview%20questions%20for%20experienced.md)
 
-2. [Python Coding Interview Questions (Beginner to Advanced)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md)
+2. [Crack Python Interviews Like a Pro!](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Crack%20Python%20Interviews%20Like%20a%20Pro!.md)
 
-3. [Python Interview Questions - Strings](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Interview_Questions_and_Answers_Strings.md)
+3. [Python Coding Interview Questions (Beginner to Advanced)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md)
 
-4. [Python Theoretical Interview Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Theoritical_Interview_Questions.md)
+4. [Python Interview Questions - Strings](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Interview_Questions_and_Answers_Strings.md)
+
+5. [Python Theoretical Interview Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Theoritical_Interview_Questions.md)
 
 
-5. [Python Interview Questions and Answers 2025 ](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Interview_Questions_and_Answers.md)
+6. [Python Interview Questions and Answers 2025 ](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Interview_Questions_and_Answers.md)
 
-6. [Assigning Candies to Children Problem with Solution](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Children_with_candy.ipynb)
+7. [Assigning Candies to Children Problem with Solution](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Children_with_candy.ipynb)
 
-7. [Basic Calculator](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Basic_calculator.ipynb)
+8. [Basic Calculator](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Basic_calculator.ipynb)
 
-8. [Text Justification](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Text_Justification.ipynb)
+9. [Text Justification](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Text_Justification.ipynb)
 
-9. [Removing an Element](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Remove_Element.ipynb)
+10. [Removing an Element](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Remove_Element.ipynb)
 
-10. [Vowel Count in a Sentence](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Vowel_Count.ipynb)
+11. [Vowel Count in a Sentence](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Vowel_Count.ipynb)
 
-11. [Pick-Up Line Generator - Based on Sentiments](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/pick_up_line_generator_sentiments.ipynb)
+12. [Pick-Up Line Generator - Based on Sentiments](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/pick_up_line_generator_sentiments.ipynb)
 
-12. [Sentimental Analysis](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Sentimental_Analysis.ipynb)
+13. [Sentimental Analysis](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Sentimental_Analysis.ipynb)
 
-13. [Creating a Regular Polygon Visualizer Using Matplotlib in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Draw_polygon.ipynb)
+14. [Creating a Regular Polygon Visualizer Using Matplotlib in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Draw_polygon.ipynb)
 
 
 
