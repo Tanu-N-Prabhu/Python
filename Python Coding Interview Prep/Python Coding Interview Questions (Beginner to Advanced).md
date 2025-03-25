@@ -9,6 +9,13 @@
 
 <!-- Content-->
 
+# 📢 Stay Connected:
+
+🔗 Follow me on [LinkedIn](https://ca.linkedin.com/in/tanu-nanda-prabhu-a15a091b5) for daily Python interview questions & insights!   
+📝 Read my articles on [Medium](https://medium.com/@tanunprabhu95) for in-depth explanations & tutorials!   
+💬 Got a different solution? Drop your thoughts in the discussions! Let’s learn together! 🧠🔥
+
+
 # Table of Contents
 
 ➡ [Introduction](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#introduction)
