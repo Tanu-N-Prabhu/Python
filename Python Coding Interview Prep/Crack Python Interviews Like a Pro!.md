@@ -19,7 +19,7 @@ This repo has got you covered with optimized solutions, step-by-step explanation
 
 ---
 
-### Two Sum Problem – Efficient Python Solution 💻⚡
+### 1) Two Sum Problem – Efficient Python Solution 💻⚡
 #### Problem Statement
 You are given an array of numbers and a target sum. Your task is to find the indices of the two numbers that add up to the target.
 
@@ -52,7 +52,7 @@ def two_sum(nums, target):
 
 ---
 
-### Mastering Python Data Structures in One Go! 🚀🐍
+### 2) Mastering Python Data Structures in One Go! 🚀🐍
 Understanding data structures is key to writing efficient Python code. Here’s a quick breakdown of four essential types
 
 🔹 List – Ordered, mutable, allows duplicates  
@@ -80,5 +80,65 @@ print(my_list, my_tuple, my_set, my_dict)
 ✔ Use dictionaries when you need fast key-based lookups.  
 
 Which data structure do you use the most in Python? Drop your thoughts in the comments! 👇
+
+---
+
+### 3) Python’s Memory Efficiency: Mutable vs Immutable
+
+Mutable Objects (list, dict, set)
+
+✅ Can be modified after creation   
+✅ Stored in memory at the same location even after modification   
+❌ Not hashable (can’t be used as dictionary keys)   
+✅ Changes affect all references pointing to the object   
+✅ Efficient when frequent modifications are needed   
+
+Immutable Objects (int, str, tuple)
+
+❌ Cannot be modified after creation   
+❌ Every modification creates a new object in memory   
+✅ Hashable (can be used as dictionary keys)   
+✅ Changes do not affect other references   
+❌ Can be inefficient if modified frequently   
+
+> 💡 Fun Fact: Python reuses small immutable objects (like numbers -5 to 256 and short strings) to save memory!
+
+---
+
+### 4) Lazy Evaluation in Python (Generators vs Lists)
+
+* Lists store all elements in memory, consuming more space.
+
+* Generators produce values on demand, saving memory.
+
+* That’s why range(10**6) is more efficient than `[x for x in range(10**6)]`.
+
+---
+
+### 5) Python’s Interning Mechanism (Why `a is b` Might Be True)
+
+* Python optimizes memory by reusing small integers (-5 to 256) and short strings.
+
+* Example: `a = 256` and `b = 256` → `a is b` ✅
+
+* But `a = 257` and `b = 257` → `a is b` ❌ (because 257 is outside the cached range)
+
+---
+
+### 6)  Decorator Magic: Functions That Modify Functions
+
+* Decorators wrap a function, adding behavior without changing its original code.
+
+* Used in logging, caching, authentication, and more.
+
+* Example: `@lru_cache` speeds up recursive functions by storing previous results.
+
+---
+
+### 7) Packing & Unpacking: Python’s Tuple Trick
+
+* `a, b = b, a` works because Python automatically packs values into tuples and unpacks them efficiently.
+
+This concept is used in function arguments `(*args, **kwargs)` to handle dynamic inputs.
 
 ---
