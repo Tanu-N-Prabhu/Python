@@ -108,9 +108,7 @@ Immutable Objects (int, str, tuple)
 ### 4) Lazy Evaluation in Python (Generators vs Lists)
 
 * Lists store all elements in memory, consuming more space.
-
 * Generators produce values on demand, saving memory.
-
 * That’s why range(10**6) is more efficient than `[x for x in range(10**6)]`.
 
 ---
@@ -118,9 +116,7 @@ Immutable Objects (int, str, tuple)
 ### 5) Python’s Interning Mechanism (Why `a is b` Might Be True)
 
 * Python optimizes memory by reusing small integers (-5 to 256) and short strings.
-
 * Example: `a = 256` and `b = 256` → `a is b` ✅
-
 * But `a = 257` and `b = 257` → `a is b` ❌ (because 257 is outside the cached range)
 
 ---
@@ -128,9 +124,7 @@ Immutable Objects (int, str, tuple)
 ### 6)  Decorator Magic: Functions That Modify Functions
 
 * Decorators wrap a function, adding behavior without changing its original code.
-
 * Used in logging, caching, authentication, and more.
-
 * Example: `@lru_cache` speeds up recursive functions by storing previous results.
 
 ---
@@ -138,7 +132,6 @@ Immutable Objects (int, str, tuple)
 ### 7) Packing & Unpacking: Python’s Tuple Trick
 
 * `a, b = b, a` works because Python automatically packs values into tuples and unpacks them efficiently.
-
 * This concept is used in function arguments `(*args, **kwargs)` to handle dynamic inputs.
 
 ---
