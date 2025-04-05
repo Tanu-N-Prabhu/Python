@@ -139,6 +139,6 @@ Immutable Objects (int, str, tuple)
 
 * `a, b = b, a` works because Python automatically packs values into tuples and unpacks them efficiently.
 
-This concept is used in function arguments `(*args, **kwargs)` to handle dynamic inputs.
+* This concept is used in function arguments `(*args, **kwargs)` to handle dynamic inputs.
 
 ---
