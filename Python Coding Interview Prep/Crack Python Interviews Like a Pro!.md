@@ -49,3 +49,31 @@ def two_sum(nums, target):
 
 
 ---
+
+### Mastering Python Data Structures in One Go! 🚀🐍
+Understanding data structures is key to writing efficient Python code. Here’s a quick breakdown of four essential types
+🔹 List – Ordered, mutable, allows duplicates
+🔹 Tuple – Ordered, immutable, allows duplicates
+🔹 Set – Unordered, mutable, no duplicates
+🔹 Dictionary – Key-value pairs, unordered, mutable
+💡 Quick comparison with an example:
+
+```python
+# List vs Tuple vs Set vs Dictionary
+my_list = [1, 2, 3, 3]  # Allows duplicates
+my_tuple = (1, 2, 3, 3)  # Immutable but allows duplicates
+my_set = {1, 2, 3, 3}  # No duplicates
+my_dict = {"a": 1, "b": 2, "c": 3}  # Key-value storage
+
+print(my_list, my_tuple, my_set, my_dict)
+```
+
+🔥 When to use what?
+✔ Use lists when order matters and you need modifications.
+✔ Use tuples when you want an unchangeable sequence.
+✔ Use sets when you need unique elements.
+✔ Use dictionaries when you need fast key-based lookups.
+
+Which data structure do you use the most in Python? Drop your thoughts in the comments! 👇
+
+---
