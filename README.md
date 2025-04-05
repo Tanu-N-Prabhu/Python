@@ -20,7 +20,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTanu-N-Prabhu%2FPython&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Welcome to a treasure trove of python programming expertise 🐍, Data Science mastery 📊, and essential survival skills for navigating the dynamic world of programming 💡. Dive into the depths of this repository to unlock the knowledge and tools you need to thrive in your coding journey 🚀.
+Welcome to a treasure trove of Python programming expertise 🐍, Data Science mastery 📊, and essential survival skills for navigating the dynamic world of programming 💡. Dive into the depths of this repository to unlock the knowledge and tools you need to thrive in your coding journey 🚀.
 
 ## About
 
@@ -46,7 +46,7 @@ This repository isn't just a collection of code snippets 💻; it's a comprehens
 
 Ready to embark on your Python journey? Explore our repository, contribute your expertise, and connect with fellow enthusiasts. Together, we'll sharpen our skills, unravel the mysteries of programming, and unlock new opportunities in the ever-evolving tech landscape.
 
-## Join Us on this Adventure
+## Join Us on This Adventure
 
 The Python Mastery Repository 🐍 is more than just a collection of code; it's a gateway to endless possibilities 🌟. Start your exploration today and discover the boundless potential of Python programming 💻, data science 📊, and beyond.
 
@@ -72,11 +72,11 @@ I use Google Colab for Python programming, and it's one of the best interactive 
 
 # Repository Contents
 
-#### This repository is divided into two parts such as Python Coding and Data Science for Beginners.
+#### This repository is divided into two parts, such as Python Coding and Data Science for Beginners.
 
 ## Python Coding
 
-Follow the steps down below to get started coding in Python!!!
+Follow the steps below to get started coding in Python!!!
 
 <p align="center"> 
 <img src = "https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/Python.PNG">
@@ -284,7 +284,7 @@ Follow the steps below to get started learning Data Science!!!
 ---
 
 # Tech is Easy
-<p align = "justify">I Tanu Nanda Prabhu, always like simplifying complex things so that others can understand them more easily and better. Researching is my passion, I go through a ton of videos, articles, and tutorials and conclude starting a repository that purely contains tips and tricks for using Google Sheets. I update this repository every week with tons of information that will make your life simple. I am also seeking help from people who want to contribute to my repository. Feel free to Fork it and add updates, I will consider it.</p>
+<p align = "justify">I, Tanu Nanda Prabhu, always like simplifying complex things so that others can understand them more easily and better. Researching is my passion. I went through a ton of videos, articles, and tutorials and decided to start a repository that purely contains tips and tricks for using Google Sheets. I update this repository every week with tons of information that will make your life simple. I am also seeking help from people who want to contribute to my repository. Feel free to fork it and add updates; I will consider them.</p>
 
 ### [Tech Is Easy](https://github.com/Tanu-N-Prabhu/TechIsEasy)
 
@@ -294,20 +294,20 @@ Follow the steps below to get started learning Data Science!!!
 
 # Nbviewer
 
-<b align = "justify">If the jupyter notebook doesn't load. Don't worry copy and paste the link to [nbviewer](https://nbviewer.jupyter.org). Because most of my jupyter notebooks are not loading.</b>
+<b align = "justify">If the jupyter notebook doesn't load. Don't worry; copy and paste the link to [nbviewer](https://nbviewer.jupyter.org). Because most of my jupyter notebooks are not loading.</b>
 
 
 ---
 # Contributors
 
-### Currently there are 10 contributors for this repository. Feel free to contribute!
+### Currently, there are about 20 contributors for this repository. Feel free to contribute!
 
 <a href="https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python" />
 </a>
 
 
-> Want to know, how I did this. Refer here for the [docs](https://github.com/Tanu-N-Prabhu/myWebsite.io/blob/master/Docs/Displaying%20Contributors%20Image%20on%20README%20files%20with%20no%20Pain!.md)
+> Want to know how I did this? Refer here for the [docs](https://github.com/Tanu-N-Prabhu/myWebsite.io/blob/master/Docs/Displaying%20Contributors%20Image%20on%20README%20files%20with%20no%20Pain!.md)
 
 
 
@@ -364,16 +364,16 @@ If you have access to ChatGPT premium, there is a GPT Librarian with access to a
 
 # Reviews
 
-<b>Below given are some of the reviews about this Python GitHub Repository:</b>
+<b>Below are some of the reviews about this Python GitHub Repository:</b>
  
 
 
 > <b>‪Elin Uppström</b> - Senior Lecturer at Uppsala University, Sweden. <br>
-> I found your excellent exercises at your GitHub wile preparing undergraduate course in data analysis. I want to use it in my course.
+> I found your excellent exercises on your GitHub while preparing an undergraduate course in data analysis. I want to use it in my course.
 
 
 > <b>‪Cole Striler</b> - Data Scientist, Founder of Datafied<br>
-> I came across your GitHub and love your Jupyter Notebooks, especially the one on "<b>Predicting PewDiePie's daily subscribers</b>". I think you do a great job at explaining your work which is something others can learn.
+> I came across your GitHub and love your Jupyter Notebooks, especially the one on "<b>Predicting PewDiePie's daily subscribers</b>". I think you do a great job at explaining your work, which is something others can learn.
 
 
 > <b>Laurence Watson</b> - Co-Founder & CEO, Treebeard<br>
@@ -384,7 +384,7 @@ If you have access to ChatGPT premium, there is a GPT Librarian with access to a
 > Thank you so much for posting such helpful posts on GitHub.Many, many thanks for all you do to spread the knowledge.
 
 
-**Do you like the Repository, Please drop in your precious reviews by shooting an e-mail**.
+**Do you like the Repository? Please drop in your precious reviews by shooting an e-mail**.
 
 ---
 
