@@ -1,23 +1,25 @@
 # 🚀 Crack Python Interviews Like a Pro!
-## 💻 Struggling with Python interview questions? 
+## 💻 Struggling with Python interview questions/concepts? 
 
 This repo has got you covered with optimized solutions, step-by-step explanations, and real interview problems from top tech companies.
 
-✅ Master popular coding challenges with clear solutions   
+✅ Master prevalent coding challenges with clear solutions   
 ✅ Learn concepts with detailed explanations & visualizations   
 ✅ Improve your skills with real-world examples & best practices   
 ⚡ Start learning now, level up your coding game, and land your dream job!   
 🔔 Follow & ⭐ Star this repo to stay updated with new questions!   
 
-📢 Stay Connected:
+📢 **Stay Connected**
 
 🔗 Follow me on [LinkedIn](https://ca.linkedin.com/in/tanu-nanda-prabhu-a15a091b5) for daily Python interview questions & insights!   
 📝 Read my articles on [Medium](https://medium.com/@tanunprabhu95) for in-depth explanations & tutorials!   
 💬 Got a different solution? Drop your thoughts in the discussions! Let’s learn together! 🧠🔥
 
+<p align = "right"> Written by <a href = "https://medium.com/@tanunprabhu95">Tanu Nanda Prabhu</a></p>
+
 ---
 
-### 🔍 Two Sum Problem – Efficient Python Solution 💻⚡
+### Two Sum Problem – Efficient Python Solution 💻⚡
 #### Problem Statement
 You are given an array of numbers and a target sum. Your task is to find the indices of the two numbers that add up to the target.
 
@@ -52,11 +54,13 @@ def two_sum(nums, target):
 
 ### Mastering Python Data Structures in One Go! 🚀🐍
 Understanding data structures is key to writing efficient Python code. Here’s a quick breakdown of four essential types
-🔹 List – Ordered, mutable, allows duplicates
-🔹 Tuple – Ordered, immutable, allows duplicates
-🔹 Set – Unordered, mutable, no duplicates
-🔹 Dictionary – Key-value pairs, unordered, mutable
-💡 Quick comparison with an example:
+
+🔹 List – Ordered, mutable, allows duplicates  
+🔹 Tuple – Ordered, immutable, allows duplicates  
+🔹 Set – Unordered, mutable, no duplicates  
+🔹 Dictionary – Key-value pairs, unordered, mutable  
+
+💡 Quick comparison with an example
 
 ```python
 # List vs Tuple vs Set vs Dictionary
@@ -69,10 +73,11 @@ print(my_list, my_tuple, my_set, my_dict)
 ```
 
 🔥 When to use what?
-✔ Use lists when order matters and you need modifications.
-✔ Use tuples when you want an unchangeable sequence.
-✔ Use sets when you need unique elements.
-✔ Use dictionaries when you need fast key-based lookups.
+
+✔ Use lists when order matters and you need modifications.  
+✔ Use tuples when you want an unchangeable sequence.  
+✔ Use sets when you need unique elements.  
+✔ Use dictionaries when you need fast key-based lookups.  
 
 Which data structure do you use the most in Python? Drop your thoughts in the comments! 👇
 
