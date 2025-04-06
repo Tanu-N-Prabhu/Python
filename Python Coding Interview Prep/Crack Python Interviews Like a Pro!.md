@@ -135,3 +135,40 @@ Immutable Objects (int, str, tuple)
 * This concept is used in function arguments `(*args, **kwargs)` to handle dynamic inputs.
 
 ---
+
+### 8) Python Unpacking: The Hidden Power of Simplicity
+Ever swapped values in Python without using a temp variable? That’s tuple unpacking in action! 
+
+##### What’s happening?
+
+Python automatically packs values into a tuple and then unpacks them into variables.
+This isn’t just for swapping—it's also used in loops, function returns, and argument unpacking!
+
+##### Why it matters
+
+✅ Cleaner syntax   
+✅ Fewer lines of code   
+✅ More readable logic   
+
+> **Fun Fact**: Python doesn’t need a `swap()` function like other languages — thanks to unpacking, it’s built right into the language! One of the few languages where swapping values is truly one line, no tricks needed.
+
+---
+
+### 9) Python Scopes: How Your Variables Live and Die
+
+Ever wondered why some variables disappear or seem "undefined"? That’s because of Python’s scope rules — the LEGB rule! 🕵️‍♂️
+
+##### LEGB stands for
+
+* Local – Inside a function
+* Enclosing – In nested functions
+* Global – At the top level of the script
+* Built-in – Provided by Python itself
+
+##### Why it matters
+Understanding the scope prevents bugs, avoids variable conflicts, and helps you write clean, modular code.
+
+> **Fun Fact**: Python reads variables from the innermost to the outermost scope — it won't even look at global variables if something local exists!
+
+---
+
