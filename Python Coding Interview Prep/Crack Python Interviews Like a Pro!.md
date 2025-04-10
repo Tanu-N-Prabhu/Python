@@ -1,25 +1,25 @@
-# 🚀 Crack Python Interviews Like a Pro!
-## 💻 Struggling with Python interview questions/concepts? 
+# Crack Python Interviews Like a Pro!
+## Struggling with Python interview questions/concepts? 
 
 This repo has got you covered with optimized solutions, step-by-step explanations, and real interview problems from top tech companies.
 
-✅ Master prevalent coding challenges with clear solutions   
-✅ Learn concepts with detailed explanations & visualizations   
-✅ Improve your skills with real-world examples & best practices   
-⚡ Start learning now, level up your coding game, and land your dream job!   
-🔔 Follow & ⭐ Star this repo to stay updated with new questions!   
+* Master prevalent coding challenges with clear solutions
+* Learn concepts with detailed explanations & visualizations
+* Improve your skills with real-world examples & best practices
+* Start learning now, level up your coding game, and land your dream job!
+* **Follow** & **Star** this repo to stay updated with new questions!   
 
-📢 **Stay Connected**
+**Stay Connected**
 
-🔗 Follow me on [LinkedIn](https://ca.linkedin.com/in/tanu-nanda-prabhu-a15a091b5) for daily Python interview questions & insights!   
-📝 Read my articles on [Medium](https://medium.com/@tanunprabhu95) for in-depth explanations & tutorials!   
-💬 Got a different solution? Drop your thoughts in the discussions! Let’s learn together! 🧠🔥
+* Follow me on [LinkedIn](https://ca.linkedin.com/in/tanu-nanda-prabhu-a15a091b5) for daily Python interview questions & insights!
+* Read my articles on [Medium](https://medium.com/@tanunprabhu95) for in-depth explanations & tutorials!
+* Got a different solution? Drop your thoughts in the discussions! Let’s learn together! 
 
 <p align = "right"> Written by <a href = "https://medium.com/@tanunprabhu95">Tanu Nanda Prabhu</a></p>
 
 ---
 
-### 1) Two Sum Problem – Efficient Python Solution 💻⚡
+### 1) Two Sum Problem – Efficient Python Solution
 #### Problem Statement
 You are given an array of numbers and a target sum. Your task is to find the indices of the two numbers that add up to the target.
 
@@ -30,8 +30,8 @@ target = 9
 # Output: [0, 1] (Because 2 + 7 = 9)
 ```
 
-#### 🚀 Optimized Approach – Hash Map 🗂️
-💡 Instead of using a brute-force approach with two loops, we can solve this problem efficiently using a hash map (dictionary).
+#### Optimized Approach – Hash Map
+Instead of using a brute-force approach with two loops, we can solve this problem efficiently using a hash map (dictionary).
 ##### 📝 Solution Code
 ```python
 def two_sum(nums, target):
@@ -43,24 +43,24 @@ def two_sum(nums, target):
         num_map[num] = i
     return []  # No solution found
 ```
-#### 🔎 Why is this efficient? 🤔
-✅ Time Complexity: O(n) – We iterate through the list once.  
-✅ Space Complexity: O(n) – Stores numbers and their indices in a dictionary.  
-💬 Got another approach? Share it below! 🗣️👇  
-📌 Follow this repository for more interview questions & solutions! ⭐  
+#### Why is this efficient?
+* Time Complexity: O(n) – We iterate through the list once.
+* Space Complexity: O(n) – Stores numbers and their indices in a dictionary.
+* Got another approach? Share it below!
+* Follow this repository for more interview questions & solutions!
 
 
 ---
 
-### 2) Mastering Python Data Structures in One Go! 🚀🐍
+### 2) Mastering Python Data Structures in One Go! 
 Understanding data structures is key to writing efficient Python code. Here’s a quick breakdown of four essential types
 
-🔹 List – Ordered, mutable, allows duplicates  
-🔹 Tuple – Ordered, immutable, allows duplicates  
-🔹 Set – Unordered, mutable, no duplicates  
-🔹 Dictionary – Key-value pairs, unordered, mutable  
-
-💡 Quick comparison with an example
+* List – Ordered, mutable, allows duplicates
+* Tuple – Ordered, immutable, allows duplicates
+* Set – Unordered, mutable, no duplicates
+* Dictionary – Key-value pairs, unordered, mutable
+  
+**Quick comparison with an example**
 
 ```python
 # List vs Tuple vs Set vs Dictionary
@@ -72,12 +72,12 @@ my_dict = {"a": 1, "b": 2, "c": 3}  # Key-value storage
 print(my_list, my_tuple, my_set, my_dict)
 ```
 
-🔥 When to use what?
+**When to use what?**
 
-✔ Use lists when order matters and you need modifications.  
-✔ Use tuples when you want an unchangeable sequence.  
-✔ Use sets when you need unique elements.  
-✔ Use dictionaries when you need fast key-based lookups.  
+* Use lists when order matters and you need modifications.
+* Use tuples when you want an unchangeable sequence.
+* Use sets when you need unique elements.
+* Use dictionaries when you need fast key-based lookups.  
 
 Which data structure do you use the most in Python? Drop your thoughts in the comments! 👇
 
@@ -87,21 +87,21 @@ Which data structure do you use the most in Python? Drop your thoughts in the co
 
 Mutable Objects (list, dict, set)
 
-✅ Can be modified after creation   
-✅ Stored in memory at the same location even after modification   
-❌ Not hashable (can’t be used as dictionary keys)   
-✅ Changes affect all references pointing to the object   
-✅ Efficient when frequent modifications are needed   
+* Can be modified after creation.
+* Stored in memory at the same location even after modification.
+* Not hashable (can’t be used as dictionary keys).
+* Changes affect all references pointing to the object.
+* Efficient when frequent modifications are needed.
 
 Immutable Objects (int, str, tuple)
 
-❌ Cannot be modified after creation   
-❌ Every modification creates a new object in memory   
-✅ Hashable (can be used as dictionary keys)   
-✅ Changes do not affect other references   
-❌ Can be inefficient if modified frequently   
+* Cannot be modified after creation
+* Every modification creates a new object in memory
+* Hashable (can be used as dictionary keys)
+* Changes do not affect other references
+* Can be inefficient if modified frequently   
 
-> 💡 Fun Fact: Python reuses small immutable objects (like numbers -5 to 256 and short strings) to save memory!
+> Fun Fact: Python reuses small immutable objects (like numbers -5 to 256 and short strings) to save memory!
 
 ---
 
@@ -146,9 +146,9 @@ This isn’t just for swapping—it's also used in loops, function returns, and 
 
 ##### Why it matters
 
-✅ Cleaner syntax   
-✅ Fewer lines of code   
-✅ More readable logic   
+* Cleaner syntax
+* Fewer lines of code
+* More readable logic   
 
 > **Fun Fact**: Python doesn’t need a `swap()` function like other languages — thanks to unpacking, it’s built right into the language! One of the few languages where swapping values is truly one line, no tricks needed.
 
@@ -156,7 +156,7 @@ This isn’t just for swapping—it's also used in loops, function returns, and 
 
 ### 9) Python Scopes: How Your Variables Live and Die
 
-Ever wondered why some variables disappear or seem "undefined"? That’s because of Python’s scope rules — the LEGB rule! 🕵️‍♂️
+Ever wondered why some variables disappear or seem "undefined"? That’s because of Python’s scope rules — the LEGB rule!
 
 ##### LEGB stands for
 
