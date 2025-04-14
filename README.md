@@ -8,17 +8,14 @@
 
 <!-- Shield Badges -->
 
-| [![Discord](https://img.shields.io/discord/718138360538857794.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qFryjbX)  | ![GitHub forks](https://img.shields.io/github/forks/Tanu-N-Prabhu/Python?label=Fork&style=social)  | ![GitHub stars](https://img.shields.io/github/stars/Tanu-N-Prabhu/Python?style=social) | ![GitHub repo size](https://img.shields.io/github/repo-size/Tanu-N-Prabhu/Python) |  ![GitHub contributors](https://img.shields.io/github/contributors/Tanu-N-Prabhu/Python)| [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Tanu-N-Prabhu/Python)| [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)|![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python/master?display_timestamp=committer)|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-
-
+| [![Discord](https://img.shields.io/discord/718138360538857794.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qFryjbX)  | ![GitHub forks](https://img.shields.io/github/forks/Tanu-N-Prabhu/Python?label=Fork&style=social)  | ![GitHub stars](https://img.shields.io/github/stars/Tanu-N-Prabhu/Python?style=social) | ![GitHub repo size](https://img.shields.io/github/repo-size/Tanu-N-Prabhu/Python) |  ![GitHub contributors](https://img.shields.io/github/contributors/Tanu-N-Prabhu/Python)| [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Tanu-N-Prabhu/Python)| [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)|![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python/master?display_timestamp=committer)|![Views Counter](https://views-counter.vercel.app/badge?pageId=Tanu-N-Prabhu%2FViews-Counter)|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
 |:--:| 
 | Image Credits [Wallpaper Flare](https://www.wallpaperflare.com/programming-is-an-art-text-code-python-computer-python-programming-wallpaper-srfia) |
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTanu-N-Prabhu%2FPython&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Welcome to a treasure trove of Python programming expertise, Data Science mastery, and essential survival skills for navigating the dynamic world of programming. Dive into the depths of this repository to unlock the knowledge and tools you need to thrive in your coding journey.
 
@@ -55,7 +52,7 @@ The Python Mastery Repository is more than just a collection of code; it's a gat
 # Installation tools
 
 
-Below are some tools you can download before getting started with Python. It's all about personal preference, so feel free to choose the ones that work best for you! 🛠️
+Below are some tools you can download before getting started with Python. It's all about personal preference, so feel free to choose the ones that work best for you!
 
 
 | Name of the tools | 
@@ -234,7 +231,7 @@ Follow the steps below to get started coding in Python!!!
 </details>
 
 
-👉 **Expand** and **Collapse** the above Chapters for more details
+> **Expand** and **Collapse** the above Chapters for more details
   
 ---
 
@@ -281,20 +278,20 @@ Follow the steps below to get started learning Data Science!!!
 ---
 
 # Tech is Easy
-<p align = "justify">I, Tanu Nanda Prabhu, always like simplifying complex things so that others can understand them more easily and better. Researching is my passion. I went through a ton of videos, articles, and tutorials and decided to start a repository that purely contains tips and tricks for using Google Sheets. I update this repository every week with tons of information that will make your life simple. I am also seeking help from people who want to contribute to my repository. Feel free to fork it and add updates; I will consider them.</p>
 
-### [Tech Is Easy](https://github.com/Tanu-N-Prabhu/TechIsEasy)
+I’m Tanu Nanda Prabhu, and my passion lies in simplifying complex concepts to make them easier for others to understand. Research is something I deeply enjoy, and after exploring numerous videos, articles, and tutorials, I decided to create a repository dedicated to Google Sheets tips and tricks. I update this repository weekly with valuable insights designed to make your life simpler. I’m also open to contributions from those who wish to help enhance this resource. Feel free to fork the repository and submit updates — I’ll gladly review and consider them.
 
+> [Tech Is Easy](https://github.com/Tanu-N-Prabhu/TechIsEasy)
 
 ---
 
 
 # Nbviewer
 
-<b align = "justify">If the jupyter notebook doesn't load. Don't worry; copy and paste the link to [nbviewer](https://nbviewer.jupyter.org). Because most of my jupyter notebooks are not loading.</b>
-
+If the Jupyter Notebook doesn’t load, don’t worry! Simply copy and paste the link into [nbviewer](https://nbviewer.jupyter.org), as most of my notebooks are accessible there.
 
 ---
+
 # Contributors
 
 ### Currently, there are about 20 contributors for this repository. Feel free to contribute!
@@ -334,11 +331,6 @@ Follow the steps below to get started learning Data Science!!!
 
 ---
 
-# Submit your articles here
-
-1) [Data Science from Scratch](https://medium.com/data-science-from-scratch)
-
----
 
 # GPT Librarian <img align="right" width="50" height="50" src=https://github.com/Decron/Python/assets/1786607/5b4e7a09-a76f-40be-b87d-c6e007b7ff35>
 
@@ -352,10 +344,10 @@ If you have access to ChatGPT premium, there is a GPT Librarian with access to a
 
 | Contact        | Info           | 
 | ------------- |:-------------:|
-| <b>Gmail</b>      | tanuprabhu96@gmail.com  | 
-| <b>Facebook</b>       | Tanu N Prabhu      |    
-| <b>Instagram </b>    | tanunprabhu   |
-| <b>Linkedin </b>    | [Tanu Nanda Prabhu](https://www.linkedin.com/in/tanu-nanda-prabhu-a15a091b5/) |
+| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)      | tanunprabhu95@gmail.com  | 
+| ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)    | [Tanu Nanda Prabhu](https://www.linkedin.com/in/tanu-nanda-prabhu-a15a091b5/) |
+| ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)| [Tanu N Prabhu](https://medium.com/@tanunprabhu95)|
+| ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)| [Python Coder](https://www.instagram.com/pycoderr/)|
 
 ---
 
@@ -378,7 +370,7 @@ If you have access to ChatGPT premium, there is a GPT Librarian with access to a
 
 
 > <b>Poonam Gupta</b> - Math & AP Computer Science Instructor, Brunswick School <br>
-> Thank you so much for posting such helpful posts on GitHub.Many, many thanks for all you do to spread the knowledge.
+> Thank you so much for posting such helpful posts on GitHub. Many, many thanks for all you do to spread the knowledge.
 
 
 **Do you like the Repository? Please drop in your precious reviews by shooting an e-mail**.
