@@ -171,4 +171,19 @@ Understanding the scope prevents bugs, avoids variable conflicts, and helps you 
 > **Fun Fact**: Python reads variables from the innermost to the outermost scope — it won't even look at global variables if something local exists!
 
 ---
+### 10) Python’s Identity vs Equality, `is` vs `==`
 
+These two look similar, but they’re different! 
+
+* `==` checks if values are equal
+* `is` checks if they’re the same object in memory
+
+##### Why it matters
+
+* Two objects can be equal in value but not identical in memory
+* Misusing them can cause confusing bugs
+* Especially important when working with mutable data types and None checks
+
+> **Fun Fact**: Python _interns small integers_ and strings, so `a is b` might return `True` even if you didn’t expect it. But don’t rely on it—it’s an optimization, not a rule!
+
+---
