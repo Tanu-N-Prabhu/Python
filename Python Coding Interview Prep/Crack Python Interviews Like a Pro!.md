@@ -1,6 +1,10 @@
 # Crack Python Interviews Like a Pro!
 ## Struggling with Python interview questions/concepts? 
 
+| ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/rubaitul-azad-ZIPFteu-R8k-unsplash.jpg) | 
+|:--:| 
+| Photo by <a href="https://unsplash.com/@rubaitulazad?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Rubaitul Azad</a> on <a href="https://unsplash.com/photos/a-white-cube-with-a-yellow-and-blue-logo-on-it-ZIPFteu-R8k?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> |
+
 This repo has got you covered with optimized solutions, step-by-step explanations, and real interview problems from top tech companies.
 
 * Master prevalent coding challenges with clear solutions
