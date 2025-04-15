@@ -1,6 +1,9 @@
 # Crack Python Interviews Like a Pro!
 ## Struggling with Python interview questions/concepts? 
 
+| [![Discord](https://img.shields.io/discord/718138360538857794.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qFryjbX)  | ![GitHub forks](https://img.shields.io/github/forks/Tanu-N-Prabhu/Python?label=Fork&style=social)  | ![GitHub stars](https://img.shields.io/github/stars/Tanu-N-Prabhu/Python?style=social) | ![GitHub repo size](https://img.shields.io/github/repo-size/Tanu-N-Prabhu/Python) |  ![GitHub contributors](https://img.shields.io/github/contributors/Tanu-N-Prabhu/Python)| [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Tanu-N-Prabhu/Python)| [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)|![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python/master?display_timestamp=committer)|![Views Counter](https://views-counter.vercel.app/badge?pageId=Tanu-N-Prabhu%2FViews-Counter)|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/rubaitul-azad-ZIPFteu-R8k-unsplash.jpg) | 
 |:--:| 
 | Photo by <a href="https://unsplash.com/@rubaitulazad?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Rubaitul Azad</a> on <a href="https://unsplash.com/photos/a-white-cube-with-a-yellow-and-blue-logo-on-it-ZIPFteu-R8k?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> |
@@ -27,7 +30,7 @@ This repo has got you covered with optimized solutions, step-by-step explanation
 #### Problem Statement
 You are given an array of numbers and a target sum. Your task is to find the indices of the two numbers that add up to the target.
 
-##### 📝 Example
+##### Example
 ```python
 nums = [2, 7, 11, 15]
 target = 9
@@ -36,7 +39,7 @@ target = 9
 
 #### Optimized Approach – Hash Map
 Instead of using a brute-force approach with two loops, we can solve this problem efficiently using a hash map (dictionary).
-##### 📝 Solution Code
+##### Solution Code
 ```python
 def two_sum(nums, target):
     num_map = {}  # Stores number and its index
@@ -82,8 +85,6 @@ print(my_list, my_tuple, my_set, my_dict)
 * Use tuples when you want an unchangeable sequence.
 * Use sets when you need unique elements.
 * Use dictionaries when you need fast key-based lookups.  
-
-Which data structure do you use the most in Python? Drop your thoughts in the comments! 👇
 
 ---
 
@@ -189,5 +190,22 @@ These two look similar, but they’re different!
 * Especially important when working with mutable data types and None checks
 
 > **Fun Fact**: Python _interns small integers_ and strings, so `a is b` might return `True` even if you didn’t expect it. But don’t rely on it—it’s an optimization, not a rule!
+
+---
+
+### 11) Python Metaclasses: The Class of a Class
+
+Ever heard the phrase: “Everything in Python is an object”?
+Well, even classes are objects! And the blueprint for those? That’s where metaclasses come in.
+
+##### What is a Metaclass?
+A metaclass is what creates classes, just like classes create objects. It’s the “behind-the-scenes architect” of Python’s object model.
+
+##### Why it matters:
+* Used to control class creation
+* Great for customizing class behavior across a codebase
+* Powerful in frameworks like Django and ORMs for auto-generating code
+
+> **Fun Fact**: The default metaclass in Python is type — yes, _type()_ not only tells you what something is... It’s also how classes are built!
 
 ---
