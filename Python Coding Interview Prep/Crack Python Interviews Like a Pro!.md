@@ -209,3 +209,42 @@ A metaclass is what creates classes, just like classes create objects. It’s th
 > **Fun Fact**: The default metaclass in Python is type — yes, _type()_ not only tells you what something is... It’s also how classes are built!
 
 ---
+
+### 12) Vectorization in NumPy
+
+Why loops are out and speed is in?
+
+##### Why is it so important
+
+Vectorization in NumPy allows you to apply operations on whole arrays without writing manual loops. It’s cleaner, faster, and ideal for handling large datasets. Using optimized C code under the hood supercharges performance and is a must-know for every data scientist.
+
+> **Fun Fact**: NumPy vectorized ops can be 100x faster than regular Python loops!
+
+```python
+import numpy as np
+import time
+
+# Setup
+size = 1_000_000
+a = np.random.rand(size)
+b = np.random.rand(size)
+
+# Traditional loop
+start = time.time()
+result_loop = []
+for i in range(size):
+    result_loop.append(a[i] + b[i])
+print("Loop Time:", round(time.time() - start, 4), "seconds")
+
+# Vectorized with NumPy
+start = time.time()
+result_vectorized = a + b
+print("Vectorized Time:", round(time.time() - start, 4), "seconds")
+
+```
+
+##### What It Shows
+* The loop takes significantly longer to perform the addition.
+* The vectorized approach is lightning fast and cleaner.
+
+---
