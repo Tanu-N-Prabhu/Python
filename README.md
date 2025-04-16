@@ -372,6 +372,9 @@ If you have access to ChatGPT premium, there is a GPT Librarian with access to a
 > <b>Poonam Gupta</b> - Math & AP Computer Science Instructor, Brunswick School <br>
 > Thank you so much for posting such helpful posts on GitHub. Many, many thanks for all you do to spread the knowledge.
 
+> <b>David Okenwa</b> - Mechanical Engineer and currently building in Data Analytics!
+> I recently serendipitously came across your Medium, GitHub, and portfolio website and was enthralled. Really Inspiring! I want to start writing articles and building my GitHub repositories. 
+
 
 **Do you like the Repository? Please drop in your precious reviews by shooting an e-mail**.
 
