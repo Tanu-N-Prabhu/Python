@@ -248,3 +248,37 @@ print("Vectorized Time:", round(time.time() - start, 4), "seconds")
 * The vectorized approach is lightning fast and cleaner.
 
 ---
+
+
+### 13) Understanding Lazy Evaluation in Python
+
+How Python delays execution to optimize performance?
+
+##### Why is it so important
+
+Lazy evaluation is a powerful concept that helps Python save memory and compute only when needed. It’s often used in iterators, generators, and libraries like Pandas or NumPy, especially when dealing with huge datasets.
+
+> **Fun Fact**: Python’s `range()` is lazy, it doesn’t generate all numbers at once, just the one you ask for!
+
+
+```python
+# Generator function (lazy)
+def lazy_numbers():
+    for i in range(1, 6):
+        print(f"Generating {i}")
+        yield i
+
+# Using the generator
+gen = lazy_numbers()
+
+for num in gen:
+    print(f"Using {num}")
+
+```
+
+##### What It Shows
+* Values are generated one at a time, only when needed.
+* No upfront memory usage — great for large or infinite data.
+* `yield` makes functions behave lazily like iterators.
+
+---
