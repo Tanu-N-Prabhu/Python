@@ -282,3 +282,36 @@ for num in gen:
 * `yield` makes functions behave lazily like iterators.
 
 ---
+
+
+### 14) Feature Scaling with Scikit-Learn
+
+Prepare your data the right way for better ML results
+
+##### Why is it so important
+
+Feature scaling is the backbone of good model performance. Without it, algorithms like KNN, SVM, or Gradient Descent-based models can give poor or biased results. It ensures all features contribute equally, especially when they’re on different scales.
+
+> **Fun Fact**: Not scaling your features can make even the best model perform worse than a basic one. Tiny preprocessing = huge difference in accuracy! 
+
+
+```python
+from sklearn.preprocessing import StandardScaler
+import numpy as np
+
+# Sample data: [height (cm), weight (kg)]
+X = np.array([[170, 65], [180, 85], [160, 55]])
+
+scaler = StandardScaler()
+scaled_X = scaler.fit_transform(X)
+
+print(scaled_X)
+
+```
+
+##### What It Shows
+* Your features (height, weight) are standardized (mean = 0, std = 1)
+* This makes all features equally important during model training
+* Easy plug-and-play with any ML pipeline
+
+---
