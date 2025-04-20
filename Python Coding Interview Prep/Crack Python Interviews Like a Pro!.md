@@ -315,3 +315,48 @@ print(scaled_X)
 * Easy plug-and-play with any ML pipeline
 
 ---
+
+### 15) One-Hot Encoding Explained
+
+Make categories readable for machine learning
+
+##### Why is it so important
+
+Machine learning models can’t process text directly, they need numbers. One-hot encoding turns categorical variables into binary vectors without implying any order, making them model-friendly without misleading the algorithm.
+
+###### Summary
+
+* Converts categorical data into numerical format
+* Prevents false assumptions of order in categories
+* Essential for most ML models like logistic regression, trees, and neural nets
+* Built into pandas and scikit-learn
+
+
+> **Fun Fact**: One-hot encoded vectors are often sparse, most values are 0. That’s why ML frameworks optimize their storage behind the scenes!
+
+
+
+
+```python
+
+import pandas as pd
+
+# Sample data
+df = pd.DataFrame({
+    'Color': ['Red', 'Blue', 'Green', 'Blue']
+})
+
+# One-hot encoding
+encoded = pd.get_dummies(df, columns=['Color'])
+
+print(encoded)
+
+```
+
+##### What It Shows
+
+* Converts each category in the `Color` column into its binary column
+* Each row has a 1 in the column that matches its category
+* Zero assumption of order, pure categorical handling
+
+---
