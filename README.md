@@ -274,6 +274,7 @@ Follow the steps below to get started learning Data Science!!!
 
 
 [Mastering the Art of Data Preprocessing with Pandas](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data_Preprocessing_with_Pandas.md)
+[Time Series Forecasting with Pandas](https://github.com/Tanu-N-Prabhu/Python/blob/master/Time_Series_Forecasting_with_Pandas.ipynb)
 
 ---
 
