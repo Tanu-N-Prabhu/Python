@@ -169,6 +169,9 @@ Follow the steps below to get started coding in Python!!!
  - <b>[Cheat Sheet for Google Colab](https://github.com/Tanu-N-Prabhu/Python/blob/master/Cheat_sheet_for_Google_Colab.ipynb)</b>
 
  - <b>[Pick-Up Line Generator using Python Dictionaries](https://github.com/Tanu-N-Prabhu/Python/blob/master/Pick_up_Line_Generator.ipynb)</b>
+
+ - <b>[Optimizing Python Code with List Comprehensions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Optimizing_Python_Code_with_List_Comprehensions.ipynb)</b>
+
  
 </details>
 
