@@ -175,6 +175,8 @@ Follow the steps below to get started coding in Python!!!
 
  - <b>[Optimizing Python Code with List Comprehensions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Optimizing_Python_Code_with_List_Comprehensions.ipynb)</b>
 
+ - <b>[Understanding Virtual Environments in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Understanding_Virtual_Environments_in_Python.ipynb)</b>
+
  
 </details>
 
