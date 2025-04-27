@@ -97,6 +97,9 @@ Follow the steps below to get started coding in Python!!!
  
  - <b>[Python Operators](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Operators.ipynb)</b>
 
+ - <b>[Mastering Python Decorators](https://github.com/Tanu-N-Prabhu/Python/blob/master/Mastering_Python_Decorators.ipynb)</b>
+
+
 </details>
 
 
