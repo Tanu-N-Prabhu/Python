@@ -269,24 +269,30 @@ Follow the steps below to get started learning Data Science!!!
  
  - <b>[Scraping Rate My Professor Website - My Graduate Professor](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Scraping%20from%20the%20Web/Web_Scraping_Rate_My_Professor_Website.ipynb)</b>
 
- - <b>[Web Scraping vs API: Which Data Extraction Method is Best for Your Needs?](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Scraping%20from%20the%20Web/Web_Scraping_Vs_API.md)
+ - <b>[Web Scraping vs API: Which Data Extraction Method is Best for Your Needs?](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Scraping%20from%20the%20Web/Web_Scraping_Vs_API.md)</b>
  
 </details>
 
 <details>
-  <summary>Cracking Transit Data — Calgary 2025</summary>
+  <summary>Cracking Transit Data, Calgary 2025</summary>
   
  - <b>[How to Decode and Leverage GTFS for Real-Time Transit Insights](https://github.com/Tanu-N-Prabhu/Python/blob/master/Transit_Data_Calgary_2025.ipynb)</b>
  
 </details>
 
-[Mastering the Art of Data Preprocessing with Pandas](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data_Preprocessing_with_Pandas.md)
+<details>
+  <summary>Additional Materials</summary>
+  
+ - <b>[Mastering the Art of Data Preprocessing with Pandas](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data_Preprocessing_with_Pandas.md)</b>
+ - <b>[Time Series Forecasting with Pandas](https://github.com/Tanu-N-Prabhu/Python/blob/master/Time_Series_Forecasting_with_Pandas.ipynb)</b>
+ - <b>[Demystifying Feature Engineering](https://github.com/Tanu-N-Prabhu/Python/blob/master/Demystifying_Feature_Engineering.ipynb)</b>
+ - <b>[Building Your First Machine Learning Model with scikit-learn](https://github.com/Tanu-N-Prabhu/Python/blob/master/Building_Your_First_Machine_Learning_Model.ipynb)</b>
+ 
+</details>
 
-[Time Series Forecasting with Pandas](https://github.com/Tanu-N-Prabhu/Python/blob/master/Time_Series_Forecasting_with_Pandas.ipynb)
 
-[Demystifying Feature Engineering](https://github.com/Tanu-N-Prabhu/Python/blob/master/Demystifying_Feature_Engineering.ipynb)
 
-[Building Your First Machine Learning Model with scikit-learn](https://github.com/Tanu-N-Prabhu/Python/blob/master/Building_Your_First_Machine_Learning_Model.ipynb)
+
 
 
 ---
