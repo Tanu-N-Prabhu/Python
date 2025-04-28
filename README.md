@@ -286,6 +286,9 @@ Follow the steps below to get started learning Data Science!!!
 
 [Demystifying Feature Engineering](https://github.com/Tanu-N-Prabhu/Python/blob/master/Demystifying_Feature_Engineering.ipynb)
 
+[Building Your First Machine Learning Model with scikit-learn](https://github.com/Tanu-N-Prabhu/Python/blob/master/Building_Your_First_Machine_Learning_Model.ipynb)
+
+
 ---
 
 # Tech is Easy
