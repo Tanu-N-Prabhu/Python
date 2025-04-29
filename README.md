@@ -177,6 +177,9 @@ Follow the steps below to get started coding in Python!!!
 
  - <b>[Understanding Virtual Environments in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Understanding_Virtual_Environments_in_Python.ipynb)</b>
 
+ - <b>[Hidden Markov Models in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Hidden_Markov_Models_in_Python.ipynb)</b>
+
+ 
  
 </details>
 
