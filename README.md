@@ -146,6 +146,9 @@ Follow the steps below to get started coding in Python!!!
 
  - <b>[General Transit Feed Specification - General Transit Feed Specification (GTFS)](https://github.com/Tanu-N-Prabhu/Python/blob/387a2cdd5bcfc4afbae2319d017a850bdaeb772c/Transit_Data_Calgary_2025.ipynb)</b>
 
+  - <b>[Unlocking Time Series Forecasting with Facebook Prophet](https://github.com/Tanu-N-Prabhu/Python/blob/master/Unlocking_Time_Series_Forecasting_with_Facebook_Prophet.ipynb)</b>
+
+
 </details>
 
 <details>
