@@ -182,6 +182,9 @@ Follow the steps below to get started coding in Python!!!
 
  - <b>[Hidden Markov Models in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Hidden_Markov_Models_in_Python.ipynb)</b>
 
+  - <b>[Hidden Layers of Understanding](https://github.com/Tanu-N-Prabhu/Python/blob/master/Hidden_Layers_of_Understanding_CNN.ipynb)</b>
+
+
  
  
 </details>
