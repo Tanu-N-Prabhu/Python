@@ -182,7 +182,10 @@ Follow the steps below to get started coding in Python!!!
 
  - <b>[Hidden Markov Models in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Hidden_Markov_Models_in_Python.ipynb)</b>
 
-  - <b>[Mastering Feature Maps in Convolutional Neural Networks](https://github.com/Tanu-N-Prabhu/Python/blob/master/Hidden_Layers_of_Understanding_CNN.ipynb)</b>
+ - <b>[Mastering Feature Maps in Convolutional Neural Networks](https://github.com/Tanu-N-Prabhu/Python/blob/master/Hidden_Layers_of_Understanding_CNN.ipynb)</b>
+
+ - <b>[Build a Rule-Based System with Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Rule_Based_System_with_Python.ipynb)</b>
+
 
 
  
