@@ -293,13 +293,14 @@ Follow the steps below to get started learning Data Science!!!
 </details>
 
 <details>
-  <summary>Additional Materials</summary>
+  <summary>Additional Materials (Projects)</summary>
   
  - <b>[Mastering the Art of Data Preprocessing with Pandas](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data_Preprocessing_with_Pandas.md)</b>
  - <b>[Time Series Forecasting with Pandas](https://github.com/Tanu-N-Prabhu/Python/blob/master/Time_Series_Forecasting_with_Pandas.ipynb)</b>
  - <b>[Demystifying Feature Engineering](https://github.com/Tanu-N-Prabhu/Python/blob/master/Demystifying_Feature_Engineering.ipynb)</b>
  - <b>[Building Your First Machine Learning Model with scikit-learn](https://github.com/Tanu-N-Prabhu/Python/blob/master/Building_Your_First_Machine_Learning_Model.ipynb)</b>
- 
+ - <b>[Build a Smart Resume Ranker with Python and Natural Language Processing](https://github.com/Tanu-N-Prabhu/Python/blob/master/Smart_Resume_Ranker_with_Python.ipynb)</b>
+
 </details>
 
 
