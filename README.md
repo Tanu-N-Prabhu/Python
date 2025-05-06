@@ -300,6 +300,9 @@ Follow the steps below to get started learning Data Science!!!
  - <b>[Demystifying Feature Engineering](https://github.com/Tanu-N-Prabhu/Python/blob/master/Demystifying_Feature_Engineering.ipynb)</b>
  - <b>[Building Your First Machine Learning Model with scikit-learn](https://github.com/Tanu-N-Prabhu/Python/blob/master/Building_Your_First_Machine_Learning_Model.ipynb)</b>
  - <b>[Build a Smart Resume Ranker with Python and Natural Language Processing](https://github.com/Tanu-N-Prabhu/Python/blob/master/Smart_Resume_Ranker_with_Python.ipynb)</b>
+ - <b>[Predicting Loan Default Using Decision Trees with Explainable AI](https://github.com/Tanu-N-Prabhu/Python/blob/master/Predicting_Loan_Default_Using_Decision_Trees.ipynb)</b>
+
+
 
 </details>
 
