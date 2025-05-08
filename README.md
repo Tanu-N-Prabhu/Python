@@ -302,6 +302,9 @@ Follow the steps below to get started learning Data Science!!!
  - <b>[Build a Smart Resume Ranker with Python and Natural Language Processing](https://github.com/Tanu-N-Prabhu/Python/blob/master/Smart_Resume_Ranker_with_Python.ipynb)</b>
  - <b>[Predicting Loan Default Using Decision Trees with Explainable AI](https://github.com/Tanu-N-Prabhu/Python/blob/master/Predicting_Loan_Default_Using_Decision_Trees.ipynb)</b>
 
+ - <b>[How to Efficiently Compute Euclidean Distance in Python Using NumPy (No Loops Needed)](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_Efficiently_Compute_Euclidean_Distance_in_Python_Using_NumPy.ipynb)</b>
+
+
 
 
 </details>
