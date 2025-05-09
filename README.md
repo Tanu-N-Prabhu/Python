@@ -304,6 +304,8 @@ Follow the steps below to get started learning Data Science!!!
 
  - <b>[How to Efficiently Compute Euclidean Distance in Python Using NumPy (No Loops Needed)](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_Efficiently_Compute_Euclidean_Distance_in_Python_Using_NumPy.ipynb)</b>
 
+ - <b>[How to Handle Missing Data in Pandas Like a Pro (Python for Data Science)](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_Handle_Missing_Data_in_Pandas_Like_a_Pro.ipynb)</b>
+
 
 
 
