@@ -249,6 +249,13 @@ Follow the steps below to get started coding in Python!!!
 
 </details>
 
+<details>
+  <summary>Chapter 9️⃣ ⮕ Design Principles</summary>
+
+ - <b>[Modular Pipeline Architecture or Clean Architecture for ML Projects - By Robert C. Martin ("Uncle Bob")](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_Structure_Machine_Learning_Projects_with_Clean_Code_Principles_in_Python.ipynb)</b>
+ 
+</details>
+
 
 > **Expand** and **Collapse** the above Chapters for more details
   
