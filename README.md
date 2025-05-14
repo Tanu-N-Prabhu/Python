@@ -257,6 +257,8 @@ Follow the steps below to get started coding in Python!!!
  - <b>[Modular Pipeline Architecture or Clean Architecture for ML Projects](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_Structure_Machine_Learning_Projects_with_Clean_Code_Principles_in_Python.ipynb)</b>
  - <b>[Dependency Inversion Principle in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Dependency_Inversion_Principle_in_Python.ipynb)</b>
 
+ - <b>[Open-Closed Principle in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Open_Closed_Principle_in_Python.ipynb)</b>
+
  
 </details>
 
