@@ -259,7 +259,7 @@ Follow the steps below to get started coding in Python!!!
 
  - <b>[Open-Closed Principle in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Open_Closed_Principle_in_Python.ipynb)</b>
 
- 
+ - <b>[Liskov Substitution Principle in Python ML](https://github.com/Tanu-N-Prabhu/Python/blob/master/Liskov_Substitution_Principle_in_Python.ipynb)</b>
 </details>
 
 
