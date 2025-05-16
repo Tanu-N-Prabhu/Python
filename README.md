@@ -78,6 +78,9 @@ Follow the steps below to get started coding in Python!!!
 
 ### Pythonic Materials
 
+> **Expand** and **Collapse** the above Chapters for more details
+
+
 <details>
   <summary>Chapter 1️⃣ ⮕ Basic Concepts</summary>
 
@@ -263,7 +266,6 @@ Follow the steps below to get started coding in Python!!!
 </details>
 
 
-> **Expand** and **Collapse** the above Chapters for more details
   
 ---
 
