@@ -257,14 +257,17 @@ Follow the steps below to get started coding in Python!!!
   <summary>Chapter 9️⃣ ⮕ Design Principles</summary>
 
 
- - <b>[Modular Pipeline Architecture or Clean Architecture for ML Projects](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_Structure_Machine_Learning_Projects_with_Clean_Code_Principles_in_Python.ipynb)</b>
- - <b>[Dependency Inversion Principle in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Dependency_Inversion_Principle_in_Python.ipynb)</b>
+ - <b>[Modular Pipeline Architecture or Clean Architecture](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_Structure_Machine_Learning_Projects_with_Clean_Code_Principles_in_Python.ipynb)</b>
+ - <b>[Dependency Inversion Principle](https://github.com/Tanu-N-Prabhu/Python/blob/master/Dependency_Inversion_Principle_in_Python.ipynb)</b>
 
- - <b>[Open-Closed Principle in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Open_Closed_Principle_in_Python.ipynb)</b>
+ - <b>[Open-Closed Principle](https://github.com/Tanu-N-Prabhu/Python/blob/master/Open_Closed_Principle_in_Python.ipynb)</b>
 
- - <b>[Liskov Substitution Principle in Python ML](https://github.com/Tanu-N-Prabhu/Python/blob/master/Liskov_Substitution_Principle_in_Python.ipynb)</b>
+ - <b>[Liskov Substitution Principle](https://github.com/Tanu-N-Prabhu/Python/blob/master/Liskov_Substitution_Principle_in_Python.ipynb)</b>
 
- - <b>[Why the Interface Segregation Principle Saves Your AI Codebase](https://github.com/Tanu-N-Prabhu/Python/blob/master/Interface_Segregation_Principle.ipynb)</b>
+ - <b>[Interface Segregation Principle](https://github.com/Tanu-N-Prabhu/Python/blob/master/Interface_Segregation_Principle.ipynb)</b>
+
+ - <b>[Single Responsibility Principle](https://github.com/Tanu-N-Prabhu/Python/blob/master/Single_Responsibility_Principle.ipynb)</b>
+
 
 </details>
 
