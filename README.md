@@ -268,6 +268,9 @@ Follow the steps below to get started coding in Python!!!
 
  - <b>[Single Responsibility Principle](https://github.com/Tanu-N-Prabhu/Python/blob/master/Single_Responsibility_Principle.ipynb)</b>
 
+ - <b>[Law of Demeter](https://github.com/Tanu-N-Prabhu/Python/blob/master/Law_of_Demeter.ipynb)</b>
+
+
 
 </details>
 
