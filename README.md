@@ -270,6 +270,9 @@ Follow the steps below to get started coding in Python!!!
 
  - <b>[Law of Demeter](https://github.com/Tanu-N-Prabhu/Python/blob/master/Law_of_Demeter.ipynb)</b>
 
+ - <b>[Composition Over Inheritance](https://github.com/Tanu-N-Prabhu/Python/blob/master/Composition_Over_Inheritance.ipynb)</b>
+
+
 
 
 </details>
