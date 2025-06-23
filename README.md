@@ -355,9 +355,10 @@ Follow the steps below to get started on your journey to perfect Machine Learnin
 ### Machine Learning Materials
 
 <details>
-  <summary>Foundations</summary>
+  <summary>Prerequisite</summary>
 
- - <b>[]()</b>
+ - <b>[Main roadmap and guide](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/README.md)</b>
+ - <b>[Python dependencies](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/requirements.txt)</b> 
  
 </details>
 
