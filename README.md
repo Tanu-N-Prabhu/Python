@@ -344,6 +344,25 @@ Follow the steps below to get started learning Data Science!!!
 
 ---
 
+## Machine Learning
+
+Follow the steps below to get started on your journey to perfect Machine Learning !!!
+
+<p align="center">
+<img src = "Img/ml_roadmap.png" >
+</p>
+
+### Machine Learning Materials
+
+<details>
+  <summary>Foundations</summary>
+
+ - <b>[]()</b>
+ 
+</details>
+
+---
+
 # Tech is Easy
 
 I’m Tanu Nanda Prabhu, and my passion lies in simplifying complex concepts to make them easier for others to understand. Research is something I deeply enjoy, and after exploring numerous videos, articles, and tutorials, I decided to create a repository dedicated to Google Sheets tips and tricks. I update this repository weekly with valuable insights designed to make your life simpler. I’m also open to contributions from those who wish to help enhance this resource. Feel free to fork the repository and submit updates — I’ll gladly review and consider them.
