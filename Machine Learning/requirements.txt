@@ -1,0 +1,40 @@
+# Core Libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Deep Learning
+tensorflow
+torch
+torchvision
+torchaudio
+
+# Model Explanation & Visualization
+xgboost
+lightgbm
+shap
+plotly
+
+# Experiment Tracking & MLOps
+mlflow
+dvc
+optuna
+
+# Data Cleaning
+missingno
+category_encoders
+
+# NLP (for tasks like sentiment analysis)
+nltk
+spacy
+transformers
+
+# Model Deployment
+fastapi
+uvicorn
+
+# Jupyter Support
+jupyter
+ipykernel
