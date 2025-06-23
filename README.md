@@ -358,7 +358,9 @@ Follow the steps below to get started on your journey to perfect Machine Learnin
   <summary>Prerequisite</summary>
 
  - <b>[Main roadmap and guide](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/README.md)</b>
- - <b>[Python dependencies](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/requirements.txt)</b> 
+ - <b>[Python dependencies](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/requirements.txt)</b>
+ - <b>[Contribution guidelines](https://github.com/Tanu-N-Prabhu/Python/blob/master/contribution.md)</b>
+ - <b>[Further reading and links](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/resources.md)</b>
  
 </details>
 
