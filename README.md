@@ -369,6 +369,7 @@ Follow the steps below to get started on your journey to perfect Machine Learnin
 
  - <b>[Python Review](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/00_foundations/python_review.ipynb)</b>
  - <b>[Linear Algebra](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/00_foundations/linear_algebra.ipynb)</b>
+ - <b>[Statistics](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/00_foundations/statistics.ipynb)</b>
  
   
 </details>
