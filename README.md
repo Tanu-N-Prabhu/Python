@@ -348,9 +348,9 @@ Follow the steps below to get started learning Data Science!!!
 
 Follow the steps below to get started on your journey to perfect Machine Learning !!!
 
-<p align="center">
-<img src = "Img/ml_roadmap.png" >
-</p>
+| ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/ml_rt.PNG) | 
+|:--:| 
+| Image by [Author](https://machinelearningmastery.com/author/kanwalmehreen/) - Canva |
 
 ### Machine Learning Materials
 
