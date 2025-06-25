@@ -382,6 +382,14 @@ Follow the steps below to get started on your journey to perfect Machine Learnin
 
 </details>
 
+<details>
+ <summary>Clustering & dimensionality reduction</summary>
+
+ - <b>[Clustering](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/02_unsupervised_learning/clustering.ipynb)</b>
+ 
+
+</details>
+
 ---
 
 # Tech is Easy
