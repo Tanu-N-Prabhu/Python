@@ -378,6 +378,7 @@ Follow the steps below to get started on your journey to perfect Machine Learnin
 
  - <b>[Regression](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/01_supervised_learning/regression.ipynb)</b>
  - <b>[Classification](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/01_supervised_learning/classification.ipynb)</b>
+ - <b>[Advanced Model Evaluation](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/01_supervised_learning/model_evaluation.ipynb)</b>
 
 </details>
 
