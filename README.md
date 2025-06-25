@@ -377,6 +377,7 @@ Follow the steps below to get started on your journey to perfect Machine Learnin
  <summary>Regression & classification</summary>
 
  - <b>[Regression](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/01_supervised_learning/regression.ipynb)</b>
+ - <b>[Classification](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/01_supervised_learning/classification.ipynb)</b>
 
 </details>
 
