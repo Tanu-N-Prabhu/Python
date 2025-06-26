@@ -387,9 +387,13 @@ Follow the steps below to get started on your journey to perfect Machine Learnin
 
  - <b>[Clustering](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/02_unsupervised_learning/clustering.ipynb)</b>
  - <b>[Dimensionality Reduction](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/02_unsupervised_learning/dimensionality_reduction.ipynb)</b>
+</details>
 
- 
 
+<details>
+ <summary>Deep learning with NNs</summary>
+
+ - <b>[Perceptron](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/03_neural_networks/perceptron.ipynb)</b>
 </details>
 
 ---
