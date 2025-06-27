@@ -394,6 +394,7 @@ Follow the steps below to get started on your journey to perfect Machine Learnin
  <summary>Deep learning with NNs</summary>
 
  - <b>[Perceptron](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/03_neural_networks/perceptron.ipynb)</b>
+ - <b>[Deep Learning](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/03_neural_networks/deep_learning_intro.ipynb)</b>
 </details>
 
 ---
