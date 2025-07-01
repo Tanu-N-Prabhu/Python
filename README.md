@@ -408,6 +408,15 @@ Follow the steps below to get started on your journey to perfect Machine Learnin
 
 </details>
 
+<details>
+ <summary>Real-world end-to-end projects</summary>
+  
+ - <b>[House Price Prediction](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/house_price_prediction.ipynb)</b>
+   - <b>[README.md](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/README.md)</b>
+ 
+
+</details>
+
 ---
 
 # Tech is Easy
