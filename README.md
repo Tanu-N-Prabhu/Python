@@ -404,6 +404,7 @@ Follow the steps below to get started on your journey to perfect Machine Learnin
   
  - <b>[Data Versioning](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/04_mlops/data_versioning.md)</b>
  - <b>[Model Deployment](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/04_mlops/model_deployment.md)</b>
+ - <b>[Monitoring Machine Learning Models in Production](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/04_mlops/monitoring.md)</b>
 
 </details>
 
