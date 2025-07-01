@@ -1,6 +1,6 @@
 # Monitoring Machine Learning Models in Production
 
-Monitoring is a critical part of MLOps. Once a model is deployed, you need to **track its performance, reliability, and behavior over time**—just like with any other software system.
+Monitoring is a critical part of MLOps. Once a model is deployed, you need to **track its performance, reliability, and behavior over time**, just like with any other software system.
 
 ---
 
