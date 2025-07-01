@@ -12,7 +12,7 @@ Once a model is trained and evaluated, it needs to be deployed so others can **i
 
 ---
 
-## 🛠Common Deployment Strategies
+## Common Deployment Strategies
 
 | Method               | Description                                               | Best For                  |
 |----------------------|-----------------------------------------------------------|---------------------------|
