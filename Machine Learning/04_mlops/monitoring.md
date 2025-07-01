@@ -34,14 +34,14 @@ Monitoring is a critical part of MLOps. Once a model is deployed, you need to **
 ### 4. **Operational Metrics**
 - Latency (response time per request)
 - Throughput (number of inferences per second)
-- Failure rates / system errors
+- Failure rates/system errors
 
 ### 5. **Business KPIs**
 - Is the model helping meet business goals? (CTR, conversion, churn rate, etc.)
 
 ---
 
-## 🛠Tools for Model Monitoring
+## Tools for Model Monitoring
 
 | Tool                  | Use Case                             | Integration Type     |
 |-----------------------|--------------------------------------|----------------------|
