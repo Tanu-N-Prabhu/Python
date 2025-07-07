@@ -11,6 +11,7 @@ This project uses machine learning to predict whether a customer is likely to st
 customer_churn_prediction/
 ├── customer_churn_prediction.ipynb # Complete Google Colab-ready notebook
 ├── churn.csv # Dataset (uploaded manually in Colab)
+├── churn_model.pkl # Saved Random Forest model
 ├── README.md # Project documentation
 
 ```
