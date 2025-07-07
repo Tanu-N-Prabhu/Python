@@ -423,6 +423,9 @@ Follow the steps below to get started on your journey to perfect Machine Learnin
  - <b>[Customer Churn Prediction](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Customer%20Churn%20Prediction/customer_churn_prediction.ipynb)</b>
    - <b>[README.md](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Customer%20Churn%20Prediction/README.md)</b>
 
+ - <b>[Loan Approval Prediction](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Loan%20Approval%20Prediction/loan_approval_prediction.ipynb)</b>
+   - <b>[README.md](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Loan%20Approval%20Prediction/README.md)</b>
+
 </details>
 
 ---
