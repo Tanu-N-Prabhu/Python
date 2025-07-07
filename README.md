@@ -411,9 +411,17 @@ Follow the steps below to get started on your journey to perfect Machine Learnin
 <details>
  <summary>Real-world end-to-end projects</summary>
   
- - <b>[House Price Prediction](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/house_price_prediction.ipynb)</b>
-   - <b>[README.md](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/README.md)</b>
- 
+ - <b>[House Price Prediction](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/House%20Price%20Prediction/house_price_prediction.ipynb)</b>
+   - <b>[README.md](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/House%20Price%20Prediction/README.md)</b>
+
+ - <b>[Twitter Sentiment Analysis](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Sentiment%20Analysis/sentiment_analysis.ipynb)</b>
+   - <b>[README.md](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Sentiment%20Analysis/README.md)</b>
+
+ - <b>[Credit Card Fraud Detection](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Fraud%20Detection/fraud_detection.ipynb)</b>
+   - <b>[README.md](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Fraud%20Detection/README.md)</b>
+
+ - <b>[Customer Churn Prediction](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Customer%20Churn%20Prediction/customer_churn_prediction.ipynb)</b>
+   - <b>[README.md](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Customer%20Churn%20Prediction/README.md)</b>
 
 </details>
 
