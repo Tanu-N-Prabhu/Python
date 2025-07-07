@@ -42,26 +42,26 @@ pip install pandas scikit-learn matplotlib seaborn joblib
 ## Workflow Overview
 
 1. Data Preprocessing
-  * Convert `TotalCharges` to numeric
-  * Handle missing values
-  * One-hot encode categorical variables
-  * Normalize numerical values
-  * Map target `Churn` from Yes/No → 1/0
+   * Convert `TotalCharges` to numeric
+   * Handle missing values
+   * One-hot encode categorical variables
+   * Normalize numerical values
+   * Map target `Churn` from Yes/No → 1/0
 
 2. Model Training
-  * Algorithms used:
-    * Logistic Regression
-    * Random Forest Classifier (with class_weight='balanced')
+   * Algorithms used:
+     * Logistic Regression
+     * Random Forest Classifier (with class_weight='balanced')
 
-  * Evaluation Metrics:
-    * Confusion Matrix
-    * Precision, Recall, F1-score
-    * ROC AUC Score
+   * Evaluation Metrics:
+     * Confusion Matrix
+     * Precision, Recall, F1-score
+     * ROC AUC Score
    
 
 3. Results
-  * Random Forest performed better with higher ROC AUC
-  * Churn detection worked well despite class imbalance
+   * Random Forest performed better with higher ROC AUC
+   * Churn detection worked well despite class imbalance
 
 ---
 
