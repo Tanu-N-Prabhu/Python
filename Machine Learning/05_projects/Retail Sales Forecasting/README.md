@@ -60,9 +60,8 @@ retail_sales_forecasting/
 
 The notebook will generate this:
 
-![forecast](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Matplotlib_logo.svg/1920px-Matplotlib_logo.svg.png)
+![forecast](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/download%20(1).png)
 
-> (Replace with a screenshot of your Colab graph)
 
 ---
 
