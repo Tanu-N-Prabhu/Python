@@ -435,6 +435,9 @@ Follow the steps below to get started on your journey to perfect Machine Learnin
   - <b>[Fake News Detection](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Fake%20News%20Detection/fake_news_detection.ipynb)</b>
     - <b>[README.md](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Fake%20News%20Detection/README.md)</b>
 
+  - <b>[Disease Prediction from Symptoms using Machine Learning](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Disease%20Prediction%20from%20Symptoms/disease_prediction_from_symptoms.ipynb)</b>
+    - <b>[README.md](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Disease%20Prediction%20from%20Symptoms/README.md)</b>
+
 </details>
 
 ---
