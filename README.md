@@ -431,10 +431,11 @@ Follow the steps below to get started on your journey to perfect Machine Learnin
 
   - <b>[Retail Sales Forecasting](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Retail%20Sales%20Forecasting/retail_sales_forecasting.ipynb)</b>
     - <b>[README.md](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Retail%20Sales%20Forecasting/README.md)</b>
-</details>
 
   - <b>[Fake News Detection](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Fake%20News%20Detection/fake_news_detection.ipynb)</b>
     - <b>[README.md](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Fake%20News%20Detection/README.md)</b>
+
+</details>
 
 ---
 
