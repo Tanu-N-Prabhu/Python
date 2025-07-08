@@ -24,7 +24,18 @@ This project uses a machine learning model to predict a disease based on the sym
 - Provide a simple Python function for prediction
 
 ---
+## File Structure
 
+```text
+disease_prediction_project/
+├── disease_prediction_from_symptoms.ipynb     # Jupyter Notebook with full ML workflow (Colab-ready)
+├── Training.csv                               # Dataset with symptoms and disease labels
+├── disease_model.pkl                          # Trained Random Forest model (serialized with joblib)
+└── README.md                                  # Project overview and usage instructions
+```
+
+
+---
 ## Model Overview
 
 - **Input**: Binary vector indicating presence/absence of each symptom
