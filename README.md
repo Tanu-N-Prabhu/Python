@@ -428,6 +428,9 @@ Follow the steps below to get started on your journey to perfect Machine Learnin
 
   - <b>[TMDB Movie Recommendation System](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Movie%20Recommendation%20System/tmdb_movie_recommendation.ipynb)</b>
     - <b>[README.md](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Movie%20Recommendation%20System/README.md)</b>
+
+  - <b>[Retail Sales Forecasting](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Retail%20Sales%20Forecasting/retail_sales_forecasting.ipynb)</b>
+    - <b>[README.md](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Retail%20Sales%20Forecasting/README.md)</b>
 </details>
 
 ---
