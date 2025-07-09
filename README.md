@@ -438,6 +438,9 @@ Follow the steps below to get started on your journey to perfect Machine Learnin
   - <b>[Disease Prediction from Symptoms using Machine Learning](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Disease%20Prediction%20from%20Symptoms/disease_prediction_from_symptoms.ipynb)</b>
     - <b>[README.md](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Disease%20Prediction%20from%20Symptoms/README.md)</b>
 
+
+  - <b>[Emotion Detection from Text](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Emotion%20Detection%20from%20Text/emotion_detection_from_text.ipynb)</b>
+    - <b>[README.md](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Emotion%20Detection%20from%20Text/README.md)</b>
 </details>
 
 ---
