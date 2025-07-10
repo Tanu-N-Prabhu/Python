@@ -36,4 +36,25 @@ This repo is divided into clear sections to support different stages of ML learn
 5. **Star or Fork**
      * If you find it helpful, give it a ⭐ or fork it to save your own copy!
 
+---
+
+## Who This Is For
+* Students preparing for internships or junior roles
+* Professionals switching to ML/AI roles
+* Bootcamp or self-taught learners seeking interview practice
+* Instructors and mentors needing ready-made content
+
+---
+
+## Contributing
+Pull requests and issue suggestions are highly encouraged!
+Check out [CONTRIBUTING.md](https://github.com/Tanu-N-Prabhu/Python/blob/master/contribution.md) for more info.
+
+---
+
+## License
+This repository is licensed under the MIT License.
+
+---
+
 
