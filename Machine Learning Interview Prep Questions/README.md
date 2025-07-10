@@ -26,9 +26,9 @@ This repo is divided into clear sections to support different stages of ML learn
 ## How to Use This Repo
 
 1. **Browse the topics**
-     * Each topic is in its own file. Start with core_concepts.md, if you're new to ML, or jump to any section you want to practice.
+     * Each topic is in its own file. Start with `core_concepts.md`, if you're new to ML, or jump to any section you want to practice.
 2. **Read the theory**
-     * Open the .md files to review interview questions and key explanations.
+     * Open the `.md` files to review interview questions and key explanations.
 3. **Practice the code**
      * Open the `coding_questions.ipynb` notebook in Google Colab to try out hands-on exercises.
 4. **Revise regularly**
