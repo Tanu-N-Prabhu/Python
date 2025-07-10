@@ -49,3 +49,23 @@ Install via pip if needed:
 
 ```bash
 pip install numpy matplotlib
+```
+
+---
+
+## Perfect For
+* Students preparing for machine learning interviews
+* Anyone trying to understand the fundamentals of logistic regression
+* Developers wanting to see what’s “under the hood” of ML libraries
+
+---
+
+## Contribution
+
+Feel free to raise issues or pull requests to improve this notebook or add more machine learning algorithms from scratch.
+
+---
+
+## License
+
+This project is open source and available under the MIT License.
