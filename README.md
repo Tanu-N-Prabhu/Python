@@ -452,6 +452,21 @@ Follow the steps below to get started on your journey to perfect Machine Learnin
 
  - <b>[Fundamental ML concepts like types of learning, bias-variance, etc.](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning%20Interview%20Prep%20Questions/core_concepts.md)</b>
 
+ - <b>[Questions on algorithms like Linear Regression, SVM, Decision Trees, etc.](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning%20Interview%20Prep%20Questions/supervised_learning.md)</b>
+
+ - <b>[Covers clustering (K-Means, DBSCAN) and dimensionality reduction (PCA)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning%20Interview%20Prep%20Questions/unsupervised_learning.md)</b>
+ 
+ - <b>[Model evaluation metrics like Precision, Recall, F1, ROC-AUC, etc.](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning%20Interview%20Prep%20Questions/evaluation_metrics.md)</b>
+ 
+ - <b>[Covers data cleaning, encoding, handling missing values, scaling, etc.](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning%20Interview%20Prep%20Questions/feature_engineering.md)</b>
+ 
+ - <b>[Deep Learning, Transfer Learning, Model Deployment, and more](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning%20Interview%20Prep%20Questions/advanced_topics.md)</b>
+ 
+ - <b>[Project-based questions and soft-skill questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning%20Interview%20Prep%20Questions/behavioral_questions.md)</b>
+ 
+ - <b>[Scenario-based and live practice prompts](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning%20Interview%20Prep%20Questions/mock_interviews.md)</b>
+ 
+ - <b>[Google Colab notebook with hands-on ML implementation tasks](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning%20Interview%20Prep%20Questions/coding_questions.ipynb)</b>
  
 </details>
 
