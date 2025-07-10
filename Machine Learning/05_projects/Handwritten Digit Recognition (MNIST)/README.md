@@ -105,6 +105,7 @@ Supported format: `.png` (black digit on white background).
 ### Example:
 ```python
 predict_custom_png_image()
+```
 
 The model will:
 
