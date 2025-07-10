@@ -14,6 +14,7 @@ Welcome to the **Machine Learning Projects Collection**, a curated set of end-to
 8. [Movie Recommendation System](https://github.com/Tanu-N-Prabhu/Python/tree/master/Machine%20Learning/05_projects/Movie%20Recommendation%20System)
 9. [Retail Sales Forecasting](https://github.com/Tanu-N-Prabhu/Python/tree/master/Machine%20Learning/05_projects/Retail%20Sales%20Forecasting)
 10. [Sentiment Analysis](https://github.com/Tanu-N-Prabhu/Python/tree/master/Machine%20Learning/05_projects/Sentiment%20Analysis)
+11. [Handwritten Digit Recognition (MNIST)](https://github.com/Tanu-N-Prabhu/Python/tree/master/Machine%20Learning/05_projects/Handwritten%20Digit%20Recognition%20(MNIST))
 
 ---
 
@@ -96,6 +97,16 @@ Classifies the sentiment of text as positive, negative, or neutral.
 - **Model:** Logistic Regression, LSTM
 - **Dataset:** Twitter or IMDb reviews
 - **Outcome:** Measures public opinion in text data.
+
+
+## 11. Handwritten Digit Recognition (MNIST)
+Recognizes handwritten digits (0–9) using the MNIST dataset.
+
+- **Tech Stack:** Python, TensorFlow/Keras or PyTorch, OpenCV
+- **Model:** Convolutional Neural Networks (CNN)
+- **Dataset:** MNIST Handwritten Digits Dataset
+- **Outcome:** Classifies digits with high accuracy using deep learning.
+
 
 ---
 
