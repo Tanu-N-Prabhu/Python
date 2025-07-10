@@ -1,6 +1,6 @@
 # Logistic Regression from Scratch (No ML Libraries)
 
-This notebook demonstrates how to implement **Logistic Regression** step-by-step using **NumPy only** — no machine learning libraries like scikit-learn or TensorFlow.
+This notebook demonstrates how to implement **Logistic Regression** step-by-step using **NumPy only**, no machine learning libraries like scikit-learn or TensorFlow.
 
 It's designed for students and beginners to clearly understand the math, code, and reasoning behind logistic regression, especially for **interview preparation**.
 
