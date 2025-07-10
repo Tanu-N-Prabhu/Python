@@ -447,6 +447,14 @@ Follow the steps below to get started on your journey to perfect Machine Learnin
     
 </details>
 
+<details>
+  <summary>Machine Learning Interview Preparation</summary>
+
+ - <b>[Fundamental ML concepts like types of learning, bias-variance, etc.](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning%20Interview%20Prep%20Questions/core_concepts.md)</b>
+
+ 
+</details>
+
 ---
 
 # Tech is Easy
