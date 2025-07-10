@@ -441,6 +441,10 @@ Follow the steps below to get started on your journey to perfect Machine Learnin
 
   - <b>[Emotion Detection from Text](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Emotion%20Detection%20from%20Text/emotion_detection_from_text.ipynb)</b>
     - <b>[README.md](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Emotion%20Detection%20from%20Text/README.md)</b>
+
+ - <b>[Handwritten Digit Recognition (MNIST)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Handwritten%20Digit%20Recognition%20(MNIST)/handwritten_digit_recognition.ipynb)</b>
+    - <b>[README.md](https://github.com/Tanu-N-Prabhu/Python/blob/master/Machine%20Learning/05_projects/Handwritten%20Digit%20Recognition%20(MNIST)/README.md)</b>
+    
 </details>
 
 ---
