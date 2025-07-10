@@ -31,7 +31,6 @@ This repo is divided into clear sections to support different stages of ML learn
      * Open the .md files to review interview questions and key explanations.
 3. **Practice the code**
      * Open the `coding_questions.ipynb` notebook in Google Colab to try out hands-on exercises.
-     * 👉 Open in [Colab](https://colab.research.google.com/)
 4. **Revise regularly**
      * Use this repo as a study guide during your interview prep.
 5. **Star or Fork**
