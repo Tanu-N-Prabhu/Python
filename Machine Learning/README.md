@@ -12,44 +12,59 @@ Welcome to the Machine Learning section of this repository! This roadmap is desi
 
 ```text
 /machine-learning/
-├── README.md                     # Main roadmap and guide  
-├── requirements.txt              # Python dependencies  
-├── CONTRIBUTING.md               # Contribution guidelines  
-├── resources.md                  # Further reading and links  
+├── README.md                     # Main project overview and roadmap  
+├── requirements.txt              # Python dependencies for all projects  
+├── CONTRIBUTING.md               # Guidelines for contributing  
+├── resources.md                  # Further reading and reference materials  
 
-├── 00_foundations/               # Math & Python foundations  
+├── 00_foundations/               # Math and Python fundamentals  
 │   ├── python_review.ipynb  
 │   ├── linear_algebra.ipynb  
 │   └── statistics.ipynb  
 
-├── 01_supervised_learning/       # Regression & classification  
+├── 01_supervised_learning/       # Regression and classification techniques  
 │   ├── regression.ipynb  
 │   ├── classification.ipynb  
 │   └── model_evaluation.ipynb  
 
-├── 02_unsupervised_learning/     # Clustering & dimensionality reduction  
+├── 02_unsupervised_learning/     # Clustering and dimensionality reduction  
 │   ├── clustering.ipynb  
 │   └── dimensionality_reduction.ipynb  
 
-├── 03_neural_networks/           # Deep learning with NNs  
+├── 03_neural_networks/           # Introduction to deep learning  
 │   ├── perceptron.ipynb  
 │   ├── deep_learning_intro.ipynb  
 │   ├── cnn.ipynb  
 │   └── rnn.ipynb  
 
-├── 04_mlops/                     # Deployment, tracking, versioning  
+├── 04_mlops/                     # Model deployment, versioning, and monitoring  
 │   ├── data_versioning.md  
 │   ├── model_deployment.md  
 │   └── monitoring.md  
 
-├── 05_projects/                  # Real-world end-to-end projects  
+├── 05_projects/                  # End-to-end real-world machine learning projects  
+│   ├── customer_churn_prediction/  
+│   │   └── README.md  
+│   ├── disease_prediction/  
+│   │   └── README.md  
+│   ├── emotion_detection/  
+│   │   └── README.md  
+│   ├── fake_news_detection/  
+│   │   └── README.md  
+│   ├── fraud_detection/  
+│   │   └── README.md  
 │   ├── house_price_prediction/  
+│   │   └── README.md  
+│   ├── loan_approval_prediction/  
+│   │   └── README.md  
+│   ├── movie_recommendation_system/  
+│   │   └── README.md  
+│   ├── retail_sales_forecasting/  
 │   │   └── README.md  
 │   ├── sentiment_analysis/  
 │   │   └── README.md  
-│   └── fraud_detection/  
+│   └── handwritten_digit_recognition/  
 │       └── README.md  
-
 ```
 
 ---
@@ -84,9 +99,20 @@ Welcome to the Machine Learning section of this repository! This roadmap is desi
 ---
 
 ## Stage 5: Real-World Projects
-- [ ] House Price Prediction (Regression)
-- [ ] Sentiment Analysis from Tweets (NLP)
+
+The following section contains applied, end-to-end machine learning projects that integrate data preprocessing, modeling, evaluation, and insights. Each project represents a unique problem domain, model type, and use case.
+
+- [ ] Customer Churn Prediction (Classification)
+- [ ] Disease Prediction from Symptoms (Classification)
+- [ ] Emotion Detection from Text (Natural Language Processing)
+- [ ] Fake News Detection (Natural Language Processing)
 - [ ] Fraud Detection System (Anomaly Detection)
+- [ ] House Price Prediction (Regression)
+- [ ] Loan Approval Prediction (Classification)
+- [ ] Movie Recommendation System (Recommender Systems)
+- [ ] Retail Sales Forecasting (Time Series Forecasting)
+- [ ] Sentiment Analysis from Tweets (Natural Language Processing)
+- [ ] Handwritten Digit Recognition (MNIST)
 
 ---
 
