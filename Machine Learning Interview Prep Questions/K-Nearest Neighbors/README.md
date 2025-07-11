@@ -21,7 +21,7 @@ KNN is one of the simplest and most intuitive ML algorithms. It’s perfect for 
 | File | Description |
 |------|-------------|
 | `knn_from_scratch.ipynb` | Full implementation of KNN using NumPy, tested on a small 2D dataset |
-| `README.md` | This file — explains the notebook and usage instructions |
+| `README.md` | This file explains the notebook and usage instructions |
 
 ---
 
