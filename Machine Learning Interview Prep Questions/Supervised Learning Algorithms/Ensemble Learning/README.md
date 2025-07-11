@@ -1,6 +1,6 @@
 # Ensemble Learning from Scratch (No Libraries)
 
-This notebook walks you through the fundamentals of **Ensemble Learning**, with working code examples for **Bagging (Random Forest idea)** and **Boosting (AdaBoost)** — all implemented using simple NumPy operations.
+This notebook walks you through the fundamentals of **Ensemble Learning**, with working code examples for **Bagging (Random Forest idea)** and **Boosting (AdaBoost)**, all implemented using simple NumPy operations.
 
 ---
 
@@ -23,7 +23,7 @@ This notebook walks you through the fundamentals of **Ensemble Learning**, with 
 | File                             | Description                                                |
 |----------------------------------|------------------------------------------------------------|
 | `ensemble_learning_from_scratch.ipynb` | Main notebook showing Bagging and Boosting from scratch |
-| `README.md`                      | This file — explains purpose, usage, and learning goals   |
+| `README.md`                      | This file explains purpose, usage, and learning goals   |
 
 ---
 
@@ -35,7 +35,7 @@ This notebook walks you through the fundamentals of **Ensemble Learning**, with 
    - Load and visualize synthetic binary data
    - Simulate a Random Forest with random decision thresholds
    - Build AdaBoost step by step with log-based weight updates
-   - Compare accuracy of ensemble models
+   - Compare the accuracy of ensemble models
 
 ---
 
