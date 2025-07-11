@@ -1,6 +1,6 @@
 # K-Nearest Neighbors (KNN) from Scratch (No Libraries)
 
-This notebook provides a step-by-step implementation of the **K-Nearest Neighbors (KNN)** algorithm using **NumPy only** — no `scikit-learn` or machine learning libraries.
+This notebook provides a step-by-step implementation of the **K-Nearest Neighbors (KNN)** algorithm using **NumPy only**, no `scikit-learn` or machine learning libraries.
 
 KNN is one of the simplest and most intuitive ML algorithms. It’s perfect for beginners to learn classification logic and **distance-based learning**.
 
