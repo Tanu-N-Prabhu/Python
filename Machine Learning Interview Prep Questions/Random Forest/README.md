@@ -22,7 +22,7 @@ It’s designed for students preparing for interviews and anyone who wants to un
 | File | Description |
 |------|-------------|
 | `random_forest_from_scratch.ipynb` | Complete implementation of a Random Forest classifier using NumPy |
-| `README.md` | This file — explains what’s inside and how to use the notebook |
+| `README.md` | This file explains what’s inside and how to use the notebook |
 
 ---
 
