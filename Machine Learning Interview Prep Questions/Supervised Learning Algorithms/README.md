@@ -71,3 +71,81 @@ To install the required packages:
 ```python
 pip install numpy matplotlib
 ```
+
+---
+
+## Algorithms Covered
+
+###  Regression
+
+| Model                   | Description                                               |
+| ----------------------- | --------------------------------------------------------- |
+| **Linear Regression**   | Fit a straight line using gradient descent or closed-form |
+| **Logistic Regression** | Classify data using sigmoid and binary cross-entropy      |
+
+---
+
+### Tree-Based Models
+
+| Model             | Description                                                |
+| ----------------- | ---------------------------------------------------------- |
+| **Decision Tree** | Recursively splits data based on Gini impurity             |
+| **Random Forest** | Ensemble of decision trees trained on bootstrapped subsets |
+
+---
+
+### Distance-Based & Margins
+
+| Model                            | Description                                           |
+| -------------------------------- | ----------------------------------------------------- |
+| **K-Nearest Neighbors (KNN)**    | Classifies based on K closest training points         |
+| **Support Vector Machine (SVM)** | Maximizes the margin between classes using hinge loss |
+
+---
+
+### Probabilistic
+
+| Model           | Description                                                         |
+| --------------- | ------------------------------------------------------------------- |
+| **Naive Bayes** | Uses Bayes' Theorem with Gaussian likelihoods and log probabilities |
+
+
+---
+
+### Ensemble Methods
+
+| Model        | Description                                                 |
+| ------------ | ----------------------------------------------------------- |
+| **Bagging**  | Trains multiple models independently and averages results   |
+| **Boosting** | Trains models sequentially, focusing on mistakes (AdaBoost) |
+
+
+---
+
+## Why This Project Matters
+
+* **Interview Prep**: These implementations help you explain core ML logic during technical interviews
+* **No Black Boxes**: Learn exactly how algorithms work, line by line
+* **Hands-On Learning**: Apply math concepts to real code
+* **Modular Design**: Easy to extend to real-world datasets
+
+---
+
+## Suggested Exercises
+* Turn binary classifiers into multiclass
+* Use real datasets like Iris or Titanic
+* Visualize decision boundaries
+* Add metrics like Precision, Recall, and F1
+
+---
+
+## Contribute
+If you find a bug, want to refactor, or add new models (e.g., Gradient Boosting, Perceptron), feel free to open a PR or issue.
+
+> Let’s make machine learning accessible for everyone.
+
+---
+
+
+## License
+This project is licensed under the MIT License.
