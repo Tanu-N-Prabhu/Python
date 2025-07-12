@@ -1,6 +1,6 @@
 # K-Means Clustering from Scratch (No Classes, No ML Libraries)
 
-This notebook demonstrates how to implement the **K-Means Clustering algorithm** from scratch using only **NumPy**, no machine learning libraries, and no object-oriented programming. It’s written to help beginners clearly understand each step of the algorithm.
+This notebook demonstrates how to implement the **K-Means Clustering algorithm** from scratch using only **NumPy**, without relying on machine learning libraries or object-oriented programming. It’s written to help beginners clearly understand each step of the algorithm.
 
 ---
 
@@ -21,7 +21,7 @@ This notebook demonstrates how to implement the **K-Means Clustering algorithm**
 
 K-Means is an **unsupervised learning algorithm** used to group similar data points into clusters. Unlike supervised models, it does **not require labeled data**.
 
-### Algorithm Steps:
+### Algorithm Steps
 1. Choose `k` random centroids
 2. Assign points to the **nearest** centroid
 3. Recompute each centroid as the **mean** of its cluster
@@ -95,4 +95,4 @@ This project is licensed under the MIT License.
 ---
 
 ## Contribute
-Feel free to fork, edit, and contribute new ideas — whether it's new clustering methods, real datasets, or optimization tweaks!
+Feel free to fork, edit, and contribute new ideas, whether it's new clustering methods, real datasets, or optimization tweaks!
