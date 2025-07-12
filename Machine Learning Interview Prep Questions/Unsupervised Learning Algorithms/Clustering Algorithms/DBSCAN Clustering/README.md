@@ -69,3 +69,36 @@ Install dependencies:
 pip install numpy matplotlib
 ```
 
+---
+
+## Best Use-Cases for DBSCAN
+* Clustering data with irregular shapes
+* Detecting anomalies or outliers
+* Geospatial clustering (e.g., identifying areas of interest)
+* When the number of clusters is not known ahead of time
+
+---
+
+## Why DBSCAN?
+* No need to specify the number of clusters (`k`)
+* Automatically detects outliers (noise)
+* Works well for non-spherical clusters (unlike K-Means)
+
+---
+
+## Suggested Experiments
+* Try different `eps` and `min_samples` values
+* Compare with K-Means to observe differences
+* Visualize step-by-step region expansion
+* Apply to real-world datasets (e.g., GPS coordinates, customer behavior)
+
+---
+
+## License
+This project is open-source and licensed under the MIT License.
+
+---
+
+## Contribute
+Contributions are welcome; feel free to optimize the implementation, visualize regions, or add interactive widgets for parameter tuning.
+
