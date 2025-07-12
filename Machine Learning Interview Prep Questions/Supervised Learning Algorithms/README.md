@@ -28,17 +28,18 @@ Supervised learning includes both:
 
 ## Repository Structure
 
-| File / Folder                          | Description |
-|----------------------------------------|-------------|
-| `linear_regression_from_scratch.ipynb` | Predicting continuous outputs using Least Squares |
-| `logistic_regression_from_scratch.ipynb` | Binary classification using Sigmoid & Gradient Descent |
-| `decision_tree_from_scratch.ipynb`     | Simple if-else tree built using Gini Index |
-| `random_forest_from_scratch.ipynb`     | Ensemble of trees using bagging |
-| `svm_from_scratch.ipynb`               | Linear Support Vector Machine using Hinge Loss |
-| `knn_from_scratch.ipynb`               | Classifying based on nearest neighbors |
-| `naive_bayes_from_scratch.ipynb`       | Probabilistic classification using Bayes' theorem |
-| `ensemble_learning_from_scratch.ipynb` | Bagging (Random Forest idea) and Boosting (AdaBoost) |
-| `README.md`                            | This file is the main overview of all models |
+### Supervised Learning Algorithms Overview
+
+| Algorithm                | Description                                              | Purpose                                           | Best Use-Cases                                                |
+|:--------------------------|:----------------------------------------------------------|:---------------------------------------------------|:----------------------------------------------------------------|
+| **Linear Regression**    | Models the relationship between input features and a continuous output. | Make numeric predictions from known features.     | Predicting house prices, estimating sales, or revenue.         |
+| **Logistic Regression**  | Estimates the probability of data belonging to a class.  | Classify binary outcomes (yes/no, true/false).    | Spam detection, predicting customer churn, or purchase.        |
+| **Decision Trees**       | Splits data based on feature values to make decisions.   | Build simple, rule-based prediction models.       | Customer segmentation, diagnosing diseases.                   |
+| **Random Forest**        | Combines multiple decision trees (bagging).              | Increase accuracy and reduce overfitting.         | Credit scoring, predicting loan defaults, or stock trends.     |
+| **Support Vector Machines (SVM)** | Finds the best boundary to separate classes.        | Maximize separation between classes.              | Image classification, handwriting, and face recognition.       |
+| **k-Nearest Neighbors (k-NN)** | Classifies based on the labels of nearby points.      | Make predictions based on similarity.             | Recommender systems, anomaly/intrusion detection.             |
+| **Naive Bayes**          | Uses probabilities and Bayes' Theorem to classify data. | Handle classification problems with simplicity.   | Spam filtering, sentiment analysis, and  text classification.      |
+| **Ensemble Learning**    | Combines multiple models (e.g., trees) to boost performance. | Build stronger models by combining weak ones.     | Fraud detection, large-scale predictions, model competitions. |
 
 ---
 
