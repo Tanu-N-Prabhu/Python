@@ -56,7 +56,7 @@ You only need basic Python libraries:
 pip install numpy matplotlib scipy scikit-learn
 ```
 
-> No `tensorflow`, `pytorch`, or `umap-learn` used — this repo is focused on learning the core math from scratch.
+> No `tensorflow`, `pytorch`, or `umap-learn` used; this repo is focused on learning the core math from scratch.
 
 ---
 
