@@ -11,7 +11,7 @@ You’ll learn how to:
 
 ## What is the Apriori Algorithm?
 
-The **Apriori algorithm** is a classic algorithm for **frequent itemset mining** and **association rule learning**. It helps discover patterns in transaction data — for example:
+The **Apriori algorithm** is a classic algorithm for **frequent itemset mining** and **association rule learning**. It helps discover patterns in transaction data, for example:
 
 > If customers buy **milk** and **bread**, they’re likely to buy **butter**.
 
