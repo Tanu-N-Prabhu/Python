@@ -30,7 +30,7 @@ It is generally faster and more memory-efficient than Apriori when working with 
 | File                      | Description                                                  |
 |:---------------------------|:--------------------------------------------------------------|
 | `eclat_from_scratch.ipynb`| Python notebook implementing ECLAT with support calculation  |
-| `README.md`               | This file — explains the algorithm and how to use it         |
+| `README.md`               | This file explains the algorithm and how to use it         |
 
 ---
 
