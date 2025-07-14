@@ -31,14 +31,14 @@ This notebook implements the **Local Outlier Factor (LOF)** algorithm from scrat
 
 ```
 lof_from_scratch/
-├── lof_from_scratch.ipynb # Jupyter notebook with full implementation
-├── README.md # This documentation file
+├── lof_from_scratch.ipynb                   # Jupyter notebook with full implementation
+├── README.md                                # This documentation file
 ```
 
 
 ---
 
-## ▶How to Run
+## How to Run
 
 1. Open the `lof_from_scratch.ipynb` file in **Google Colab** or **Jupyter Notebook**.
 2. Run each cell sequentially to see:
