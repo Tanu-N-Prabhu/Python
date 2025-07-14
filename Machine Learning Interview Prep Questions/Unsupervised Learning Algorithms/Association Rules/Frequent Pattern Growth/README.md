@@ -88,7 +88,7 @@ With a minimum support count of 3:
 | Data Format          | Horizontal    | Vertical    | Compressed Tree  |
 | Candidate Generation |  Yes         |  No        |  No             |
 | Memory Usage         | Moderate      | Can be high | Efficient (Tree) |
-| Speed (Large Data)   |  Slow        | ⚠ Medium   |  Fast           |
+| Speed (Large Data)   |  Slow        |  Medium   |  Fast           |
 
 ---
 
