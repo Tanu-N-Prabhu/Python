@@ -757,14 +757,19 @@ print(longest_consecutive([100, 4, 200, 1, 3, 2]))  # Output: 4
 
 ---
 
-# Prepare for the Worst: Most Frequently Asked Questions by Big Tech Companies
 
-As we gear up for technical interviews, it’s essential to be prepared for the toughest Python questions. If you're preparing for high-level technical interviews, you'll want to master these complex Python problems. Here’s a list of coding questions that have been asked by top-tier companies!
+# Prepare for the Worst: Most Frequently Asked Python Questions by Big Tech Companies
 
-## 1. Find the Longest Substring Without Repeating Characters
+As we gear up for technical interviews, it’s essential to be prepared for the toughest Python questions.
+If you're preparing for high-level technical interviews, you'll want to master these complex Python problems.
+Here’s a list of coding questions that have been asked by top-tier companies!
+
+---
+
+## 1. Longest Substring Without Repeating Characters
+
+**Problem**  
 Given a string, find the length of the longest substring without repeating characters.
-
-#### Answer
 
 ```python
 def length_of_longest_substring(s: str) -> int:
@@ -781,128 +786,240 @@ def length_of_longest_substring(s: str) -> int:
 
     return max_len
 
-# Example usage:
-input_str = "abcabcbb"
-print(length_of_longest_substring(input_str))  # Output: 3
+# Example usage
+print(length_of_longest_substring("abcabcbb"))  # Output: 3
 ```
 
-#### Explanation
-This approach uses a sliding window and a set to keep track of characters. The left pointer moves when a duplicate character is found, ensuring all characters in the window are unique.
+**Explanation**  
+Sliding window approach with a set to track unique characters.
 
-> Asked by: Meta/Facebook (Phone Interview, 2022) — Source: LeetCode Discuss, Top Interview Questions [Post ID: 269098]
+> **Asked by:** Meta (Phone Interview, 2022) — Source: LeetCode Discuss
 
 ---
 
-## 2. Find the Kth Smallest Element in an Unsorted Array
-Given an unsorted array, find the Kth smallest element in the array.
+## 2. Merge Intervals
 
-#### Answer
-
-```python
-import heapq
-
-def kth_smallest(nums, k):
-    return heapq.nsmallest(k, nums)[-1]
-
-# Example usage:
-nums = [3, 2, 1, 5, 6, 4]
-k = 2
-print(kth_smallest(nums, k))  # Output: 2
-```
-
-#### Explanation
-Using Python's `heapq.nsmallest()` function efficiently finds the Kth smallest element by retrieving the first K elements from the list and then returning the last element of that list.
-
-> Asked by: Google (Onsite Interview, 2021) — Source: GeeksforGeeks Top Interview Problems [gfg.to/merge-intervals]
-
----
-
-## 3. Merge Intervals
-
-Given a collection of intervals, merge all overlapping intervals.
-
-Answer:
-
-```python
-def merge_intervals(intervals):
-    intervals.sort(key=lambda x: x[0])
-    merged = []
-
-    for interval in intervals:
-        if not merged or merged[-1][1] < interval[0]:
-            merged.append(interval)
-        else:
-            merged[-1][1] = max(merged[-1][1], interval[1])
-
-    return merged
-
-# Example usage:
-intervals = [[1,3],[2,6],[8,10],[15,18]]
-print(merge_intervals(intervals))  # Output: [[1, 6], [8, 10], [15, 18]]
-
-```
-#### Explanation
-First, we sort intervals by the starting point. Then, we iterate through and merge intervals if they overlap.
-
-> Asked by: Google (Onsite Interview, 2021) — Source: GeeksforGeeks Top Interview Problems [gfg.to/merge-intervals]
-
----
-
-## 4. Count Distinct Substrings in a String
-Given a string, find the number of distinct substrings in the string.
-
-#### Answer
-
-```python
-def count_distinct_substrings(s: str) -> int:
-    n = len(s)
-    substrings = set()
-
-    for i in range(n):
-        for j in range(i+1, n+1):
-            substrings.add(s[i:j])
-
-    return len(substrings)
-
-# Example usage:
-input_str = "abc"
-print(count_distinct_substrings(input_str))  # Output: 6
-```
-
-#### Explanation
-This solution generates all possible substrings and stores them in a set, ensuring uniqueness.
-
-> Asked by: Netflix
-
----
-
-## 5. Question 3: Two Sum
-Given an array of integers nums and an integer target, return the indices of the two numbers such that they add up to the target.
+**Problem**  
+Merge overlapping intervals in a list.
 
 ```python
 from typing import List
 
-def two_sum(nums: List[int], target: int) -> List[int]:
-    hashmap = {}
+def merge(intervals: List[List[int]]) -> List[List[int]]:
+    if not intervals:
+        return []
 
+    intervals.sort(key=lambda x: x[0])
+    merged = [intervals[0]]
+
+    for current in intervals[1:]:
+        prev = merged[-1]
+        if current[0] <= prev[1]:
+            prev[1] = max(prev[1], current[1])
+        else:
+            merged.append(current)
+
+    return merged
+
+# Example usage
+print(merge([[1,3],[2,6],[8,10],[15,18]]))  # Output: [[1,6],[8,10],[15,18]]
+```
+
+**Explanation**  
+Sort intervals and merge overlapping ones.
+
+> **Asked by:** Google (Onsite Interview, 2021) — Source: GeeksforGeeks
+
+---
+
+## 3. Two Sum
+
+**Problem**  
+Return indices of two numbers that add up to a target.
+
+```python
+def two_sum(nums, target):
+    hashmap = {}
     for i, num in enumerate(nums):
         complement = target - num
         if complement in hashmap:
             return [hashmap[complement], i]
         hashmap[num] = i
-
     return []
 
-# Example usage:
+# Example usage
 print(two_sum([2, 7, 11, 15], 9))  # Output: [0, 1]
 ```
 
-#### Explanation
-We store each number's index in a hashmap. As we iterate, we check if the complement exists in the hashmap, and if so, return both indices.
+**Explanation**  
+Hashmap tracks complements during traversal.
 
-> Asked by: Amazon (OA for SDE-1, August 2023) — Source: LeetCode
+> **Asked by:** Amazon (OA, 2023) — Source: LeetCode Discuss
 
 ---
+
+## 4. Group Anagrams
+
+**Problem**  
+Group words that are anagrams.
+
+```python
+from collections import defaultdict
+
+def group_anagrams(strs):
+    anagram_map = defaultdict(list)
+    for word in strs:
+        sorted_word = ''.join(sorted(word))
+        anagram_map[sorted_word].append(word)
+    return list(anagram_map.values())
+
+# Example usage
+print(group_anagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
+```
+
+**Explanation**  
+Sorted word acts as key in a hashmap.
+
+> **Asked by:** Microsoft (Interview, 2022) — Source: LeetCode Premium
+
+---
+
+## 5. Valid Parentheses
+
+**Problem**  
+Determine if a string has valid parentheses.
+
+```python
+def is_valid(s):
+    stack = []
+    mapping = {')': '(', '}': '{', ']': '['}
+    for char in s:
+        if char in mapping.values():
+            stack.append(char)
+        elif char in mapping:
+            if not stack or stack[-1] != mapping[char]:
+                return False
+            stack.pop()
+        else:
+            return False
+    return not stack
+
+# Example usage
+print(is_valid("()[]{}"))  # Output: True
+```
+
+**Explanation**  
+Stack checks for balanced brackets.
+
+> **Asked by:** Apple (Onsite, 2021) — Source: Glassdoor
+
+---
+
+## 6. Top K Frequent Elements
+
+```python
+from collections import Counter
+import heapq
+
+def top_k_frequent(nums, k):
+    count = Counter(nums)
+    return heapq.nlargest(k, count.keys(), key=count.get)
+
+# Example usage
+print(top_k_frequent([1,1,1,2,2,3], 2))  # Output: [1, 2]
+```
+
+**Asked by:** Google (2022) — Source: LeetCode Discuss
+
+---
+
+## 7. Product of Array Except Self
+
+```python
+def product_except_self(nums):
+    res = [1] * len(nums)
+    prefix = 1
+    for i in range(len(nums)):
+        res[i] = prefix
+        prefix *= nums[i]
+
+    suffix = 1
+    for i in reversed(range(len(nums))):
+        res[i] *= suffix
+        suffix *= nums[i]
+
+    return res
+
+# Example usage
+print(product_except_self([1,2,3,4]))  # Output: [24,12,8,6]
+```
+
+**Asked by:** Amazon (SDE-2, 2023) — Source: LeetCode
+
+---
+
+## 8. Binary Tree Level Order Traversal
+
+```python
+from collections import deque
+
+def level_order(root):
+    if not root:
+        return []
+    res = []
+    queue = deque([root])
+    while queue:
+        level = []
+        for _ in range(len(queue)):
+            node = queue.popleft()
+            level.append(node.val)
+            if node.left: queue.append(node.left)
+            if node.right: queue.append(node.right)
+        res.append(level)
+    return res
+```
+
+**Asked by:** Facebook (2022) — Source: Glassdoor
+
+---
+
+## 9. Rotate Image (Matrix)
+
+```python
+def rotate(matrix):
+    matrix.reverse()
+    for i in range(len(matrix)):
+        for j in range(i):
+            matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
+```
+
+**Asked by:** Google (2021) — Source: LeetCode
+
+---
+
+## 10. Search in Rotated Sorted Array
+
+```python
+def search(nums, target):
+    left, right = 0, len(nums) - 1
+    while left <= right:
+        mid = (left + right) // 2
+        if nums[mid] == target:
+            return mid
+        if nums[left] <= nums[mid]:
+            if nums[left] <= target < nums[mid]:
+                right = mid - 1
+            else:
+                left = mid + 1
+        else:
+            if nums[mid] < target <= nums[right]:
+                left = mid + 1
+            else:
+                right = mid - 1
+    return -1
+```
+
+**Asked by:** Microsoft (2022) — Source: LeetCode
 
 
 ---
