@@ -64,7 +64,7 @@ Each notebook includes:
 
 - `NumPy` – for mathematical operations.
 - `Matplotlib` – for data visualization.
-- (Optional) `scikit-learn` – for dataset generation or comparison.
+- `scikit-learn` – for dataset generation or comparison.
 
 ---
 
