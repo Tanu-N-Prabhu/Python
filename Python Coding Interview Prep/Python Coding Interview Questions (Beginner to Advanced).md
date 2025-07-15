@@ -1,5 +1,5 @@
-# Python Coding Interview Questions With Answers - 2025
-## Master Essential Python Concepts and Ace Your Next Technical Interview
+# Python & Machine Learning Interview Questions with Answers - 2025
+## Master Essential Python Concepts and Machine Learning Techniques to Ace Your Next Technical Interview
 <!-- Feature Image -->
 | ![Interview Photo](https://github.com/Tanu-N-Prabhu/Python/blob/f00cc0bfb9fbbf7482559d0ea19ae4b1d284e5af/Img/sebastian-herrmann-O2o1hzDA7iE-unsplash.jpg) | 
 |:--:| 
@@ -9,11 +9,11 @@
 
 <!-- Content-->
 
-# Stay Connected:
+# Stay Connected
 
-Follow me on [LinkedIn](https://ca.linkedin.com/in/tanu-nanda-prabhu-a15a091b5) for daily Python interview questions & insights!   
-Read my articles on [Medium](https://medium.com/@tanunprabhu95) for in-depth explanations & tutorials!   
-Got a different solution? Drop your thoughts in the discussions! Let’s learn together!
+- Follow me on [LinkedIn](https://ca.linkedin.com/in/tanu-nanda-prabhu-a15a091b5) for daily Python and Machine Learning interview questions & insights!   
+- Read my articles on [Medium](https://medium.com/@tanunprabhu95) for in-depth explanations & tutorials!   
+- Got a different solution? Drop your thoughts in the discussions! Let’s learn together!
 
 
 # Table of Contents
@@ -29,7 +29,10 @@ Got a different solution? Drop your thoughts in the discussions! Let’s learn t
 
 ➡ [Python Projects That Can Land You Your Dream Job](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#-python-projects-that-can-land-you-your-dream-job)
 
+➡ [Machine Learning Interview Prep Questions](https://github.com/Tanu-N-Prabhu/Python/tree/master/Machine%20Learning%20Interview%20Prep%20Questions)
+
 ➡ [Credits](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#-credits)
+
 
 
 
