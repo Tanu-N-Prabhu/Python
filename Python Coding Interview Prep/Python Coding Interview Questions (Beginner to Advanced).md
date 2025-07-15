@@ -25,7 +25,7 @@
 
 ➡ [Advanced Level](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#advanced-level)
 
-➡ [Prepare for the Worst: Most Frequently Asked Questions by Big Tech Companies](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#prepare-for-the-worst-most-frequently-asked-questions-by-big-tech-companies)
+➡ [Most Frequently Asked Questions by Big Tech Companies](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#most-frequently-asked-questions-by-big-tech-companies)
 
 ➡ [Python Projects That Can Land You Your Dream Job](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#python-projects-that-can-land-you-your-dream-job)
 
