@@ -25,7 +25,7 @@
 
 ➡ [Advanced Level](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#advanced-level)
 
-➡ [Most Frequently Asked Questions by Big Tech Companies](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#most-frequently-asked-questions-by-big-tech-companies)
+➡ [Most Frequently Asked Questions by Big Tech Companies](https://github.com/Tanu-N-Prabhu/Python/edit/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#most-frequently-asked-python-questions-by-big-tech-companies)
 
 ➡ [Python Projects That Can Land You Your Dream Job](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md#python-projects-that-can-land-you-your-dream-job)
 
@@ -758,7 +758,7 @@ print(longest_consecutive([100, 4, 200, 1, 3, 2]))  # Output: 4
 ---
 
 
-# Prepare for the Worst: Most Frequently Asked Python Questions by Big Tech Companies
+# Most Frequently Asked Python Questions by Big Tech Companies
 
 As we gear up for technical interviews, it’s essential to be prepared for the toughest Python questions.
 If you're preparing for high-level technical interviews, you'll want to master these complex Python problems.
