@@ -1,6 +1,6 @@
 #  Q-Learning from Scratch
 
-This notebook demonstrates how to implement the **Q-Learning algorithm** from scratch using only NumPy and basic Python logic—no machine learning libraries or classes. It is designed to help students and interviewees understand the foundational principles of reinforcement learning by **building a working model step-by-step**.
+This notebook demonstrates how to implement the **Q-Learning algorithm** from scratch using only NumPy and basic Python logic: no machine learning libraries or classes. It is designed to help students and interviewees understand the foundational principles of reinforcement learning by **building a working model step-by-step**.
 
 ---
 
@@ -20,7 +20,8 @@ $$
 - `r` = reward received  
 - `s′` = next state  
 - `α` = learning rate  
-- `γ` = discount factor  
+- `γ` = discount factor
+```
 ---
 
 ## Environment
