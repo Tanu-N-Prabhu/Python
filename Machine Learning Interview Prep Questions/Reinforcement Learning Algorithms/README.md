@@ -8,7 +8,7 @@ This section of the repository covers essential **Reinforcement Learning (RL)** 
 
 Reinforcement Learning is a branch of Machine Learning where an **agent** learns to make decisions by interacting with an **environment** to maximize cumulative **rewards**.
 
-Instead of learning from labeled data, the agent learns by **trial and error** — receiving feedback in the form of **rewards or penalties**.
+Instead of learning from labeled data, the agent learns by **trial and error**, receiving feedback in the form of **rewards or penalties**.
 
 > “An RL agent learns **what to do**, given a situation, by trying actions and observing results.”
 
