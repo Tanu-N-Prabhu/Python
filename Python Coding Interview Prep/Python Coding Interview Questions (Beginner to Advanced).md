@@ -929,7 +929,7 @@ def top_k_frequent(nums, k):
 print(top_k_frequent([1,1,1,2,2,3], 2))  # Output: [1, 2]
 ```
 
-**Asked by:** Google (2022) — Source: LeetCode Discuss
+> **Asked by:** Google (2022) — Source: LeetCode Discuss
 
 ---
 
@@ -954,7 +954,7 @@ def product_except_self(nums):
 print(product_except_self([1,2,3,4]))  # Output: [24,12,8,6]
 ```
 
-**Asked by:** Amazon (SDE-2, 2023) — Source: LeetCode
+> **Asked by:** Amazon (SDE-2, 2023) — Source: LeetCode
 
 ---
 
@@ -979,7 +979,7 @@ def level_order(root):
     return res
 ```
 
-**Asked by:** Facebook (2022) — Source: Glassdoor
+> **Asked by:** Facebook (2022) — Source: Glassdoor
 
 ---
 
@@ -993,7 +993,7 @@ def rotate(matrix):
             matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
 ```
 
-**Asked by:** Google (2021) — Source: LeetCode
+> **Asked by:** Google (2021) — Source: LeetCode
 
 ---
 
@@ -1019,7 +1019,7 @@ def search(nums, target):
     return -1
 ```
 
-**Asked by:** Microsoft (2022) — Source: LeetCode
+> **Asked by:** Microsoft (2022) — Source: LeetCode
 
 
 ---
