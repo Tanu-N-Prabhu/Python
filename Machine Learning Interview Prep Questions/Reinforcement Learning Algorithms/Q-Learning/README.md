@@ -1,16 +1,19 @@
-# 📘 `q_learning.ipynb` – Q-Learning from Scratch
+#  Q-Learning from Scratch
 
-This notebook demonstrates how to implement the **Q-Learning algorithm** from scratch using only NumPy and basic Python logic—no machine learning libraries or classes. It is designed to help students and interviewees understand the foundational principles of reinforcement learning by **building a working model step by step**.
+This notebook demonstrates how to implement the **Q-Learning algorithm** from scratch using only NumPy and basic Python logic—no machine learning libraries or classes. It is designed to help students and interviewees understand the foundational principles of reinforcement learning by **building a working model step-by-step**.
 
 ---
 
-## 📌 What is Q-Learning?
+## What is Q-Learning?
 
-Q-Learning is a **model-free**, **off-policy**, **value-based** reinforcement learning algorithm. It teaches an agent how to act optimally in a Markov Decision Process (MDP) by learning the value of actions in states—without needing a model of the environment.
+Q-Learning is a **model-free**, **off-policy**, **value-based** reinforcement learning algorithm. It teaches an agent how to act optimally in a Markov Decision Process (MDP) by learning the value of actions in states, without needing a model of the environment.
 
-### 🧠 Bellman Equation (Q-Update Rule):
-```
+### Bellman Equation (Q-Update Rule):
+
+$$
 Q(s, a) ← Q(s, a) + α * [r + γ * max(Q(s′, a′)) − Q(s, a)]
+$$
+
 ```
 - `s` = current state  
 - `a` = action taken  
@@ -18,10 +21,9 @@ Q(s, a) ← Q(s, a) + α * [r + γ * max(Q(s′, a′)) − Q(s, a)]
 - `s′` = next state  
 - `α` = learning rate  
 - `γ` = discount factor  
-
 ---
 
-## 🧱 Environment
+## Environment
 
 - A **4×4 grid** world is used.
 - The agent starts at the top-left corner `(0, 0)`.
@@ -33,10 +35,10 @@ Q(s, a) ← Q(s, a) + α * [r + γ * max(Q(s′, a′)) − Q(s, a)]
 
 ---
 
-## 🔁 Training Parameters
+## Training Parameters
 
 | Parameter         | Value          | Description |
-|------------------|----------------|-------------|
+|:------------------|:----------------|:-------------|
 | `episodes`       | 500            | Number of training episodes |
 | `alpha`          | 0.1            | Learning rate |
 | `gamma`          | 0.99           | Discount factor for future rewards |
@@ -44,7 +46,7 @@ Q(s, a) ← Q(s, a) + α * [r + γ * max(Q(s′, a′)) − Q(s, a)]
 
 ---
 
-## ✅ What You’ll Learn
+## What You’ll Learn
 
 - How Q-learning works behind the scenes  
 - Why the **Q-table** matters and how it’s updated  
@@ -54,7 +56,7 @@ Q(s, a) ← Q(s, a) + α * [r + γ * max(Q(s′, a′)) − Q(s, a)]
 
 ---
 
-## 🧭 Output
+## Output
 
 At the end of training, the agent learns the **optimal action** at each position in the grid. You will see a map like:
 
@@ -62,23 +64,33 @@ At the end of training, the agent learns the **optimal action** at each position
 → → → ↓  
 ↓ → ↓ ↓  
 → → ↓ ↓  
-→ → → ✅
+→ → → ↑
 ```
 
 ---
 
-## 📂 Files
+## Files
 
 | File                          | Description |
-|------------------------------|-------------|
+|:------------------------------|:-------------|
 | `q_learning.ipynb`           | Fully documented Q-Learning notebook with implementation from scratch |
-| `README.md`                  | This file - explains theory, setup, and purpose |
+| `README.md`                  | This file explains theory, setup, and purpose |
 
 ---
 
-## 🎓 Who Should Use This?
+## Who Should Use This?
 
 - Students preparing for ML/AI interviews  
 - Beginners trying to understand reinforcement learning  
 - Educators building curriculum materials  
 - Developers exploring agent-based AI  
+
+---
+
+## License
+This project is released under the MIT License.
+
+---
+
+## Contributions
+Feel free to fork this notebook, improve the training logic, or add visualizations. Let’s help more students understand machine learning by building it from the ground up!
