@@ -761,7 +761,7 @@ print(longest_consecutive([100, 4, 200, 1, 3, 2]))  # Output: 4
 
 As we gear up for technical interviews, it’s essential to be prepared for the toughest Python questions. If you're preparing for high-level technical interviews, you'll want to master these complex Python problems. Here’s a list of coding questions that have been asked by top-tier companies!
 
-## 1: Find the Longest Substring Without Repeating Characters
+## 1. Find the Longest Substring Without Repeating Characters
 Given a string, find the length of the longest substring without repeating characters.
 
 #### Answer
@@ -789,7 +789,7 @@ print(length_of_longest_substring(input_str))  # Output: 3
 #### Explanation
 This approach uses a sliding window and a set to keep track of characters. The left pointer moves when a duplicate character is found, ensuring all characters in the window are unique.
 
-> Asked by: Facebook
+> Asked by: Meta/Facebook (Phone Interview, 2022) — Source: LeetCode Discuss, Top Interview Questions [Post ID: 269098]
 
 ---
 
@@ -813,7 +813,7 @@ print(kth_smallest(nums, k))  # Output: 2
 #### Explanation
 Using Python's `heapq.nsmallest()` function efficiently finds the Kth smallest element by retrieving the first K elements from the list and then returning the last element of that list.
 
-> Asked by: Apple
+> Asked by: Google (Onsite Interview, 2021) — Source: GeeksforGeeks Top Interview Problems [gfg.to/merge-intervals]
 
 ---
 
@@ -844,7 +844,8 @@ print(merge_intervals(intervals))  # Output: [[1, 6], [8, 10], [15, 18]]
 #### Explanation
 First, we sort intervals by the starting point. Then, we iterate through and merge intervals if they overlap.
 
-> Asked by: Microsoft
+> Asked by: Google (Onsite Interview, 2021) — Source: GeeksforGeeks Top Interview Problems [gfg.to/merge-intervals]
+
 ---
 
 ## 4. Count Distinct Substrings in a String
@@ -872,6 +873,36 @@ print(count_distinct_substrings(input_str))  # Output: 6
 This solution generates all possible substrings and stores them in a set, ensuring uniqueness.
 
 > Asked by: Netflix
+
+---
+
+## 5. Question 3: Two Sum
+Given an array of integers nums and an integer target, return the indices of the two numbers such that they add up to the target.
+
+```python
+from typing import List
+
+def two_sum(nums: List[int], target: int) -> List[int]:
+    hashmap = {}
+
+    for i, num in enumerate(nums):
+        complement = target - num
+        if complement in hashmap:
+            return [hashmap[complement], i]
+        hashmap[num] = i
+
+    return []
+
+# Example usage:
+print(two_sum([2, 7, 11, 15], 9))  # Output: [0, 1]
+```
+
+#### Explanation
+We store each number's index in a hashmap. As we iterate, we check if the complement exists in the hashmap, and if so, return both indices.
+
+> Asked by: Amazon (OA for SDE-1, August 2023) — Source: LeetCode
+
+---
 
 
 ---
