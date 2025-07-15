@@ -31,7 +31,7 @@ This section of the repository contains hands-on, from-scratch implementations o
 ## Core Concepts
 
 | Term                  | Meaning                                                                 |
-|-----------------------|-------------------------------------------------------------------------|
+|:-----------------------|:-------------------------------------------------------------------------|
 | **Outlier**           | A data point that significantly differs from others.                    |
 | **Density-based**     | Compare local density of data points (e.g., LOF).                       |
 | **Distance-based**    | Use distance to neighbors or clusters to determine anomalies.           |
@@ -101,6 +101,5 @@ anomaly_detection/
 - Try applying these on real datasets (e.g., credit card fraud, server logs).
 - Extend the logic using `scikit-learn`, `PyOD`, or `TensorFlow`.
 
----
 
 > Happy Detecting!
