@@ -1,7 +1,7 @@
-# 🧠 Data Analysis Repository  
+# Data Analysis Repository  
 _A Complete Beginner-to-Intermediate Resource to Learn and Practice Data Analysis with Python_
 
-## 📘 Overview
+## Overview
 
 This repository is designed to help learners build a strong foundation in data analysis using Python. Whether you're preparing for interviews, brushing up your skills, or working on real-world projects, this repo offers simple, well-structured resources.
 
@@ -9,40 +9,17 @@ We focus on **clarity**, **practical examples**, and **hands-on learning** using
 
 ---
 
-## 📁 Folder Structure
+## Features
 
-```
-Data Analysis/
-│
-├── README.md                      <- Main repository guide (this file)
-├── 25_questions_readme.md        <- Q&A style guide with 25 real data analysis questions
-├── sample_dataset.csv            <- (Optional) Dataset used for code examples
-│
-├── notebooks/                    <- Jupyter Notebooks with executable examples
-│   ├── 01_loading_data.ipynb
-│   ├── 02_handling_missing.ipynb
-│   └── ...
-│
-├── scripts/                      <- Reusable Python scripts or functions
-│   └── helper_functions.py
-│
-└── images/                       <- Visual outputs or screenshots
-    └── example_chart.png
-```
+- 25 beginner-friendly interview-style questions and answers  
+- Clean and well-commented Python code using Pandas  
+- Easy-to-follow explanations in Markdown  
+- Modular Notebooks for hands-on practice  
+- Ideal for self-study, bootcamps, or teaching others
 
 ---
 
-## 🛠 Features
-
-- ✅ 25 beginner-friendly interview-style questions and answers  
-- ✅ Clean and well-commented Python code using Pandas  
-- ✅ Easy-to-follow explanations in Markdown  
-- ✅ Modular Notebooks for hands-on practice  
-- ✅ Ideal for self-study, bootcamps, or teaching others
-
----
-
-## 📦 Requirements
+## Requirements
 
 This project uses only basic Python libraries:
 
@@ -52,7 +29,7 @@ pip install pandas matplotlib seaborn jupyter
 
 ---
 
-## 🧪 How to Use
+## How to Use
 
 1. Clone this repository:
    ```bash
@@ -71,7 +48,7 @@ pip install pandas matplotlib seaborn jupyter
 
 ---
 
-## 📈 Who Is This For?
+## Who Is This For?
 
 - Beginners who want to learn data analysis step by step  
 - Students preparing for data science or analyst interviews  
@@ -79,7 +56,7 @@ pip install pandas matplotlib seaborn jupyter
 
 ---
 
-## 🧭 Topics Covered
+## Topics Covered
 
 - Reading and writing CSVs  
 - Inspecting and summarizing data  
@@ -92,13 +69,13 @@ pip install pandas matplotlib seaborn jupyter
 
 ---
 
-## 🙌 Contributing
+## Contributing
 
 Have ideas, suggestions, or additional questions to add? Feel free to fork this repo and submit a pull request!
 
 ---
 
-## 📚 License
+## License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
