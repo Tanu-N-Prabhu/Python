@@ -77,10 +77,10 @@ Have ideas, suggestions, or additional questions to add? Feel free to fork this 
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the MIT License
 
 ---
 
-## 👋 Final Note
+## Final Note
 
 This repository is a practical learning companion for anyone starting out in data analysis. Use it, modify it, and grow your skills!
