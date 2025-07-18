@@ -5,7 +5,7 @@ _Learn to Compute and Understand Mean, Median, and Standard Deviation_
 
 ## Overview
 
-This section covers fundamental statistical measures used in data analysis — **mean**, **median**, and **standard deviation** — using pure Python and `pandas`. These concepts help summarize and describe data effectively and are crucial for anyone working with data.
+This section covers fundamental statistical measures used in data analysis: **mean**, **median**, and **standard deviation**, using pure Python and `pandas`. These concepts help summarize and describe data effectively and are crucial for anyone working with data.
 
 ---
 
