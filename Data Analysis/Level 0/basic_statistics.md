@@ -1,4 +1,4 @@
-# 📊 Basic Statistics with Python
+# Basic Statistics with Python
 _Learn to Compute and Understand Mean, Median, and Standard Deviation_
 
 ---
@@ -97,7 +97,7 @@ print("Standard Deviation (pandas):", df["Score"].std(ddof=0))  # population std
 
 ## Next Steps
 
-- Try calculating these metrics on your own dataset.
+- Try calculating these metrics on your dataset.
 - Learn how these metrics influence machine learning models.
 - Explore data visualization techniques to complement statistics.
 
