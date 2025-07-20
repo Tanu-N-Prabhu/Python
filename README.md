@@ -2,7 +2,7 @@
 <h1 align = "center"> 🐍📊 Welcome to the Python Programming Hub 📊🐍</h1>
 
 
-<h2 align = "center">The Best place to learn Python and Data Science</h2>
+<h2 align = "center"><i>The Best Place to Learn Python, Data Science and Machine Learning!</i></h2>
 
 <!-- Shield Badges -->
 
