@@ -20,7 +20,6 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
 
 This repository isn’t just a collection of code snippets; it’s a comprehensive resource designed to empower learners and professionals alike. You’ll find invaluable insights and guidance for:
 
-
 * **Novices** - Explore the fundamentals of Python programming.
 * **Data Enthusiasts** - Delve into the intricacies of data science.
 * **Seasoned Developers** - Hone your craft with advanced techniques and tips.
