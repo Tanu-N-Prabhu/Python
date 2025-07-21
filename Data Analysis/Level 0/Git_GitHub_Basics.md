@@ -2,20 +2,20 @@
 # Git & GitHub Basics  
 _A Beginner’s Guide to Version Control and Collaboration_
 
-## 🧠 What is Git?
+## What is Git?
 
 **Git** is a free and open-source version control system. It helps you:
 
 - Track changes in your code over time
 - Work on different versions (branches) of a project
-- Revert back to earlier versions if needed
+- Revert to earlier versions if needed
 - Collaborate with others without overwriting each other’s work
 
 Think of Git as a time machine for your project.
 
 ---
 
-## 🧰 What is GitHub?
+## What is GitHub?
 
 **GitHub** is a platform that hosts your Git repositories online. It adds powerful features like:
 
@@ -26,10 +26,10 @@ Think of Git as a time machine for your project.
 
 ---
 
-## 🛠️ Installing Git
+## Installing Git
 
 Download and install Git from:  
-👉 [https://git-scm.com/downloads](https://git-scm.com/downloads)
+--> [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
 After installation, verify by running:
 
@@ -39,7 +39,7 @@ git --version
 
 ---
 
-## 📦 Basic Git Commands
+## Basic Git Commands
 
 | Command | Purpose |
 |--------|---------|
@@ -55,7 +55,7 @@ git --version
 
 ---
 
-## 🚀 Typical Workflow
+## Typical Workflow
 
 ```bash
 # Clone a GitHub repo
@@ -70,7 +70,7 @@ git push origin main
 
 ---
 
-## 🌿 Working with Branches
+## Working with Branches
 
 Branches help isolate features or fixes before merging into the main codebase.
 
@@ -87,7 +87,7 @@ git merge feature-branch
 
 ---
 
-## 🤝 Collaborating on GitHub
+## Collaborating on GitHub
 
 - **Fork**: Make a copy of someone else's repository under your account
 - **Clone**: Download the repository to your machine
@@ -96,7 +96,7 @@ git merge feature-branch
 
 ---
 
-## 📌 Best Practices
+## Best Practices
 
 - Use meaningful commit messages
 - Push changes frequently
@@ -106,7 +106,7 @@ git merge feature-branch
 
 ---
 
-## 📘 Useful GitHub Features
+## Useful GitHub Features
 
 - **README.md**: Explains your project
 - **.gitignore**: Tells Git which files/folders to ignore
@@ -115,7 +115,7 @@ git merge feature-branch
 
 ---
 
-## 🧪 Test Your Knowledge
+## Test Your Knowledge
 
 - Create a new repository
 - Clone it locally
@@ -125,8 +125,8 @@ git merge feature-branch
 
 ---
 
-## 🎯 Final Thoughts
+## Final Thoughts
 
 Git and GitHub are essential tools for any data analyst or developer. They allow you to manage your code, collaborate with others, and build a professional portfolio.
 
-Keep practicing — it will soon become second nature.
+Keep practicing - it will soon become second nature.
