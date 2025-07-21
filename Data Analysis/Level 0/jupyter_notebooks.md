@@ -78,3 +78,20 @@ You can save your notebook anytime by clicking `File > Save` and Checkpoint or p
 To export your notebook as PDF, HTML, or another format:
 
 - Click `File > Download as > [your desired format]`
+
+## Best Practices
+- Use Markdown cells to clearly explain your code
+- Keep code cells small and manageable
+- Use meaningful variable names
+- Save your work often
+- Restart the kernel if things go wrong `Kernel > Restart`
+
+## Additional Resources
+- [Jupyter Official Docs](https://jupyter.org/documentation)
+- [nbviewer](https://nbviewer.org/) – Share and view notebooks online
+- [JupyterLab](https://jupyterlab.readthedocs.io/) – Next-generation UI for Jupyter
+
+## Final Thoughts
+Jupyter Notebooks are an essential tool for data scientists and analysts. Their interactive nature makes learning, experimentation, and sharing results incredibly easy and effective.
+
+Practice regularly and make your notebooks as clear and organized as possible!
