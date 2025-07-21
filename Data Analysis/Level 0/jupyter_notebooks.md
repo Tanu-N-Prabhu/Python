@@ -13,4 +13,18 @@ It supports over 40 programming languages, including Python, R, and Julia, but i
 - Easy export to PDF, HTML, and more
 - Cell-based architecture (code cells and markdown cells)
 
-  
+
+## Getting Started
+
+### Installation
+To install Jupyter using pip:
+
+```
+pip install notebook
+```
+
+Or install through Anaconda (recommended for beginners):
+
+```
+conda install -c conda-forge notebook
+```
