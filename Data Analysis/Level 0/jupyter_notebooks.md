@@ -28,3 +28,14 @@ Or install through Anaconda (recommended for beginners):
 ```
 conda install -c conda-forge notebook
 ```
+
+### Launching Jupyter
+Once installed, open your terminal or command prompt and type:
+
+```
+jupyter notebook
+```
+
+This will open the Jupyter interface in your default web browser.
+
+
