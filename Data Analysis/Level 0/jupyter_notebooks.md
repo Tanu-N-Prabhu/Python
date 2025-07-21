@@ -55,3 +55,26 @@ print("Hello, world!")
 ## Subheadings
 **Bold text** and *italic text*
 ```
+
+## Visualizations
+Jupyter integrates seamlessly with data visualization libraries like matplotlib, seaborn, and plotly. Example:
+
+```
+import matplotlib.pyplot as plt
+
+x = [1, 2, 3, 4]
+y = [10, 20, 25, 30]
+
+plt.plot(x, y)
+plt.title("Line Chart")
+plt.xlabel("X-axis")
+plt.ylabel("Y-axis")
+plt.show()
+```
+
+## Saving and Exporting
+You can save your notebook anytime by clicking `File > Save` and Checkpoint or pressing `Ctrl + S`.
+
+To export your notebook as PDF, HTML, or another format:
+
+- Click `File > Download as > [your desired format]`
