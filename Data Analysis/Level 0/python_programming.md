@@ -104,7 +104,7 @@ for i in range(5):
 
 ---
 
-## 🔧 3. Functions in Python
+## 3. Functions in Python
 
 Functions allow you to reuse blocks of code.
 
