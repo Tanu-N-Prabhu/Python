@@ -38,4 +38,20 @@ jupyter notebook
 
 This will open the Jupyter interface in your default web browser.
 
+## Working with Cells
+Jupyter Notebooks are made up of cells.
+- **Code Cells**: Write Python code and execute it with `Shift + Enter`.
+- **Markdown Cells**: Write plain text, formatted notes, or documentation using Markdown.
 
+### Example
+
+```
+# This is a Python code cell
+print("Hello, world!")
+```
+
+```
+# This is a Markdown cell
+## Subheadings
+**Bold text** and *italic text*
+```
