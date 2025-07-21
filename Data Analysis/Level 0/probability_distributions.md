@@ -1,13 +1,13 @@
 
 # Probability & Distributions
 
-This section introduces you to the fundamentals of probability and common statistical distributions used in data analysis and data science.
+_This section introduces you to the fundamentals of probability and common statistical distributions used in data analysis and data science._
 
 ---
 
-## 📘 What is Probability?
+## What is Probability?
 
-Probability is the measure of the likelihood that an event will occur. It ranges between **0** (impossible event) and **1** (certain event).
+Probability is the measure of the likelihood that an event will occur. It ranges between **0** (an impossible event) and **1** (a certain event).
 
 ### Basic Terms:
 - **Experiment**: An action that leads to one or more outcomes (e.g., flipping a coin).
@@ -27,7 +27,7 @@ P_Head = 1 / 2  # 0.5
 
 ---
 
-## 🎲 Types of Probability
+## Types of Probability
 
 ### 1. **Theoretical Probability**
 Based on reasoning or math.
@@ -43,7 +43,7 @@ P(E) = Number of times event occurred / Total trials
 
 ---
 
-## 📊 Types of Distributions
+## Types of Distributions
 
 ### 1. **Uniform Distribution**
 All outcomes are equally likely.
@@ -76,7 +76,7 @@ poisson.pmf(k=3, mu=2)
 
 ---
 
-## 🔢 Probability in Python
+## Probability in Python
 
 ```python
 import random
@@ -90,7 +90,7 @@ dice = random.randint(1, 6)
 
 ---
 
-## 📌 Why Probability & Distributions Matter
+## Why Probability & Distributions Matter
 
 - Essential for understanding data variability
 - Used in hypothesis testing and inferential statistics
@@ -98,7 +98,7 @@ dice = random.randint(1, 6)
 
 ---
 
-## 🧠 Practice Exercise
+## Practice Exercise
 
 1. Simulate 1000 coin tosses and calculate the experimental probability.
 2. Plot the normal distribution curve using `matplotlib`.
@@ -106,7 +106,7 @@ dice = random.randint(1, 6)
 
 ---
 
-## ✅ Summary
+## Summary
 
 | Concept          | Key Idea                                      |
 |------------------|-----------------------------------------------|
