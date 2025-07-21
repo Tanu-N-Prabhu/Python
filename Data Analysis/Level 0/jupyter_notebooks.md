@@ -88,8 +88,8 @@ To export your notebook as PDF, HTML, or another format:
 
 ## Additional Resources
 - [Jupyter Official Docs](https://jupyter.org/documentation)
-- [nbviewer](https://nbviewer.org/) – Share and view notebooks online
-- [JupyterLab](https://jupyterlab.readthedocs.io/) – Next-generation UI for Jupyter
+- [nbviewer](https://nbviewer.org/) - Share and view notebooks online
+- [JupyterLab](https://jupyterlab.readthedocs.io/) - Next-generation UI for Jupyter
 
 ## Final Thoughts
 Jupyter Notebooks are an essential tool for data scientists and analysts. Their interactive nature makes learning, experimentation, and sharing results incredibly easy and effective.
