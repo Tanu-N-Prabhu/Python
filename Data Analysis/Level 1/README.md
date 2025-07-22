@@ -49,21 +49,6 @@ Learn how to clean, manipulate, and prepare datasets using powerful Python libra
 | OpenPyXL   | Excel file handling                |
 | CSV/JSON   | Reading and writing common formats |
 
----
-
-## Output
-
-By completing this level, you will produce:
-
-- Cleaned versions of raw datasets
-- At least **3 wrangling notebooks** demonstrating:
-  - Importing and inspecting datasets
-  - Cleaning and reshaping data
-  - Creating useful new features
-- Practical examples like:
-  - Cleaning sales data
-  - Merging customer and transaction records
-  - Handling missing and incorrect entries
 
 ---
 
