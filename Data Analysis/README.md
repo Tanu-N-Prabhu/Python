@@ -93,10 +93,6 @@ Welcome to the ultimate roadmap to becoming a **Data Analysis Hero**, a structur
 - Jupyter Notebook / VS Code
 - Git & GitHub
 
-### Output
-- 5 beginner Python notebooks
-- GitHub mini-project (e.g. Sales Calculator)
-
 ---
 
 ## Level 1: Data Wrangling – Work With Real Data
@@ -113,10 +109,6 @@ Welcome to the ultimate roadmap to becoming a **Data Analysis Hero**, a structur
 ### Tools
 - Pandas, NumPy
 - OpenPyXL, CSV, JSON file handling
-
-### Output
-- Cleaned dataset (e.g., Titanic or Airbnb)
-- Notebook: Data Cleaning Challenge
 
 ---
 
@@ -137,10 +129,6 @@ Welcome to the ultimate roadmap to becoming a **Data Analysis Hero**, a structur
 - Seaborn
 - Plotly (optional)
 
-### Output
-- EDA report notebook (e.g. Customer Churn)
-- Visual dashboard with charts
-
 ---
 
 ## Level 3: Data Storytelling – Present Like a Pro
@@ -157,10 +145,6 @@ Welcome to the ultimate roadmap to becoming a **Data Analysis Hero**, a structur
 - Matplotlib & Seaborn
 - Power BI or Tableau (optional)
 - Jupyter Markdown + GitHub
-
-### Output
-- Final Story Notebook (insights + visuals)
-- Polished README or Slide Deck
 
 ---
 
@@ -180,9 +164,6 @@ Welcome to the ultimate roadmap to becoming a **Data Analysis Hero**, a structur
 - Pandas + Seaborn + storytelling skills
 - GitHub Projects
 
-### Output
-- 2–3 end-to-end projects
-- Each with a README, visuals, and clean code
 
 ---
 
@@ -199,9 +180,7 @@ Welcome to the ultimate roadmap to becoming a **Data Analysis Hero**, a structur
 - Reporting Automation (e.g., Python + Excel)
 - Cloud Tools (Google Sheets, BigQuery, etc.)
 
-### Output
-- Specialization project or certification
-- Technical blog post or portfolio walkthrough
+
 
 ## Final Tips for the Road
 * Practice daily – 30 mins of consistent hands-on work > hours of reading
@@ -214,7 +193,7 @@ Welcome to the ultimate roadmap to becoming a **Data Analysis Hero**, a structur
 
 ## Contributing
 
-Have ideas, suggestions, or additional questions to add? Feel free to fork this repo and submit a pull request!
+Do you have ideas, suggestions, or additional questions to share? Feel free to fork this repo and submit a pull request!
 
 ---
 
