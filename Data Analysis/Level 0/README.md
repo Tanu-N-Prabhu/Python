@@ -1,7 +1,9 @@
-# Level 0: Foundation - Understand the Basics
+# Level 0: Foundation
+
+_Understand the Basics_
 
 ## Goal
-Build core programming and math skills needed for data analysis. This level lays the groundwork for future projects by helping you become confident with Python, basic statistics, and version control using Git and GitHub.
+Develop core programming and mathematical skills necessary for data analysis. This level lays the groundwork for future projects by helping you become confident with Python, basic statistics, and version control using Git and GitHub.
 
 ---
 
@@ -44,16 +46,6 @@ Build core programming and math skills needed for data analysis. This level lays
 | VS Code         | Optional editor for Python coding   |
 | Git             | Version control system              |
 | GitHub          | Online platform for code hosting    |
-
----
-
-## Output
-
-By completing this level, you will produce:
-
-- **5 beginner Python notebooks** with clear examples and exercises  
-- **1 GitHub mini-project**  
-  Example: A basic **Sales Calculator** app that performs input, processing, and output operations using Python and Git versioning.
 
 ---
 
