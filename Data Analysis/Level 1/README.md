@@ -17,12 +17,12 @@ Learn how to clean, manipulate, and prepare datasets using powerful Python libra
 - Applying functions with `.apply()`, `.map()`, and `.lambda`
 - Transforming data with `.pivot()`, `.melt()`, `.stack()`, `.unstack()`
 
-### 2. NumPy for Numerical Operations
+### 2. [NumPy for Numerical Operations](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%201/numPy_for_numerical_operations.ipynb)
 - Creating and manipulating arrays
 - Indexing, slicing, and reshaping
 - Element-wise operations
 - Broadcasting
-- Aggregations like mean, median, std
+- Aggregations like mean, median, and std
 
 ### 3. Data Cleaning Techniques
 - Handling missing data with `.fillna()`, `.dropna()`
