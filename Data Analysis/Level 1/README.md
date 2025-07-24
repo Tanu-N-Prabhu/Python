@@ -29,7 +29,7 @@ Learn how to clean, manipulate, and prepare datasets using powerful Python libra
 - Detecting and fixing incorrect or inconsistent data
 - Working with duplicate values
 
-### 4. Data Types & Conversions
+### 4. [Data Types & Conversions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%201/data_types_and_conversions.ipynb)
 - Understanding `object`, `int`, `float`, `category`, `datetime`
 - Type conversions using `.astype()` and `pd.to_datetime()`
 
