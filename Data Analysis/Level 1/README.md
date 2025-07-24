@@ -24,7 +24,7 @@ Learn how to clean, manipulate, and prepare datasets using powerful Python libra
 - Broadcasting
 - Aggregations like mean, median, and std
 
-### 3. Data Cleaning Techniques
+### 3. [Data Cleaning Techniques](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%201/data_cleaning_techniques_in_pandas.ipynb)
 - Handling missing data with `.fillna()`, `.dropna()`
 - Detecting and fixing incorrect or inconsistent data
 - Working with duplicate values
