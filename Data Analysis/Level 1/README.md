@@ -9,7 +9,7 @@ Learn how to clean, manipulate, and prepare datasets using powerful Python libra
 
 ## What You’ll Learn
 
-### 1. Pandas for Data Analysis
+### 1. [Pandas for Data Analysis](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%201/pandas_for_data_analysis_1.ipynb)
 - Reading data from CSV, Excel, and JSON
 - Selecting and filtering rows and columns
 - Merging, joining, and concatenating datasets
