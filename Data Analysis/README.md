@@ -92,7 +92,7 @@ _Understand the Basics_
 - Git & GitHub basics
 
 ### Tools
-- Python (via Anaconda or pip)
+- Python <img height="16" width="16" src="https://cdn.simpleicons.org/Python/3776AB"/>
 - Jupyter Notebook / VS Code
 - Git & GitHub
 
