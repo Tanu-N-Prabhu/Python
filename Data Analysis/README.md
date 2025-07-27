@@ -92,9 +92,9 @@ _Understand the Basics_
 - Git & GitHub basics
 
 ### Tools
-- Python <img height="16" width="16" src="https://cdn.simpleicons.org/Python/3776AB"/>
-- Jupyter Notebook <img height="16" width="16" src="https://cdn.simpleicons.org/Jupyter/F37626"/>
-- Git & GitHub <img height="16" width="16" src="https://cdn.simpleicons.org/GitHub/181717"/>
+- Python 
+- Jupyter Notebook 
+- Git & GitHub 
 
 ---
 
