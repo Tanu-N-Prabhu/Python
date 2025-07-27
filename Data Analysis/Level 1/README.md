@@ -33,7 +33,7 @@ Learn how to clean, manipulate, and prepare datasets using powerful Python libra
 - Understanding `object`, `int`, `float`, `category`, `datetime`
 - Type conversions using `.astype()` and `pd.to_datetime()`
 
-### 5. Filtering, Sorting & Feature Creation
+### 5. [Filtering, Sorting & Feature Creation](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%201/filtering_sorting_and_feature_creation_in_pandas.ipynb)
 - Boolean indexing and advanced filtering
 - Sorting by index or column values
 - Creating new columns and features from existing ones
