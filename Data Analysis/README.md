@@ -93,8 +93,8 @@ _Understand the Basics_
 
 ### Tools
 - Python <img height="16" width="16" src="https://cdn.simpleicons.org/Python/3776AB"/>
-- Jupyter Notebook / VS Code
-- Git & GitHub
+- Jupyter Notebook <img height="16" width="16" src="https://cdn.simpleicons.org/Jupyter/F37626"/>
+- Git & GitHub <img height="16" width="16" src="https://cdn.simpleicons.org/GitHub/181717"/>
 
 ---
 
