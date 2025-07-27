@@ -98,7 +98,9 @@ _Understand the Basics_
 
 ---
 
-## Level 1: Data Wrangling – Work With Real Data
+## Level 1: Data Wrangling
+
+_Work With Real Data_
 
 **Goal:** Learn how to clean, manipulate, and prepare datasets.
 
@@ -115,7 +117,9 @@ _Understand the Basics_
 
 ---
 
-## Level 2: Exploration – Understand the Data
+## Level 2: Exploration
+
+_Understand the Data_
 
 **Goal:** Use Exploratory Data Analysis (EDA) to derive insights.
 
