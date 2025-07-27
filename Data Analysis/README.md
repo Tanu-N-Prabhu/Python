@@ -71,13 +71,16 @@ pip install pandas matplotlib seaborn jupyter
 
 ---
 
-# Become a Data Analysis Hero – Complete Roadmap (2025)
+# Become a Data Analysis Hero
 
-Welcome to the ultimate roadmap to becoming a **Data Analysis Hero**, a structured path from beginner to advanced, with real-world projects and tools.
+_Complete Roadmap (2025)_
+
+Welcome to the ultimate roadmap for becoming a **Data Analysis Hero** - a structured path from beginner to advanced, featuring real-world projects and tools.
 
 ---
 
-## Level 0: Foundation – Understand the Basics
+## Level 0: Foundation
+_Understand the Basics_
 
 **Goal:** Build core programming and math skills needed for data analysis.
 
