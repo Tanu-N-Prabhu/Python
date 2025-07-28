@@ -1,7 +1,9 @@
-# Level 2: Exploration – Understand the Data
+# Level 2: Exploration
+
+_Understand the Data_
 
 ## Goal
-Use Exploratory Data Analysis (EDA) techniques to better understand datasets, identify patterns, detect anomalies, and generate hypotheses.
+Utilize Exploratory Data Analysis (EDA) techniques to gain a deeper understanding of datasets, identify patterns, detect anomalies, and formulate hypotheses.
 
 ---
 
