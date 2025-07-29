@@ -79,7 +79,7 @@ Welcome to the ultimate roadmap for becoming a **Data Analysis Hero** - a struct
 
 ---
 
-## Level 0: Foundation
+## [Level 0: Foundation](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/Level%200)
 _Understand the Basics_
 
 **Goal:** Build core programming and math skills needed for data analysis.
