@@ -34,3 +34,15 @@ df.cov()         # Covariance matrix
 
 ---
 
+### 3. GroupBy and Pivot Tables
+- **GroupBy** lets you split the data, apply a function, and combine the result.
+- **Pivot tables reshape** data for summary and comparison.
+
+```
+df.groupby('column_name')['value_column'].mean()
+df.pivot_table(values='sales', index='region', columns='product')
+```
+
+> GroupBy helps reveal insights across categories.
+
+
