@@ -45,4 +45,21 @@ df.pivot_table(values='sales', index='region', columns='product')
 
 > GroupBy helps reveal insights across categories.
 
+---
+
+### 4. Outlier Detection & Distributions
+- Use boxplots, histograms, or Z-scores to detect **outliers**.
+- Understand **data distribution shape**: Normal, skewed, etc.
+
+
+```
+import seaborn as sns
+sns.boxplot(x='column', data=df)
+sns.histplot(data=df['column'], kde=True)
+```
+
+> Outliers can skew your analysis or indicate anomalies worth investigating.
+
+---
+
 
