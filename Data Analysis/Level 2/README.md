@@ -38,7 +38,7 @@ df.cov()         # Covariance matrix
 - **GroupBy** lets you split the data, apply a function, and combine the result.
 - **Pivot tables reshape** data for summary and comparison.
 
-```
+```python
 df.groupby('column_name')['value_column'].mean()
 df.pivot_table(values='sales', index='region', columns='product')
 ```
@@ -52,7 +52,7 @@ df.pivot_table(values='sales', index='region', columns='product')
 - Understand **data distribution shape**: Normal, skewed, etc.
 
 
-```
+```python
 import seaborn as sns
 sns.boxplot(x='column', data=df)
 sns.histplot(data=df['column'], kde=True)
@@ -79,7 +79,7 @@ A typical workflow includes:
 ### 1. Pandas Profiling
 Quick automated EDA report:
 
-```
+```python
 from pandas_profiling import ProfileReport
 report = ProfileReport(df)
 report.to_notebook_iframe()
@@ -92,7 +92,7 @@ Base Python plotting library. Use for:
 - Line charts
 - Histograms
 
-```
+```python
 import matplotlib.pyplot as plt
 plt.hist(df['column'])
 ```
@@ -106,7 +106,7 @@ Statistical plotting built on Matplotlib:
 - Pair plots
 - Heatmaps
 
-```
+```python
 import seaborn as sns
 sns.boxplot(data=df, x='column')
 sns.heatmap(df.corr(), annot=True)
@@ -119,7 +119,7 @@ Interactive visualizations:
 - Dashboards
 - 3D plots
 
-```
+```python
 import plotly.express as px
 fig = px.scatter(df, x='feature1', y='feature2', color='label')
 fig.show()
