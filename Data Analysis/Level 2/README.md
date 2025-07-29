@@ -62,4 +62,16 @@ sns.histplot(data=df['column'], kde=True)
 
 ---
 
+### 5. EDA Workflow
+A typical workflow includes:
+
+- Data overview - shape, info, head
+- Missing values & data types
+- Descriptive statistics
+- Visualizations
+- Hypothesis generation
+
+> Always keep asking: What does the data tell me?
+
+---
 
