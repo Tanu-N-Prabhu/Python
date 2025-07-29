@@ -75,3 +75,64 @@ A typical workflow includes:
 
 ---
 
+## Tools
+### 1. Pandas Profiling
+Quick automated EDA report:
+
+```
+from pandas_profiling import ProfileReport
+report = ProfileReport(df)
+report.to_notebook_iframe()
+```
+
+### 2. Matplotlib
+Base Python plotting library. Use for:
+
+- Bar charts
+- Line charts
+- Histograms
+
+```
+import matplotlib.pyplot as plt
+plt.hist(df['column'])
+```
+
+
+### 3. Seaborn
+Statistical plotting built on Matplotlib:
+
+- Boxplots
+- Violin plots
+- Pair plots
+- Heatmaps
+
+```
+import seaborn as sns
+sns.boxplot(data=df, x='column')
+sns.heatmap(df.corr(), annot=True)
+```
+
+### 4. Plotly (Optional)
+Interactive visualizations:
+
+- Zoomable plots
+- Dashboards
+- 3D plots
+
+```
+import plotly.express as px
+fig = px.scatter(df, x='feature1', y='feature2', color='label')
+fig.show()
+```
+
+---
+
+
+## Output
+By the end of this level, you should:
+
+- Be able to perform EDA on new datasets.
+- Create meaningful charts and summary stats.
+- Build a notebook analyzing a public dataset.
+
+> Suggested mini-project: Perform EDA on the Titanic or Iris dataset and document your insights in a notebook.
