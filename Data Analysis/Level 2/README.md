@@ -21,7 +21,7 @@ Understand key summary metrics:
 
 ---
 
-### 2. Correlation & Covariance
+### 2. [Correlation & Covariance](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%202/correlation_covariance.ipynb)
 - **Correlation** measures the strength and direction of a linear relationship between two variables.
 - **Covariance** shows how two variables change together.
 
