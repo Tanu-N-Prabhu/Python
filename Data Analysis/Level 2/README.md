@@ -9,7 +9,7 @@ Utilize Exploratory Data Analysis (EDA) techniques to gain a deeper understandin
 
 ## What to Learn
 
-### 1. Descriptive Statistics
+### 1. [Descriptive Statistics](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%202/descriptive_statistics.ipynb)
 Understand key summary metrics:
 - **Mean** – The average value.
 - **Median** – The middle value in sorted data.
