@@ -6,12 +6,30 @@
 
 <!-- Shield Badges -->
 
+<!--
 | [![Discord](https://img.shields.io/discord/718138360538857794.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qFryjbX)  | ![GitHub forks](https://img.shields.io/github/forks/Tanu-N-Prabhu/Python?label=Fork&style=social)  | ![GitHub stars](https://img.shields.io/github/stars/Tanu-N-Prabhu/Python?style=social) | ![GitHub repo size](https://img.shields.io/github/repo-size/Tanu-N-Prabhu/Python) |  ![GitHub contributors](https://img.shields.io/github/contributors/Tanu-N-Prabhu/Python)| [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Tanu-N-Prabhu/Python)| [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)|[![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)|[![Version](https://img.shields.io/badge/version-1.0.3-blue?style=flat-square)](./VERSION_HISTORY.md)|![Views Counter](https://views-counter.vercel.app/badge?pageId=Tanu-N-Prabhu%2FViews-Counter)|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+-->
+
+
+![GitHub forks](https://img.shields.io/github/forks/Tanu-N-Prabhu/Python?label=Fork&style=social) 
+![GitHub stars](https://img.shields.io/github/stars/Tanu-N-Prabhu/Python?style=social) 
+![GitHub repo size](https://img.shields.io/github/repo-size/Tanu-N-Prabhu/Python) 
+![GitHub contributors](https://img.shields.io/github/contributors/Tanu-N-Prabhu/Python)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Tanu-N-Prabhu/Python)
+[![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
+[![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
+[![Version](https://img.shields.io/badge/version-1.0.3-blue?style=flat-square)](./VERSION_HISTORY.md)
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+
+
+
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
 |:--:| 
 | Image Credits [Wallpaper Flare](https://www.wallpaperflare.com/programming-is-an-art-text-code-python-computer-python-programming-wallpaper-srfia) |
+
+![Views Counter](https://views-counter.vercel.app/badge?pageId=Tanu-N-Prabhu%2FViews-Counter)
 
 
 Welcome to a treasure trove of Python programming expertise, Data Science mastery, and essential survival skills for navigating the dynamic world of programming. Dive into the depths of this repository to unlock the knowledge and tools you need to thrive in your coding journey.
@@ -587,6 +605,5 @@ If you have access to ChatGPT premium, there is a GPT Librarian with access to a
 ---
 
 
-[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 [![Maintened by - Tanu Nanda Prabhu](https://img.shields.io/badge/Maintained%20by-Tanu%20Nanda%20Prabhu-red)](https://tanu-n-prabhu.github.io/myWebsite.io/)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
