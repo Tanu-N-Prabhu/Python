@@ -490,7 +490,7 @@ Follow the steps below to get started on your journey to perfect Machine Learnin
 
 # Tech is Easy
 
-I’m Tanu Nanda Prabhu, and my passion lies in simplifying complex concepts to make them easier for others to understand. Research is something I deeply enjoy, and after exploring numerous videos, articles, and tutorials, I decided to create a repository dedicated to Google Sheets tips and tricks. I update this repository weekly with valuable insights designed to make your life simpler. I’m also open to contributions from those who wish to help enhance this resource. Feel free to fork the repository and submit updates, I’ll gladly review and consider them.
+I’m Tanu Nanda Prabhu, and my passion lies in simplifying complex concepts to make them easier for others to understand. Research is something I deeply enjoy, and after exploring numerous videos, articles, and tutorials, I decided to create a repository dedicated to Google Sheets tips and tricks. I update this repository weekly with valuable insights designed to make your life simpler. I’m also open to contributions from those who wish to help enhance this resource. Feel free to fork the repository and submit updates; I’ll gladly review and consider them.
 
 > [Tech Is Easy](https://github.com/Tanu-N-Prabhu/TechIsEasy)
 
@@ -510,10 +510,6 @@ If the Jupyter Notebook doesn’t load, don’t worry! Simply copy and paste the
 <a href="https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python" />
 </a>
-
-
-> Want to know how I did this? Refer here for the [docs](https://github.com/Tanu-N-Prabhu/myWebsite.io/blob/master/Docs/Displaying%20Contributors%20Image%20on%20README%20files%20with%20no%20Pain!.md)
-
 
 
 ---
