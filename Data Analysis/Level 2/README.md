@@ -34,7 +34,8 @@ df.cov()         # Covariance matrix
 
 ---
 
-### 3. GroupBy and Pivot Tables
+### [3. GroupBy and Pivot Tables](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%202/groupby_and_pivot_tables.ipynb)
+
 - **GroupBy** lets you split the data, apply a function, and combine the result.
 - **Pivot tables reshape** data for summary and comparison.
 
@@ -58,7 +59,7 @@ sns.boxplot(x='column', data=df)
 sns.histplot(data=df['column'], kde=True)
 ```
 
-> Outliers can skew your analysis or indicate anomalies worth investigating.
+> Outliers can skew your analysis or indicate anomalies worth further investigation.
 
 ---
 
