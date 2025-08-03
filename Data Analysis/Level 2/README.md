@@ -9,7 +9,7 @@ Utilize Exploratory Data Analysis (EDA) techniques to gain a deeper understandin
 
 ## What to Learn
 
-### 1. [Descriptive Statistics](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%202/descriptive_statistics.ipynb)
+### [1. Descriptive Statistics](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%202/descriptive_statistics.ipynb)
 Understand key summary metrics:
 - **Mean** – The average value.
 - **Median** – The middle value in sorted data.
@@ -21,7 +21,7 @@ Understand key summary metrics:
 
 ---
 
-### 2. [Correlation & Covariance](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%202/correlation_covariance.ipynb)
+### [2. Correlation & Covariance](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%202/correlation_covariance.ipynb)
 - **Correlation** measures the strength and direction of a linear relationship between two variables.
 - **Covariance** shows how two variables change together.
 
@@ -48,7 +48,7 @@ df.pivot_table(values='sales', index='region', columns='product')
 
 ---
 
-### 4. Outlier Detection & Distributions
+### [4. Outlier Detection & Distributions]()
 - Use boxplots, histograms, or Z-scores to detect **outliers**.
 - Understand **data distribution shape**: Normal, skewed, etc.
 
@@ -63,7 +63,7 @@ sns.histplot(data=df['column'], kde=True)
 
 ---
 
-### 5. EDA Workflow
+### [5. EDA Workflow]()
 A typical workflow includes:
 
 - Data overview - shape, info, head
