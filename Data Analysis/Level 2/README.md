@@ -63,7 +63,7 @@ sns.histplot(data=df['column'], kde=True)
 
 ---
 
-### [5. EDA Workflow]()
+### [5. EDA Workflow](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%202/eda_workflow.ipynb)
 A typical workflow includes:
 
 - Data overview - shape, info, head
