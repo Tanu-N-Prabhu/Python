@@ -13,6 +13,22 @@ Transform your analysis into clear, compelling stories using visualizations, str
 - Best practices in **Markdown formatting** for reports and GitHub READMEs
 - Creating story-driven **slide decks** or notebooks with embedded visuals and commentary
 
+
+---
+
+## Contents
+- Data visualization principles
+- Effective chart usage
+- Markdown formatting
+- Slide decks or README storytelling
+
+---
+
+
+### Tools
+- Matplotlib & Seaborn
+- Power BI or Tableau (optional)
+- Jupyter Markdown + GitHub
 ---
 
 ## Tools You'll Use
