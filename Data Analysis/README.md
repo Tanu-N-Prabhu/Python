@@ -138,7 +138,8 @@ _Understand the Data_
 
 ---
 
-## Level 3: Data Storytelling – Present Like a Pro
+## [Level 3: Data Storytelling]() 
+_Present Like a Pro_
 
 **Goal:** Communicate insights clearly through visuals and narrative.
 
@@ -155,7 +156,9 @@ _Understand the Data_
 
 ---
 
-## Level 4: Applied Projects – Build Real-World Experience
+## [Level 4: Applied Projects]()
+
+_Build Real-World Experience_
 
 **Goal:** Solve real-world data problems from various domains.
 
@@ -174,7 +177,8 @@ _Understand the Data_
 
 ---
 
-## Level 5: Bonus Mastery – Go Beyond
+## [Level 5: Bonus Mastery]() 
+_Go Beyond_
 
 **Goal:** Deepen your expertise with specialized skills.
 
@@ -212,4 +216,4 @@ This project is open-source and available under the MIT License
 
 ## Final Note
 
-This repository is a practical learning companion for anyone starting out in data analysis. Use it, modify it, and grow your skills!
+This repository serves as a practical learning companion for individuals new to data analysis. Use it, modify it, and grow your skills!
