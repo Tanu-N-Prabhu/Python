@@ -19,7 +19,7 @@ Transform your analysis into clear, compelling stories using visualizations, str
 ## Contents
 - [Data visualization principles](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%203/data_visualization_principles.ipynb)
 - [Effective chart usage](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%203/effective_chart_usage.ipynb)
-- Markdown formatting
+- [Markdown formatting](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%203/markdown_formatting_in_jupyter.ipynb)
 - Slide decks or README storytelling
 
 ---
