@@ -15,10 +15,10 @@ These projects are designed to simulate actual industry challenges:
 
 1. **[Sales or Revenue Analysis](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%204/sales_revenue_analysis.ipynb)**: Identify sales trends, seasonal patterns, and revenue drivers to help optimize strategy.
 
-2. **Customer Segmentation**: Use clustering or demographic analysis to group customers for targeted marketing.
+2. **[Customer Segmentation](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%204/customer_segmentation_project.ipynb)**: Use clustering or demographic analysis to group customers for targeted marketing.
 
-3. **Product Usage Analysis**: Understand how users interact with products to improve engagement and retention.
+3. **[Product Usage Analysis](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%204/product_usage_analysis.ipynb)**: Understand how users interact with products to improve engagement and retention.
 
-4. **Financial Reporting**: Create automated financial summaries, dashboards, and KPI reports for stakeholders.
+4. **[Financial Reporting](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%204/financial_reporting.ipynb)**: Create automated financial summaries, dashboards, and KPI reports for stakeholders.
 
-5. **Campaign Performance Analysis**: Evaluate the effectiveness of marketing campaigns using CTR, conversion rates, and ROI.
+5. **[Campaign Performance Analysis](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%204/campaign_performance_analysis.ipynb)**: Evaluate the effectiveness of marketing campaigns using CTR, conversion rates, and ROI.
