@@ -13,7 +13,7 @@ Instead of isolated exercises, you’ll work on end-to-end projects, from data c
 ## Sample Projects
 These projects are designed to simulate actual industry challenges:
 
-1. **Sales or Revenue Analysis**: Identify sales trends, seasonal patterns, and revenue drivers to help optimize strategy.
+1. **[Sales or Revenue Analysis](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%204/sales_revenue_analysis.ipynb)**: Identify sales trends, seasonal patterns, and revenue drivers to help optimize strategy.
 
 2. **Customer Segmentation**: Use clustering or demographic analysis to group customers for targeted marketing.
 
