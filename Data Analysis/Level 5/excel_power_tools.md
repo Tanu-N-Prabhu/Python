@@ -64,3 +64,22 @@ _Designed for Analysts, Data Scientists, and Power Users_
 #### 4.3 Applied Exercise
 > **Task:** Create a macro that formats and saves a report with the current date in its filename.
 
+
+## 5. Power Tips & Shortcuts
+- Keyboard shortcuts for speed
+- Dynamic Arrays (`FILTER()`, `SORT()`, `UNIQUE()`)
+- Using `LET()` and `LAMBDA()` for reusable formulas
+
+## 6. Final Project
+### Analyst Dashboard
+- Scenario: You are an analyst at a retail company.
+- Use Power Query to import and clean sales + customer data.
+- Use Power Pivot to create relationships and measures.
+- Build a dashboard with PivotTables, charts, and slicers.
+- Automate report refresh and export with a macro.
+
+
+## 7. Resources
+- Microsoft Excel Docs, Power Query & Power Pivot
+- DAX Guide – [https://dax.guide/](https://dax.guide/)
+- Office Scripts Docs – [https://learn.microsoft.com/en-us/office/dev/scripts/](https://learn.microsoft.com/en-us/office/dev/scripts/)
