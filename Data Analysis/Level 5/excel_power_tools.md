@@ -81,5 +81,5 @@ _Designed for Analysts, Data Scientists, and Power Users_
 
 ## 7. Resources
 - Microsoft Excel Docs, Power Query & Power Pivot
-- DAX Guide – [https://dax.guide/](https://dax.guide/)
-- Office Scripts Docs – [https://learn.microsoft.com/en-us/office/dev/scripts/](https://learn.microsoft.com/en-us/office/dev/scripts/)
+- DAX Guide: [https://dax.guide/](https://dax.guide/)
+- Office Scripts Docs: [https://learn.microsoft.com/en-us/office/dev/scripts/](https://learn.microsoft.com/en-us/office/dev/scripts/)
