@@ -52,3 +52,15 @@ _Designed for Analysts, Data Scientists, and Power Users_
 ### 3.4 Applied Exercise
 > **Task:** Build a Sales by Region report using Power Pivot and create a DAX measure for Year-over-Year Growth.
 
+## 4. Automation Tools
+#### 4.1 Macros & VBA
+- Record a macro to automate repetitive tasks
+- Editing VBA code for customization
+
+#### 4.2 Office Scripts (Excel Online)
+- Intro to JavaScript automation
+- **Example:** Formatting reports with one click
+
+#### 4.3 Applied Exercise
+> **Task:** Create a macro that formats and saves a report with the current date in its filename.
+
