@@ -29,3 +29,26 @@ _Designed for Analysts, Data Scientists, and Power Users_
 
 #### 2.3 Applied Exercise
 > **Task:** Import multiple monthly sales files from a folder and combine into one clean table.
+
+
+## 3. Power Pivot
+### Data Modeling & DAX
+#### 3.1 Enabling Power Pivot
+- How to activate in Excel
+- Understanding the data model
+
+#### 3.2 Creating Relationships
+- Primary key / foreign key concepts
+- Linking multiple tables
+
+#### 3.3 DAX Basics
+- Calculated columns vs Measures
+- Common DAX formulas:
+  - `SUM()`
+  - `CALCULATE()`
+  - `FILTER()`
+  - `RELATED()`
+
+### 3.4 Applied Exercise
+> **Task:** Build a Sales by Region report using Power Pivot and create a DAX measure for Year-over-Year Growth.
+
