@@ -17,7 +17,7 @@ The aim of Level 5 is to **deepen your expertise** in specialized skills that el
 - Use Excel's advanced features such as PivotTables, Power Query, and formulas for powerful, quick analysis.
 - Learn integration workflows between Excel and Python for automation.
 
-### 3. Time Series Analysis
+### 3. [Time Series Analysis](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%205/time_series_analysis.ipynb)
 - Understand trends, seasonality, and forecasting in time-dependent data.
 - Learn basic forecasting models using Python’s built-in libraries without heavy dependencies.
 
