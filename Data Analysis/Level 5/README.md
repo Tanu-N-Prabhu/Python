@@ -33,7 +33,7 @@ The aim of Level 5 is to **deepen your expertise** in specialized skills that el
 - Automate the creation of recurring reports using Python scripts.
 - Save reports in Excel or other formats for quick distribution.
 
-### 7. Cloud Tools (Google Sheets, BigQuery, etc.)
+### 7. [Cloud Tools (Google Sheets, BigQuery, etc.)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%205/cloud_tools_for_data_analysis.md)
 - Learn to connect your analysis workflows to cloud-hosted data.
 - Use APIs and connectors to work with live, collaborative datasets.
 
