@@ -9,7 +9,7 @@ The aim of Level 5 is to **deepen your expertise** in specialized skills that el
 
 ## Topics to Explore
 
-### 1. SQL for Analysts
+### 1. [SQL for Analysts](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%205/sql_for_analysts.ipynb)
 - Learn how to query, filter, group, and aggregate large datasets stored in relational databases.
 - Focus on SQL patterns useful for analysis: `JOIN`s, subqueries, window functions, and CTEs.
 
