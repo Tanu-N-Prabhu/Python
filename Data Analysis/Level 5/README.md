@@ -13,7 +13,7 @@ The aim of Level 5 is to **deepen your expertise** in specialized skills that el
 - Learn how to query, filter, group, and aggregate large datasets stored in relational databases.
 - Focus on SQL patterns useful for analysis: `JOIN`s, subqueries, window functions, and CTEs.
 
-### 2. Excel Power Tools
+### 2. [Excel Power Tools](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%205/excel_power_tools.md)
 - Use Excel's advanced features such as PivotTables, Power Query, and formulas for powerful, quick analysis.
 - Learn integration workflows between Excel and Python for automation.
 
