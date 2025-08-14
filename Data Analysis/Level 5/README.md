@@ -29,7 +29,7 @@ The aim of Level 5 is to **deepen your expertise** in specialized skills that el
 - Explore supervised and unsupervised learning basics.
 - Understand model training, evaluation, and prediction for beginner ML workflows.
 
-### 6. Reporting Automation (Python + Excel)
+### 6. [Reporting Automation (Python + Excel)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Analysis/Level%205/reporting_automation_with_python.ipynb)
 - Automate the creation of recurring reports using Python scripts.
 - Save reports in Excel or other formats for quick distribution.
 
