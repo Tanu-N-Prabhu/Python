@@ -194,17 +194,17 @@ _Go Beyond_
 
 
 ## Final Tips for the Road
-* Practice daily – 30 mins of consistent hands-on work > hours of reading
-* Share projects on GitHub: Clean, readable, and documented
-* Follow real analysts – LinkedIn, Medium, YouTube
-* Join communities – r/datascience, DataTalks Club, local meetups
-* Never stop exploring data – Every dataset tells a story!
+* **Practice daily**: 30 mins of consistent hands-on work > hours of reading
+* **Share projects on GitHub**: Clean, readable, and documented
+* **Follow real analysts**: LinkedIn, Medium, YouTube
+* **Join communities**: r/datascience, DataTalks Club, local meetups
+* **Never stop exploring data**: Every dataset tells a story!
 
 ---
 
 ## Contributing
 
-Do you have ideas, suggestions, or additional questions to share? Feel free to fork this repo and submit a pull request!
+Would you happen to have ideas, suggestions, or additional questions to share? Feel free to fork this repo and submit a pull request!
 
 ---
 
