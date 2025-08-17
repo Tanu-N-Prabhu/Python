@@ -3,7 +3,7 @@ name: Update Version History
 on:
   push:
     branches:
-      - main      # Change if needed
+      - master      # Change if needed
   workflow_dispatch: # optional manual run
 
 jobs:
