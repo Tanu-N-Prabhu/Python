@@ -590,6 +590,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
+- [HN] [FFmpeg moves to Forgejo](https://code.ffmpeg.org/FFmpeg/FFmpeg)
+- [HN] [Dev Compass – Programming Philosophy Quiz](https://treeform.github.io/devcompas/)
+- [HN] [Visualising how close random GUIDs come to being the same](https://www.guidsmash.com)
+- [Dev.to] [The Vibe Trap: How AI "Vibe Coding" is Quietly Undermining Junior Developers' Careers](https://dev.to/izmroen/the-vibe-trap-how-ai-vibe-coding-is-quietly-undermining-junior-developers-careers-3l2m) by izmroen
+- [Dev.to] [Secure, Self-Hosted AI Code Review Powered by Ollama](https://dev.to/shrsv/secure-self-hosted-ai-code-review-powered-by-ollama-2p55) by shrsv
 <!-- END_TRENDING -->
 
 ---
