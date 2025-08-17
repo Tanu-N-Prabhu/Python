@@ -1,61 +1,29 @@
 import subprocess
 import re
 
-
 VERSION_FILE = "VERSION_HISTORY.md"
+MAX_COMMITS = 20  # Number of recent commits to include (adjust as needed)
 
-def get_logged_versions():
-    """Return a list of already logged commit messages"""
-    try:
-        with open(VERSION_FILE, "r", encoding="utf-8") as f:
-            content = f.read()
-        # Extract commit messages from the table
-        return re.findall(r"\| [\d\.]+ \| (.+?) \|", content)
-    except FileNotFoundError:
-        return []
-
-def get_new_commits():
-    """Get commits that are not yet in VERSION_HISTORY.md"""
+def get_recent_commits(n=MAX_COMMITS):
+    """Fetch the last n commits from git, using the first line of each message"""
     try:
         result = subprocess.run(
-            ["git", "log", "--pretty=%B"], capture_output=True, text=True, check=True
+            ["git", "log", f"-n{n}", "--pretty=%B"], capture_output=True, text=True, check=True
         )
-        # Split commits by double newlines, take first line, strip spaces
-        all_commits = [c.strip().splitlines()[0] for c in result.stdout.strip().split("\n\n") if c.strip()]
-        logged = get_logged_versions()
-        # Only include commits not already logged, newest first
-        return [c for c in all_commits if c not in logged]
+        # Take first line of each commit message
+        commits = [c.strip().splitlines()[0] for c in result.stdout.strip().split("\n\n") if c.strip()]
+        return commits
     except Exception as e:
         print(f"Error fetching commits: {e}")
         return []
 
-def get_latest_version():
-    """Get the latest version number from file"""
-    try:
-        with open(VERSION_FILE, "r", encoding="utf-8") as f:
-            content = f.read()
-        match = re.findall(r"^\| (\d+\.\d+\.\d+) \|", content, re.M)
-        if match:
-            return match[0]  # top-most row is latest
-    except FileNotFoundError:
-        return None
-    return None
-
-def increment_version(version, count=1):
-    """Increment patch number by count"""
-    if version is None:
-        return f"1.0.{count}"
-    major, minor, patch = map(int, version.split("."))
-    patch += count
-    return f"{major}.{minor}.{patch}"
-
 def update_version_history():
-    new_commits = get_new_commits()
-    if not new_commits:
-        print("No new commits to log.")
+    commits = get_recent_commits()
+    if not commits:
+        print("No commits found.")
         return
 
-    latest_version = get_latest_version()
+    # Load existing content
     try:
         with open(VERSION_FILE, "r", encoding="utf-8") as f:
             content = f.read()
@@ -68,17 +36,31 @@ def update_version_history():
             "<!-- END_VERSION_HISTORY -->"
         )
 
-    # Add new commits to the top (newest first)
-    for i, commit_msg in enumerate(new_commits, start=1):
-        new_version = increment_version(latest_version, i)
-        new_line = f"| {new_version} | {commit_msg} |"
+    # Extract existing versions to determine latest version number
+    existing_versions = re.findall(r"^\| (\d+\.\d+\.\d+) \|", content, re.M)
+    latest_version = existing_versions[0] if existing_versions else None
+    version_counter = 1 if latest_version is None else int(latest_version.split('.')[-1]) + 1
+
+    # Remove duplicates (in case some commits are already logged)
+    logged_messages = re.findall(r"\| [\d\.]+ \| (.+?) \|", content)
+    new_commits = [c for c in commits if c not in logged_messages]
+
+    if not new_commits:
+        print("All commits are already logged.")
+        return
+
+    # Add new commits to the top
+    for commit_msg in reversed(new_commits):
+        new_line = f"| 1.0.{version_counter} | {commit_msg} |"
         content = re.sub(
             r"(\| Version \| Commit Message \|\n\|[-| ]+\|[-| ]+\|)",
             rf"\1\n{new_line}",
             content,
             flags=re.S
         )
+        version_counter += 1
 
+    # Write back to file
     with open(VERSION_FILE, "w", encoding="utf-8") as f:
         f.write(content)
 
