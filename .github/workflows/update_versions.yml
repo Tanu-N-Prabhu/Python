@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:   # <-- allows manual run
+
 
 jobs:
   update-version-history:
