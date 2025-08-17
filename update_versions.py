@@ -17,9 +17,11 @@ def get_new_commits():
     """Get commits that are not yet in VERSION_HISTORY.md"""
     try:
         result = subprocess.run(
-            ["git", "log", "--pretty=%s"], capture_output=True, text=True, check=True
+            ["git", "log", "--pretty=%B"], capture_output=True, text=True, check=True
         )
-        all_commits = result.stdout.strip().split("\n")
+
+        all_commits = [c.splitlines()[0].strip() for c in result.stdout.strip().split("\n\ncommit ")]
+
         logged = get_logged_versions()
         # Only return commits not already logged, newest first
         return [c for c in all_commits if c not in logged]
