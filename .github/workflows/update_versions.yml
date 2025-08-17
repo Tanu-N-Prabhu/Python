@@ -3,8 +3,8 @@ name: Update Version History
 on:
   push:
     branches:
-      - main      # Change if you use a different default branch
-  workflow_dispatch: # Allows manual run from Actions tab
+      - main      # Change if needed
+  workflow_dispatch: # optional manual run
 
 jobs:
   update-version-history:
@@ -19,10 +19,10 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Run update_versions.py
+      - name: Run version history updater
         run: python update_versions.py
 
-      - name: Commit & push changes
+      - name: Commit & push updated VERSION_HISTORY.md
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
