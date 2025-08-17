@@ -15,13 +15,13 @@ with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
 
 # Build new section
-new_section = "# Trending Tech Topics (Auto-updated daily)\n<!-- START_TRENDING -->\n"
+new_section = "## 🔥 Trending Tech Topics (Auto-updated daily)\n<!-- START_TRENDING -->\n"
 new_section += "\n".join(topics)
 new_section += "\n<!-- END_TRENDING -->"
 
 # Replace old section
 content = re.sub(
-    r"# Trending Tech Topics.*<!-- END_TRENDING -->",
+    r"## 🔥 Trending Tech Topics.*<!-- END_TRENDING -->",
     new_section,
     content,
     flags=re.S,
