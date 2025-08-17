@@ -3,6 +3,7 @@
 <!-- START_VERSION_HISTORY -->
 | Version | Commit Message |
 |---------|----------------|
+| 1.0.7 | Initialize automated version history table with existing commits in VERSION_HISTORY.md |
 | 1.0.6 | Add README with 20 most asked Python interview questions and answers |
 | 1.0.5 | Added Most asked Python Interview Questions to the table of contents in the Python Interview Folder. |
 | 1.0.4 | Fixed some minor typos in all the README.md files! |
