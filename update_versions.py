@@ -2,7 +2,7 @@ import subprocess
 import re
 
 VERSION_FILE = "VERSION_HISTORY.md"
-MAX_COMMITS = 20  # Number of recent commits to include (adjust as needed)
+MAX_COMMITS = 20  # Number of recent commits to check
 
 def get_recent_commits(n=MAX_COMMITS):
     """Fetch the last n commits from git, using the first line of each message"""
@@ -23,7 +23,7 @@ def update_version_history():
         print("No commits found.")
         return
 
-    # Load existing content
+    # Load existing content or create new table
     try:
         with open(VERSION_FILE, "r", encoding="utf-8") as f:
             content = f.read()
@@ -36,20 +36,20 @@ def update_version_history():
             "<!-- END_VERSION_HISTORY -->"
         )
 
-    # Extract existing versions to determine latest version number
+    # Extract existing versions to determine latest patch number
     existing_versions = re.findall(r"^\| (\d+\.\d+\.\d+) \|", content, re.M)
-    latest_version = existing_versions[0] if existing_versions else None
-    version_counter = 1 if latest_version is None else int(latest_version.split('.')[-1]) + 1
+    latest_patch = int(existing_versions[0].split('.')[-1]) if existing_versions else 0
+    version_counter = latest_patch + 1
 
-    # Remove duplicates (in case some commits are already logged)
+    # Remove duplicates (already logged commits)
     logged_messages = re.findall(r"\| [\d\.]+ \| (.+?) \|", content)
     new_commits = [c for c in commits if c not in logged_messages]
 
     if not new_commits:
-        print("All commits are already logged.")
+        print("All commits already logged.")
         return
 
-    # Add new commits to the top
+    # Add new commits to the top (newest first)
     for commit_msg in reversed(new_commits):
         new_line = f"| 1.0.{version_counter} | {commit_msg} |"
         content = re.sub(
@@ -60,7 +60,7 @@ def update_version_history():
         )
         version_counter += 1
 
-    # Write back to file
+    # Write updated table
     with open(VERSION_FILE, "w", encoding="utf-8") as f:
         f.write(content)
 
