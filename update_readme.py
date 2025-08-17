@@ -1,32 +1,56 @@
 import requests
+from bs4 import BeautifulSoup
 import re
 
-# Fetch trending repos (unofficial API)
-url = "https://ghapi.huchen.dev/repositories?since=daily"
-response = requests.get(url).json()
+TRENDING_URL = "https://github.com/trending"
 
-# Get top 5 trending
-topics = []
-for repo in response[:5]:
-    topics.append(f"- [{repo['name']}]({repo['url']}) ⭐ {repo['stars']} stars\n  {repo['description']}")
+def fetch_trending():
+    try:
+        html = requests.get(TRENDING_URL, timeout=10).text
+        soup = BeautifulSoup(html, "html.parser")
 
-# Read README
-with open("README.md", "r", encoding="utf-8") as f:
-    content = f.read()
+        topics = []
+        for repo in soup.find_all("article", class_="Box-row")[:5]:
+            # Repo name
+            a = repo.find("h2").find("a")
+            repo_name = a.text.strip().replace("\n", "").replace(" ", "")
+            repo_url = "https://github.com" + a["href"].strip()
 
-# Build new section
-new_section = "## 🔥 Trending Tech Topics (Auto-updated daily)\n<!-- START_TRENDING -->\n"
-new_section += "\n".join(topics)
-new_section += "\n<!-- END_TRENDING -->"
+            # Description
+            desc_tag = repo.find("p")
+            desc = desc_tag.text.strip() if desc_tag else "No description."
 
-# Replace old section
-content = re.sub(
-    r"## 🔥 Trending Tech Topics.*<!-- END_TRENDING -->",
-    new_section,
-    content,
-    flags=re.S,
-)
+            # Stars
+            stars_tag = repo.find("a", href=re.compile(r"/stargazers"))
+            stars = stars_tag.text.strip() if stars_tag else "0"
 
-# Save updated README
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(content)
+            topics.append(f"- [{repo_name}]({repo_url}) ⭐ {stars}\n  {desc}")
+
+        return topics
+    except Exception as e:
+        return [f"- Could not fetch trending repos today (Error: {e})"]
+
+def update_readme(topics):
+    # Read current README
+    with open("README.md", "r", encoding="utf-8") as f:
+        content = f.read()
+
+    # New section content
+    new_section = (
+        "## 🔥 Trending Tech Topics (Auto-updated daily)\n"
+        "<!-- START_TRENDING -->\n"
+        + "\n".join(topics)
+        + "\n<!-- END_TRENDING -->"
+    )
+
+    # Replace old section
+    pattern = r"## 🔥 Trending Tech Topics.*<!-- END_TRENDING -->"
+    updated_content = re.sub(pattern, new_section, content, flags=re.S)
+
+    # Save back
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.write(updated_content)
+
+if __name__ == "__main__":
+    trending_topics = fetch_trending()
+    update_readme(trending_topics)
