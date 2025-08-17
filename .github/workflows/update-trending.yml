@@ -3,7 +3,7 @@ name: Update Trending Topics
 on:
   schedule:
     - cron: "0 0 * * *"   # Runs every day at midnight UTC
-  workflow_dispatch:       # Allow manual trigger
+  workflow_dispatch:       # Manual trigger
 
 jobs:
   update-trending:
@@ -18,7 +18,7 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4
+        run: pip install requests
 
       - name: Run update script
         run: python update_readme.py
