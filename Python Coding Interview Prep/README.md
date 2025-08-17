@@ -39,7 +39,7 @@
 
 15. [Python Interview Questions with Answers for Tier 1 Companies](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Interview_Questions_Tier1.md)
 
-
+16. [Most Asked Python Interview Questions and Answers in 2025](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Interview_Questions.md)
 
 
 
