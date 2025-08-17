@@ -3,7 +3,7 @@ name: Update Trending Topics
 on:
   schedule:
     - cron: "0 0 * * *"   # Runs every day at midnight UTC
-  workflow_dispatch:       # Manual trigger
+  workflow_dispatch:       # Allow manual trigger
 
 jobs:
   update-trending:
@@ -17,8 +17,8 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install requests
-        run: pip install requests
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
 
       - name: Run update script
         run: python update_readme.py
@@ -28,5 +28,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Auto-update trending topics"
+          git commit -m "Auto-update trending topics" || echo "No changes to commit"
           git push
