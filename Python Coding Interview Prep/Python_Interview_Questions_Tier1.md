@@ -1,10 +1,13 @@
-# Python Interview Questions -- Tier 1 Companies
+# Python Interview Questions
+### Designed for Tier 1 Companies
+
+_**Written By**: Tanu Nanda Prabhu_
 
 This file contains 20 Python interview questions with answers and
-explanations.\
-Each section includes:\
-1. **Question**\
-2. **Python Solution (runnable in Colab)**\
+explanations.
+Each section includes:
+1. **Question**
+2. **Python Solution (runnable in Colab)**
 3. **Step-by-Step Explanation**
 
 ------------------------------------------------------------------------
@@ -17,7 +20,7 @@ reversed_s = s[::-1]
 print(reversed_s)  # Output: "olleh"
 ```
 
-**Explanation:**\
+**Explanation:**
 - `[::-1]` reverses the string.
 
 ------------------------------------------------------------------------
@@ -32,7 +35,7 @@ print(is_palindrome("madam"))  # True
 print(is_palindrome("hello"))  # False
 ```
 
-**Explanation:** Compare word with its reverse.
+**Explanation:** Compare the word with its reverse.
 
 ------------------------------------------------------------------------
 
@@ -272,5 +275,4 @@ print(duplicates)  # [2, 4]
 
 ------------------------------------------------------------------------
 
-✅ These 20 questions cover strings, lists, recursion, math, primes,
-anagrams, frequency, and arrays -- useful for Tier 1 Python interviews.
+> These 20 questions cover strings, lists, recursion, math, primes, anagrams, frequency, and arrays useful for Tier 1 Python interviews.
