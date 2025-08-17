@@ -15,7 +15,7 @@
 | 1.1.0 | 2025-08-12 | Added [Level 5](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/Level%205) Notebooks that comprised of SQL Introduction, Excel Power Tools, and Time Series Analysis.|
 | 1.1.1 | 2025-08-13 | Added multiple [Level 4](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/Level%204) project notebooks (Sales Analysis, Customer Segmentation, Product Usage, Financial Reporting, Campaign Performance) with datasets, explanations, and visualizations; wrote general README for Level 4.|
 | 1.1.2 | 2025-08-14 | Completed [Level 5](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/Level%205) content: added notebooks for Time Series Analysis, A/B Testing, Reporting Automation; wrote detailed READMEs for Introduction to ML, Cloud Tools, and final Level 5 overview. |
-| 1.1.3 | 2025-08-16 | Added 20 well-documented Python interview questions with solutions and explanations for [Tier 1 companies](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Interview_Questions_Tier1.md). |
+| 1.1.3 | 2025-08-16 | <ul><li>Added 20 well-documented Python interview questions with solutions and explanations for [Tier 1 companies](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Interview_Questions_Tier1.md).</li><li>Added 2 GitHub Workflows that display the time-stamp for changes and Trending Tech Topics (Auto-Updates)</li></ul> |
 
 
 
