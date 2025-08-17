@@ -1,4 +1,4 @@
-# Python Coding Interview Preparation 2024
+# Python Coding Interview Preparation 2025
 ## Last Minute Python Review
 | ![space-1.jpg](https://www.omadasearch.com/wp-content/uploads/2020/03/Interview.png) | 
 |:--:| 
@@ -37,6 +37,7 @@
 
 14. [Creating a Regular Polygon Visualizer Using Matplotlib in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Draw_polygon.ipynb)
 
+15. [Python Interview Questions with Answers for Tier 1 Companies](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Interview_Questions_Tier1.md)
 
 
 
@@ -44,5 +45,4 @@
 
 
 
-
-> Note - This page is dynamic, new content and snippets will be added every hour/day. Stay Tuned!
+> **Note:** This page is dynamic, with new content and snippets added every hour/day. Stay Tuned!
