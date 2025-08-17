@@ -1,6 +1,7 @@
 import subprocess
 import re
 
+
 VERSION_FILE = "VERSION_HISTORY.md"
 
 def get_logged_versions():
