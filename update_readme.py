@@ -1,41 +1,36 @@
 import requests
-from bs4 import BeautifulSoup
 import re
 
-TRENDING_URL = "https://github.com/trending"
+def fetch_hackernews(top_n=3):
+    """Fetch top Hacker News stories"""
+    url = "https://hacker-news.firebaseio.com/v0/topstories.json"
+    ids = requests.get(url, timeout=10).json()[:top_n]
 
-def fetch_trending():
-    try:
-        html = requests.get(TRENDING_URL, timeout=10).text
-        soup = BeautifulSoup(html, "html.parser")
+    topics = []
+    for i in ids:
+        story = requests.get(f"https://hacker-news.firebaseio.com/v0/item/{i}.json", timeout=10).json()
+        title = story.get("title", "No title")
+        link = story.get("url", f"https://news.ycombinator.com/item?id={i}")
+        topics.append(f"- [HN] [{title}]({link})")
+    return topics
 
-        topics = []
-        for repo in soup.find_all("article", class_="Box-row")[:5]:
-            # Repo name
-            a = repo.find("h2").find("a")
-            repo_name = a.text.strip().replace("\n", "").replace(" ", "")
-            repo_url = "https://github.com" + a["href"].strip()
+def fetch_devto(top_n=2):
+    """Fetch top Dev.to articles"""
+    url = f"https://dev.to/api/articles?top=1&per_page={top_n}"
+    articles = requests.get(url, timeout=10).json()
 
-            # Description
-            desc_tag = repo.find("p")
-            desc = desc_tag.text.strip() if desc_tag else "No description."
-
-            # Stars
-            stars_tag = repo.find("a", href=re.compile(r"/stargazers"))
-            stars = stars_tag.text.strip() if stars_tag else "0"
-
-            topics.append(f"- [{repo_name}]({repo_url}) ⭐ {stars}\n  {desc}")
-
-        return topics
-    except Exception as e:
-        return [f"- Could not fetch trending repos today (Error: {e})"]
+    topics = []
+    for article in articles:
+        title = article.get("title", "No title")
+        link = article.get("url", "")
+        username = article.get("user", {}).get("username", "unknown")
+        topics.append(f"- [Dev.to] [{title}]({link}) by {username}")
+    return topics
 
 def update_readme(topics):
-    # Read current README
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
 
-    # New section content
     new_section = (
         "## 🔥 Trending Tech Topics (Auto-updated daily)\n"
         "<!-- START_TRENDING -->\n"
@@ -43,14 +38,13 @@ def update_readme(topics):
         + "\n<!-- END_TRENDING -->"
     )
 
-    # Replace old section
     pattern = r"## 🔥 Trending Tech Topics.*<!-- END_TRENDING -->"
     updated_content = re.sub(pattern, new_section, content, flags=re.S)
 
-    # Save back
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(updated_content)
 
 if __name__ == "__main__":
-    trending_topics = fetch_trending()
-    update_readme(trending_topics)
+    hn_topics = fetch_hackernews(3)
+    devto_topics = fetch_devto(2)
+    update_readme(hn_topics + devto_topics)
