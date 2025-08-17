@@ -19,9 +19,8 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Tanu-N-Prabhu/Python)
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
-[![Version](https://img.shields.io/badge/version-1.1.3-maroon?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Aug 17, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i><a href = "https://github.com/Tanu-N-Prabhu/Python/blob/master/VERSION_HISTORY.md">Last updated</a></i></b>: <!-- LAST_UPDATED -->Aug 17, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
