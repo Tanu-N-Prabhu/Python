@@ -3,15 +3,15 @@ name: Update Version History
 on:
   push:
     branches:
-      - main
-  workflow_dispatch:   # <-- allows manual run
-
+      - main      # Change if you use a different default branch
+  workflow_dispatch: # Allows manual run from Actions tab
 
 jobs:
   update-version-history:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Set up Python
@@ -19,10 +19,10 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Run version update script
+      - name: Run update_versions.py
         run: python update_versions.py
 
-      - name: Commit & Push changes
+      - name: Commit & push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
