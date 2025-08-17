@@ -1,0 +1,32 @@
+name: Update Trending Topics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs every day at midnight UTC
+  workflow_dispatch:       # Manual trigger
+
+jobs:
+  update-trending:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Run update script
+        run: python update_readme.py
+
+      - name: Commit & Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Auto-update trending topics"
+          git push
