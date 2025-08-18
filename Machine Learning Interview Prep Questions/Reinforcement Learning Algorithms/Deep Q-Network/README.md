@@ -89,5 +89,5 @@ As training progresses, rewards increase as the agent gets better.
 
 ## References
 
--   [DeepMind DQN Paper](2015)](https://www.nature.com/articles/nature14236)\
+-   [DeepMind DQN Paper (2015)](https://www.nature.com/articles/nature14236)
 -   [OpenAI Gym](https://www.gymlibrary.dev/)
