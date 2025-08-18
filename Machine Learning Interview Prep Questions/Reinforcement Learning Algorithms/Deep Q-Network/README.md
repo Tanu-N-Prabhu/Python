@@ -8,7 +8,7 @@ This project demonstrates a **Deep Q-Network (DQN)** applied to the
 ## What is DQN?
 
 Deep Q-Network (DQN) is a reinforcement learning algorithm that uses a
-**neural network** to approximate the Q-function.\
+**neural network** to approximate the Q-function.
 It combines Q-Learning with deep learning to handle large and complex
 state spaces.
 
@@ -27,8 +27,8 @@ state spaces.
         the best known action).
 4.  **Experience Replay**
     -   Stores experiences (state, action, reward, next_state, done) in
-        memory.\
-    -   Randomly samples mini-batches to break correlation between
+        memory.
+    -   Randomly samples mini-batches to break the correlation between
         consecutive experiences.
 5.  **Target Network**
     -   A copy of the Q-network that updates slowly for stability.
@@ -37,13 +37,13 @@ state spaces.
 
 ## How Training Works
 
-1.  Initialize Q-network and target network.\
+1.  Initialize Q-network and target network.
 2.  For each episode:
-    -   Start at the initial state.\
-    -   Choose actions using epsilon-greedy policy.\
-    -   Store experiences in memory.\
-    -   Train the Q-network using mini-batches.\
-    -   Occasionally update the target network.\
+    -   Start at the initial state.
+    -   Choose actions using epsilon-greedy policy.
+    -   Store experiences in memory.
+    -   Train the Q-network using mini-batches.
+    -   Occasionally update the target network.
 3.  Repeat until the agent learns to balance the pole.
 
 ------------------------------------------------------------------------
@@ -60,8 +60,8 @@ pip install torch gym numpy matplotlib
 
 ## Running the Code
 
-1.  Open the notebook.\
-2.  Run all cells in order.\
+1.  Open the notebook.
+2.  Run all cells in order.
 3.  Watch the agent learn to balance the pole over episodes.
 
 ------------------------------------------------------------------------
@@ -79,9 +79,9 @@ As training progresses, rewards increase as the agent gets better.
 
 ## Why DQN is Important?
 
--   Solves environments with large/continuous states.\
+-   Solves environments with large/continuous states.
 -   Forms the foundation for advanced RL methods (Double DQN, Dueling
-    DQN, etc.).\
+    DQN, etc.).
 -   Widely used in robotics, games (Atari, Go), and decision-making
     systems.
 
@@ -89,6 +89,5 @@ As training progresses, rewards increase as the agent gets better.
 
 ## References
 
--   [DeepMind DQN Paper
-    (2015)](https://www.nature.com/articles/nature14236)\
+-   [DeepMind DQN Paper](2015)](https://www.nature.com/articles/nature14236)\
 -   [OpenAI Gym](https://www.gymlibrary.dev/)
