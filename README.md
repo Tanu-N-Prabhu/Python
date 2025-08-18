@@ -20,7 +20,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i><a href = "https://github.com/Tanu-N-Prabhu/Python/blob/master/VERSION_HISTORY.md">Last updated</a></i></b>: <!-- LAST_UPDATED -->Aug 17, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i><a href = "https://github.com/Tanu-N-Prabhu/Python/blob/master/VERSION_HISTORY.md">Last updated</a></i></b>: <!-- LAST_UPDATED -->Aug 18, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,10 +591,10 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
 - [10 Latest GitHub Repos for AI Engineers in 2025](https://dev.to/forgecode/10-latest-github-repos-for-ai-engineers-in-2025-54b1)
-- [The Vibe Trap: How AI "Vibe Coding" is Quietly Undermining Junior Developers' Careers](https://dev.to/izmroen/the-vibe-trap-how-ai-vibe-coding-is-quietly-undermining-junior-developers-careers-3l2m)
 - [It's the ideal time to start building your AI business, even if you don't come from a tech background. Your vision and idea will override all educational qualifications.](https://dev.to/jaideepparashar/its-the-ideal-time-to-start-building-your-ai-business-even-if-you-dont-come-from-a-tech-3g5k)
-- [Secure, Self-Hosted AI Code Review Powered by Ollama](https://dev.to/shrsv/secure-self-hosted-ai-code-review-powered-by-ollama-2p55)
 - [AI for Non-Tech Founders: Start Here](https://dev.to/jaideepparashar/ai-for-non-tech-founders-start-here-j6c)
+- [Why Join Exponent for Coding Interview Prep?](https://dev.to/somadevtoo/why-join-exponent-for-coding-interview-prep-31li)
+- [How to Use Blade Icons in Laravel Projects](https://dev.to/masumparvej/how-to-use-blade-icons-in-laravel-projects-3ga9)
 <!-- END_TRENDING -->
 
 ---
