@@ -41,7 +41,7 @@
 
 16. [Most Asked Python Interview Questions and Answers in 2025](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Interview_Questions.md)
 
-
+17. [Advanced Python Interview Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Advanced_Python_Interview_Questions.md)
 
 
 
