@@ -19,7 +19,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Aug 22, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Aug 23, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -589,11 +589,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Document Parsing using GPT-4o API vs Claude Sonnet 3.5 API vs Invofox API (with Code Samples)](https://dev.to/anmolbaranwal/document-parsing-using-gpt-4o-api-vs-claude-sonnet-35-api-vs-invofox-api-with-code-samples-56h2)
-- [Documentation That Scales: Building Knowledge Systems for Growing Dev Agencies](https://dev.to/teamcamp/documentation-that-scales-building-knowledge-systems-for-growing-dev-agencies-5685)
-- [Congrats to the Redis AI Challenge Winners!](https://dev.to/devteam/congrats-to-the-redis-ai-challenge-winners-2f2j)
-- [Ghost 6 IS Really Something Else!](https://dev.to/alifar/ghost-6-is-really-something-else-46jj)
-- [Congrats to the World's Largest Hackathon Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-worlds-largest-hackathon-writing-challenge-winners-4fa3)
+- [My 2025 Roundup of Must-Know MCP Servers](https://dev.to/therealmrmumba/my-2025-roundup-of-must-know-mcp-services-3146)
+- [How We Crushed Traditional Dev Teams: The Spotify Model That Boosted Our Velocity 89%](https://dev.to/teamcamp/how-we-crushed-traditional-dev-teams-the-spotify-model-that-boosted-our-velocity-89-4ojb)
+- [How to display different images for GitHub light mode and dark mode](https://dev.to/srbhr/how-to-display-different-images-for-github-light-mode-and-dark-mode-edg)
+- [I Built a LinkedIn Job Scraper Because Manual Job Hunting is Pain](https://dev.to/astha_jhawar_f1891a37e168/i-built-a-linkedin-job-scraper-because-manual-job-hunting-is-pain-49j6)
+- [90% people make vague prompts and are not using the full capacity of ChatGPT. ChatGPT has the capabilities to help the entire devops community, whether you are looking new idea, a creative approach, or a sustainable solution.](https://dev.to/jaideepparashar/90-people-make-vague-prompts-and-are-not-using-the-full-capacity-of-chatgpt-chatgpt-has-the-252h)
 <!-- END_TRENDING -->
 
 ---
