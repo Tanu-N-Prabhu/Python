@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Sep 06, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Sep 07, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Top 10 Free Frontend UI Libraries & Frameworks for Developers in 2025](https://dev.to/therealmrmumba/top-10-free-frontend-ui-libraries-frameworks-for-developers-in-2025-3h20)
-- [Weekly Code Reviews: How a 15-Minute Friday Habit Can 3x Your Development Speed](https://dev.to/teamcamp/weekly-code-reviews-how-a-15-minute-friday-habit-can-3x-your-development-speed-1l96)
-- [[AutoBE Hackathon] AI Chatbot generating Backend Applilcation with AI Compilers ($6,400 Prize Pool)](https://dev.to/samchon/autobe-hackathon-ai-chatbot-generating-backend-applilcation-with-ai-compilers-6400-prize-pool-3nob)
-- [Is Open Banking Built To Last?](https://dev.to/flutterwaveeng/is-open-banking-built-to-last-487j)
-- [30-Second Git Commits: The Micro-Habit That Saved Me 10 Hours Per Week](https://dev.to/teamcamp/30-second-git-commits-the-micro-habit-that-saved-me-10-hours-per-week-4p85)
+- [The 2-Minute Rule for Technical Debt Cleanup: Why Small Daily Fixes Beat Monthly Sprints](https://dev.to/teamcamp/the-2-minute-rule-for-technical-debt-cleanup-why-small-daily-fixes-beat-monthly-sprints-24ea)
+- [Understanding the Difference Between package.json and package-lock.json](https://dev.to/izmroen/understanding-the-difference-between-packagejson-and-package-lockjson-3ee7)
+- [How to Set Up a Jenkins CI/CD Pipeline (Step-by-Step Guide)](https://dev.to/therealmrmumba/how-to-set-up-a-jenkins-cicd-pipeline-step-by-step-guide-5eme)
+- [How to Create AI-Powered Dashboards with ChatGPT + Excel](https://dev.to/jaideepparashar/how-to-create-ai-powered-dashboards-with-chatgpt-excel-3mb0)
+- [How to Create & Self-Publish a Children's Book on Amazon KDP Using AI (Step-by-Step Guide)](https://dev.to/nitinfab/how-to-create-self-publish-a-childrens-book-on-amazon-kdp-using-ai-step-by-step-guide-ghk)
 <!-- END_TRENDING -->
 
 ---
