@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Sep 14, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Sep 15, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [From Code to Connections: How Smart Developers Build Their Professional Network](https://dev.to/bearconnectio/from-code-to-connections-how-smart-developers-build-their-professional-network-4lfk)
-- [Top 11 Document Parsing AI Tools for developers in 2025](https://dev.to/anmolbaranwal/top-11-document-parsing-ai-tools-for-developers-in-2025-4m6a)
-- [AI Assistants and Data Privacy: Who Trains on Your Data, Who Doesn’t](https://dev.to/alifar/ai-assistants-and-data-privacy-who-trains-on-your-data-who-doesnt-njj)
-- [The Hardest Decision I Ever Made in Business](https://dev.to/jaideepparashar/the-hardest-decision-i-ever-made-in-business-5996)
-- [🎭How to test Next.js SSR API (Playwright + MSW) Part 2 Parallel test🎭](https://dev.to/webdeveloperhyper/how-to-test-nextjs-ssr-api-playwright-msw-part-2-parallel-test-3akj)
+- [🤖 RapidRelief Disaster Recovery Assistant AI 2025: 5X Faster Damage Assessment & Rescue Guide ⚠️🛟](https://dev.to/sharafon/rapidrelief-ai-2025-5x-faster-damage-assessment-rescue-guide-2lf9)
+- [Qwen Code Just Got Smarter: Key Features in v0.0.10 & v0.0.11](https://dev.to/therealmrmumba/qwen-code-just-got-smarter-key-features-in-v0010-v0011-4j5h)
+- [How We Built An AI-Assisted Dependency Vulnerability Scanner](https://dev.to/mahil_patel/how-we-built-an-ai-assisted-dependency-vulnerability-scanner-5270)
+- [Iris- Your AI Interviewer(Audio+ Visual+ Live Cam+ Feedback)🎙️📹✨](https://dev.to/shreya111111/iris-your-ai-intervieweraudio-visual-live-cam-feedback-4nl2)
+- [7 Prompts to Supercharge Your LinkedIn Strategy](https://dev.to/jaideepparashar/7-prompts-to-supercharge-your-linkedin-strategy-53dh)
 <!-- END_TRENDING -->
 
 ---
