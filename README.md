@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Sep 17, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Sep 18, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Here's How To Build Fullstack Agent Apps (Gemini, CopilotKit & LangGraph)](https://dev.to/copilotkit/heres-how-to-build-fullstack-agent-apps-gemini-copilotkit-langgraph-15jb)
-- [The 5-Minute Daily Code Cleanup: How One Small Habit Doubled My Bug-Free Deployments](https://dev.to/teamcamp/the-5-minute-daily-code-cleanup-how-one-small-habit-doubled-my-bug-free-deployments-lil)
-- [Required Skills to Master as a Project Manager](https://dev.to/marksantiago02/required-skills-to-master-as-a-project-manager-5211)
-- [Beginner’s Guide for "Replace Non-Coprime Numbers in Array" (LeetCode 2197) with C++, JavaScript & Python Code](https://dev.to/om_shree_0709/beginners-guide-for-replace-non-coprime-numbers-in-array-leetcode-2197-with-c-javascript--218k)
-- [X-Ray for Agents: Observability & Safe Tooling with MintMCP](https://dev.to/om_shree_0709/x-ray-for-agents-observability-safe-tooling-with-mintmcp-4ogl)
+- [Orchestrating Real-World Agent Workflows with MCP](https://dev.to/om_shree_0709/orchestrating-real-world-agent-workflows-with-mcp-jm2)
+- [What's the Importance of Collaboration in DevOps](https://dev.to/addwebsolutionpvtltd/whats-the-importance-of-collaboration-in-devops-28a7)
+- [21 native browser APIs you might not have used before](https://dev.to/lingodotdev/21-native-browser-apis-you-might-not-have-used-before-1nbp)
+- [Major Tech News of September 16, 2025](https://dev.to/om_shree_0709/major-tech-news-of-september-16-2025-3h19)
+- [5 Mistakes Businesses Make When Adopting AI](https://dev.to/jaideepparashar/5-mistakes-businesses-make-when-adopting-ai-4dgm)
 <!-- END_TRENDING -->
 
 ---
