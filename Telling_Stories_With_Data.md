@@ -1,6 +1,8 @@
 # Telling Stories With Data
 ## Coffee shop example
 
+<p align = "right">Written by Tanu Nanda Prabhu</p>
+
 | ![space-1.jpg](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*1IZOp7ZwGWmiRD5-) | 
 |:--:| 
 | Photo by [Nathan Dumlao](https://unsplash.com/@nate_dumlao?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)|
@@ -56,3 +58,80 @@ df
 > This will give you the clean table of data inside your notebook. Say thanks to Dataframe!
 
 ---
+
+## What days are the busiest (coffee sales)?
+You may take some time and calculate this by yourself, but why so much hassle when you have the libraries and their functions that do the same? Always remember, time efficiency matters the most!
+
+```python
+busiest_day = df.loc[df["Coffee Sold"].idxmax()]
+busiest_day
+```
+
+### Output
+
+| ![space-1.jpg](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*R_e2WAVDeiqSCEapbk940A.png) | 
+|:--:| 
+|Busiest day of the week in terms of sales|
+
+### Answer
+> Friday is the busiest day, with 130 cups of coffee sold. It makes sense; the weekend is near, and people fuel up and have money to spend!
+
+---
+
+## Do pastries sell more on weekends or weekdays?
+What do you think? Let me know your answers in the comment section below before executing the code. I would say it's the weekend, because it makes sense logically that people have more time and no restrictions. Let's see what our function tells us.
+
+```python
+# Calculate totals
+weekday_pastries = df.loc[df["Day"].isin(["Monday","Tuesday","Wednesday","Thursday","Friday"]), "Pastries Sold"].sum()
+weekend_pastries = df.loc[df["Day"].isin(["Saturday","Sunday"]), "Pastries Sold"].sum()
+
+weekday_pastries, weekend_pastries
+```
+
+### Output
+
+```python
+(np.int64(230), np.int64(135))
+```
+
+### Answer
+> Weekends win!
+> Weekday pastries sold = 230
+
+_People treat themselves to pastries on weekends more than on weekdays. Am I right or wrong?)_
+
+---
+
+## What day has the highest revenue?
+Obviously, it’s easy to tell the answer to this question. What if there are over a few hundred thousand entries? That’s why you get used to using Dataframes. It will save so much of your time and make you look cool in front of your non-tech friends. Try it out; it works.
+
+```python
+highest_revenue = df.loc[df["Revenue ($)"].idxmax()]
+highest_revenue
+```
+
+### Output
+
+| ![space-1.jpg](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*ysolIHHUwK7U-W9xKJXj4w.png) | 
+|:--:| 
+|Busiest day in terms of sales in a week|
+
+### Answer
+Friday again! With $940 in revenue, it’s the most profitable day.
+
+---
+
+## Key Takeaways
+To summarize
+
+- Friday is the busiest coffee day of the week, and it brings the highest revenue. Also on Friday, the shop sold 130 cups of coffee.
+- Pastries shine on weekends. More people = More revenue (More = More).
+- Even with a tiny dataset, we can already see patterns and tell stories.
+
+---
+
+## Conclusion
+This small exercise shows how Data Science isn’t just about numbers; it’s about uncovering insights and telling stories that matter. Whether you’re running a coffee shop or analyzing millions of rows of customer data, the principles remain the same: ask questions, explore data, and let the story unfold. This is the end. Let me know if you have any extraordinary ideas or solutions for any dataset. I’m all ears. I hope you guys had fun reading my article. Until then, see you next time. Happy data exploring!
+
+
