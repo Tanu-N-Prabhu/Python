@@ -1,11 +1,14 @@
 # Advanced Python Interview Questions and Answers
+_September 21, 2025_
 
 This document contains **25 advanced-level Python interview questions with detailed answers**.  
 You can use it to prepare for technical interviews or as reference material.
 
+<p align = "right"><i>Written By Tanu Nanda Prabhu</i></p>
+
 ---
 
-## 1. What are Python descriptors and how do they work?
+## 1. What are Python descriptors, and how do they work?
 
 **Answer:**  
 Descriptors are objects that define how attribute access is interpreted by overriding methods like `__get__`, `__set__`, and `__delete__`.  
