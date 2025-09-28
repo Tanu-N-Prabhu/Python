@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Sep 27, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Sep 28, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Top 10 Codex CLI Tips Every Developer Should Know](https://dev.to/therealmrmumba/top-10-codex-cli-tips-every-developer-should-know-2340)
-- [The 5-3-1 Code Review Rule: Senior Developer's Guide to Quality Control](https://dev.to/teamcamp/the-5-3-1-code-review-rule-senior-developers-guide-to-quality-control-4b5h)
-- [⚡Here Are 5 GitHub Projects Too Cool to Miss](https://dev.to/dev_kiran/here-are-5-github-projects-too-cool-to-miss-198l)
-- [Top 10 JavaScript Frameworks That Will Rule 2026](https://dev.to/coco_junk_e2afc9395cfe1f0/top-10-javascript-frameworks-that-will-rule-2026-5k5)
-- [Top Automation Scripts Every Python Developer Needs in 2026](https://dev.to/snappy_tuts/top-automation-scripts-every-python-developer-needs-in-2026-4d2f)
+- [AI powered Code compiler, viewer, editor and enhancer](https://dev.to/girishlade/ai-powered-code-compiler-viewer-editor-and-enhancer-46h3)
+- [Breaking down the text barrier of LLM chatbots with KendoReact and MCP-UI](https://dev.to/hichamelbsi/breaking-down-the-text-barrier-of-llm-chatbots-with-kendoreact-and-mcp-ui-1ico)
+- [How AI Helps Me Learn New Frameworks Faster](https://dev.to/jaideepparashar/how-ai-helps-me-learn-new-frameworks-faster-16fc)
+- [For developers, learning a new framework often feels like starting from scratch. Here is my exact framework to cut your learning time in half... with more creativity, you can cut your learning time even more!](https://dev.to/jaideepparashar/for-developers-learning-a-new-framework-often-feels-like-starting-from-scratch-here-is-my-exact-19en)
+- [💪🧠How to Boost your Brain for Free (Muscle Brain)](https://dev.to/webdeveloperhyper/how-to-boost-your-brain-for-free-muscle-brain-534h)
 <!-- END_TRENDING -->
 
 ---
