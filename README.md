@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 01, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 02, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,13 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Comparing Qodo and Cursor 🕵️](https://dev.to/dev_kiran/comparing-qodo-and-cursor-3mm)
-- [Git Branches: How Teams Build Features Without Breaking Each Other’s Code](https://dev.to/swathi_macha/git-branches-how-teams-build-features-without-breaking-each-others-code-3364)
-- [AI Agents for CRM Integrations: Pipedrive, HubSpot, and Airtable Compared](https://dev.to/alifar/ai-agents-for-crm-integrations-pipedrive-hubspot-and-airtable-compared-kle)
-- [The 3-Tool Rule: How Senior Devs Eliminate Tool Switching and Boost Focus Time](https://dev.to/teamcamp/the-3-tool-rule-how-senior-devs-eliminate-tool-switching-and-boost-focus-time-4a8f)
-- [MarketSentry: Professional Financial Dashboard with KendoReact Components](https://dev.to/abhinandan-r/marketsentry-professional-financial-dashboard-with-kendoreact-components-pgm)
+- [🎃 Spotlight your projects and contributions as you go: 2025 Hacktoberfest Writing Challenge is now live!](https://dev.to/devteam/spotlight-your-projects-and-contributions-as-you-go-2025-hacktoberfest-writing-challenge-is-now-1412)
+- [How Joshua Lintz and Talentcrowd Were Involved in Defrauding the United States Government](https://dev.to/thearmi/how-joshua-lintz-and-talentcrowd-were-involved-in-defrauding-the-united-states-government-16p9)
+- [How Developers Can Automate GitHub Wins on LinkedIn in 2025](https://dev.to/bearconnectio/how-developers-can-automate-github-wins-on-linkedin-in-2025-57cj)
+- [Nothing like waking up to a bot attack.
+
+Can't they at least wait til I've had my coffee?](https://dev.to/ben/nothing-like-waking-up-to-a-bot-attackcant-they-at-least-wait-til-ive-had-my-coffee-228j)
+- [How California Attorney Scott R. Carpenter Abuses His State Bar License To Help Clients Commit Crimes](https://dev.to/marcusquinn05/how-california-attorney-scott-r-carpenter-abuses-his-state-bar-license-to-help-clients-commit-99g)
 <!-- END_TRENDING -->
 
 ---
