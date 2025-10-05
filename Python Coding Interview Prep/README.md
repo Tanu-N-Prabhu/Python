@@ -47,4 +47,7 @@
 
 19. [Advanced Python Interview Questions and Answers](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Advanced_Python_Interview_Questions.md)
 
+20. [Python Engineering Design Principles](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Engineering_Design_Principles.md)
+
+
 > **Note:** This page is dynamic, with new content and snippets added every hour/day. Stay Tuned!
