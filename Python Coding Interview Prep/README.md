@@ -45,5 +45,6 @@
 
 18. [Core Level Python Interview Questions - Sept 2025](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/python_advanced_interview_questions_sept21.md)
 
+19. [Advanced Python Interview Questions and Answers](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Advanced_Python_Interview_Questions.md)
 
 > **Note:** This page is dynamic, with new content and snippets added every hour/day. Stay Tuned!
