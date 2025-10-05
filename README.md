@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 04, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 05, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Preloading the DEV (and Forem) home feed and sidebar for substantial performance benefits](https://dev.to/devteam/preloading-the-dev-and-forem-home-feed-and-sidebar-for-substantial-performance-benefits-2cg8)
-- [🤯 Ultimate DEV Vault: 600+ Resources That Every Developer Needs 🎉 🤯🤯](https://dev.to/aquascript-team/ultimate-dev-vault-600-resources-that-every-developer-needs-3869)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4835)
-- [🏈⚽🏀 Hacktoberfest, from Side Project to Pro Sports: Contribute to a Library Used by NBA, NFL & Premier League Coaches](https://dev.to/hichamelbsi/from-side-project-to-pro-sports-contribute-to-a-library-used-by-nba-nfl-premier-league-1hna)
-- [From Beginner to Backend Developer: My Almost 1-Year Journey](https://dev.to/the_duchess_of_hackers/from-beginner-to-backend-developer-my-almost-1-year-journey-43dh)
+- [How I Use AI to Manage Version Control & Git Workflows](https://dev.to/jaideepparashar/how-i-use-ai-to-manage-version-control-git-workflows-bf3)
+- [Git is powerful, but it’s also a pain point for many developers. Here is how I use ChatGPT to manage my Git Workflows:](https://dev.to/jaideepparashar/git-is-powerful-but-its-also-a-pain-point-for-many-developers-here-is-how-i-use-chatgpt-to-44g8)
+- [🚀 We’re New Here on Dev.to — Hello from We The Developers!](https://dev.to/we-the-developers/were-new-here-on-devto-hello-from-we-the-developers-3i65)
+- [How Machines Learn: Understanding the Core Concepts of Neural Networks](https://dev.to/programmerraja/how-machines-learn-understanding-the-core-concepts-of-neural-networks-3a9j)
+- [AWS Cloud Club Captain Life Hacks: How I Survived Final Year Without Losing My Mind (Much)](https://dev.to/labeeq_ahmed_95befd51911e/aws-cloud-club-captain-life-hacks-how-i-survived-final-year-without-losing-my-mind-much-4ipe)
 <!-- END_TRENDING -->
 
 ---
