@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 05, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 06, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [How I Use AI to Manage Version Control & Git Workflows](https://dev.to/jaideepparashar/how-i-use-ai-to-manage-version-control-git-workflows-bf3)
-- [Git is powerful, but it’s also a pain point for many developers. Here is how I use ChatGPT to manage my Git Workflows:](https://dev.to/jaideepparashar/git-is-powerful-but-its-also-a-pain-point-for-many-developers-here-is-how-i-use-chatgpt-to-44g8)
-- [🚀 We’re New Here on Dev.to — Hello from We The Developers!](https://dev.to/we-the-developers/were-new-here-on-devto-hello-from-we-the-developers-3i65)
-- [How Machines Learn: Understanding the Core Concepts of Neural Networks](https://dev.to/programmerraja/how-machines-learn-understanding-the-core-concepts-of-neural-networks-3a9j)
-- [AWS Cloud Club Captain Life Hacks: How I Survived Final Year Without Losing My Mind (Much)](https://dev.to/labeeq_ahmed_95befd51911e/aws-cloud-club-captain-life-hacks-how-i-survived-final-year-without-losing-my-mind-much-4ipe)
+- [Why We Built Meku? Rethinking How Developers Turn Ideas Into Apps](https://dev.to/meku/why-we-built-meku-rethinking-how-developers-turn-ideas-into-apps-3dj6)
+- [From Cloud Curious to Silver Captain✨](https://dev.to/shreya_sherikar18/from-cloud-curious-to-silver-captain-1d9i)
+- [Implementing OWIN Authentication and roles for AppService in ASP.NET Framework](https://dev.to/davidshaek/implementing-owin-authentication-and-roles-for-appservice-in-aspnet-framework-33og)
+- [🚀 1000+ Public APIs That Every Developer Should Use ✨](https://dev.to/we-the-developers/1000-public-apis-that-every-developer-should-use-1kk6)
+- [Scaling Projects: How AI Transforms DevOps & Continuous Integration](https://dev.to/jaideepparashar/scaling-projects-how-ai-transforms-devops-continuous-integration-45p)
 <!-- END_TRENDING -->
 
 ---
