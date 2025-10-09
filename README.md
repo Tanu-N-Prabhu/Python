@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 08, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 09, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [15 Best Remote Collaboration Tools to Supercharge Your Team in 2025](https://dev.to/teamcamp/15-best-remote-collaboration-tools-to-supercharge-your-team-in-2025-22da)
-- [AI Code Assistants Are Making Developers Lazy (And That's Actually Good)](https://dev.to/teamcamp/ai-code-assistants-are-making-developers-lazy-and-thats-actually-good-50cj)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-cen)
-- [Build Your First (or Next) MCP Server with the TypeScript MCP Template](https://dev.to/nickytonline/build-your-first-or-next-mcp-server-with-the-typescript-mcp-template-3k3f)
-- [Web Accessibility for Startups: 5 Small Wins That Scale](https://dev.to/palakjain21/web-accessibility-for-startups-5-small-wins-that-scale-3jp6)
+- [How to Make Agents Talk to Each Other (and Your App) Using A2A + AG-UI](https://dev.to/copilotkit/how-to-make-agents-talk-to-each-other-and-your-app-using-a2a-ag-ui-4amo)
+- [Join the Auth0 for AI Agents Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-auth0-for-ai-agents-challenge-3000-in-prizes-11gi)
+- [Vibe Coding Meets AI Testing - How I Ship With Confidence](https://dev.to/qatech/vibe-coding-meets-ai-testing-how-i-ship-with-confidence-k81)
+- [How to Use ChatGPT to Build AI Voice Agents Effectively](https://dev.to/marksantiago02/how-to-use-chatgpt-to-build-ai-voice-agents-effectively-jd9)
+- [Automated Server Provisioning: A DevOps Framework for Enterprise Scale](https://dev.to/marksantiago02/automated-server-provisioning-a-devops-framework-for-enterprise-scale-peb)
 <!-- END_TRENDING -->
 
 ---
