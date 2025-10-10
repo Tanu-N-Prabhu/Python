@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 09, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 10, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [How to Make Agents Talk to Each Other (and Your App) Using A2A + AG-UI](https://dev.to/copilotkit/how-to-make-agents-talk-to-each-other-and-your-app-using-a2a-ag-ui-4amo)
-- [Join the Auth0 for AI Agents Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-auth0-for-ai-agents-challenge-3000-in-prizes-11gi)
-- [Vibe Coding Meets AI Testing - How I Ship With Confidence](https://dev.to/qatech/vibe-coding-meets-ai-testing-how-i-ship-with-confidence-k81)
-- [How to Use ChatGPT to Build AI Voice Agents Effectively](https://dev.to/marksantiago02/how-to-use-chatgpt-to-build-ai-voice-agents-effectively-jd9)
-- [Automated Server Provisioning: A DevOps Framework for Enterprise Scale](https://dev.to/marksantiago02/automated-server-provisioning-a-devops-framework-for-enterprise-scale-peb)
+- [Junie Starter’s Pack: AI Coding Agent Explained](https://dev.to/jetbrains/junie-starters-pack-ai-coding-agent-explained-2hjf)
+- [11+ Best All-in-One AI Platforms for Developers and Teams](https://dev.to/vinishbhaskar/11-best-all-in-one-ai-platforms-for-developers-and-teams-319l)
+- [From Zero to 373 Days: How Daily LeetCode Challenges Transformed My Programming Journey 🔥](https://dev.to/hadil/from-zero-to-373-days-how-daily-leetcode-challenges-transformed-my-programming-journey-47o9)
+- [Congrats to the latest KendoReact Free Components Challenge Winners!](https://dev.to/devteam/congrats-to-the-latest-kendoreact-free-components-challenge-winners-2b11)
+- [AI-Powered Pair Programming: How I Code Faster and Learn More with ChatGPT](https://dev.to/jaideepparashar/ai-powered-pair-programming-how-i-code-faster-and-learn-more-with-chatgpt-2lj3)
 <!-- END_TRENDING -->
 
 ---
