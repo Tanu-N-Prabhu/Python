@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 10, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 11, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Junie Starter’s Pack: AI Coding Agent Explained](https://dev.to/jetbrains/junie-starters-pack-ai-coding-agent-explained-2hjf)
-- [11+ Best All-in-One AI Platforms for Developers and Teams](https://dev.to/vinishbhaskar/11-best-all-in-one-ai-platforms-for-developers-and-teams-319l)
-- [From Zero to 373 Days: How Daily LeetCode Challenges Transformed My Programming Journey 🔥](https://dev.to/hadil/from-zero-to-373-days-how-daily-leetcode-challenges-transformed-my-programming-journey-47o9)
-- [Congrats to the latest KendoReact Free Components Challenge Winners!](https://dev.to/devteam/congrats-to-the-latest-kendoreact-free-components-challenge-winners-2b11)
-- [AI-Powered Pair Programming: How I Code Faster and Learn More with ChatGPT](https://dev.to/jaideepparashar/ai-powered-pair-programming-how-i-code-faster-and-learn-more-with-chatgpt-2lj3)
+- [My Top 10 AI Code Review Tools You Can Actually Use in 2025](https://dev.to/therealmrmumba/my-top-10-ai-code-review-tools-you-can-actually-use-in-2025-paf)
+- [🛡️ OCTAL ACCESS RIGHTS IN LINUX: A COMPLETE GUIDE](https://dev.to/dima853/octal-access-rights-in-linux-a-complete-guide-3kj0)
+- [I'm creating a social network that is not hacable, trackable, or censored - by design.](https://dev.to/dima853/im-creating-a-social-network-that-is-not-hacable-trackable-or-censored-by-design-3kmo)
+- [Legacy code slows teams down, introduces bugs, and makes scaling painful. But with AI, refactoring has become faster, safer, and even enjoyable.](https://dev.to/jaideepparashar/legacy-code-slows-teams-down-introduces-bugs-and-makes-scaling-painful-but-with-ai-refactoring-2i48)
+- [AI for Refactoring: Making Legacy Code Clean and Future-Ready](https://dev.to/jaideepparashar/ai-for-refactoring-making-legacy-code-clean-and-future-ready-19i4)
 <!-- END_TRENDING -->
 
 ---
