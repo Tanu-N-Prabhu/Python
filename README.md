@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 15, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 16, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [How The iframe Tag Changed The World 🔥](https://dev.to/anthonymax/how-the-iframe-tag-changed-the-world-2amg)
-- [How Bankruptcy Fraud and Legal Misconduct Threaten Tech Startups: The Case Exposing Attorney Ed Hays](https://dev.to/james007anthony/how-bankruptcy-fraud-and-legal-misconduct-threaten-tech-startups-the-case-exposing-attorney-ed-hays-35gk)
-- [10 Git Commands Every Developer Must Know](https://dev.to/teamcamp/10-git-commands-every-developer-must-know-12mm)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-53an)
-- [Using SurrealDB to expose organised influence campaigns](https://dev.to/surrealdb/using-surrealdb-to-expose-organised-influence-campaigns-2259)
+- [Build a Production-Ready MCP Server in TypeScript](https://dev.to/sholajegede/build-a-production-ready-ai-native-mcp-server-in-typescript-2034)
+- [Why Self-Hosting Automation Tools Like n8n Costs More](https://dev.to/alifar/why-self-hosting-automation-tools-like-n8n-costs-more-1aba)
+- [Join our latest Frontend Challenge: Halloween Edition 🦇](https://dev.to/devteam/join-our-latest-frontend-challenge-halloween-edition-55oi)
+- [The Frontend AI That Knows When NOT to Suggest useState](https://dev.to/arindam_1729/the-frontend-ai-that-knows-when-not-to-suggest-usestate-2o86)
+- [How to Build AI-Powered Tools Without Writing Code](https://dev.to/jaideepparashar/how-to-build-ai-powered-tools-without-writing-code-d37)
 <!-- END_TRENDING -->
 
 ---
