@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 17, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 18, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,12 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [You’re a Real JavaScript Developer Only If...](https://dev.to/hadil/youre-a-real-javascript-developer-only-if-294c)
-- [9 Open Source Tools to Boost Your Productivity 🔥](https://dev.to/anthonymax/9-open-source-tools-to-boost-your-productivity-433p)
-- [How I See AI Changing Development: The Future Is Prompt-Driven](https://dev.to/jaideepparashar/how-i-see-ai-changing-development-the-future-is-prompt-driven-7m8)
-- [For years, development revolved around syntax, frameworks, and manual implementation.
-But now, developers who understand how to think in prompts and systems will build faster than those who only write code in isolation.](https://dev.to/jaideepparashar/for-years-development-revolved-around-syntax-frameworks-and-manual-implementation-but-now-48h6)
-- [DNS Records Explained: Types, Purpose, and Failure Scenarios](https://dev.to/rijultp/dns-records-explained-types-purpose-and-failure-scenarios-139g)
+- [Why Developers Hate Jira (And 10 Best Jira Alternatives)](https://dev.to/teamcamp/why-developers-hate-jira-and-10-best-jira-alternatives-1hl1)
+- [10 Best AI Interview Copilot Tools for 2026 🤖](https://dev.to/finalroundai/the-10-best-interview-copilot-tools-for-2026-4a8j)
+- [Cognee: Building the Next Generation of Memory for AI Agents (OSS)](https://dev.to/om_shree_0709/cognee-building-the-next-generation-of-memory-for-ai-agents-oss-3jm1)
+- [LLM Brand Visibility Analyzer: Making AI Search Transparency Accessible to Every Brand](https://dev.to/pratham_naik_project_manager/llm-brand-visibility-analyzer-making-ai-search-transparency-accessible-to-every-brand-3g2j)
+- [How To Set Up QR Code Payments in Your App](https://dev.to/flutterwaveeng/how-to-set-up-qr-code-payments-in-your-app-5bja)
 <!-- END_TRENDING -->
 
 ---
