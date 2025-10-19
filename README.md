@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 18, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 19, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,16 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Why Developers Hate Jira (And 10 Best Jira Alternatives)](https://dev.to/teamcamp/why-developers-hate-jira-and-10-best-jira-alternatives-1hl1)
-- [10 Best AI Interview Copilot Tools for 2026 🤖](https://dev.to/finalroundai/the-10-best-interview-copilot-tools-for-2026-4a8j)
-- [Cognee: Building the Next Generation of Memory for AI Agents (OSS)](https://dev.to/om_shree_0709/cognee-building-the-next-generation-of-memory-for-ai-agents-oss-3jm1)
-- [LLM Brand Visibility Analyzer: Making AI Search Transparency Accessible to Every Brand](https://dev.to/pratham_naik_project_manager/llm-brand-visibility-analyzer-making-ai-search-transparency-accessible-to-every-brand-3g2j)
-- [How To Set Up QR Code Payments in Your App](https://dev.to/flutterwaveeng/how-to-set-up-qr-code-payments-in-your-app-5bja)
+- [🧠 Building an Accessible Currency Detector for the Sri Lankan Visually Impaired with YOLOv8, ESP32-CAM & Audio Feedback](https://dev.to/mohamed-riham/building-an-accessible-currency-detector-for-the-sri-lankan-visually-impaired-with-yolov8-3flc)
+- [When I started building ReThynk AI, publishing books, and managing dev.to, YouTube and other projects, I realised something:
+
+The problem wasn’t coding speed; it was decision fatigue. AI helped me fix that.](https://dev.to/jaideepparashar/when-i-started-building-rethynk-ai-publishing-books-and-managing-devto-youtube-and-other-1heb)
+- [The future developer is not just a coder; they are an AI Operator.
+Someone who thinks in systems, speaks in prompts, and ships earlier.
+
+If you start building this identity now, you’ll be years ahead of the majority of the industry.](https://dev.to/jaideepparashar/the-future-developer-is-not-just-a-coder-they-are-an-ai-operator-someone-who-thinks-in-systems-2m5e)
+- [How I Used ChatGPT to Automate My Business Strategy](https://dev.to/jaideepparashar/how-i-used-chatgpt-to-automate-my-business-strategy-1ab2)
+- [The Introvert's Survival Guide to GitHub Universe (And Every Other Tech Conference](https://dev.to/shiva_shanker_k/the-introverts-survival-guide-to-github-universe-and-every-other-tech-conference-2okp)
 <!-- END_TRENDING -->
 
 ---
