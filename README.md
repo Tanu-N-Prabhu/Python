@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 19, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 20, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,16 +588,13 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [🧠 Building an Accessible Currency Detector for the Sri Lankan Visually Impaired with YOLOv8, ESP32-CAM & Audio Feedback](https://dev.to/mohamed-riham/building-an-accessible-currency-detector-for-the-sri-lankan-visually-impaired-with-yolov8-3flc)
+- [How I Used ChatGPT to Automate My Business Strategy](https://dev.to/jaideepparashar/how-i-used-chatgpt-to-automate-my-business-strategy-1ab2)
 - [When I started building ReThynk AI, publishing books, and managing dev.to, YouTube and other projects, I realised something:
 
 The problem wasn’t coding speed; it was decision fatigue. AI helped me fix that.](https://dev.to/jaideepparashar/when-i-started-building-rethynk-ai-publishing-books-and-managing-devto-youtube-and-other-1heb)
-- [The future developer is not just a coder; they are an AI Operator.
-Someone who thinks in systems, speaks in prompts, and ships earlier.
-
-If you start building this identity now, you’ll be years ahead of the majority of the industry.](https://dev.to/jaideepparashar/the-future-developer-is-not-just-a-coder-they-are-an-ai-operator-someone-who-thinks-in-systems-2m5e)
-- [How I Used ChatGPT to Automate My Business Strategy](https://dev.to/jaideepparashar/how-i-used-chatgpt-to-automate-my-business-strategy-1ab2)
-- [The Introvert's Survival Guide to GitHub Universe (And Every Other Tech Conference](https://dev.to/shiva_shanker_k/the-introverts-survival-guide-to-github-universe-and-every-other-tech-conference-2okp)
+- [How TCP and UDP Protocols Work: Understanding Their Critical Role in Internet Communication](https://dev.to/ganesh-kumar/how-tcp-and-udp-protocols-work-understanding-their-critical-role-in-internet-communication-4iah)
+- [The Ultimate AI Assistant for Web Productivity](https://dev.to/nish2005karsh/the-ultimate-ai-assistant-for-web-productivity-1dpb)
+- [11 INSANE Use Cases of Perplexity Comet Browser (With Demo Video) — Why You Need to Sign Up Now!](https://dev.to/nish2005karsh/11-insane-use-cases-of-perplexity-comet-browser-with-demo-video-why-you-need-to-sign-up-now-51fm)
 <!-- END_TRENDING -->
 
 ---
