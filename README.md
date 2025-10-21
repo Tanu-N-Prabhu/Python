@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 20, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 21, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,13 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [How I Used ChatGPT to Automate My Business Strategy](https://dev.to/jaideepparashar/how-i-used-chatgpt-to-automate-my-business-strategy-1ab2)
-- [When I started building ReThynk AI, publishing books, and managing dev.to, YouTube and other projects, I realised something:
-
-The problem wasn’t coding speed; it was decision fatigue. AI helped me fix that.](https://dev.to/jaideepparashar/when-i-started-building-rethynk-ai-publishing-books-and-managing-devto-youtube-and-other-1heb)
-- [How TCP and UDP Protocols Work: Understanding Their Critical Role in Internet Communication](https://dev.to/ganesh-kumar/how-tcp-and-udp-protocols-work-understanding-their-critical-role-in-internet-communication-4iah)
-- [The Ultimate AI Assistant for Web Productivity](https://dev.to/nish2005karsh/the-ultimate-ai-assistant-for-web-productivity-1dpb)
-- [11 INSANE Use Cases of Perplexity Comet Browser (With Demo Video) — Why You Need to Sign Up Now!](https://dev.to/nish2005karsh/11-insane-use-cases-of-perplexity-comet-browser-with-demo-video-why-you-need-to-sign-up-now-51fm)
+- [AI Answer Governance for Developers](https://dev.to/alifar/ai-answer-governance-for-developers-17a1)
+- [AI Isn’t Replacing You: But the One Who Uses It Better Might](https://dev.to/jaideepparashar/ai-isnt-replacing-you-but-the-one-who-uses-it-better-might-19ga)
+- [🎃 Haunted Halloween Night - Submission](https://dev.to/usman_awan/haunted-halloween-night-submission-omj)
+- [Blob Storage as a Database: Dumb Idea or Underrated Trick?](https://dev.to/harpreet_singh_c4ea4af253/blob-storage-as-a-database-dumb-idea-or-underrated-trick-1n9p)
+- [🚀 Why Everyone Uses localhost:3000 - The History of Dev Ports (3000, 8000, 8080, 5173)](https://dev.to/safvantsy/why-everyone-uses-localhost3000-the-history-of-dev-ports-3000-8000-8080-5173-llg)
 <!-- END_TRENDING -->
 
 ---
