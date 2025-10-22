@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 21, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 22, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [AI Answer Governance for Developers](https://dev.to/alifar/ai-answer-governance-for-developers-17a1)
-- [AI Isn’t Replacing You: But the One Who Uses It Better Might](https://dev.to/jaideepparashar/ai-isnt-replacing-you-but-the-one-who-uses-it-better-might-19ga)
-- [🎃 Haunted Halloween Night - Submission](https://dev.to/usman_awan/haunted-halloween-night-submission-omj)
-- [Blob Storage as a Database: Dumb Idea or Underrated Trick?](https://dev.to/harpreet_singh_c4ea4af253/blob-storage-as-a-database-dumb-idea-or-underrated-trick-1n9p)
-- [🚀 Why Everyone Uses localhost:3000 - The History of Dev Ports (3000, 8000, 8080, 5173)](https://dev.to/safvantsy/why-everyone-uses-localhost3000-the-history-of-dev-ports-3000-8000-8080-5173-llg)
+- [🚀 Introducing Agentic Postgres: The First & Free Database Built for Agents](https://dev.to/tigerdata/introducing-agentic-postgres-the-first-free-database-built-for-agents-50i7)
+- [My Top 7 Postman Offline Alternatives Every Developer Should Try](https://dev.to/therealmrmumba/my-top-7-postman-offline-alternatives-every-developer-should-try-4i68)
+- [ChatGPT Atlas: A Smarter Way to Browse and Work Online](https://dev.to/alifar/chatgpt-atlas-a-smarter-way-to-browse-and-work-online-28nm)
+- [⚡️One click, dozens of API tests: can AI finally end the case-writing?](https://dev.to/fallon_jimmy/one-click-dozens-of-api-tests-can-ai-finally-end-the-case-writing-1m97)
+- [My 6-Week Dev.to Plan for Building Authority as an AI Writer](https://dev.to/jaideepparashar/my-6-week-devto-plan-for-building-authority-as-an-ai-writer-4afd)
 <!-- END_TRENDING -->
 
 ---
