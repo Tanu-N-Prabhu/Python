@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 22, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 23, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -588,11 +588,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [🚀 Introducing Agentic Postgres: The First & Free Database Built for Agents](https://dev.to/tigerdata/introducing-agentic-postgres-the-first-free-database-built-for-agents-50i7)
-- [My Top 7 Postman Offline Alternatives Every Developer Should Try](https://dev.to/therealmrmumba/my-top-7-postman-offline-alternatives-every-developer-should-try-4i68)
-- [ChatGPT Atlas: A Smarter Way to Browse and Work Online](https://dev.to/alifar/chatgpt-atlas-a-smarter-way-to-browse-and-work-online-28nm)
-- [⚡️One click, dozens of API tests: can AI finally end the case-writing?](https://dev.to/fallon_jimmy/one-click-dozens-of-api-tests-can-ai-finally-end-the-case-writing-1m97)
-- [My 6-Week Dev.to Plan for Building Authority as an AI Writer](https://dev.to/jaideepparashar/my-6-week-devto-plan-for-building-authority-as-an-ai-writer-4afd)
+- [Join the Agentic Postgres Challenge with Tiger Data: $3,000 in Prizes!](https://dev.to/devteam/join-the-agentic-postgres-challenge-with-tiger-data-3000-in-prizes-17ip)
+- [I'm a Senior Developer and I Still Google Everything (And That's Perfectly Normal)](https://dev.to/elvissautet/im-a-senior-developer-and-i-still-google-everything-and-thats-perfectly-normal-21a2)
+- [11 Powerful APIs for Your Next Project 🤯](https://dev.to/anmolbaranwal/11-powerful-apis-for-your-next-project-5d7d)
+- [Auth Explained (Part 1): ID vs Access vs Refresh tokens — 🤔what they ACTUALLY do (and why localStorage is a trap)](https://dev.to/sylwia-lask/auth-explained-part-1-id-vs-access-vs-refresh-tokens-what-they-actually-do-and-why-2l1)
+- [Bring AI agents with Long-Term memory into production in minutes](https://dev.to/aws/bring-ai-agents-with-long-term-memory-into-production-in-minutes-338l)
 <!-- END_TRENDING -->
 
 ---
