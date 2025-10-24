@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 23, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 24, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Join the Agentic Postgres Challenge with Tiger Data: $3,000 in Prizes!](https://dev.to/devteam/join-the-agentic-postgres-challenge-with-tiger-data-3000-in-prizes-17ip)
-- [I'm a Senior Developer and I Still Google Everything (And That's Perfectly Normal)](https://dev.to/elvissautet/im-a-senior-developer-and-i-still-google-everything-and-thats-perfectly-normal-21a2)
-- [11 Powerful APIs for Your Next Project 🤯](https://dev.to/anmolbaranwal/11-powerful-apis-for-your-next-project-5d7d)
-- [Auth Explained (Part 1): ID vs Access vs Refresh tokens — 🤔what they ACTUALLY do (and why localStorage is a trap)](https://dev.to/sylwia-lask/auth-explained-part-1-id-vs-access-vs-refresh-tokens-what-they-actually-do-and-why-2l1)
-- [Bring AI agents with Long-Term memory into production in minutes](https://dev.to/aws/bring-ai-agents-with-long-term-memory-into-production-in-minutes-338l)
+- [Building a Full-Stack AI Shopping Assistant with CrewAI and Tavily](https://dev.to/copilotkit/building-a-full-stack-ai-shopping-assistant-with-crewai-and-tavily-4366)
+- [TMCP: Reimagining Model Context Protocol Server Architecture with Modern TypeScript](https://dev.to/om_shree_0709/tmcp-reimagining-model-context-protocol-server-architecture-with-modern-typescript-2mi)
+- [Agile Project Management in Software Development Teams](https://dev.to/marksantiago02/agile-project-management-in-software-development-teams-20bl)
+- [🧩 Two Minor UI Glitches I Came Across on DEV 🙂](https://dev.to/usman_awan/two-minor-ui-glitches-i-came-across-on-dev-af2)
+- [Does Your Site Need a /ai Page?](https://dev.to/rpalo/does-your-site-need-a-ai-page-2hkp)
 <!-- END_TRENDING -->
 
 ---
