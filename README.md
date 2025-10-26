@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 25, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 26, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,12 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [MCP Guardrails: Mitigating Data Poisoning and Prompt Injection in AI Coding Assistants](https://dev.to/om_shree_0709/mcp-guardrails-mitigating-data-poisoning-and-prompt-injection-in-ai-coding-assistants-41o3)
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-e76)
-- [🎲Binary Search Explained – A Beginner’s Guide](https://dev.to/om_shree_0709/binary-search-explained-a-beginners-guide-1i6c)
-- [I Create Classic CSS Framework ✨ | Read Documentation](https://dev.to/we-the-developers/i-create-classic-css-framework-read-documentation-1ii3)
-- [AI can help us in managing high output while keeping energy, focus, and peace intact.](https://dev.to/jaideepparashar/ai-can-help-us-in-managing-high-output-while-keeping-energy-focus-and-peace-intact-2cn8)
+- [📢 HMPL v3.1: New major update!](https://dev.to/hmpljs/hmpl-v31-new-major-update-124p)
+- [🤖How to make AI follow your instructions more for free (OpenSpec)📝](https://dev.to/webdeveloperhyper/how-to-make-ai-follow-your-instructions-more-for-free-openspec-2c85)
+- [From Skipping Dinners to Global Influence: My Journey With Books & AI](https://dev.to/jaideepparashar/from-skipping-dinners-to-global-influence-my-journey-with-books-ai-1b4b)
+- [I founded ReThynk AI to make Artificial Intelligence simple, ethical, and accessible.
+What began as an idea in a small room became a company with a global audience through books, lectures, podcasts, and the ReThynk AI Magazine.](https://dev.to/jaideepparashar/i-founded-rethynk-ai-to-make-artificial-intelligence-simple-ethical-and-accessible-what-began-43o6)
+- [Accelerating Cloud App Development: Render's Implementation of the Model Context Protocol (MCP)](https://dev.to/om_shree_0709/accelerating-cloud-app-development-renders-implementation-of-the-model-context-protocol-mcp-2bdo)
 <!-- END_TRENDING -->
 
 ---
