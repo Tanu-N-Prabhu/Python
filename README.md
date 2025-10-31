@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 30, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 31, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [From dark data to bright insights: The dawn of smart storage](https://dev.to/googleai/from-dark-data-to-bright-insights-the-dawn-of-smart-storage-1pf4)
-- [5 must know open-source repositories to build cool AI apps](https://dev.to/tyaga001/5-must-know-open-source-repositories-to-build-cool-ai-apps-3pn7)
-- [Why I Stopped Writing Unit Tests (And My Code Got Better)](https://dev.to/teamcamp/why-i-stopped-writing-unit-tests-and-my-code-got-better-20j0)
-- [What “Work on Yourself” Means to Me as a Founder](https://dev.to/jaideepparashar/what-work-on-yourself-means-to-me-as-a-founder-5hno)
-- [9 Useful Open Source Projects to Simplify Your Life as a Developer 🧑‍💻⚡️](https://dev.to/madza/9-useful-open-source-projects-to-simplify-your-life-as-a-developer-1111)
+- [🎃 Halloween Party 2025: A Responsive Halloween Landing Page for the Dev.to Frontend Challenge 👻](https://dev.to/hadil/halloween-party-2025-a-responsive-halloween-landing-page-for-the-devto-frontend-challenge-3n0n)
+- [Beat Me If You Can](https://dev.to/liquidcode/beat-me-if-you-can-31ab)
+- [AgentKit vs n8n: A Deep Dive into Modern Workflow Automation](https://dev.to/alifar/agentkit-vs-n8n-a-deep-dive-into-modern-workflow-automation-2bbi)
+- [The AI development trap that wastes your time](https://dev.to/samuelfaure/the-ai-programming-sunk-cost-fallacy-loop-and-how-to-break-it-13d6)
+- [🎃 Halloween Edition 🎃](https://dev.to/alfredo_barrera_48a140492/frontend-challenge-halloween-edition-235e)
 <!-- END_TRENDING -->
 
 ---
