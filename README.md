@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 31, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 01, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [🎃 Halloween Party 2025: A Responsive Halloween Landing Page for the Dev.to Frontend Challenge 👻](https://dev.to/hadil/halloween-party-2025-a-responsive-halloween-landing-page-for-the-devto-frontend-challenge-3n0n)
-- [Beat Me If You Can](https://dev.to/liquidcode/beat-me-if-you-can-31ab)
-- [AgentKit vs n8n: A Deep Dive into Modern Workflow Automation](https://dev.to/alifar/agentkit-vs-n8n-a-deep-dive-into-modern-workflow-automation-2bbi)
-- [The AI development trap that wastes your time](https://dev.to/samuelfaure/the-ai-programming-sunk-cost-fallacy-loop-and-how-to-break-it-13d6)
-- [🎃 Halloween Edition 🎃](https://dev.to/alfredo_barrera_48a140492/frontend-challenge-halloween-edition-235e)
+- [Join the AI Agents Intensive Course Writing Challenge with Google and Kaggle!](https://dev.to/devteam/join-the-ai-agents-intensive-course-writing-challenge-with-google-and-kaggle-1i46)
+- [How to Build a Multi-Currency Checkout in 5 Steps](https://dev.to/flutterwaveeng/how-to-build-a-multi-currency-checkout-in-5-steps-4nnd)
+- [ChatGPT + GitHub: The Duo That Helps Me Create 10x Faster](https://dev.to/jaideepparashar/chatgpt-github-the-duo-that-helps-me-create-10x-faster-24hc)
+- [What was your win this week?!!](https://dev.to/devteam/what-was-your-win-this-week-4ec5)
+- [CSS Art Museum: Where Creativity Meets Code 🎨 || Maintainer Spotlight](https://dev.to/shamli_singhyadav_9f295d/css-art-museum-where-creativity-meets-code-maintainer-spotlight-30bl)
 <!-- END_TRENDING -->
 
 ---
