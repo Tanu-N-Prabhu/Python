@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 01, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 02, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,12 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Join the AI Agents Intensive Course Writing Challenge with Google and Kaggle!](https://dev.to/devteam/join-the-ai-agents-intensive-course-writing-challenge-with-google-and-kaggle-1i46)
-- [How to Build a Multi-Currency Checkout in 5 Steps](https://dev.to/flutterwaveeng/how-to-build-a-multi-currency-checkout-in-5-steps-4nnd)
-- [ChatGPT + GitHub: The Duo That Helps Me Create 10x Faster](https://dev.to/jaideepparashar/chatgpt-github-the-duo-that-helps-me-create-10x-faster-24hc)
-- [What was your win this week?!!](https://dev.to/devteam/what-was-your-win-this-week-4ec5)
-- [CSS Art Museum: Where Creativity Meets Code 🎨 || Maintainer Spotlight](https://dev.to/shamli_singhyadav_9f295d/css-art-museum-where-creativity-meets-code-maintainer-spotlight-30bl)
+- [Agentic Browsers Are Dangerous! AI Vulnerabilities: ChatGPT Atlas, Perplexity Comet](https://dev.to/empiree/agentic-browsers-are-dangerous-ai-vulnerabilities-chatgpt-atlas-perplexity-comet-k1b)
+- [The 5 GitHub Repositories Every Prompt Engineer Should Bookmark](https://dev.to/jaideepparashar/the-5-github-repositories-every-prompt-engineer-should-bookmark-5777)
+- [Prompt engineering is evolving fast, and GitHub is where that evolution lives.
+If you’re serious about mastering how AI systems think, these 5 repositories will save you months of trial and error.](https://dev.to/jaideepparashar/prompt-engineering-is-evolving-fast-and-github-is-where-that-evolution-lives-if-youre-serious-34p1)
+- [Build in Public: Day Zero](https://dev.to/olgabraginskaya/build-in-public-day-zero-end)
+- [Building a Privacy-First Log Analyzer for Banking QA: The Technical Architecture](https://dev.to/qa-leaders/building-a-privacy-first-log-analyzer-for-banking-qa-the-technical-architecture-5ef9)
 <!-- END_TRENDING -->
 
 ---
