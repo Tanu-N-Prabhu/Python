@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 02, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 03, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,12 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Agentic Browsers Are Dangerous! AI Vulnerabilities: ChatGPT Atlas, Perplexity Comet](https://dev.to/empiree/agentic-browsers-are-dangerous-ai-vulnerabilities-chatgpt-atlas-perplexity-comet-k1b)
-- [The 5 GitHub Repositories Every Prompt Engineer Should Bookmark](https://dev.to/jaideepparashar/the-5-github-repositories-every-prompt-engineer-should-bookmark-5777)
-- [Prompt engineering is evolving fast, and GitHub is where that evolution lives.
-If you’re serious about mastering how AI systems think, these 5 repositories will save you months of trial and error.](https://dev.to/jaideepparashar/prompt-engineering-is-evolving-fast-and-github-is-where-that-evolution-lives-if-youre-serious-34p1)
-- [Build in Public: Day Zero](https://dev.to/olgabraginskaya/build-in-public-day-zero-end)
-- [Building a Privacy-First Log Analyzer for Banking QA: The Technical Architecture](https://dev.to/qa-leaders/building-a-privacy-first-log-analyzer-for-banking-qa-the-technical-architecture-5ef9)
+- [Every Way a Startup Can Fail](https://dev.to/perssondennis/every-way-a-startup-can-fail-46d8)
+- [Building a Prompt Engineering Toolkit for Developers](https://dev.to/jaideepparashar/building-a-prompt-engineering-toolkit-for-developers-2f8o)
+- [🌀 Brent's Algorithm Explained – Faster Cycle Detection for Beginners](https://dev.to/om_shree_0709/brents-algorithm-explained-faster-cycle-detection-for-beginners-1j5k)
+- [Most developers make the mistake of storing prompts in random notes. A serious prompt engineer treats prompts like reusable components.](https://dev.to/jaideepparashar/most-developers-make-the-mistake-of-storing-prompts-in-random-notes-a-serious-prompt-engineer-2mle)
+- [QuickDoodle: Real-Time Drawing & Guessing Game (with AI Agents Coming Soon!) – Hacktoberfest 2025 Spotlight](https://dev.to/usman_awan/quickdoodle-real-time-drawing-guessing-game-with-ai-agents-coming-soon-hacktoberfest-2025-3pci)
 <!-- END_TRENDING -->
 
 ---
