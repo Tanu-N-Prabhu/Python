@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 03, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 04, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Every Way a Startup Can Fail](https://dev.to/perssondennis/every-way-a-startup-can-fail-46d8)
-- [Building a Prompt Engineering Toolkit for Developers](https://dev.to/jaideepparashar/building-a-prompt-engineering-toolkit-for-developers-2f8o)
-- [🌀 Brent's Algorithm Explained – Faster Cycle Detection for Beginners](https://dev.to/om_shree_0709/brents-algorithm-explained-faster-cycle-detection-for-beginners-1j5k)
-- [Most developers make the mistake of storing prompts in random notes. A serious prompt engineer treats prompts like reusable components.](https://dev.to/jaideepparashar/most-developers-make-the-mistake-of-storing-prompts-in-random-notes-a-serious-prompt-engineer-2mle)
-- [QuickDoodle: Real-Time Drawing & Guessing Game (with AI Agents Coming Soon!) – Hacktoberfest 2025 Spotlight](https://dev.to/usman_awan/quickdoodle-real-time-drawing-guessing-game-with-ai-agents-coming-soon-hacktoberfest-2025-3pci)
+- [Why agents DO NOT write most of our code - a reality check](https://dev.to/veith-octomind/why-agents-do-not-write-most-of-our-code-a-reality-check-87j)
+- [CSS Nightmares: Building a Haunted Scene That Actually Creeped Me Out](https://dev.to/paulthedev/css-nightmares-building-a-haunted-scene-that-actually-creeped-me-out-1kbb)
+- [My Opinionated VS Code Setup — Fast, Quiet, and Intentional](https://dev.to/ltsyqo/my-opinionated-vs-code-setup-fast-quiet-and-intentional-h81)
+- [AI Agents from Prototype to Production: A Free Learning Path with Strands Agents](https://dev.to/aws/ai-agents-from-prototype-to-production-a-free-learning-path-with-strands-agents-481l)
+- [What are your goals for the week? #151](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-151-hmk)
 <!-- END_TRENDING -->
 
 ---
