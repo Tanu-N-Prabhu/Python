@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 04, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 05, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Why agents DO NOT write most of our code - a reality check](https://dev.to/veith-octomind/why-agents-do-not-write-most-of-our-code-a-reality-check-87j)
-- [CSS Nightmares: Building a Haunted Scene That Actually Creeped Me Out](https://dev.to/paulthedev/css-nightmares-building-a-haunted-scene-that-actually-creeped-me-out-1kbb)
-- [My Opinionated VS Code Setup — Fast, Quiet, and Intentional](https://dev.to/ltsyqo/my-opinionated-vs-code-setup-fast-quiet-and-intentional-h81)
-- [AI Agents from Prototype to Production: A Free Learning Path with Strands Agents](https://dev.to/aws/ai-agents-from-prototype-to-production-a-free-learning-path-with-strands-agents-481l)
-- [What are your goals for the week? #151](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-151-hmk)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1g8e)
+- [You’ll Learn More in 3 Months on the Job Than 2 Years of Tutorials](https://dev.to/tlorent/youll-learn-more-in-3-months-on-the-job-than-2-years-of-tutorials-5g9f)
+- [How I Use AI to Build Frontend Apps: My Candid, Messy Process](https://dev.to/blackgirlbytes/how-i-use-ai-to-build-frontend-apps-my-candid-messy-process-3ehk)
+- [Every Sunday, I Refactor Old Code and It’s the Smartest Habit I’ve Ever Built](https://dev.to/hadil/every-sunday-i-refactor-old-code-and-its-the-smartest-habit-ive-ever-built-2k7)
+- [No AI, No VC, Just 17K Stars and Real Revenue](https://dev.to/nocobase/no-ai-no-vc-just-17k-stars-and-real-revenue-6ch)
 <!-- END_TRENDING -->
 
 ---
