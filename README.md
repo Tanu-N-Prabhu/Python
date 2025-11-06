@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 05, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 06, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1g8e)
-- [You’ll Learn More in 3 Months on the Job Than 2 Years of Tutorials](https://dev.to/tlorent/youll-learn-more-in-3-months-on-the-job-than-2-years-of-tutorials-5g9f)
-- [How I Use AI to Build Frontend Apps: My Candid, Messy Process](https://dev.to/blackgirlbytes/how-i-use-ai-to-build-frontend-apps-my-candid-messy-process-3ehk)
-- [Every Sunday, I Refactor Old Code and It’s the Smartest Habit I’ve Ever Built](https://dev.to/hadil/every-sunday-i-refactor-old-code-and-its-the-smartest-habit-ive-ever-built-2k7)
-- [No AI, No VC, Just 17K Stars and Real Revenue](https://dev.to/nocobase/no-ai-no-vc-just-17k-stars-and-real-revenue-6ch)
+- [The Invisible Developer: Why Caring Burns You Out](https://dev.to/junothreadborne/the-invisible-developer-why-caring-burns-you-out-p8o)
+- [Stop Calling LLMs AI](https://dev.to/sagiadinos/stop-calling-llms-ai-1ihk)
+- [Federated app store for self-hosted AI agents (Apache-2.0)](https://dev.to/agentsystems/federated-app-store-for-self-hosted-ai-agents-apache-20-19ka)
+- [jQuery Will Outlive Half of Today’s JavaScript Frameworks - Here's Why](https://dev.to/sylwia-lask/jquery-will-outlive-half-of-todays-javascript-frameworks-heres-why-2mmd)
+- [I struggle to post online. So I built a tiny app to practice showing up.](https://dev.to/madsendev/i-struggle-to-post-online-so-i-built-a-tiny-app-to-practice-showing-up-2an3)
 <!-- END_TRENDING -->
 
 ---
