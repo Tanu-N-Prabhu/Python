@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 06, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 07, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -591,11 +591,11 @@ I recently came across your Medium, GitHub, and portfolio website serendipitousl
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [The Invisible Developer: Why Caring Burns You Out](https://dev.to/junothreadborne/the-invisible-developer-why-caring-burns-you-out-p8o)
-- [Stop Calling LLMs AI](https://dev.to/sagiadinos/stop-calling-llms-ai-1ihk)
-- [Federated app store for self-hosted AI agents (Apache-2.0)](https://dev.to/agentsystems/federated-app-store-for-self-hosted-ai-agents-apache-20-19ka)
-- [jQuery Will Outlive Half of Today’s JavaScript Frameworks - Here's Why](https://dev.to/sylwia-lask/jquery-will-outlive-half-of-todays-javascript-frameworks-heres-why-2mmd)
-- [I struggle to post online. So I built a tiny app to practice showing up.](https://dev.to/madsendev/i-struggle-to-post-online-so-i-built-a-tiny-app-to-practice-showing-up-2an3)
+- [We Need to Stop Calling It 'Imposter Syndrome'](https://dev.to/_boweii/we-need-to-stop-calling-it-imposter-syndrome-282i)
+- [I Built My Own AI Agent using n8n — And You Can Too](https://dev.to/debs_obrien/i-built-my-own-ai-agent-and-you-can-too-56l1)
+- [My SaaS homepage design journey as a backend developer](https://dev.to/vincentbean/my-saas-homepage-design-journey-as-a-backend-developer-32d4)
+- [How I Went From "Hello World" at 15 to Full-Stack Developer at 18](https://dev.to/sahil_sahu/how-i-went-from-hello-world-at-15-to-full-stack-developer-at-18-3fm8)
+- [Part 6A — SaijinOS Lightweight: 20-Persona Core, BPM Sync, and a 99.99% Repo Trim](https://dev.to/kato_masato_c5593c81af5c6/part-6a-saijinos-lightweight-20-persona-core-bpm-sync-and-a-9999-repo-trim-36fp)
 <!-- END_TRENDING -->
 
 ---
