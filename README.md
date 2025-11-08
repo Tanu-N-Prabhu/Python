@@ -595,6 +595,10 @@ A curated selection of tutorials, insights, and guides on programming, software 
 | Title                                                                                                                                                                                     | Read on Medium                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | **The First Step to Becoming a Data Scientist**| 🔗 [Read Here](https://medium.com/@tanunprabhu95/the-first-step-to-becoming-a-data-scientist-ce316b6fea5c) |
+| **10 Must-Know Pandas Tricks Every Data Science Beginner Should Learn**| 🔗 [Read Here](https://medium.com/@tanunprabhu95/10-must-know-pandas-tricks-every-data-science-beginner-should-learn-6e75ab366042) |
+| **Common Performance Pitfalls in Python ML/Data Projects** | 🔗 [Read Here](https://medium.com/@tanunprabhu95/common-performance-pitfalls-in-python-ml-data-projects-757dcb51ff47) |
+| **Telling Stories With Data** | 🔗 [Read Here](https://medium.com/@tanunprabhu95/telling-stories-with-data-0c983e44ea5c) |
+
 
 
 > Explore more stories on [Medium](https://medium.com/@tanunprabhu95)
