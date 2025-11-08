@@ -542,7 +542,7 @@ If the Jupyter Notebook doesn’t load, don’t worry! Simply copy and paste the
 
 # GPT Librarian <img align="right" width="50" height="50" src=https://github.com/Decron/Python/assets/1786607/5b4e7a09-a76f-40be-b87d-c6e007b7ff35>
 
-If you have access to ChatGPT premium, there is a GPT Librarian with access to all files here [here](https://chat.openai.com/g/g-2HlDYwyrW-python-from-scratch)
+If you have access to ChatGPT Premium, there is a GPT Librarian with access to all files here [here](https://chat.openai.com/g/g-2HlDYwyrW-python-from-scratch)
 
 
 ---
@@ -570,7 +570,7 @@ If you have access to ChatGPT premium, there is a GPT Librarian with access to a
 
 
 > <b>‪Cole Striler</b> - Data Scientist, Founder of Datafied<br>
-> I came across your GitHub and love your Jupyter Notebooks, especially the one on "<b>Predicting PewDiePie's daily subscribers</b>". I think you do a great job at explaining your work, which is something others can learn.
+> I came across your GitHub and love your Jupyter Notebooks, especially the one on "<b>Predicting PewDiePie's daily subscribers</b>". I think you do a great job of explaining your work, which others can learn from.
 
 
 > <b>Laurence Watson</b> - Co-Founder & CEO, Treebeard<br>
@@ -584,12 +584,24 @@ If you have access to ChatGPT premium, there is a GPT Librarian with access to a
 I recently came across your Medium, GitHub, and portfolio website serendipitously and was enthralled. Inspiring! I want to start writing articles and building my GitHub repositories. 
 
 
-**Do you like the Repository? Please share your valuable reviews by sending an email.
+**Do you like the Repository? Please share your valuable reviews by sending an [email](tanunprabhu95@gmail.com).**
 
 ---
 
+## Featured Articles on Medium
 
-## 🔥 Trending Tech Topics (Auto-updated daily)
+A curated selection of tutorials, insights, and guides on programming, software development, and emerging tech trends.
+
+| Title                                                                                                                                                                                     | Read on Medium                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **The First Step to Becoming a Data Scientist**| 🔗 [Read Here](https://medium.com/@tanunprabhu95/the-first-step-to-becoming-a-data-scientist-ce316b6fea5c) |
+
+
+> Explore more stories on [Medium](https://medium.com/@tanunprabhu95)
+
+---
+
+## Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-41h2)
 - [The Real Reason Developers Hate Meetings (It’s Not Time) 🧠💥](https://dev.to/sylwia-lask/the-real-reason-developers-hate-meetings-its-not-time-31do)
