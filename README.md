@@ -64,16 +64,7 @@ The Python Mastery Repository is more than just a collection of code; it's a gat
 
 Before starting your Python journey, it is important to install a few helpful tools. These tools make it easier to write, run, and understand Python programs. You can choose the ones that best fit your learning style.
 
-### Recommended Tools
 
-| Tool | Purpose |
-|------|---------|
-| [**Python**](https://www.python.org/) | The main programming language you will use. Download it from the official Python website. |
-| [**Visual Studio Code**](https://code.visualstudio.com/) | A simple and powerful editor for writing Python programs. |
-| [**Jupyter Notebook**](https://jupyter.org/) | Great for data science and step-by-step learning with code and explanations. |
-| [**Google Colab**](https://colab.research.google.com/) | A free online notebook that lets you write and run Python code without installation. |
-
-> I recommend using Google Colab, especially if you are just getting started. It allows you to experiment with code easily, add explanations, and learn in an interactive way.
 ---
 
 ## Recommended Tools
@@ -90,7 +81,7 @@ Before starting your Python journey, it is important to install a few helpful to
  > You can use VS Code with Jupyter and Colab notebooks directly for a seamless workflow.
 
 
-
+---
 
 # Repository Contents
 
