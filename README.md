@@ -74,7 +74,20 @@ Before starting your Python journey, it is important to install a few helpful to
 | [**Google Colab**](https://colab.research.google.com/) | A free online notebook that lets you write and run Python code without installation. |
 
 > I recommend using Google Colab, especially if you are just getting started. It allows you to experiment with code easily, add explanations, and learn in an interactive way.
+---
 
+## Recommended Tools
+
+> These are the essential tools you’ll need to get started, from writing Python code to running it effortlessly in the cloud.
+
+| Tool | Description |
+|------|--------------|
+| [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) | The core language of this repository. |
+| [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) | A powerful, extensible editor for Python and more. |
+| [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/) | Perfect for interactive coding and data visualization. |
+| [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/) | Run Python notebooks in the cloud, no installation needed. |
+
+ > You can use VS Code with Jupyter and Colab notebooks directly for a seamless workflow.
 
 
 
