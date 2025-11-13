@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 12, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 13, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -611,11 +611,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2ah)
-- [Unit Tests: The Greatest Lie We Tell Ourselves?](https://dev.to/varshithvhegde/unit-tests-the-greatest-lie-we-tell-ourselves-2ehd)
-- [So… what is GitHub Copilot’s "Raptor mini"and why should devs care?](https://dev.to/vevarunsharma/so-what-is-github-copilots-raptor-miniand-why-should-devs-care-3n30)
-- [🌿 SaijinOS Part 8 — Interface as Breath: Designing Calm Interaction](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-8-interface-as-breath-designing-calm-interaction-3pn2)
-- [How I Grew My Open-Source Japanese Learning Platform to 10k Monthly Users and 640+ GitHub Stars (as a Solo Dev and Student)](https://dev.to/tentoumushi/how-i-grew-my-open-source-japanese-learning-platform-to-10k-monthly-users-and-640-github-stars-as-56f)
+- [How I Built a "Community Prayer Quilt" in 5 Minutes](https://dev.to/googleai/how-i-built-a-community-prayer-quilt-in-5-minutes-5afk)
+- [I Cloned Myself in 2 Minutes to Answer Gemini API Questions](https://dev.to/googleai/i-cloned-myself-in-2-minutes-to-answer-gemini-api-questions-2dmf)
+- [Fighting Framework Jank (What's Not in the Docs)](https://dev.to/michaelsolati/fighting-framework-jank-whats-not-in-the-docs-mj5)
+- [How I Built a Tiny Tool That Makes Responsive Design Feel Effortless](https://dev.to/olawalethefirst/how-i-built-a-tiny-tool-that-makes-responsive-design-feel-effortless-4caj)
+- [React 19.2: React in its sigma era](https://dev.to/sagi0312/react-192-react-in-its-sigma-era-op7)
 <!-- END_TRENDING -->
 
 ---
