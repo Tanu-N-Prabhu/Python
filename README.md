@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 13, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 14, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -611,11 +611,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [How I Built a "Community Prayer Quilt" in 5 Minutes](https://dev.to/googleai/how-i-built-a-community-prayer-quilt-in-5-minutes-5afk)
-- [I Cloned Myself in 2 Minutes to Answer Gemini API Questions](https://dev.to/googleai/i-cloned-myself-in-2-minutes-to-answer-gemini-api-questions-2dmf)
-- [Fighting Framework Jank (What's Not in the Docs)](https://dev.to/michaelsolati/fighting-framework-jank-whats-not-in-the-docs-mj5)
-- [How I Built a Tiny Tool That Makes Responsive Design Feel Effortless](https://dev.to/olawalethefirst/how-i-built-a-tiny-tool-that-makes-responsive-design-feel-effortless-4caj)
-- [React 19.2: React in its sigma era](https://dev.to/sagi0312/react-192-react-in-its-sigma-era-op7)
+- [AWS Builder Center: Connect, Learn, and Build with the Cloud Community](https://dev.to/devteam/aws-builder-center-connect-learn-and-build-with-the-cloud-community-3jge)
+- [Cover Image Generation Now an Option in the DEV Editor](https://dev.to/devteam/cover-image-generation-now-an-option-in-the-dev-editor-1nld)
+- [The Hard Truth About Learning to Code (That No One Tells You)](https://dev.to/hadil/the-hard-truth-about-learning-to-code-that-no-one-tells-you-15c1)
+- ["2026", AI Users vs The Unemployed.](https://dev.to/elvissautet/2026-ai-users-vs-the-unemployed-3jk4)
+- [Building Conflux - My Own Real-time Collaboration Engine in Rust](https://dev.to/kayleecodez/building-conflux-my-own-real-time-collaboration-engine-in-rust-41lm)
 <!-- END_TRENDING -->
 
 ---
