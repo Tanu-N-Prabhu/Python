@@ -18,7 +18,7 @@
 [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)
 [![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 14, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 15, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -611,11 +611,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [AWS Builder Center: Connect, Learn, and Build with the Cloud Community](https://dev.to/devteam/aws-builder-center-connect-learn-and-build-with-the-cloud-community-3jge)
-- [Cover Image Generation Now an Option in the DEV Editor](https://dev.to/devteam/cover-image-generation-now-an-option-in-the-dev-editor-1nld)
-- [The Hard Truth About Learning to Code (That No One Tells You)](https://dev.to/hadil/the-hard-truth-about-learning-to-code-that-no-one-tells-you-15c1)
-- ["2026", AI Users vs The Unemployed.](https://dev.to/elvissautet/2026-ai-users-vs-the-unemployed-3jk4)
-- [Building Conflux - My Own Real-time Collaboration Engine in Rust](https://dev.to/kayleecodez/building-conflux-my-own-real-time-collaboration-engine-in-rust-41lm)
+- ["Technical Debt Will Bite Us in the Ass": How to Make Non-Technical Stakeholders Actually Care](https://dev.to/tlorent/technical-debt-will-bite-us-in-the-ass-how-to-make-non-technical-stakeholders-actually-care-2oef)
+- [The Day My Gatsby Nav Bar Made Me Question Reality](https://dev.to/bradleymatera/the-day-my-gatsby-nav-bar-made-me-question-reality-1b0i)
+- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-255p)
+- [Beyond Page One: Building a Highly Robust SEO Lead Generation Agent with Python and SerpApi🤖](https://dev.to/rafajrg21/beyond-page-one-building-a-highly-robust-seo-lead-generation-agent-with-python-and-serpapi-331h)
+- [Frontend Devs: Weaponize Beauty. Build UIs That Command Respect](https://dev.to/gnomeman4201/frontend-devs-weaponize-beauty-build-uis-that-command-respect-365f)
 <!-- END_TRENDING -->
 
 ---
