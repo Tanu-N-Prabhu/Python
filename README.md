@@ -20,9 +20,7 @@
     <img src="https://img.shields.io/badge/Gitpod-Ready%20to%20Code-blue?logo=gitpod" />
   </a>
 
-  <!-- Total Commits -->
-  <img src="https://img.shields.io/github/search/Tanu-N-Prabhu/Python/commits?label=Total%20Commits" />
-
+ 
   <!-- Commits This Year -->
   <img src="https://img.shields.io/github/commit-activity/y/Tanu-N-Prabhu/Python?label=Commits%20This%20Year" />
 
