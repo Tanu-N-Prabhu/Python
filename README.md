@@ -2,14 +2,44 @@
 
 <h2 align = "center"><i>The Best Place to Learn Python, Data Science and Machine Learning!</i></h2>
 
-<!-- Shield Badges -->
-
-<!--
-|[![Discord](https://img.shields.io/discord/718138360538857794.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/qFryjbX)  | ![GitHub forks](https://img.shields.io/github/forks/Tanu-N-Prabhu/Python?label=Fork&style=social)  | ![GitHub stars](https://img.shields.io/github/stars/Tanu-N-Prabhu/Python?style=social) | ![GitHub repo size](https://img.shields.io/github/repo-size/Tanu-N-Prabhu/Python) |  ![GitHub contributors](https://img.shields.io/github/contributors/Tanu-N-Prabhu/Python)| [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Tanu-N-Prabhu/Python)| [![commits](https://badgen.net/github/commits/Tanu-N-Prabhu/Python)](https://github.com/Tanu-N-Prabhu/Python/commits/main?icon=github&color=green)|[![Last Commit](https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python?style=flat-square)](./VERSION_HISTORY.md)|[![Version](https://img.shields.io/badge/version-1.0.4-blue?style=flat-square)](./VERSION_HISTORY.md)|![Views Counter](https://views-counter.vercel.app/badge?pageId=Tanu-N-Prabhu%2FViews-Counter)|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
--->
 
 
+
+<p align="center">
+
+  <!-- Social Metrics -->
+  <img src="https://img.shields.io/github/forks/Tanu-N-Prabhu/Python?style=social" />
+  <img src="https://img.shields.io/github/stars/Tanu-N-Prabhu/Python?style=social" />
+
+  <!-- Repo Health -->
+  <img src="https://img.shields.io/github/repo-size/Tanu-N-Prabhu/Python?label=Repo%20Size" />
+  <img src="https://img.shields.io/github/contributors/Tanu-N-Prabhu/Python?label=Contributors" />
+
+  <!-- Dev Tools -->
+  <a href="https://gitpod.io/#https://github.com/Tanu-N-Prabhu/Python">
+    <img src="https://img.shields.io/badge/Gitpod-Ready%20to%20Code-blue?logo=gitpod" />
+  </a>
+
+  <!-- Total Commits -->
+  <img src="https://img.shields.io/github/search/Tanu-N-Prabhu/Python/commits?label=Total%20Commits" />
+
+  <!-- Commits This Year -->
+  <img src="https://img.shields.io/github/commit-activity/y/Tanu-N-Prabhu/Python?label=Commits%20This%20Year" />
+
+  <!-- Commits This Week -->
+  <img src="https://img.shields.io/github/commit-activity/w/Tanu-N-Prabhu/Python?label=Commits%20This%20Week" />
+
+  <!-- Last Commit -->
+  <a href="./VERSION_HISTORY.md">
+    <img src="https://img.shields.io/github/last-commit/Tanu-N-Prabhu/Python" />
+  </a>
+
+  <!-- Open Source -->
+  <a href="https://opensource.org/">
+    <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
+  </a>
+
+</p>
 
 
 
