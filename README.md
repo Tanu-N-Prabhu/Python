@@ -1,4 +1,4 @@
-<img width="1790" height="545" alt="image" src="https://github.com/user-attachments/assets/5df1c7fa-50e7-4b38-ae03-7a7d318a27e2" /><h1 align = "center"> 🐍📊 Welcome to the Python Programming Hub 📊🐍</h1>
+<h1 align = "center"> 🐍📊 Welcome to the Python Programming Hub 📊🐍</h1>
 
 <h2 align = "center"><i>The Best Place to Learn Python, Data Science and Machine Learning!</i></h2>
 
