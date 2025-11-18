@@ -41,7 +41,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 17, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 18, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -637,11 +637,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [The Bloated Kitchen: Why Craftsmanship is Getting Cooked in the Tech World (and What AI Means for Our Chefs)](https://dev.to/j4s0nc/the-bloated-kitchen-why-craftsmanship-is-getting-cooked-in-the-tech-world-and-what-ai-means-for-2moj)
-- [⚛️ Controlled vs Uncontrolled Components in React – A Deep Dive](https://dev.to/fazal_mansuri_/controlled-vs-uncontrolled-components-in-react-a-deep-dive-1hhb)
-- [When Static Sites Stop Scaling: Migrating FreeDevTools (125K+ Pages) from Static Astro to SSR](https://dev.to/lovestaco/when-static-sites-stop-scaling-migrating-freedevtools-125k-pages-from-static-astro-to-ssr-1hf5)
-- [Building an AI Workout Coach: OpenAI Responses API + Dynamic Reasoning Levels](https://dev.to/dpelleri/building-an-ai-workout-coach-with-nextjs-openai-and-supabase-olp)
-- [How I Built Book-Writer-AI in a Few Days: Tech Stack, Architecture & Challenges](https://dev.to/red_wolfman_680dc4b3efc3e/how-i-built-book-writer-ai-in-a-few-days-tech-stack-architecture-challenges-2maa)
+- [🚀 Junior Devs Aren't Disappearing—They're Just Getting Started](https://dev.to/tlorent/junior-devs-arent-disappearing-theyre-just-getting-started-5fob)
+- [Building a Fast Web Scraper Without Puppeteer: A Live Coding Challenge](https://dev.to/dilutedev/building-a-fast-web-scraper-without-puppeteer-a-live-coding-challenge-2apg)
+- [How to Successfully Migrate Your App with an AI Agent](https://dev.to/blockopensource/how-to-successfully-migrate-your-app-with-an-ai-agent-26o7)
+- [Running Local AI on Linux With GPU: Ollama + Open WebUI + Gemma](https://dev.to/lovestaco/running-local-ai-on-linux-with-gpu-ollama-open-webui-gemma-546h)
+- [🌱 My Coding Journey: Small Steps, Simple Projects, and Steady Progress](https://dev.to/olivia_roseparker_b7261e/my-coding-journey-small-steps-simple-projects-and-steady-progress-1ni7)
 <!-- END_TRENDING -->
 
 ---
