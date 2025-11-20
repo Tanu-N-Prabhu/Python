@@ -26,6 +26,7 @@
 
   <!-- Commits This Week -->
   <img src="https://img.shields.io/github/commit-activity/w/Tanu-N-Prabhu/Python?label=Commits%20This%20Week" />
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" />
 
   <!-- Last Commit -->
   <a href="./VERSION_HISTORY.md">
@@ -36,8 +37,11 @@
   <a href="https://opensource.org/">
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
   </a>
+  
 
 </p>
+
+
 
 
 
