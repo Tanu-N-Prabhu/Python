@@ -41,7 +41,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 19, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 20, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -637,11 +637,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [📻 I built an infinite 90s boombox with Gemini + Lyria (and it has an AI DJ!)](https://dev.to/googleai/i-built-an-infinite-90s-boombox-with-gemini-lyria-and-it-has-an-ai-dj-3jh8)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3ec0)
-- [Final Round AI vs Sensei AI: Which One Really Prepares You for the Real Interview?](https://dev.to/finalroundai/final-round-ai-vs-sensei-ai-which-one-really-prepares-you-for-the-real-interview-4m5j)
-- [Build Your Own Magic Atomic State](https://dev.to/oknoorap/build-your-own-magic-atomic-state-46nj)
-- [How I Built a 100% Offline “Second Brain” for Engineering Docs using Docker & Llama 3 (No OpenAI)](https://dev.to/philyeh1212/how-i-built-a-100-offline-second-brain-for-engineering-docs-using-docker-llama-3-no-openai-4gcj)
+- [Join the AI Challenge for Cross-Platform Apps: $3,000 in Prizes!](https://dev.to/devteam/join-the-ai-challenge-for-cross-platform-apps-3000-in-prizes-25c3)
+- [DEV Follower Analysis](https://dev.to/annavi11arrea1/dev-follower-analysis-4dhc)
+- [I built a product "BS Detector" using Gemini 2.0 Flash and AI Studio 🕵️‍♂️](https://dev.to/googleai/i-built-a-product-bs-detector-using-gemini-20-flash-and-ai-studio-69j)
+- [Hunting API Keys in the Wild: How I Built FleaMarket to Find (and Help Fix) Real Leaks on GitHub](https://dev.to/toxy4ny/hunting-api-keys-in-the-wild-how-i-built-fleamarket-to-find-and-help-fix-real-leaks-on-github-5eal)
+- [Welcome Thread - v352](https://dev.to/devteam/welcome-thread-v352-41df)
 <!-- END_TRENDING -->
 
 ---
