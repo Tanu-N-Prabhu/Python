@@ -34,6 +34,3 @@ This folder serves as a **reference library** of the knowledge I share publicly 
 ### Future Updates
 
 More posts will be added regularly as I continue publishing on LinkedIn.
-
-If you’d like this README to include navigation links, thumbnails, badges, or a more portfolio-style structure, let me know!
-
