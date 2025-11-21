@@ -45,7 +45,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 20, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 21, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -641,11 +641,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Join the AI Challenge for Cross-Platform Apps: $3,000 in Prizes!](https://dev.to/devteam/join-the-ai-challenge-for-cross-platform-apps-3000-in-prizes-25c3)
-- [DEV Follower Analysis](https://dev.to/annavi11arrea1/dev-follower-analysis-4dhc)
-- [I built a product "BS Detector" using Gemini 2.0 Flash and AI Studio 🕵️‍♂️](https://dev.to/googleai/i-built-a-product-bs-detector-using-gemini-20-flash-and-ai-studio-69j)
-- [Hunting API Keys in the Wild: How I Built FleaMarket to Find (and Help Fix) Real Leaks on GitHub](https://dev.to/toxy4ny/hunting-api-keys-in-the-wild-how-i-built-fleamarket-to-find-and-help-fix-real-leaks-on-github-5eal)
-- [Welcome Thread - v352](https://dev.to/devteam/welcome-thread-v352-41df)
+- [5 Myths About Legacy Code You Should Stop Believing](https://dev.to/sylwia-lask/5-myths-about-legacy-code-you-should-stop-believing-pi3)
+- [Why I Built Lens Browser: A Privacy-First Alternative in a World of Data Harvesting](https://dev.to/cas8398/why-i-built-lens-browser-a-privacy-first-alternative-in-a-world-of-data-harvesting-5and)
+- [Agentic AI Development with Kiro: From Zero to SaaS Platform](https://dev.to/aws-builders/agentic-ai-development-with-kiro-from-zero-to-saas-platform-30d6)
+- [Congrats to the 2025 Hacktoberfest Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-2025-hacktoberfest-writing-challenge-winners-1hpn)
+- [Assessing TOON Token Savings in an MCP Server](https://dev.to/trknhr/assessing-toon-token-savings-in-an-mcp-server-2b3i)
 <!-- END_TRENDING -->
 
 ---
