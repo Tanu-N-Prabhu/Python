@@ -45,7 +45,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 21, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 22, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -641,11 +641,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [5 Myths About Legacy Code You Should Stop Believing](https://dev.to/sylwia-lask/5-myths-about-legacy-code-you-should-stop-believing-pi3)
-- [Why I Built Lens Browser: A Privacy-First Alternative in a World of Data Harvesting](https://dev.to/cas8398/why-i-built-lens-browser-a-privacy-first-alternative-in-a-world-of-data-harvesting-5and)
-- [Agentic AI Development with Kiro: From Zero to SaaS Platform](https://dev.to/aws-builders/agentic-ai-development-with-kiro-from-zero-to-saas-platform-30d6)
-- [Congrats to the 2025 Hacktoberfest Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-2025-hacktoberfest-writing-challenge-winners-1hpn)
-- [Assessing TOON Token Savings in an MCP Server](https://dev.to/trknhr/assessing-toon-token-savings-in-an-mcp-server-2b3i)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-3php)
+- [Introducing Nano Banana Pro: Complete Developer Tutorial](https://dev.to/googleai/introducing-nano-banana-pro-complete-developer-tutorial-5fc8)
+- [AI Psychosis](https://dev.to/srbhr/ai-psychosis-3mhh)
+- [LLM Context Window Stress Testing: Reliability Under Load](https://dev.to/vaticnz/llm-context-window-stress-testing-reliability-under-load-1gjj)
+- [Is AI Sabotaging Your Career Growth? Delivery Speed vs. Learning Depth](https://dev.to/dchueri/is-ai-sabotaging-your-career-growth-delivery-speed-vs-learning-depth-297o)
 <!-- END_TRENDING -->
 
 ---
