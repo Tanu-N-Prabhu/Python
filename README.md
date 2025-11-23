@@ -137,7 +137,7 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
    - [Python Coding Interview Questions (Beginner → Advanced)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md)
    - [Crack Python Interviews Like a Pro!](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Crack%20Python%20Interviews%20Like%20a%20Pro!.md)
    - [35 Python Interview Questions (Experienced)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/35%20Python%20interview%20questions%20for%20experienced.md)
-   - [Python Interview Questions — Strings](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Interview_Questions_and_Answers_Strings.md)
+   - [Python Interview Questions - Strings](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Interview_Questions_and_Answers_Strings.md)
    - [Python Theoretical Interview Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Theoritical_Interview_Questions.md)
    - [15 Python Interview Q&A](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Interview_Questions_and_Answers.md)
    - [Assigning Candies to Children](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Children_with_candy.ipynb)
@@ -151,24 +151,23 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
 
 ---
 
-### **🏛 Chapter 9️⃣ — Design Principles**
-- **[Modular Pipeline / Clean Architecture](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_Structure_Machine_Learning_Projects_with_Clean_Code_Principles_in_Python.ipynb)**
-- **[Dependency Inversion Principle](https://github.com/Tanu-N-Prabhu/Python/blob/master/Dependency_Inversion_Principle_in_Python.ipynb)**
-- **[Open-Closed Principle](https://github.com/Tanu-N-Prabhu/Python/blob/master/Open_Closed_Principle_in_Python.ipynb)**
-- **[Liskov Substitution Principle](https://github.com/Tanu-N-Prabhu/Python/blob/master/Liskov_Substitution_Principle_in_Python.ipynb)**
-- **[Interface Segregation Principle](https://github.com/Tanu-N-Prabhu...)
+9. **Chapter 9 - Design Principles**
+   - [Modular Pipeline / Clean Architecture](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_Structure_Machine_Learning_Projects_with_Clean_Code_Principles_in_Python.ipynb)
+   - [Dependency Inversion Principle](https://github.com/Tanu-N-Prabhu/Python/blob/master/Dependency_Inversion_Principle_in_Python.ipynb)
+   - [Open-Closed Principle](https://github.com/Tanu-N-Prabhu/Python/blob/master/Open_Closed_Principle_in_Python.ipynb)
+   - [Liskov Substitution Principle](https://github.com/Tanu-N-Prabhu/Python/blob/master/Liskov_Substitution_Principle_in_Python.ipynb)
 
 </details>
 
 
 
-#### [4. Machine Learning Materials]()
+[4. Machine Learning Materials]()
 1. Core ML Concepts  
 2. Algorithms & Model Discussions  
 3. Practical Use Cases  
 4. Interview-Relevant Insights  
 
-#### [5. Data Science Materials](https://github.com/Tanu-N-Prabhu/Python/tree/713e5814c15caf6ee4640f7b4cec04a68b4b899e/Data%20Analysis)
+[5. Data Science Materials](https://github.com/Tanu-N-Prabhu/Python/tree/713e5814c15caf6ee4640f7b4cec04a68b4b899e/Data%20Analysis)
 1. [Level 0](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/Level%200)
 2. [Level 1](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/Level%201)
 3. [Level 2](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/Level%202)
@@ -178,14 +177,14 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
 7. [EDA Techniques](https://github.com/Tanu-N-Prabhu/Python/tree/master/Exploratory%20Data%20Analysis)
 8. [25 Real Data Analysis Questions With Clear Python Answers](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/25%20Real%20Questions%20With%20Clear%20Python%20Answers)
 
-#### [6. Contribution Workflow](https://github.com/Tanu-N-Prabhu/Python/blob/master/contribution.md)
+[6. Contribution Workflow](https://github.com/Tanu-N-Prabhu/Python/blob/master/contribution.md)
 1. [Code Snippet Guidelines](https://github.com/Tanu-N-Prabhu/Python/tree/master?tab=coc-ov-file#)
 
-#### [7. Release Notes](https://github.com/Tanu-N-Prabhu/Python/tree/7ef79b9098d5c82862669cf61b7b413864dfad83/Release%20Notes)
+[7. Release Notes](https://github.com/Tanu-N-Prabhu/Python/tree/7ef79b9098d5c82862669cf61b7b413864dfad83/Release%20Notes)
 1. [Current Release](https://github.com/Tanu-N-Prabhu/Python/blob/master/Release%20Notes/v1.2.0.md)  
 2. [Archive](https://github.com/Tanu-N-Prabhu/Python/blob/master/Release%20Notes/README.md)
 
-#### 8. [Attribution](https://github.com/Tanu-N-Prabhu/Python/tree/master?tab=readme-ov-file#reviews)
+[8. Attribution](https://github.com/Tanu-N-Prabhu/Python/tree/master?tab=readme-ov-file#reviews)
 1. [Credit & Acknowledgment](https://github.com/Tanu-N-Prabhu/Python/tree/master?tab=readme-ov-file#reviews)
 
 ## About
