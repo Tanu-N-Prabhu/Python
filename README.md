@@ -2,9 +2,6 @@
 
 <h2 align = "center"><i>The Best Place to Learn Python, Data Science and Machine Learning!</i></h2>
 
-
-
-
 <p align="center">
 
   <!-- Social Metrics -->
@@ -48,8 +45,6 @@
 <p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 23, 2025<!-- END_LAST_UPDATED --></p>
 
 
-
-
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
 |:--:| 
 | Image Credits [Wallpaper Flare](https://www.wallpaperflare.com/programming-is-an-art-text-code-python-computer-python-programming-wallpaper-srfia) |
@@ -66,6 +61,56 @@ This repository isn’t just a collection of code snippets; it’s a comprehensi
 * **Novices** - Explore the fundamentals of Python programming.
 * **Data Enthusiasts** - Delve into the intricacies of data science.
 * **Seasoned Developers** - Hone your craft with advanced techniques and tips.
+
+
+## Table of Contents
+
+**1. Introduction**
+- 1.1 Purpose of This Repository
+- 1.2 Who This Collection Is For
+- 1.3 How to Use This Folder
+
+**2. LinkedIn Posts Overview**
+- 2.1 Themes Covered
+- 2.2 Structure of Each Post
+- 2.3 Code Snippet Patterns and Conventions
+
+**3. Python Programming Posts**
+- 3.1 Beginner-Friendly Concepts
+- 3.2 Intermediate Techniques
+- 3.3 Advanced Python Insights
+- 3.4 Best Practices Shared in Posts
+
+**4. Machine Learning Posts**
+- 4.1 ML Fundamentals
+- 4.2 Algorithms & Models Discussed
+- 4.3 Real-World ML Applications
+- 4.4 Tips for ML Interview Preparation
+
+**5. Data Science Posts**
+- 5.1 Data Cleaning & Preprocessing
+- 5.2 Exploratory Data Analysis (EDA) Concepts
+- 5.3 Visualization Principles (No Code Included)
+- 5.4 Essential DS Tricks Shared in Posts
+
+**6. Repository Structure**
+- 6.1 Folder Breakdown
+- 6.2 Naming Conventions
+- 6.3 How to Navigate the Content
+
+**7. Contribution Guide**
+- 7.1 How to Add New Posts
+- 7.2 Formatting Rules
+- 7.3 Code Snippet Guidelines
+
+**8. Changelog**
+- 8.1 Recent Updates
+- 8.2 Previous Versions
+
+**9. License & Attribution**
+- 9.1 License
+- 9.2 Credits
+- 9.3 Referencing This Repository
 
 ## What the repository offers
 
@@ -94,7 +139,6 @@ The Python Mastery Repository is more than just a collection of code; it's a gat
 
 Before starting your Python journey, it is important to install a few helpful tools. These tools make it easier to write, run, and understand Python programs. You can choose the ones that best fit your learning style.
 
-
 ---
 
 ## Recommended Tools
@@ -110,7 +154,6 @@ Before starting your Python journey, it is important to install a few helpful to
 
  > You can use VS Code with Jupyter and Colab notebooks directly for a seamless workflow.
 
-
 ---
 
 # Repository Contents
@@ -124,7 +167,6 @@ Follow the steps below to get started coding in Python!!!
 <p align="center"> 
 <img src = "https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/Python.PNG">
 </p>
-
 
 ### Pythonic Materials
 
@@ -199,7 +241,6 @@ Follow the steps below to get started coding in Python!!!
  - <b>[General Transit Feed Specification - General Transit Feed Specification (GTFS)](https://github.com/Tanu-N-Prabhu/Python/blob/387a2cdd5bcfc4afbae2319d017a850bdaeb772c/Transit_Data_Calgary_2025.ipynb)</b>
 
   - <b>[Unlocking Time Series Forecasting with Facebook Prophet](https://github.com/Tanu-N-Prabhu/Python/blob/master/Unlocking_Time_Series_Forecasting_with_Facebook_Prophet.ipynb)</b>
-
 
 </details>
 
@@ -298,8 +339,6 @@ Follow the steps below to get started coding in Python!!!
 
 - <b>[Creating a Regular Polygon Visualizer Using Matplotlib in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Draw_polygon.ipynb)</b>
 
-   
-
 </details>
 
 <details>
@@ -331,7 +370,6 @@ Follow the steps below to get started coding in Python!!!
   
 ---
 
-  
 ## Data Science
 
 Follow the steps below to get started learning Data Science!!!
@@ -348,7 +386,6 @@ Follow the steps below to get started learning Data Science!!!
  - <b>[Loading a File using Pandas](https://github.com/Tanu-N-Prabhu/Python/blob/master/data_load.md)</b>
  
 </details>
-
 
 <details>
   <summary>Data Scraping from the Web</summary>
