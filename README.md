@@ -95,7 +95,7 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
 
 ---
 
-4. **🔗 Chapter 4 - APIs**
+4. **Chapter 4 - APIs**
    - [Google Translate API for Python](https://github.com/Tanu-N-Prabhu/Python/tree/master/Google%20Translate%20API)
    - [Google Trends API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Google_Trends_API.ipynb)
    - [Wikipedia API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Wikipedia_API_for_Python.ipynb)
@@ -105,23 +105,23 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
 
 ---
 
-### **📝 Chapter 5️⃣ — Additional Materials**
-- **[How to get started coding in Python?](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_get_started_coding_in_Python%3F.ipynb)**
-- **[Is Python Object Oriented?](https://github.com/Tanu-N-Prabhu/Python/blob/master/Is_Python_object_oriented%3F.ipynb)**
-- **[Speech Recognition using Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Speech_Recognition_using_Python.ipynb)**
-- **[One-Hot Encoding](https://github.com/Tanu-N-Prabhu/Python/blob/master/Learning_One_Hot_Encoding_in_Python_the_Easy_Way.ipynb)**
-- **[Reading an Image Without Libraries](https://github.com/Tanu-N-Prabhu/Python/blob/master/Reading_An_Image_In_Python_(Without_Using_Special_Libraries).ipynb)**
-- **[Render Images in Pandas DataFrame](https://github.com/Tanu-N-Prabhu/Python/blob/master/Rendering_Images_inside_a_Pandas_DataFrame.ipynb)**
-- **[Using Pandas DataFrame as a Database](https://github.com/Tanu-N-Prabhu/Python/blob/master/Using_the_Pandas_Data_Frame_as_a_Database_.ipynb)**
-- **[Using Pandas in Daily Life](https://github.com/Tanu-N-Prabhu/Python/blob/master/Using_the_Pandas_DataFrame_in_Day_To_Day_Life.ipynb)**
-- **[Presenting Python Code Using RISE](https://github.com/Tanu-N-Prabhu/Python/blob/master/Presenting_Python_code_using_RISE.ipynb)**
-- **[Google Colab Cheat Sheet](https://github.com/Tanu-N-Prabhu/Python/blob/master/Cheat_sheet_for_Google_Colab.ipynb)**
-- **[Pick-Up Line Generator](https://github.com/Tanu-N-Prabhu/Python/blob/master/Pick_up_Line_Generator.ipynb)**
-- **[Optimizing Code with List Comprehensions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Optimizing_Python_Code_with_List_Comprehensions.ipynb)**
-- **[Understanding Virtual Environments](https://github.com/Tanu-N-Prabhu/Python/blob/master/Understanding_Virtual_Environments_in_Python.ipynb)**
-- **[Hidden Markov Models](https://github.com/Tanu-N-Prabhu/Python/blob/master/Hidden_Markov_Models_in_Python.ipynb)**
-- **[Feature Maps in CNNs](https://github.com/Tanu-N-Prabhu/Python/blob/master/Hidden_Layers_of_Understanding_CNN.ipynb)**
-- **[Rule-Based System in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Rule_Based_System_with_Python.ipynb)**
+5. **Chapter 5 - Additional Materials**
+   - [How to get started coding in Python?](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_get_started_coding_in_Python%3F.ipynb)
+   - [Is Python Object Oriented?](https://github.com/Tanu-N-Prabhu/Python/blob/master/Is_Python_object_oriented%3F.ipynb)
+   - [Speech Recognition using Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Speech_Recognition_using_Python.ipynb)
+   - [One-Hot Encoding](https://github.com/Tanu-N-Prabhu/Python/blob/master/Learning_One_Hot_Encoding_in_Python_the_Easy_Way.ipynb)
+   - [Reading an Image Without Libraries](https://github.com/Tanu-N-Prabhu/Python/blob/master/Reading_An_Image_In_Python_(Without_Using_Special_Libraries).ipynb)
+   - [Render Images in Pandas DataFrame](https://github.com/Tanu-N-Prabhu/Python/blob/master/Rendering_Images_inside_a_Pandas_DataFrame.ipynb)
+   - [Using Pandas DataFrame as a Database](https://github.com/Tanu-N-Prabhu/Python/blob/master/Using_the_Pandas_Data_Frame_as_a_Database_.ipynb)
+   - [Using Pandas in Daily Life](https://github.com/Tanu-N-Prabhu/Python/blob/master/Using_the_Pandas_DataFrame_in_Day_To_Day_Life.ipynb)
+   - [Presenting Python Code Using RISE](https://github.com/Tanu-N-Prabhu/Python/blob/master/Presenting_Python_code_using_RISE.ipynb)
+   - [Google Colab Cheat Sheet](https://github.com/Tanu-N-Prabhu/Python/blob/master/Cheat_sheet_for_Google_Colab.ipynb)
+   - [Pick-Up Line Generator](https://github.com/Tanu-N-Prabhu/Python/blob/master/Pick_up_Line_Generator.ipynb)
+   - [Optimizing Code with List Comprehensions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Optimizing_Python_Code_with_List_Comprehensions.ipynb)
+   - [Understanding Virtual Environments](https://github.com/Tanu-N-Prabhu/Python/blob/master/Understanding_Virtual_Environments_in_Python.ipynb)
+   - [Hidden Markov Models](https://github.com/Tanu-N-Prabhu/Python/blob/master/Hidden_Markov_Models_in_Python.ipynb)
+   - [Feature Maps in CNNs](https://github.com/Tanu-N-Prabhu/Python/blob/master/Hidden_Layers_of_Understanding_CNN.ipynb)
+   - [Rule-Based System in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Rule_Based_System_with_Python.ipynb)
 
 ---
 
