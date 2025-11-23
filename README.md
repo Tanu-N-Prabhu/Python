@@ -78,31 +78,25 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
 3. Practical Use Cases  
 4. Interview-Relevant Insights  
 
-### 5. Data Science Materials
-1. Data Cleaning Methodology  
-2. EDA Techniques  
-3. Visualization Principles  
-4. Essential DS Tricks  
+### 5. [Data Science Materials](https://github.com/Tanu-N-Prabhu/Python/tree/713e5814c15caf6ee4640f7b4cec04a68b4b899e/Data%20Analysis)
+1. [Level 0](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/Level%200)
+2. [Level 1](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/Level%201)
+3. [Level 2](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/Level%202)
+4. [Level 3](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/Level%203)
+5. [Level 4](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/Level%204)
+6. [Level 5](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/Level%205)
+7. [EDA Techniques](https://github.com/Tanu-N-Prabhu/Python/tree/master/Exploratory%20Data%20Analysis)
+8. [25 Real Data Analysis Questions With Clear Python Answers](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/25%20Real%20Questions%20With%20Clear%20Python%20Answers)
 
-### 6. Repository Structure
-1. Directory Layout  
-2. Naming Standards  
-3. Navigation Instructions  
+### 6. [Contribution Workflow](https://github.com/Tanu-N-Prabhu/Python/blob/master/contribution.md)
+1. [Code Snippet Guidelines](https://github.com/Tanu-N-Prabhu/Python/tree/master?tab=coc-ov-file#)
 
-### 7. Contribution Workflow
-1. Adding New Posts  
-2. Documentation Style Guide  
-3. Code Snippet Guidelines  
-
-### 8. [Release Notes](https://github.com/Tanu-N-Prabhu/Python/tree/7ef79b9098d5c82862669cf61b7b413864dfad83/Release%20Notes)
+### 7. [Release Notes](https://github.com/Tanu-N-Prabhu/Python/tree/7ef79b9098d5c82862669cf61b7b413864dfad83/Release%20Notes)
 1. [Current Release](https://github.com/Tanu-N-Prabhu/Python/blob/master/Release%20Notes/v1.2.0.md)  
 2. [Archive](https://github.com/Tanu-N-Prabhu/Python/blob/master/Release%20Notes/README.md)
 
-### 9. Licensing & Attribution
-1. License Information  
-2. Credit & Acknowledgment  
-3. Referencing the Repository  
-
+### 8. [Attribution](https://github.com/Tanu-N-Prabhu/Python/tree/master?tab=readme-ov-file#reviews)
+1. [Credit & Acknowledgment](https://github.com/Tanu-N-Prabhu/Python/tree/master?tab=readme-ov-file#reviews)
 
 ## About
 
