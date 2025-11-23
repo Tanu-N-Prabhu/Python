@@ -66,10 +66,111 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
 2. [Purpose](https://github.com/Tanu-N-Prabhu/Python/tree/master/LinkedIn#purpose-of-this-folder)
 
 #### 3. Python Materials
-1. Foundational Topics  
-2. Intermediate-Level Patterns  
-3. Advanced Concepts  
-4. Best Practice Highlights  
+
+1. Chapter 1 - Basic Concepts
+   - [Python Input, Output and Import functions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Input%2C_Output_and_Import.ipynb)
+  - [Python Variables](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Variables.ipynb)
+  - [Python Global, Local and Nonlocal Variables](https://github.com/Tanu-N-Prabhu/Python/blob/master/Global%2C_Local_and_Nonlocal_variables_in_Python.ipynb)
+  - [Python Strings](https://github.com/Tanu-N-Prabhu/Python/tree/master/Strings)
+  - [Python Lists](https://github.com/Tanu-N-Prabhu/Python/tree/master/Lists)
+  - [Python Tuples](https://github.com/Tanu-N-Prabhu/Python/tree/master/Tuples)
+  - [Python Dictionary](https://github.com/Tanu-N-Prabhu/Python/tree/master/Dictionary%20)
+  - [Python Operators](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Operators.ipynb)
+- [Mastering Python Decorators](https://github.com/Tanu-N-Prabhu/Python/blob/master/Mastering_Python_Decorators.ipynb)
+
+---
+
+### **🧩 Chapter 2️⃣ — Built-in Functions**
+- **[Python Input, Output and Import built-in-functions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Input%2C_Output_and_Import.ipynb)**
+- **[Eval built-in-function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Eval_built_in_function.ipynb)**
+- **[Range built-in-function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Range_built_in_function.ipynb)**
+- **[Python Lambda Function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Lambda_Function.ipynb)**
+- **[Python Enumerate Function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_enumerate()_built_in_function.ipynb)**
+- **[Python len function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_len()_built_in_function.ipynb)**
+
+---
+
+### **📚 Chapter 3️⃣ — Libraries**
+- **[Numpy library](https://github.com/Tanu-N-Prabhu/Python/tree/master/Numpy)**
+- **[Pandas library](https://github.com/Tanu-N-Prabhu/Python/tree/master/Pandas)**
+- **[Math Module](https://github.com/Tanu-N-Prabhu/Python/blob/master/Learn_the_Python_Math_Module.ipynb)**
+- **[JSON library](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_handle_JSON_in_Python%3F.ipynb)**
+
+---
+
+### **🔗 Chapter 4️⃣ — APIs**
+- **[Google Translate API for Python](https://github.com/Tanu-N-Prabhu/Python/tree/master/Google%20Translate%20API)**
+- **[Google Trends API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Google_Trends_API.ipynb)**
+- **[Wikipedia API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Wikipedia_API_for_Python.ipynb)**
+- **[Google Search API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/The_two_Google_Search_Python_Libraries_you_should_never_miss.ipynb)**
+- **[General Transit Feed Specification (GTFS)](https://github.com/Tanu-N-Prabhu/Python/blob/387a2cdd5bcfc4afbae2319d017a850bdaeb772c/Transit_Data_Calgary_2025.ipynb)**
+- **[Time Series Forecasting with Facebook Prophet](https://github.com/Tanu-N-Prabhu/Python/blob/master/Unlocking_Time_Series_Forecasting_with_Facebook_Prophet.ipynb)**
+
+---
+
+### **📝 Chapter 5️⃣ — Additional Materials**
+- **[How to get started coding in Python?](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_get_started_coding_in_Python%3F.ipynb)**
+- **[Is Python Object Oriented?](https://github.com/Tanu-N-Prabhu/Python/blob/master/Is_Python_object_oriented%3F.ipynb)**
+- **[Speech Recognition using Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Speech_Recognition_using_Python.ipynb)**
+- **[One-Hot Encoding](https://github.com/Tanu-N-Prabhu/Python/blob/master/Learning_One_Hot_Encoding_in_Python_the_Easy_Way.ipynb)**
+- **[Reading an Image Without Libraries](https://github.com/Tanu-N-Prabhu/Python/blob/master/Reading_An_Image_In_Python_(Without_Using_Special_Libraries).ipynb)**
+- **[Render Images in Pandas DataFrame](https://github.com/Tanu-N-Prabhu/Python/blob/master/Rendering_Images_inside_a_Pandas_DataFrame.ipynb)**
+- **[Using Pandas DataFrame as a Database](https://github.com/Tanu-N-Prabhu/Python/blob/master/Using_the_Pandas_Data_Frame_as_a_Database_.ipynb)**
+- **[Using Pandas in Daily Life](https://github.com/Tanu-N-Prabhu/Python/blob/master/Using_the_Pandas_DataFrame_in_Day_To_Day_Life.ipynb)**
+- **[Presenting Python Code Using RISE](https://github.com/Tanu-N-Prabhu/Python/blob/master/Presenting_Python_code_using_RISE.ipynb)**
+- **[Google Colab Cheat Sheet](https://github.com/Tanu-N-Prabhu/Python/blob/master/Cheat_sheet_for_Google_Colab.ipynb)**
+- **[Pick-Up Line Generator](https://github.com/Tanu-N-Prabhu/Python/blob/master/Pick_up_Line_Generator.ipynb)**
+- **[Optimizing Code with List Comprehensions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Optimizing_Python_Code_with_List_Comprehensions.ipynb)**
+- **[Understanding Virtual Environments](https://github.com/Tanu-N-Prabhu/Python/blob/master/Understanding_Virtual_Environments_in_Python.ipynb)**
+- **[Hidden Markov Models](https://github.com/Tanu-N-Prabhu/Python/blob/master/Hidden_Markov_Models_in_Python.ipynb)**
+- **[Feature Maps in CNNs](https://github.com/Tanu-N-Prabhu/Python/blob/master/Hidden_Layers_of_Understanding_CNN.ipynb)**
+- **[Rule-Based System in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Rule_Based_System_with_Python.ipynb)**
+
+---
+
+### **🧪 Chapter 6️⃣ — Exercises**
+- **[String Concatenation Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/String_Concatenation_Exercise_Questions.ipynb)**  
+  - **Answers:**  
+    **[String Concatenation Answers](https://github.com/Tanu-N-Prabhu/Python/blob/master/String_Concatenation_Exercise_Answers.ipynb)**
+- **[Built-In Functions Exercise Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Built_In_Functions_Exercise_Questions.ipynb)**
+
+---
+
+### **❓ Chapter 7️⃣ — Quiz**
+- **[Quiz 1](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_1.ipynb)**
+- **[Quiz 2](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_2.ipynb)**
+- **[Quiz 3](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_3.ipynb)**
+
+---
+
+### **🧠 Chapter 8️⃣ — Interview Preparation**
+- **[Python Coding Interview Questions (Beginner → Advanced)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md)**
+- **[Crack Python Interviews Like a Pro!](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Crack%20Python%20Interviews%20Like%20a%20Pro!.md)**
+- **[35 Python Interview Questions (Experienced)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/35%20Python%20interview%20questions%20for%20experienced.md)**
+- **[Python Interview Questions — Strings](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Interview_Questions_and_Answers_Strings.md)**
+- **[Python Theoretical Interview Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Theoritical_Interview_Questions.md)**
+- **[15 Python Interview Q&A](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Interview_Questions_and_Answers.md)**
+- **[Assigning Candies to Children](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Children_with_candy.ipynb)**
+- **[Basic Calculator](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Basic_calculator.ipynb)**
+- **[Text Justification](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Text_Justification.ipynb)**
+- **[Removing an Element](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Remove_Element.ipynb)**
+- **[Vowel Count](https://github.com/Tanu-N-Prabhu/Python/blob/master/Vowel_Count.ipynb)**
+- **[Pick-Up Line Generator (Sentiment-Based)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/pick_up_line_generator_sentiments.ipynb)**
+- **[Sentimental Analysis](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Sentimental_Analysis.ipynb)**
+- **[Regular Polygon Visualizer](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Draw_polygon.ipynb)**
+
+---
+
+### **🏛 Chapter 9️⃣ — Design Principles**
+- **[Modular Pipeline / Clean Architecture](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_Structure_Machine_Learning_Projects_with_Clean_Code_Principles_in_Python.ipynb)**
+- **[Dependency Inversion Principle](https://github.com/Tanu-N-Prabhu/Python/blob/master/Dependency_Inversion_Principle_in_Python.ipynb)**
+- **[Open-Closed Principle](https://github.com/Tanu-N-Prabhu/Python/blob/master/Open_Closed_Principle_in_Python.ipynb)**
+- **[Liskov Substitution Principle](https://github.com/Tanu-N-Prabhu/Python/blob/master/Liskov_Substitution_Principle_in_Python.ipynb)**
+- **[Interface Segregation Principle](https://github.com/Tanu-N-Prabhu...)
+
+</details>
+
+
 
 #### 4. Machine Learning Materials
 1. Core ML Concepts  
