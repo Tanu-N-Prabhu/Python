@@ -69,14 +69,14 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
 
 1. Chapter 1 - Basic Concepts
    - [Python Input, Output and Import functions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Input%2C_Output_and_Import.ipynb)
-  - [Python Variables](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Variables.ipynb)
-  - [Python Global, Local and Nonlocal Variables](https://github.com/Tanu-N-Prabhu/Python/blob/master/Global%2C_Local_and_Nonlocal_variables_in_Python.ipynb)
-  - [Python Strings](https://github.com/Tanu-N-Prabhu/Python/tree/master/Strings)
-  - [Python Lists](https://github.com/Tanu-N-Prabhu/Python/tree/master/Lists)
-  - [Python Tuples](https://github.com/Tanu-N-Prabhu/Python/tree/master/Tuples)
-  - [Python Dictionary](https://github.com/Tanu-N-Prabhu/Python/tree/master/Dictionary%20)
-  - [Python Operators](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Operators.ipynb)
-- [Mastering Python Decorators](https://github.com/Tanu-N-Prabhu/Python/blob/master/Mastering_Python_Decorators.ipynb)
+   - [Python Variables](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Variables.ipynb)
+   - [Python Global, Local and Nonlocal Variables](https://github.com/Tanu-N-Prabhu/Python/blob/master/Global%2C_Local_and_Nonlocal_variables_in_Python.ipynb)
+   - [Python Strings](https://github.com/Tanu-N-Prabhu/Python/tree/master/Strings)
+   - [Python Lists](https://github.com/Tanu-N-Prabhu/Python/tree/master/Lists)
+   - [Python Tuples](https://github.com/Tanu-N-Prabhu/Python/tree/master/Tuples)
+   - [Python Dictionary](https://github.com/Tanu-N-Prabhu/Python/tree/master/Dictionary%20)
+   - [Python Operators](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Operators.ipynb)
+   - [Mastering Python Decorators](https://github.com/Tanu-N-Prabhu/Python/blob/master/Mastering_Python_Decorators.ipynb)
 
 ---
 
