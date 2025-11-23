@@ -56,29 +56,29 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
 
 ## Table of Contents
 
-### 1. Introduction
-1. Purpose  
-2. Audience  
-3. Usage Guidelines  
+#### 1. [Introduction](https://github.com/Tanu-N-Prabhu/Python/blob/master/README.md)
+1. [What](https://github.com/Tanu-N-Prabhu/Python/tree/master#about) 
+2. [Why](https://github.com/Tanu-N-Prabhu/Python/tree/master#why-choose-this-repository) 
+3. [How](https://github.com/Tanu-N-Prabhu/Python/tree/master#why-choose-this-repository)  
 
-### 2. LinkedIn Content Overview
+#### 2. LinkedIn Content Overview
 1. Coverage Themes  
 2. Post Structure Framework  
 3. Coding Standards Referenced  
 
-### 3. Python Materials
+#### 3. Python Materials
 1. Foundational Topics  
 2. Intermediate-Level Patterns  
 3. Advanced Concepts  
 4. Best Practice Highlights  
 
-### 4. Machine Learning Materials
+#### 4. Machine Learning Materials
 1. Core ML Concepts  
 2. Algorithms & Model Discussions  
 3. Practical Use Cases  
 4. Interview-Relevant Insights  
 
-### 5. [Data Science Materials](https://github.com/Tanu-N-Prabhu/Python/tree/713e5814c15caf6ee4640f7b4cec04a68b4b899e/Data%20Analysis)
+#### 5. [Data Science Materials](https://github.com/Tanu-N-Prabhu/Python/tree/713e5814c15caf6ee4640f7b4cec04a68b4b899e/Data%20Analysis)
 1. [Level 0](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/Level%200)
 2. [Level 1](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/Level%201)
 3. [Level 2](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/Level%202)
@@ -88,14 +88,14 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
 7. [EDA Techniques](https://github.com/Tanu-N-Prabhu/Python/tree/master/Exploratory%20Data%20Analysis)
 8. [25 Real Data Analysis Questions With Clear Python Answers](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/25%20Real%20Questions%20With%20Clear%20Python%20Answers)
 
-### 6. [Contribution Workflow](https://github.com/Tanu-N-Prabhu/Python/blob/master/contribution.md)
+#### 6. [Contribution Workflow](https://github.com/Tanu-N-Prabhu/Python/blob/master/contribution.md)
 1. [Code Snippet Guidelines](https://github.com/Tanu-N-Prabhu/Python/tree/master?tab=coc-ov-file#)
 
-### 7. [Release Notes](https://github.com/Tanu-N-Prabhu/Python/tree/7ef79b9098d5c82862669cf61b7b413864dfad83/Release%20Notes)
+#### 7. [Release Notes](https://github.com/Tanu-N-Prabhu/Python/tree/7ef79b9098d5c82862669cf61b7b413864dfad83/Release%20Notes)
 1. [Current Release](https://github.com/Tanu-N-Prabhu/Python/blob/master/Release%20Notes/v1.2.0.md)  
 2. [Archive](https://github.com/Tanu-N-Prabhu/Python/blob/master/Release%20Notes/README.md)
 
-### 8. [Attribution](https://github.com/Tanu-N-Prabhu/Python/tree/master?tab=readme-ov-file#reviews)
+#### 8. [Attribution](https://github.com/Tanu-N-Prabhu/Python/tree/master?tab=readme-ov-file#reviews)
 1. [Credit & Acknowledgment](https://github.com/Tanu-N-Prabhu/Python/tree/master?tab=readme-ov-file#reviews)
 
 ## About
