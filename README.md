@@ -128,28 +128,26 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
    - [Built-In Functions Exercise Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Built_In_Functions_Exercise_Questions.ipynb)
 
 
-### **❓ Chapter 7️⃣ — Quiz**
-- **[Quiz 1](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_1.ipynb)**
-- **[Quiz 2](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_2.ipynb)**
-- **[Quiz 3](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_3.ipynb)**
+7. **Chapter 7 - Quiz**
+   - [Quiz 1](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_1.ipynb)
+   - [Quiz 2](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_2.ipynb)
+   - [Quiz 3](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_3.ipynb)
 
----
-
-### **🧠 Chapter 8️⃣ — Interview Preparation**
-- **[Python Coding Interview Questions (Beginner → Advanced)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md)**
-- **[Crack Python Interviews Like a Pro!](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Crack%20Python%20Interviews%20Like%20a%20Pro!.md)**
-- **[35 Python Interview Questions (Experienced)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/35%20Python%20interview%20questions%20for%20experienced.md)**
-- **[Python Interview Questions — Strings](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Interview_Questions_and_Answers_Strings.md)**
-- **[Python Theoretical Interview Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Theoritical_Interview_Questions.md)**
-- **[15 Python Interview Q&A](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Interview_Questions_and_Answers.md)**
-- **[Assigning Candies to Children](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Children_with_candy.ipynb)**
-- **[Basic Calculator](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Basic_calculator.ipynb)**
-- **[Text Justification](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Text_Justification.ipynb)**
-- **[Removing an Element](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Remove_Element.ipynb)**
-- **[Vowel Count](https://github.com/Tanu-N-Prabhu/Python/blob/master/Vowel_Count.ipynb)**
-- **[Pick-Up Line Generator (Sentiment-Based)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/pick_up_line_generator_sentiments.ipynb)**
-- **[Sentimental Analysis](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Sentimental_Analysis.ipynb)**
-- **[Regular Polygon Visualizer](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Draw_polygon.ipynb)**
+8. **Chapter 8 - Interview Preparation**
+   - [Python Coding Interview Questions (Beginner → Advanced)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md)
+   - [Crack Python Interviews Like a Pro!](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Crack%20Python%20Interviews%20Like%20a%20Pro!.md)
+   - [35 Python Interview Questions (Experienced)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/35%20Python%20interview%20questions%20for%20experienced.md)
+   - [Python Interview Questions — Strings](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Interview_Questions_and_Answers_Strings.md)
+   - [Python Theoretical Interview Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Theoritical_Interview_Questions.md)
+   - [15 Python Interview Q&A](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python_Interview_Questions_and_Answers.md)
+   - [Assigning Candies to Children](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Children_with_candy.ipynb)
+   - [Basic Calculator](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Basic_calculator.ipynb)
+   - [Text Justification](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Text_Justification.ipynb)
+   - [Removing an Element](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Remove_Element.ipynb)
+   - [Vowel Count](https://github.com/Tanu-N-Prabhu/Python/blob/master/Vowel_Count.ipynb)
+   - [Pick-Up Line Generator (Sentiment-Based)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/pick_up_line_generator_sentiments.ipynb)
+   - [Sentimental Analysis](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Sentimental_Analysis.ipynb)
+   - [Regular Polygon Visualizer](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Draw_polygon.ipynb)
 
 ---
 
