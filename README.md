@@ -45,7 +45,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 22, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 23, 2025<!-- END_LAST_UPDATED --></p>
 
 
 
@@ -641,11 +641,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-3php)
-- [Introducing Nano Banana Pro: Complete Developer Tutorial](https://dev.to/googleai/introducing-nano-banana-pro-complete-developer-tutorial-5fc8)
-- [AI Psychosis](https://dev.to/srbhr/ai-psychosis-3mhh)
-- [LLM Context Window Stress Testing: Reliability Under Load](https://dev.to/vaticnz/llm-context-window-stress-testing-reliability-under-load-1gjj)
-- [Is AI Sabotaging Your Career Growth? Delivery Speed vs. Learning Depth](https://dev.to/dchueri/is-ai-sabotaging-your-career-growth-delivery-speed-vs-learning-depth-297o)
+- [The AI Industry Has a Truth Problem: Here’s How I See It](https://dev.to/jaideepparashar/the-ai-industry-has-a-truth-problem-heres-how-i-see-it-1gb1)
+- [Common Coding Mistakes at Every Level (And How to Fix Them)](https://dev.to/thebitforge/common-coding-mistakes-at-every-level-and-how-to-fix-them-4cgb)
+- [I built a self-hosted Google Forms alternative and made it open source! 🎉](https://dev.to/anmolbaranwal/i-built-a-self-hosted-google-forms-alternative-and-made-it-open-source-4f11)
+- [Why I favor the fundamentals over the "Framework of the Month" for Web Development](https://dev.to/benlue/why-i-favor-the-fundamentals-over-the-framework-of-the-month-for-web-development-1gka)
+- [The Secret Life of Go](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-1enk)
 <!-- END_TRENDING -->
 
 ---
