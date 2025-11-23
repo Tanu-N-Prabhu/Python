@@ -61,10 +61,9 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
 2. [Why](https://github.com/Tanu-N-Prabhu/Python/tree/master#why-choose-this-repository) 
 3. [How](https://github.com/Tanu-N-Prabhu/Python/tree/master#why-choose-this-repository)  
 
-#### 2. LinkedIn Content Overview
-1. Coverage Themes  
-2. Post Structure Framework  
-3. Coding Standards Referenced  
+#### 2. [LinkedIn Content Overview](https://github.com/Tanu-N-Prabhu/Python/tree/master/LinkedIn)  
+1. [Current Post](https://github.com/Tanu-N-Prabhu/Python/blob/master/LinkedIn/post_3_nov_20.md)
+2. [Purpose](https://github.com/Tanu-N-Prabhu/Python/tree/master/LinkedIn#purpose-of-this-folder)
 
 #### 3. Python Materials
 1. Foundational Topics  
