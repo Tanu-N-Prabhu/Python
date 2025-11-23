@@ -87,11 +87,11 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
    - [Python Enumerate Function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_enumerate()_built_in_function.ipynb)
    - [Python len function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_len()_built_in_function.ipynb)
 
-### **📚 Chapter 3️⃣ — Libraries**
-- **[Numpy library](https://github.com/Tanu-N-Prabhu/Python/tree/master/Numpy)**
-- **[Pandas library](https://github.com/Tanu-N-Prabhu/Python/tree/master/Pandas)**
-- **[Math Module](https://github.com/Tanu-N-Prabhu/Python/blob/master/Learn_the_Python_Math_Module.ipynb)**
-- **[JSON library](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_handle_JSON_in_Python%3F.ipynb)**
+3. Chapter 3 - Libraries
+   - [Numpy library](https://github.com/Tanu-N-Prabhu/Python/tree/master/Numpy)
+   - [Pandas library](https://github.com/Tanu-N-Prabhu/Python/tree/master/Pandas)
+   - [Math Module](https://github.com/Tanu-N-Prabhu/Python/blob/master/Learn_the_Python_Math_Module.ipynb)
+   - [JSON library](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_handle_JSON_in_Python%3F.ipynb)
 
 ---
 
