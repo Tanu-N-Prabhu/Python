@@ -94,9 +94,9 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
 2. Documentation Style Guide  
 3. Code Snippet Guidelines  
 
-### 8. Changelog
-1. Current Release  
-2. Archive  
+### 8. [Release Notes](https://github.com/Tanu-N-Prabhu/Python/tree/7ef79b9098d5c82862669cf61b7b413864dfad83/Release%20Notes)
+1. [Current Release](https://github.com/Tanu-N-Prabhu/Python/blob/master/Release%20Notes/v1.2.0.md)  
+2. [Archive](https://github.com/Tanu-N-Prabhu/Python/blob/master/Release%20Notes/README.md)
 
 ### 9. Licensing & Attribution
 1. License Information  
