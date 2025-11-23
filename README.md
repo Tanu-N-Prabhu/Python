@@ -67,7 +67,7 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
 
 #### [3. Python Materials](https://github.com/Tanu-N-Prabhu/Python/blob/master/README.md#pythonic-materials)
 
-1. Chapter 1 - Basic Concepts
+1. **Chapter 1 - Basic Concepts**
    - [Python Input, Output and Import functions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Input%2C_Output_and_Import.ipynb)
    - [Python Variables](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Variables.ipynb)
    - [Python Global, Local and Nonlocal Variables](https://github.com/Tanu-N-Prabhu/Python/blob/master/Global%2C_Local_and_Nonlocal_variables_in_Python.ipynb)
@@ -79,7 +79,7 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
    - [Mastering Python Decorators](https://github.com/Tanu-N-Prabhu/Python/blob/master/Mastering_Python_Decorators.ipynb)
 
 
-2. Chapter 2 - Built-in Functions
+2. **Chapter 2 - Built-in Functions**
    - [Python Input, Output and Import built-in-functions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Input%2C_Output_and_Import.ipynb)
    - [Eval built-in-function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Eval_built_in_function.ipynb)
    - [Range built-in-function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Range_built_in_function.ipynb)
@@ -87,7 +87,7 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
    - [Python Enumerate Function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_enumerate()_built_in_function.ipynb)
    - [Python len function](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_len()_built_in_function.ipynb)
 
-3. Chapter 3 - Libraries
+3. **Chapter 3 - Libraries**
    - [Numpy library](https://github.com/Tanu-N-Prabhu/Python/tree/master/Numpy)
    - [Pandas library](https://github.com/Tanu-N-Prabhu/Python/tree/master/Pandas)
    - [Math Module](https://github.com/Tanu-N-Prabhu/Python/blob/master/Learn_the_Python_Math_Module.ipynb)
@@ -95,13 +95,13 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
 
 ---
 
-### **🔗 Chapter 4️⃣ — APIs**
-- **[Google Translate API for Python](https://github.com/Tanu-N-Prabhu/Python/tree/master/Google%20Translate%20API)**
-- **[Google Trends API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Google_Trends_API.ipynb)**
-- **[Wikipedia API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Wikipedia_API_for_Python.ipynb)**
-- **[Google Search API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/The_two_Google_Search_Python_Libraries_you_should_never_miss.ipynb)**
-- **[General Transit Feed Specification (GTFS)](https://github.com/Tanu-N-Prabhu/Python/blob/387a2cdd5bcfc4afbae2319d017a850bdaeb772c/Transit_Data_Calgary_2025.ipynb)**
-- **[Time Series Forecasting with Facebook Prophet](https://github.com/Tanu-N-Prabhu/Python/blob/master/Unlocking_Time_Series_Forecasting_with_Facebook_Prophet.ipynb)**
+4. **🔗 Chapter 4 - APIs**
+   - [Google Translate API for Python](https://github.com/Tanu-N-Prabhu/Python/tree/master/Google%20Translate%20API)
+   - [Google Trends API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Google_Trends_API.ipynb)
+   - [Wikipedia API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Wikipedia_API_for_Python.ipynb)
+   - [Google Search API for Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/The_two_Google_Search_Python_Libraries_you_should_never_miss.ipynb)
+   - [General Transit Feed Specification (GTFS)](https://github.com/Tanu-N-Prabhu/Python/blob/387a2cdd5bcfc4afbae2319d017a850bdaeb772c/Transit_Data_Calgary_2025.ipynb)
+   - [Time Series Forecasting with Facebook Prophet](https://github.com/Tanu-N-Prabhu/Python/blob/master/Unlocking_Time_Series_Forecasting_with_Facebook_Prophet.ipynb)
 
 ---
 
