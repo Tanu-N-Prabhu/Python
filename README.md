@@ -56,16 +56,16 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
 
 ## Table of Contents
 
-#### 1. [Introduction](https://github.com/Tanu-N-Prabhu/Python/blob/master/README.md)
+#### [1. Introduction](https://github.com/Tanu-N-Prabhu/Python/blob/master/README.md)
 1. [What](https://github.com/Tanu-N-Prabhu/Python/tree/master#about) 
 2. [Why](https://github.com/Tanu-N-Prabhu/Python/tree/master#why-choose-this-repository) 
 3. [How](https://github.com/Tanu-N-Prabhu/Python/tree/master#why-choose-this-repository)  
 
-#### 2. [LinkedIn Content Overview](https://github.com/Tanu-N-Prabhu/Python/tree/master/LinkedIn)  
+#### [2. LinkedIn Content Overview](https://github.com/Tanu-N-Prabhu/Python/tree/master/LinkedIn)  
 1. [Current Post](https://github.com/Tanu-N-Prabhu/Python/blob/master/LinkedIn/post_3_nov_20.md)
 2. [Purpose](https://github.com/Tanu-N-Prabhu/Python/tree/master/LinkedIn#purpose-of-this-folder)
 
-#### 3. Python Materials
+#### [3. Python Materials](https://github.com/Tanu-N-Prabhu/Python/blob/master/README.md#pythonic-materials)
 
 1. Chapter 1 - Basic Concepts
    - [Python Input, Output and Import functions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python_Input%2C_Output_and_Import.ipynb)
@@ -172,13 +172,13 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
 
 
 
-#### 4. Machine Learning Materials
+#### [4. Machine Learning Materials]()
 1. Core ML Concepts  
 2. Algorithms & Model Discussions  
 3. Practical Use Cases  
 4. Interview-Relevant Insights  
 
-#### 5. [Data Science Materials](https://github.com/Tanu-N-Prabhu/Python/tree/713e5814c15caf6ee4640f7b4cec04a68b4b899e/Data%20Analysis)
+#### [5. Data Science Materials](https://github.com/Tanu-N-Prabhu/Python/tree/713e5814c15caf6ee4640f7b4cec04a68b4b899e/Data%20Analysis)
 1. [Level 0](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/Level%200)
 2. [Level 1](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/Level%201)
 3. [Level 2](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/Level%202)
@@ -188,10 +188,10 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
 7. [EDA Techniques](https://github.com/Tanu-N-Prabhu/Python/tree/master/Exploratory%20Data%20Analysis)
 8. [25 Real Data Analysis Questions With Clear Python Answers](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/25%20Real%20Questions%20With%20Clear%20Python%20Answers)
 
-#### 6. [Contribution Workflow](https://github.com/Tanu-N-Prabhu/Python/blob/master/contribution.md)
+#### [6. Contribution Workflow](https://github.com/Tanu-N-Prabhu/Python/blob/master/contribution.md)
 1. [Code Snippet Guidelines](https://github.com/Tanu-N-Prabhu/Python/tree/master?tab=coc-ov-file#)
 
-#### 7. [Release Notes](https://github.com/Tanu-N-Prabhu/Python/tree/7ef79b9098d5c82862669cf61b7b413864dfad83/Release%20Notes)
+#### [7. Release Notes](https://github.com/Tanu-N-Prabhu/Python/tree/7ef79b9098d5c82862669cf61b7b413864dfad83/Release%20Notes)
 1. [Current Release](https://github.com/Tanu-N-Prabhu/Python/blob/master/Release%20Notes/v1.2.0.md)  
 2. [Archive](https://github.com/Tanu-N-Prabhu/Python/blob/master/Release%20Notes/README.md)
 
