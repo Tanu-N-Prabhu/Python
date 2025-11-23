@@ -54,6 +54,56 @@
 
 Welcome to a treasure trove of Python programming expertise, Data Science mastery, and essential survival skills for navigating the dynamic world of programming. Dive into the depths of this repository to unlock the knowledge and tools you need to thrive in your coding journey.
 
+## Table of Contents
+
+### 1. Introduction
+1. Purpose  
+2. Audience  
+3. Usage Guidelines  
+
+### 2. LinkedIn Content Overview
+1. Coverage Themes  
+2. Post Structure Framework  
+3. Coding Standards Referenced  
+
+### 3. Python Materials
+1. Foundational Topics  
+2. Intermediate-Level Patterns  
+3. Advanced Concepts  
+4. Best Practice Highlights  
+
+### 4. Machine Learning Materials
+1. Core ML Concepts  
+2. Algorithms & Model Discussions  
+3. Practical Use Cases  
+4. Interview-Relevant Insights  
+
+### 5. Data Science Materials
+1. Data Cleaning Methodology  
+2. EDA Techniques  
+3. Visualization Principles  
+4. Essential DS Tricks  
+
+### 6. Repository Structure
+1. Directory Layout  
+2. Naming Standards  
+3. Navigation Instructions  
+
+### 7. Contribution Workflow
+1. Adding New Posts  
+2. Documentation Style Guide  
+3. Code Snippet Guidelines  
+
+### 8. Changelog
+1. Current Release  
+2. Archive  
+
+### 9. Licensing & Attribution
+1. License Information  
+2. Credit & Acknowledgment  
+3. Referencing the Repository  
+
+
 ## About
 
 This repository isn’t just a collection of code snippets; it’s a comprehensive resource designed to empower learners and professionals alike. You’ll find invaluable insights and guidance for:
@@ -62,55 +112,6 @@ This repository isn’t just a collection of code snippets; it’s a comprehensi
 * **Data Enthusiasts** - Delve into the intricacies of data science.
 * **Seasoned Developers** - Hone your craft with advanced techniques and tips.
 
-
-## Table of Contents
-
-**1. Introduction**
-- 1.1 Purpose of This Repository
-- 1.2 Who This Collection Is For
-- 1.3 How to Use This Folder
-
-**2. LinkedIn Posts Overview**
-- 2.1 Themes Covered
-- 2.2 Structure of Each Post
-- 2.3 Code Snippet Patterns and Conventions
-
-**3. Python Programming Posts**
-- 3.1 Beginner-Friendly Concepts
-- 3.2 Intermediate Techniques
-- 3.3 Advanced Python Insights
-- 3.4 Best Practices Shared in Posts
-
-**4. Machine Learning Posts**
-- 4.1 ML Fundamentals
-- 4.2 Algorithms & Models Discussed
-- 4.3 Real-World ML Applications
-- 4.4 Tips for ML Interview Preparation
-
-**5. Data Science Posts**
-- 5.1 Data Cleaning & Preprocessing
-- 5.2 Exploratory Data Analysis (EDA) Concepts
-- 5.3 Visualization Principles (No Code Included)
-- 5.4 Essential DS Tricks Shared in Posts
-
-**6. Repository Structure**
-- 6.1 Folder Breakdown
-- 6.2 Naming Conventions
-- 6.3 How to Navigate the Content
-
-**7. Contribution Guide**
-- 7.1 How to Add New Posts
-- 7.2 Formatting Rules
-- 7.3 Code Snippet Guidelines
-
-**8. Changelog**
-- 8.1 Recent Updates
-- 8.2 Previous Versions
-
-**9. License & Attribution**
-- 9.1 License
-- 9.2 Credits
-- 9.3 Referencing This Repository
 
 ## What the repository offers
 
