@@ -93,7 +93,6 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
    - [Math Module](https://github.com/Tanu-N-Prabhu/Python/blob/master/Learn_the_Python_Math_Module.ipynb)
    - [JSON library](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_handle_JSON_in_Python%3F.ipynb)
 
----
 
 4. **Chapter 4 - APIs**
    - [Google Translate API for Python](https://github.com/Tanu-N-Prabhu/Python/tree/master/Google%20Translate%20API)
@@ -103,7 +102,6 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
    - [General Transit Feed Specification (GTFS)](https://github.com/Tanu-N-Prabhu/Python/blob/387a2cdd5bcfc4afbae2319d017a850bdaeb772c/Transit_Data_Calgary_2025.ipynb)
    - [Time Series Forecasting with Facebook Prophet](https://github.com/Tanu-N-Prabhu/Python/blob/master/Unlocking_Time_Series_Forecasting_with_Facebook_Prophet.ipynb)
 
----
 
 5. **Chapter 5 - Additional Materials**
    - [How to get started coding in Python?](https://github.com/Tanu-N-Prabhu/Python/blob/master/How_to_get_started_coding_in_Python%3F.ipynb)
@@ -123,15 +121,12 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
    - [Feature Maps in CNNs](https://github.com/Tanu-N-Prabhu/Python/blob/master/Hidden_Layers_of_Understanding_CNN.ipynb)
    - [Rule-Based System in Python](https://github.com/Tanu-N-Prabhu/Python/blob/master/Rule_Based_System_with_Python.ipynb)
 
----
 
-### **🧪 Chapter 6️⃣ — Exercises**
-- **[String Concatenation Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/String_Concatenation_Exercise_Questions.ipynb)**  
-  - **Answers:**  
-    **[String Concatenation Answers](https://github.com/Tanu-N-Prabhu/Python/blob/master/String_Concatenation_Exercise_Answers.ipynb)**
-- **[Built-In Functions Exercise Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Built_In_Functions_Exercise_Questions.ipynb)**
+6. **Chapter 6 - Exercises**
+   - [String Concatenation Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/String_Concatenation_Exercise_Questions.ipynb)  
+   - [String Concatenation Answers](https://github.com/Tanu-N-Prabhu/Python/blob/master/String_Concatenation_Exercise_Answers.ipynb)
+   - [Built-In Functions Exercise Questions](https://github.com/Tanu-N-Prabhu/Python/blob/master/Built_In_Functions_Exercise_Questions.ipynb)
 
----
 
 ### **❓ Chapter 7️⃣ — Quiz**
 - **[Quiz 1](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_1.ipynb)**
