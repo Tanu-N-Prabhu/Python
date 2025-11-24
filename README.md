@@ -161,10 +161,12 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
 
 
 #### [4. Machine Learning Materials]()
-1. Core ML Concepts  
-2. Algorithms & Model Discussions  
-3. Practical Use Cases  
-4. Interview-Relevant Insights  
+1. [Foundations](https://github.com/Tanu-N-Prabhu/Python/tree/master/Machine%20Learning/00_foundations)
+2. [Supervised Learning](https://github.com/Tanu-N-Prabhu/Python/tree/master/Machine%20Learning/01_supervised_learning)
+3. [Unsupervised Learning](https://github.com/Tanu-N-Prabhu/Python/tree/master/Machine%20Learning/02_unsupervised_learning)
+4. [Neural Networks](https://github.com/Tanu-N-Prabhu/Python/tree/master/Machine%20Learning/03_neural_networks)
+5. [MLOps](https://github.com/Tanu-N-Prabhu/Python/tree/master/Machine%20Learning/04_mlops)
+6. [Projects](https://github.com/Tanu-N-Prabhu/Python/tree/master/Machine%20Learning/05_projects)
 
 #### [5. Data Science Materials](https://github.com/Tanu-N-Prabhu/Python/tree/713e5814c15caf6ee4640f7b4cec04a68b4b899e/Data%20Analysis)
 1. [Level 0](https://github.com/Tanu-N-Prabhu/Python/tree/master/Data%20Analysis/Level%200)
