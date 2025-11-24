@@ -717,29 +717,43 @@ If you have access to ChatGPT Premium, there is a GPT Librarian with access to a
 
 ---
 
-# Reviews
+# Reviews  
+> **Below are some of the reviews about this Python GitHub Repository:**  
 
-<b>Below are some of the reviews about this Python GitHub Repository:</b>
- 
+---
 
+### **‪Elin Uppström**  
+`Senior Lecturer • Uppsala University, Sweden`
 
-> <b>‪Elin Uppström</b> - Senior Lecturer at Uppsala University, Sweden. <br>
 > I found your excellent exercises on your GitHub while preparing an undergraduate course in data analysis. I want to use it in my course.
 
+---
 
-> <b>‪Cole Striler</b> - Data Scientist, Founder of Datafied<br>
-> I came across your GitHub and love your Jupyter Notebooks, especially the one on "<b>Predicting PewDiePie's daily subscribers</b>". I think you do a great job of explaining your work, which others can learn from.
+### **‪Cole Striler**  
+`Data Scientist • Founder of Datafied`
 
+> I came across your GitHub and love your Jupyter Notebooks, especially the one on "Predicting PewDiePie's daily subscribers". I think you do a great job of explaining your work, which others can learn from.
 
-> <b>Laurence Watson</b> - Co-Founder & CEO, Treebeard<br>
+---
+
+### **Laurence Watson**  
+`Co-Founder & CEO • Treebeard`
+
 > You have a lot of great Jupyter notebook content on GitHub.
 
+---
 
-> <b>Poonam Gupta</b> - Math & AP Computer Science Instructor, Brunswick School <br>
+### **Poonam Gupta**  
+`Math & AP Computer Science Instructor • Brunswick School`
+
 > Thank you so much for posting such helpful posts on GitHub. Many, many thanks for all you do to spread the knowledge.
 
-> <b>David Okenwa</b> - Mechanical Engineer and currently building in Data Analytics!
-I recently came across your Medium, GitHub, and portfolio website serendipitously and was enthralled. Inspiring! I want to start writing articles and building my GitHub repositories. 
+---
+
+### **David Okenwa**  
+`Mechanical Engineer • Building in Data Analytics`
+
+> I recently came across your Medium, GitHub, and portfolio website serendipitously and was enthralled. Inspiring! I want to start writing articles and building my GitHub repositories.
 
 
 **Do you like the Repository? Please share your valuable reviews by sending an [email](tanunprabhu95@gmail.com).**
