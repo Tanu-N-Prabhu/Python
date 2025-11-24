@@ -133,7 +133,7 @@ Welcome to a treasure trove of Python programming expertise, Data Science master
    - [Quiz 2](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_2.ipynb)
    - [Quiz 3](https://github.com/Tanu-N-Prabhu/Python/blob/master/Quiz/Python_Quiz_3.ipynb)
 
-8. **Chapter 8 - Interview Preparation**
+8. **[Chapter 8 - Interview Preparation](https://github.com/Tanu-N-Prabhu/Python/tree/master/Python%20Coding%20Interview%20Prep)**
    - [Python Coding Interview Questions (Beginner → Advanced)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Python%20Coding%20Interview%20Questions%20(Beginner%20to%20Advanced).md)
    - [Crack Python Interviews Like a Pro!](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/Crack%20Python%20Interviews%20Like%20a%20Pro!.md)
    - [35 Python Interview Questions (Experienced)](https://github.com/Tanu-N-Prabhu/Python/blob/master/Python%20Coding%20Interview%20Prep/35%20Python%20interview%20questions%20for%20experienced.md)
