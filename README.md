@@ -702,20 +702,19 @@ If the Jupyter Notebook doesn’t load, don’t worry! Simply copy and paste the
 
 If you have access to ChatGPT Premium, there is a GPT Librarian with access to all files here [here](https://chat.openai.com/g/g-2HlDYwyrW-python-from-scratch)
 
+---
+
+# Contact for Help
+
+| Platform | Details |
+|---------|----------|
+| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) | **tanunprabhu95@gmail.com** |
+| ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) | [**Tanu Nanda Prabhu**](https://www.linkedin.com/in/tanu-nanda-prabhu-a15a091b5/) |
+| ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) | [**Tanu N Prabhu**](https://medium.com/@tanunprabhu95) |
+| ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) | [**Python Coder**](https://www.instagram.com/pycoderr/) |
 
 ---
 
-
-# Contact for help
-
-| Contact        | Info           | 
-| ------------- |:-------------:|
-| ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)      | tanunprabhu95@gmail.com  | 
-| ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)    | [Tanu Nanda Prabhu](https://www.linkedin.com/in/tanu-nanda-prabhu-a15a091b5/) |
-| ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)| [Tanu N Prabhu](https://medium.com/@tanunprabhu95)|
-| ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)| [Python Coder](https://www.instagram.com/pycoderr/)|
-
----
 
 # Reviews  
 > **Below are some of the reviews about this Python GitHub Repository:**  
