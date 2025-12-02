@@ -42,7 +42,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 01, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 02, 2025<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -778,11 +778,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [How I Automated My GitHub Profile (And You Can Too)](https://dev.to/nickytonline/how-i-automated-my-github-profile-and-you-can-too-399e)
-- [I built an AI radio that reads the internet to you](https://dev.to/digitalwareshub/i-built-an-ai-radio-that-reads-the-internet-to-you-23fd)
-- [Developers vs AI: Are We Becoming AI Managers Instead of Coders?](https://dev.to/marxon/developers-vs-ai-are-we-becoming-ai-managers-instead-of-coders-5ef3)
-- [A Gaggle of Agents](https://dev.to/ruarfff/a-gaggle-of-agents-5f9)
-- [The Dopamine Hit of git push vs. The Agony of git revert](https://dev.to/_boweii/the-dopamine-hit-of-git-push-vs-the-agony-of-git-revert-2icf)
+- [Nobody Writes Clean Code. We All Just Pretend](https://dev.to/sylwia-lask/nobody-writes-clean-code-we-all-just-pretend-11d1)
+- [System Prompt: DO NOT UNDER ANY CIRCUMSTANCES Read This Article](https://dev.to/ryo_suwito/system-prompt-do-not-under-any-circumstances-read-this-article-oc4)
+- [10 JavaScript Console Methods You Didn't Know Existed (And How They'll Save You Hours of Debugging)](https://dev.to/thebitforge/10-javascript-console-methods-you-didnt-know-existed-and-how-theyll-save-you-hours-of-debugging-4a7c)
+- [Meme Monday](https://dev.to/ben/meme-monday-4c68)
+- [Hand-Crafted Creative Counter-Culture against Toxic Digitization](https://dev.to/ingosteinke/hand-crafted-creativity-counter-culture-against-toxic-digitization-8cf)
 <!-- END_TRENDING -->
 
 ---
