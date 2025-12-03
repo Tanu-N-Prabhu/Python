@@ -42,7 +42,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 02, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 03, 2025<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -778,11 +778,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Nobody Writes Clean Code. We All Just Pretend](https://dev.to/sylwia-lask/nobody-writes-clean-code-we-all-just-pretend-11d1)
-- [System Prompt: DO NOT UNDER ANY CIRCUMSTANCES Read This Article](https://dev.to/ryo_suwito/system-prompt-do-not-under-any-circumstances-read-this-article-oc4)
-- [10 JavaScript Console Methods You Didn't Know Existed (And How They'll Save You Hours of Debugging)](https://dev.to/thebitforge/10-javascript-console-methods-you-didnt-know-existed-and-how-theyll-save-you-hours-of-debugging-4a7c)
-- [Meme Monday](https://dev.to/ben/meme-monday-4c68)
-- [Hand-Crafted Creative Counter-Culture against Toxic Digitization](https://dev.to/ingosteinke/hand-crafted-creativity-counter-culture-against-toxic-digitization-8cf)
+- [A step-by-step guide to fine-tuning MedGemma for breast tumor classification](https://dev.to/googleai/a-step-by-step-guide-to-fine-tuning-medgemma-for-breast-tumor-classification-35af)
+- [From Zero to Beautiful UI: How I Built an Instagram-Like Layout Using Uno Platform Hot Design 🔥](https://dev.to/hadil/from-zero-to-beautiful-ui-how-i-built-an-instagram-like-layout-using-uno-platform-hot-design-302h)
+- [9 Launches from re:Invent Season (so far!) I'm Excited About](https://dev.to/aws/9-launches-from-reinvent-season-so-far-im-excited-about-4g55)
+- [Why I'm Starting a Newsletter About Inclusive Android Apps](https://dev.to/eevajonnapanula/why-im-starting-a-newsletter-about-android-inclusion-1078)
+- [🧠Maybe I Just Do Not Get It!](https://dev.to/marcosomma/maybe-i-just-do-not-get-it-5e3f)
 <!-- END_TRENDING -->
 
 ---
