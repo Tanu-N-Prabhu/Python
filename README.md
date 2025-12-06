@@ -42,7 +42,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 05, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 06, 2025<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -778,11 +778,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [I Switched Shell History Tools. Here's Why](https://dev.to/nickytonline/i-switched-shell-history-tools-heres-why-m6h)
-- [So… what is GitHub Copilot’s "Goldeneye" model and why should devs care?](https://dev.to/vevarunsharma/so-what-is-github-copilots-goldeneye-model-and-why-should-devs-care-25ff)
-- [Introducing The Custom Elements Dev Server](https://dev.to/bennypowers/introducing-the-custom-elements-dev-server-5eog)
-- [I got so annoyed with AI coding assistants that I built my own.](https://dev.to/vmayorskiyac/i-got-so-annoyed-with-ai-coding-assistants-that-i-built-my-own-pa7)
-- [When the Spark is Done: The ADHD Energy Cycle No One Talks About ✨](https://dev.to/anchildress1/when-the-spark-is-done-the-adhd-energy-cycle-no-one-talks-about-43fo)
+- [Building a Stunning Travel Agency Landing Page with Uno Platform — My WOW Factor Challenge Submission 🤩](https://dev.to/hadil/building-a-stunning-travel-agency-landing-page-with-uno-platform-my-wow-factor-challenge-4gio)
+- [Hands-on with Gemma 3 on Google Cloud](https://dev.to/googleai/hands-on-with-gemma-3-on-google-cloud-6e7)
+- [Our current challenges add up to $9,000 in total prizes! Give one a try this weekend.](https://dev.to/devteam/our-current-challenges-add-up-to-9000-in-total-prizes-give-one-a-try-this-weekend-eel)
+- [Google Interview Platforms: A Developer’s Tour](https://dev.to/stack_overflowed/google-interview-platforms-a-developers-tour-269d)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4e6o)
 <!-- END_TRENDING -->
 
 ---
