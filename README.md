@@ -42,7 +42,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 06, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 07, 2025<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -778,11 +778,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Building a Stunning Travel Agency Landing Page with Uno Platform — My WOW Factor Challenge Submission 🤩](https://dev.to/hadil/building-a-stunning-travel-agency-landing-page-with-uno-platform-my-wow-factor-challenge-4gio)
-- [Hands-on with Gemma 3 on Google Cloud](https://dev.to/googleai/hands-on-with-gemma-3-on-google-cloud-6e7)
-- [Our current challenges add up to $9,000 in total prizes! Give one a try this weekend.](https://dev.to/devteam/our-current-challenges-add-up-to-9000-in-total-prizes-give-one-a-try-this-weekend-eel)
-- [Google Interview Platforms: A Developer’s Tour](https://dev.to/stack_overflowed/google-interview-platforms-a-developers-tour-269d)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4e6o)
+- [A Developer’s Guide to Surviving the AI Product Tsunami](https://dev.to/jaideepparashar/a-developers-guide-to-surviving-the-ai-product-tsunami-40f6)
+- [I built an open source Rust engine that just hit Trending — here's why agents can't live without fresh data](https://dev.to/badmonster0/i-built-an-open-source-rust-engine-that-just-hit-trending-heres-why-agents-cant-live-without-45hl)
+- [F1 Driver Strategy API – AI-Refined Tactics with Xano](https://dev.to/datadr1ven/f1-driver-strategy-api-ai-refined-tactics-with-xano-4f84)
+- [AI Is Not Here to Replace Developers; It’s Here to Replace Unstructured Work.](https://dev.to/jaideepparashar/ai-is-not-here-to-replace-developers-its-here-to-replace-unstructured-work-105j)
+- [🤷🏻‍♀️ Freelance Devs Drop Your Realest Truth Here](https://dev.to/vidakhoshpey22/freelance-devs-drop-your-realest-truth-here-2ak9)
 <!-- END_TRENDING -->
 
 ---
