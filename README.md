@@ -42,7 +42,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 07, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 08, 2025<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -778,11 +778,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [A Developer’s Guide to Surviving the AI Product Tsunami](https://dev.to/jaideepparashar/a-developers-guide-to-surviving-the-ai-product-tsunami-40f6)
-- [I built an open source Rust engine that just hit Trending — here's why agents can't live without fresh data](https://dev.to/badmonster0/i-built-an-open-source-rust-engine-that-just-hit-trending-heres-why-agents-cant-live-without-45hl)
-- [F1 Driver Strategy API – AI-Refined Tactics with Xano](https://dev.to/datadr1ven/f1-driver-strategy-api-ai-refined-tactics-with-xano-4f84)
-- [AI Is Not Here to Replace Developers; It’s Here to Replace Unstructured Work.](https://dev.to/jaideepparashar/ai-is-not-here-to-replace-developers-its-here-to-replace-unstructured-work-105j)
-- [🤷🏻‍♀️ Freelance Devs Drop Your Realest Truth Here](https://dev.to/vidakhoshpey22/freelance-devs-drop-your-realest-truth-here-2ak9)
+- [Just Ask - A Story About Growth as a Developer](https://dev.to/arto-b/just-ask-a-story-about-growth-as-a-developer-1a2b)
+- [My First Ethical Open Redirect Scanner: From Zero to Shipped](https://dev.to/ethicals7s/my-first-ethical-open-redirect-scanner-from-zero-to-shipped-4h69)
+- [Binary weighted evaluations...how to](https://dev.to/marcosomma/binary-weighted-evaluationshow-to-1a1p)
+- [Stop Asking AI to Write Your Code. Ask It to Explain Like You’re 5.](https://dev.to/maame-codes/stop-asking-ai-to-write-your-code-ask-it-to-explain-like-youre-5-1ej)
+- [How to implement Google OAuth in browser extension without “Tabs” permission](https://dev.to/notearthian/how-to-implement-google-oauth-in-browser-extension-without-tabs-permission-327m)
 <!-- END_TRENDING -->
 
 ---
