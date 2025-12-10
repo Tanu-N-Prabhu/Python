@@ -42,7 +42,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 09, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 10, 2025<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -778,11 +778,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [The Art of Vibe Coding With Actual Discipline](https://dev.to/raghavyuva/the-art-of-vibe-coding-with-actual-discipline-lo)
-- [The Secret Life of JavaScript: Let, Const, and Why Variables Are Complicated](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-let-const-and-why-variables-are-complicated-2gkk)
-- [Build a Bi‑Directional TOON Parser in C#: Convert TOON JSON with Ease](https://dev.to/auyeungdavid_2847435260/build-a-bi-directional-toon-parser-in-c-convert-toon-json-with-ease-24h2)
-- [Lyria RealTime: The Developer’s Guide to Infinite Music Streaming](https://dev.to/googleai/lyria-realtime-the-developers-guide-to-infinite-music-streaming-4m1h)
-- [Advent of AI 2025 - Day 5: I Built a Touchless Flight Tracker You Control With Hand Gestures](https://dev.to/nickytonline/advent-of-ai-2025-day-5-i-built-a-touchless-flight-tracker-you-control-with-hand-gestures-1jn8)
+- [Why Every Conference Needs a Nursing Room](https://dev.to/blackgirlbytes/why-every-conference-needs-a-nursing-room-3g74)
+- [I Built Everything Fast… Then One Page Destroyed My Confidence](https://dev.to/random_ti/i-built-everything-fast-then-one-page-destroyed-my-confidence-ik9)
+- [Will WebAssembly Kill JavaScript? Let’s Find Out (+ Live Demo) 🚀](https://dev.to/sylwia-lask/will-webassembly-kill-javascript-lets-find-out-live-demo-43ln)
+- [How I Cut My Debugging Time in Half as a Front-End Developer (A Practical Guide)](https://dev.to/eleftheriabatsou/how-i-cut-my-debugging-time-in-half-as-a-front-end-developer-a-practical-guide-3kd0)
+- [Advent of AI 2025 - Day 6: Automating GitHub Issue Triage with Goose](https://dev.to/nickytonline/advent-of-ai-2025-day-6-automating-github-issue-triage-with-goose-1pn5)
 <!-- END_TRENDING -->
 
 ---
