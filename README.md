@@ -42,7 +42,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 14, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 15, 2025<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -778,11 +778,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Should developers meditate?](https://dev.to/andreas_mller_2fd27cf578/should-developers-meditate-4e1m)
-- [Simply Learn - An AI-First LMS with Next.js 16 & Xano](https://dev.to/aryprogrammer/simply-learn-an-ai-first-lms-with-nextjs-16-xano-2i9h)
-- [If You Could Add ONE Feature to a Design Portfolio, What Would It Be?](https://dev.to/the_duchess_of_hackers/if-you-could-add-one-feature-to-a-design-portfolio-what-would-it-be-1ma9)
-- [I Tried Making a Portfolio. It Took Over My Free Time.](https://dev.to/trojanmocx/i-tried-making-a-portfolio-it-took-over-my-free-time-441f)
-- [Lessons Learned from the React2Shell Vulnerability (December 3, 2025)](https://dev.to/jojo_kunsang/lessons-learned-from-the-react2shell-vulnerability-december-3-2025-2ieo)
+- [Linux Without Fanboyism: An Honest Developer’s Perspective](https://dev.to/jodaut/linux-without-fanboyism-an-honest-developers-perspective-3mhf)
+- [From Confusion to Clarity: Building My First Research Agent in Google's AI Intensive](https://dev.to/wilson_bmiles_d0902d06d/from-confusion-to-clarity-building-my-first-research-agent-in-googles-ai-intensive-jn8)
+- [The Broke Student’s Guide to the Cloud: How I Host Projects for $0](https://dev.to/maame-codes/the-broke-students-guide-to-the-cloud-how-i-host-projects-for-0-2iok)
+- [I Tried Reading React's Source Code and Flow Beat Me Up. So Let's Learn 🚀](https://dev.to/nyaomaru/i-tried-reading-reacts-source-code-and-flow-beat-me-up-so-lets-learn-4jf0)
+- [Becoming the Prediction Machine](https://dev.to/junothreadborne/becoming-the-prediction-machine-48ii)
 <!-- END_TRENDING -->
 
 ---
