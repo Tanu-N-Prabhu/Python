@@ -34,6 +34,15 @@
   <a href="https://opensource.org/">
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
   </a>
+
+<a href="https://github.com/Tanu-N-Prabhu/Python/tree/master/Release%20Notes">
+  <img
+    src="https://img.shields.io/badge/Release-Notes-blue"
+    alt="Release Notes"
+  />
+</a>
+
+
   
 
 </p>
