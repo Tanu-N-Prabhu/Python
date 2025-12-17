@@ -7,7 +7,7 @@ From the outside, it looked like progress.
 But inside, something felt… slow.
 
 I wasn’t stuck because Python is hard.  
-I was stuck because I kept making the same mistake — **I optimized for “working code,” not readable code**.
+I was stuck because I kept making the same mistake, **I optimized for “working code,” not readable code**.
 
 And that quietly stalled my growth.
 
@@ -36,7 +36,7 @@ What is `f`?
 Why `10`?  
 What does this actually *mean*?
 
-I wasn’t writing code for humans — I was writing it for the interpreter.
+I wasn’t writing code for humans, I was writing it for the interpreter.
 
 ---
 
@@ -78,9 +78,7 @@ Readable code is written twice:
 1. Once for the machine  
 2. Once for the next human (often future you)
 
-When I started treating my code like writing —  
-clear names, intentional structure, fewer clever tricks —  
-my learning accelerated.
+When I started treating my code like writing, clear names, intentional structure, fewer clever tricks, my learning accelerated.
 
 Not because I wrote more code.  
 But because I **understood my own code better**.
@@ -105,5 +103,4 @@ For five years, I thought my growth depended on learning more syntax.
 
 Turns out, it depended on learning how to **think clearly**.
 
-And that had nothing to do with Python —  
-but Python made it impossible to ignore.
+And that had nothing to do with Python, but Python made it impossible to ignore.
