@@ -34,6 +34,15 @@
   <a href="https://opensource.org/">
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
   </a>
+
+<a href="https://github.com/Tanu-N-Prabhu/Python/tree/master/Release%20Notes">
+  <img
+    src="https://img.shields.io/badge/Release-Notes-blue"
+    alt="Release Notes"
+  />
+</a>
+
+
   
 
 </p>
@@ -42,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 14, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 19, 2025<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -778,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Should developers meditate?](https://dev.to/andreas_mller_2fd27cf578/should-developers-meditate-4e1m)
-- [Simply Learn - An AI-First LMS with Next.js 16 & Xano](https://dev.to/aryprogrammer/simply-learn-an-ai-first-lms-with-nextjs-16-xano-2i9h)
-- [If You Could Add ONE Feature to a Design Portfolio, What Would It Be?](https://dev.to/the_duchess_of_hackers/if-you-could-add-one-feature-to-a-design-portfolio-what-would-it-be-1ma9)
-- [I Tried Making a Portfolio. It Took Over My Free Time.](https://dev.to/trojanmocx/i-tried-making-a-portfolio-it-took-over-my-free-time-441f)
-- [Lessons Learned from the React2Shell Vulnerability (December 3, 2025)](https://dev.to/jojo_kunsang/lessons-learned-from-the-react2shell-vulnerability-december-3-2025-2ieo)
+- [Is "Vibe Coding" Ruining My CS Degree?](https://dev.to/maame-codes/is-vibe-coding-ruining-my-cs-degree-3m3)
+- [Building a "Text-to-GIS" Engine with SvelteKit, PostGIS and Open-Source LLMs](https://dev.to/zeekrey/building-a-text-to-gis-engine-with-sveltekit-postgis-and-open-source-llms-57bo)
+- [YOW! 2025](https://dev.to/nfrankel/yow-2025-pic)
+- [🧠How to make Codex boost your mood like good old Claude Code (Getting back You're absolutely right!)🤖](https://dev.to/webdeveloperhyper/how-to-make-codex-boost-your-mood-like-good-old-claude-code-getting-back-youre-absolutely-1l23)
+- [Introducing Vector Buckets](https://dev.to/supabase/introducing-vector-buckets-3134)
 <!-- END_TRENDING -->
 
 ---

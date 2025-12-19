@@ -4,10 +4,18 @@
 The evolution of this repository is captured through the following version history. Each release contributes to a more organized, readable, and learner-friendly resource.
 </p>
 
+## [Version 1.3.0](https://github.com/Tanu-N-Prabhu/Python/blob/master/Release%20Notes/v1.3.0.md)
+> Release Date - January 1, 2026
+### Summary
+
+<p align="justify">
+This release introduces a new long-form LinkedIn article focused on real-world developer experience and lessons learned beyond code. The update expands the repository’s thought-leadership content by adding a reflective Python career article to the LinkedIn folder, strengthening the documentation’s narrative depth and professional voice.
+</p>
+
 
 
 ## [Version 1.2.0](https://github.com/Tanu-N-Prabhu/Python/blob/master/Release%20Notes/v1.2.0.md)
-> Release Date - November 12, 2025
+> Release Date - December 07, 2025
 ### Summary
 
 <p align="justify">
