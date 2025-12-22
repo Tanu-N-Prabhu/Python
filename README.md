@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 20, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 22, 2025<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Congrats to the Winners of the AI Challenge for Cross-Platform Apps!](https://dev.to/devteam/congrats-to-the-winners-of-the-ai-challenge-for-cross-platform-apps-3f7f)
-- [What was your win this week???](https://dev.to/devteam/what-was-your-win-this-week-1d6c)
-- [5 Terminal Commands That Saved Me Hours of Clicking](https://dev.to/maame-codes/5-terminal-commands-that-saved-me-hours-of-clicking-4mfn)
-- [Ugly Sweater CSS: Droids.](https://dev.to/jarvisscript/ugly-sweater-css-droids-9jf)
-- [The Duck That Talks Back](https://dev.to/junothreadborne/the-duck-that-talks-back-3c4d)
+- [PSX: The Project Structure Checker](https://dev.to/m__mdy__m/psx-the-project-structure-checker-263j)
+- [MindsEye — Turning AI Activity Into Auditable Organizational Memory](https://dev.to/peacebinflow/mindseye-turning-ai-activity-into-auditable-organizational-memory-1ic3)
+- [Composition in React: Building like a Senior React Dev](https://dev.to/emann/compound-components-in-react-building-like-a-senior-react-dev-56dm)
+- [The Secret Life of JavaScript: The Power of Function Composition](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-power-of-function-composition-bcb)
+- [Irish Geeks Presents Irish Techie Table Quiz 2025 @ Dogpatch Labs](https://dev.to/whykay/irish-geeks-presents-irish-techie-table-quiz-2025-dogpatch-labs-4aji)
 <!-- END_TRENDING -->
 
 ---
