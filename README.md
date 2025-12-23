@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 22, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 23, 2025<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [PSX: The Project Structure Checker](https://dev.to/m__mdy__m/psx-the-project-structure-checker-263j)
-- [MindsEye — Turning AI Activity Into Auditable Organizational Memory](https://dev.to/peacebinflow/mindseye-turning-ai-activity-into-auditable-organizational-memory-1ic3)
-- [Composition in React: Building like a Senior React Dev](https://dev.to/emann/compound-components-in-react-building-like-a-senior-react-dev-56dm)
-- [The Secret Life of JavaScript: The Power of Function Composition](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-power-of-function-composition-bcb)
-- [Irish Geeks Presents Irish Techie Table Quiz 2025 @ Dogpatch Labs](https://dev.to/whykay/irish-geeks-presents-irish-techie-table-quiz-2025-dogpatch-labs-4aji)
+- [Code Mode Doesn't Replace MCP (Here's What It Actually Does)](https://dev.to/blockopensource/code-mode-doesnt-replace-mcp-heres-what-it-actually-does-3hga)
+- [7 Lies Developers Keep Telling Themselves (And Somehow Still Believe)](https://dev.to/sylwia-lask/7-lies-developers-keep-telling-themselves-and-somehow-still-believe-46nh)
+- [PHP 8.5 Pipe Operator (|>) – Is It Worth Using?](https://dev.to/tegos/php-85-pipe-operator-is-it-worth-using-4gig)
+- [Glitch v1: An LLM with a personality, anxiety and a bit of attitude](https://dev.to/buzzpy/glitch-v1-an-llm-with-a-personality-anxiety-and-a-bit-of-attitude-4d34)
+- [Fear and Loathing of Vibe Coding: I made a game for my daughter and it hit the Top Charts on AndroidTV(with 0 mobdev experience)](https://dev.to/lkaliadin/fear-and-loathing-of-vibe-coding-i-made-a-game-for-my-daughter-and-it-hit-the-top-charts-on-31np)
 <!-- END_TRENDING -->
 
 ---
