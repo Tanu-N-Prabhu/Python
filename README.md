@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 25, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 26, 2025<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [I Built a Production RAG System for $5/month (Most Alternatives Cost $100-200+)](https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj)
-- [Every Website Has Dark Mode. I Added Christmas Mode.](https://dev.to/codypearce/every-website-has-dark-mode-i-added-christmas-mode-12ff)
-- [Why We Left Vercel and Switched to Self-Hosting](https://dev.to/kvetoslavnovak/why-we-left-vercel-and-switched-to-self-hosting-1k65)
-- [Semantic Typing We Ignore](https://dev.to/y9vad9/semantic-typing-we-ignore-i0d)
-- [🚀 I Built a Developer Resources Platform — Join Me and Share What Helps You Learn](https://dev.to/rinonten/i-built-a-developer-resources-platform-join-me-and-share-what-helps-you-learn-3aoi)
+- [I Made a Reference Guide for AMB25 Because Realtek Forgot To 🤷‍♂️](https://dev.to/nityam2007/i-made-a-reference-guide-for-amb25-because-realtek-forgot-to-2kl)
+- [Coding Without Pressure: How Slowing Down Helped Me Learn Faster](https://dev.to/hadil/coding-without-pressure-how-slowing-down-helped-me-learn-faster-lko)
+- [Aurora Serverless v2: When "I/O Optimized" Actually Costs You More](https://dev.to/aws-builders/aurora-serverless-v2-when-io-optimized-actually-costs-you-more-4bb2)
+- [Make Vim Useful Again with VEX](https://dev.to/m__mdy__m/make-vim-useful-again-with-vex-mah)
+- [When Sleep Became a Problem](https://dev.to/toklas495/when-sleep-became-a-problem-17j1)
 <!-- END_TRENDING -->
 
 ---
