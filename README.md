@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 26, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 27, 2025<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [I Made a Reference Guide for AMB25 Because Realtek Forgot To 🤷‍♂️](https://dev.to/nityam2007/i-made-a-reference-guide-for-amb25-because-realtek-forgot-to-2kl)
-- [Coding Without Pressure: How Slowing Down Helped Me Learn Faster](https://dev.to/hadil/coding-without-pressure-how-slowing-down-helped-me-learn-faster-lko)
-- [Aurora Serverless v2: When "I/O Optimized" Actually Costs You More](https://dev.to/aws-builders/aurora-serverless-v2-when-io-optimized-actually-costs-you-more-4bb2)
-- [Make Vim Useful Again with VEX](https://dev.to/m__mdy__m/make-vim-useful-again-with-vex-mah)
-- [When Sleep Became a Problem](https://dev.to/toklas495/when-sleep-became-a-problem-17j1)
+- [Devops From Scratch: Entry #01](https://dev.to/maame-codes/devops-from-scratch-entry-01-47pm)
+- [JavaScript Scope & Closure: Stop Memorizing, Start Understanding](https://dev.to/saiful__bashar/javascript-scope-closure-stop-memorizing-start-understanding-2ok7)
+- [I Built an Email Validation Library and Published It on npm. Here's Everything I Learned](https://dev.to/kazmiali/i-built-an-email-validation-library-and-published-it-on-npm-heres-everything-i-learned-1em5)
+- [I Love Terminal Aesthetics. Not Everyone Does. Here's How I Solved That.](https://dev.to/micronink/i-love-terminal-aesthetics-not-everyone-does-heres-how-i-solved-that-56ef)
+- [You're Telling Me I Get Paid?](https://dev.to/evan-lausier/youre-telling-me-i-get-paid-8jd)
 <!-- END_TRENDING -->
 
 ---
