@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 25, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 27, 2025<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [I Built a Production RAG System for $5/month (Most Alternatives Cost $100-200+)](https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj)
-- [Every Website Has Dark Mode. I Added Christmas Mode.](https://dev.to/codypearce/every-website-has-dark-mode-i-added-christmas-mode-12ff)
-- [Why We Left Vercel and Switched to Self-Hosting](https://dev.to/kvetoslavnovak/why-we-left-vercel-and-switched-to-self-hosting-1k65)
-- [Semantic Typing We Ignore](https://dev.to/y9vad9/semantic-typing-we-ignore-i0d)
-- [🚀 I Built a Developer Resources Platform — Join Me and Share What Helps You Learn](https://dev.to/rinonten/i-built-a-developer-resources-platform-join-me-and-share-what-helps-you-learn-3aoi)
+- [Devops From Scratch: Entry #01](https://dev.to/maame-codes/devops-from-scratch-entry-01-47pm)
+- [JavaScript Scope & Closure: Stop Memorizing, Start Understanding](https://dev.to/saiful__bashar/javascript-scope-closure-stop-memorizing-start-understanding-2ok7)
+- [I Built an Email Validation Library and Published It on npm. Here's Everything I Learned](https://dev.to/kazmiali/i-built-an-email-validation-library-and-published-it-on-npm-heres-everything-i-learned-1em5)
+- [I Love Terminal Aesthetics. Not Everyone Does. Here's How I Solved That.](https://dev.to/micronink/i-love-terminal-aesthetics-not-everyone-does-heres-how-i-solved-that-56ef)
+- [You're Telling Me I Get Paid?](https://dev.to/evan-lausier/youre-telling-me-i-get-paid-8jd)
 <!-- END_TRENDING -->
 
 ---
