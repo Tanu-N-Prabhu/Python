@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 28, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 29, 2025<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Advent of AI 2025 - Day 17: Building a Wishlist App with Goose and MCP-UI](https://dev.to/nickytonline/advent-of-ai-2025-day-17-building-a-wishlist-app-with-goose-and-mcp-ui-330l)
-- [Celestine: AI Navigator for the Universe](https://dev.to/vero-code/celestine-ai-navigator-for-the-universe-2acc)
-- [OmNi: The Self-Hosted File Sharer for Simplicity and Privacy](https://dev.to/lagging/omni-the-self-hosted-file-sharer-for-simplicity-and-privacy-3lda)
-- [Block-Reign: A Player vs AI Grid Game That Learns From You](https://dev.to/puneetkumar2010/block-reign-a-player-vs-ai-grid-game-that-learns-from-you-44cj)
-- [Stop Memorizing Syntax. The Era of "Vibe Coding" is Here.](https://dev.to/legend_gamerr6_70b22e605a/stop-memorizing-syntax-the-era-of-vibe-coding-is-here-3ofh)
+- [My Code Worked. The System Didn’t](https://dev.to/trojanmocx/my-code-worked-the-system-didnt-4hnl)
+- [Building a Self Hostable Installer, Lessons from Nixopus](https://dev.to/raghavyuva/building-a-self-hostable-installer-lessons-from-nixopus-jpb)
+- [I Follow Web Dev Trends So Recruiters Don’t Have To](https://dev.to/trojanmocx/i-follow-web-dev-trends-so-recruiters-dont-have-to-576e)
+- [I Know My Code Is Bad Because I Start Defending It](https://dev.to/trojanmocx/i-know-my-code-is-bad-because-i-start-defending-it-2gga)
+- [Skills They Don't Teach You in Tutorials but Companies Actually Pay For](https://dev.to/thebitforge/skills-they-dont-teach-you-in-tutorials-but-companies-actually-pay-for-11om)
 <!-- END_TRENDING -->
 
 ---
