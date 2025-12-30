@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 29, 2025<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Dec 30, 2025<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [My Code Worked. The System Didn’t](https://dev.to/trojanmocx/my-code-worked-the-system-didnt-4hnl)
-- [Building a Self Hostable Installer, Lessons from Nixopus](https://dev.to/raghavyuva/building-a-self-hostable-installer-lessons-from-nixopus-jpb)
-- [I Follow Web Dev Trends So Recruiters Don’t Have To](https://dev.to/trojanmocx/i-follow-web-dev-trends-so-recruiters-dont-have-to-576e)
-- [I Know My Code Is Bad Because I Start Defending It](https://dev.to/trojanmocx/i-know-my-code-is-bad-because-i-start-defending-it-2gga)
-- [Skills They Don't Teach You in Tutorials but Companies Actually Pay For](https://dev.to/thebitforge/skills-they-dont-teach-you-in-tutorials-but-companies-actually-pay-for-11om)
+- [How was your 2025?](https://dev.to/devteam/how-was-your-2025-5gdn)
+- [What Makes Goose Different From Other AI Coding Agents](https://dev.to/nickytonline/what-makes-goose-different-from-other-ai-coding-agents-2edc)
+- [How to Create Never-Ending Fun (🎢RollerCoaster.js + React Three Fiber + AI)](https://dev.to/webdeveloperhyper/how-to-create-never-ending-fun-rollercoasterjs-react-three-fiber-ai-57c5)
+- [Silhouette Capture Pro: Perfecting Clinical Photography with Real-Time Overlays](https://dev.to/dr_vigneshnarayanr_c4d/silhouette-capture-pro-perfecting-clinical-photography-with-real-time-overlays-3380)
+- [From MITM to Agentic Design: Automating Sports Nutrition with Claude, n8n, and Hexis](https://dev.to/emilienmottet/from-mitm-to-agentic-design-automating-sports-nutrition-with-claude-n8n-and-hexis-12gg)
 <!-- END_TRENDING -->
 
 ---
