@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jan 04, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jan 05, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Accessibility: 2026 predictions](https://dev.to/micaavigliano/accessibility-2026-predictions-3g9)
-- [The Complete Full-Stack Developer Roadmap for 2026 🚀](https://dev.to/thebitforge/the-complete-full-stack-developer-roadmap-for-2026-2i0j)
-- [🧠Impostor Syndrome Workflow.](https://dev.to/marcosomma/impostor-syndrome-workflow-3n2f)
-- [Five Projects, Carefully Unhinged and Fully Deployed](https://dev.to/trojanmocx/five-projects-carefully-unhinged-and-fully-deployed-2430)
-- [From Swagger to Tests: Building an AI-Powered API Test Generator with Python](https://dev.to/m4rri4nne/from-swagger-to-tests-building-an-ai-powered-api-test-generator-with-python-3mf8)
+- [Beyond the Linear CV](https://dev.to/pascal_cescato_692b7a8a20/beyond-the-linear-cv-3fik)
+- [Building my MVP: Glyph — Your AI-Powered Writing Assistant](https://dev.to/isah_alamin_93d4e4d2ab01f/building-my-mvp-glyph-your-ai-powered-writing-assistant-3e83)
+- [Yes, true + true === 2. And No, JavaScript Isn’t Broken](https://dev.to/sylwia-lask/yes-true-true-2-and-no-javascript-isnt-broken-37p7)
+- [I Built a File Tree for Vim](https://dev.to/m__mdy__m/i-built-a-file-tree-for-vim-f21)
+- [BOLD: Video Search That Doesn't Suck](https://dev.to/marcelfahle/bold-ai-for-the-spoken-word-3bj8)
 <!-- END_TRENDING -->
 
 ---
