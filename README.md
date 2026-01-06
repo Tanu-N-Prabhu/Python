@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jan 05, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jan 06, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Beyond the Linear CV](https://dev.to/pascal_cescato_692b7a8a20/beyond-the-linear-cv-3fik)
-- [Building my MVP: Glyph — Your AI-Powered Writing Assistant](https://dev.to/isah_alamin_93d4e4d2ab01f/building-my-mvp-glyph-your-ai-powered-writing-assistant-3e83)
-- [Yes, true + true === 2. And No, JavaScript Isn’t Broken](https://dev.to/sylwia-lask/yes-true-true-2-and-no-javascript-isnt-broken-37p7)
-- [I Built a File Tree for Vim](https://dev.to/m__mdy__m/i-built-a-file-tree-for-vim-f21)
-- [BOLD: Video Search That Doesn't Suck](https://dev.to/marcelfahle/bold-ai-for-the-spoken-word-3bj8)
+- [Setting up a public URL that flashes my office lights](https://dev.to/peter/setting-up-a-public-url-that-flashes-my-office-lights-218i)
+- [I built an app in every frontend framework](https://dev.to/lissy93/i-built-an-app-in-every-frontend-framework-4a9g)
+- [I Built a Desktop App That Commits to GitHub So I Don’t Have To Lie About Consistency](https://dev.to/trojanmocx/i-built-a-desktop-app-that-commits-to-github-so-i-dont-have-to-lie-about-consistency-3jd5)
+- [I Built a Zero-Miss Cancer Screening Model Using Routine Blood Tests](https://dev.to/arjuncodess/i-built-a-zero-miss-cancer-screening-model-using-routine-blood-tests-5703)
+- [Learning from failure: Building saas heaven, an open-source archive of failed saas](https://dev.to/vulcanwm/learning-from-failure-building-saas-heaven-an-open-source-archive-of-failed-saas-5ab0)
 <!-- END_TRENDING -->
 
 ---
