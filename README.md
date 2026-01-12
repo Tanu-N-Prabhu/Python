@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jan 11, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jan 12, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Building Next-Gen AI Agents for Google Workspace: MCP, A2A, and A2UI with Google Apps Script](https://dev.to/gde/building-next-gen-ai-agents-for-google-workspace-mcp-a2a-and-a2ui-with-google-apps-script-299o)
-- [maqam music](https://dev.to/okan_kaplan_livehtml/maqam-music-4513)
-- [Stop Overengineering: How to Write Clean Code That Actually Ships 🚀](https://dev.to/thebitforge/stop-overengineering-how-to-write-clean-code-that-actually-ships-18ni)
-- [The Quiet Shift: From Chrome's Noise to Thorium's Silence](https://dev.to/linfinitydev/the-quiet-shift-from-chromes-noise-to-thoriums-silence-31cl)
-- [I Built a Smarter SEO Layer for React — Here’s Why](https://dev.to/sravesh_nandan_72969871ad/i-built-a-smarter-seo-layer-for-react-heres-why-3jc3)
+- [Automate Your GitHub Workflow with Gemini CLI](https://dev.to/gde/automate-your-github-workflow-with-gemini-cli-4p4e)
+- [The Dark Side of Startup Life in Hyderabad (My Honest Experience)](https://dev.to/vasughanta09/the-dark-side-of-startup-life-in-hyderabad-my-honest-experience-593d)
+- [Git worktree — Stop Stashing, Start Working in Parallel](https://dev.to/antonioaren/git-worktree-stop-stashing-start-working-in-parallel-3p17)
+- [Real-Time is an SLA, Not an Architecture: When You Actually Need Kafka (And When You Don't)](https://dev.to/qvfagundes/real-time-is-an-sla-not-an-architecture-when-you-actually-need-kafka-and-when-you-dont-4ecb)
+- [Inside a Scholarly Search Engine: Indexing, Ranking, and Retrieval](https://dev.to/sisodiajatin/inside-a-scholarly-search-engine-indexing-ranking-and-retrieval-pea)
 <!-- END_TRENDING -->
 
 ---
