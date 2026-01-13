@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jan 12, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jan 13, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Automate Your GitHub Workflow with Gemini CLI](https://dev.to/gde/automate-your-github-workflow-with-gemini-cli-4p4e)
-- [The Dark Side of Startup Life in Hyderabad (My Honest Experience)](https://dev.to/vasughanta09/the-dark-side-of-startup-life-in-hyderabad-my-honest-experience-593d)
-- [Git worktree — Stop Stashing, Start Working in Parallel](https://dev.to/antonioaren/git-worktree-stop-stashing-start-working-in-parallel-3p17)
-- [Real-Time is an SLA, Not an Architecture: When You Actually Need Kafka (And When You Don't)](https://dev.to/qvfagundes/real-time-is-an-sla-not-an-architecture-when-you-actually-need-kafka-and-when-you-dont-4ecb)
-- [Inside a Scholarly Search Engine: Indexing, Ranking, and Retrieval](https://dev.to/sisodiajatin/inside-a-scholarly-search-engine-indexing-ranking-and-retrieval-pea)
+- [How I built a "Magic Move" animation engine for Excalidraw from scratch published](https://dev.to/behruamm/how-i-built-a-magic-move-animation-engine-for-excalidraw-from-scratch-published-4lmp)
+- [I Built “Personal Store” Because I Was Tired of Texting Myself](https://dev.to/mangesh_dalvi_7bcb2337614/i-built-personal-store-because-i-was-tired-of-texting-myself-2a3p)
+- [I tried to capture system audio in the browser. Here's what I learned.](https://dev.to/flo152121063061/i-tried-to-capture-system-audio-in-the-browser-heres-what-i-learned-1f99)
+- [Why Global Undo Sucks: Building Line-Level Undo/Redo for VS Code](https://dev.to/namasivaayam_l_1a17186e37/why-global-undo-sucks-building-line-level-undoredo-for-vs-code-5a45)
+- [SLMs, LLMs and a Devious Logic Puzzle Test](https://dev.to/ben-santora/slm-and-llm-logic-puzzle-test-n85)
 <!-- END_TRENDING -->
 
 ---
