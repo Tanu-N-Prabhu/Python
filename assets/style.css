@@ -140,3 +140,99 @@ time {
     min-height: auto;
   }
 }
+
+/* Navigation cards */
+.nav-card {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+.nav-card:hover h3 {
+  text-decoration: underline;
+}
+
+
+/* Navigation affordance */
+.nav-card {
+  position: relative;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.nav-card::after {
+  content: "→";
+  position: absolute;
+  right: 24px;
+  bottom: 24px;
+  font-size: 1.4rem;
+  opacity: 0.5;
+}
+
+.nav-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+}
+
+.nav-card:hover::after {
+  opacity: 1;
+}
+
+/* Top navigation */
+.top-nav {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+
+/* Floating hub button */
+.floating-home.hub {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #93c5fd, #6ee7b7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  box-shadow: 0 14px 35px rgba(0, 0, 0, 0.18);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Center dot */
+.hub-dot {
+  width: 10px;
+  height: 10px;
+  background: white;
+  border-radius: 50%;
+  position: relative;
+}
+
+/* Orbit ring */
+.hub-dot::before {
+  content: "";
+  position: absolute;
+  inset: -10px;
+  border: 2px solid rgba(255, 255, 255, 0.7);
+  border-radius: 50%;
+}
+
+/* Hover animation */
+.floating-home.hub:hover {
+  transform: translateY(-4px) scale(1.05);
+  box-shadow: 0 22px 50px rgba(0, 0, 0, 0.25);
+}
+
+.floating-home.hub:hover .hub-dot::before {
+  animation: spin 1.2s linear infinite;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
