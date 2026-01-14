@@ -1,9 +1,10 @@
 :root {
-  --bg-main: #020617;
-  --text-main: #e5e7eb;
-  --text-muted: #9ca3af;
-  --radius: 20px;
-  --shadow: 0 25px 50px rgba(0, 0, 0, 0.45);
+  --bg: #f8fafc;
+  --card-bg: #ffffff;
+  --border: #e5e7eb;
+  --text: #0f172a;
+  --muted: #64748b;
+  --radius: 14px;
 }
 
 /* Reset */
@@ -16,118 +17,126 @@
 body {
   margin: 0;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  background: radial-gradient(circle at top, #020617, #020617);
-  color: var(--text-main);
-  line-height: 1.7;
+  background:
+    radial-gradient(circle at 15% 10%, rgba(168, 85, 247, 0.06), transparent 40%),
+    radial-gradient(circle at 85% 20%, rgba(56, 189, 248, 0.06), transparent 45%),
+    var(--bg);
+  color: var(--text);
+  line-height: 1.6;
 }
 
-/* ---------------- Hero ---------------- */
+/* Hero */
 .hero {
-  padding: 96px 24px 72px;
-  text-align: center;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 88px 24px 56px;
+  text-align: left; /* ← change to center if you want */
 }
 
 .hero h1 {
-  font-size: clamp(2.6rem, 6vw, 3.4rem);
-  margin-bottom: 10px;
+  font-size: clamp(2.3rem, 5vw, 2.8rem);
+  margin-bottom: 6px;
 }
 
 .hero p {
-  color: var(--text-muted);
-  font-size: 1.1rem;
+  color: var(--muted);
+  font-size: 1rem;
 }
 
-/* ---------------- Grid ---------------- */
+/* Grid */
 .release-grid {
-  max-width: 1200px;
+  max-width: 1100px;
   margin: auto;
-  padding: 64px 24px;
+  padding: 0 24px 96px;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  gap: 32px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 24px;
 }
 
-/* ---------------- Cards ---------------- */
+/* Card */
 .release-card {
-  padding: 36px;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
   border-radius: var(--radius);
-  box-shadow: var(--shadow);
-  transition: transform 0.35s ease, box-shadow 0.35s ease;
+  padding: 24px 24px 24px 20px;
+  display: grid;
+  grid-template-rows: auto 1fr 1fr 1fr;
+  min-height: 420px;
+  position: relative;
 }
 
-.release-card:hover {
-  transform: translateY(-8px);
-  box-shadow: 0 40px 80px rgba(0, 0, 0, 0.6);
+/* Accent rail */
+.release-card::before {
+  content: "";
+  position: absolute;
+  top: 12px;
+  bottom: 12px;
+  left: 0;
+  width: 4px;
+  border-radius: 4px;
+  background: var(--accent);
 }
 
-.release-top {
+/* Header */
+.card-header {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 20px;
+  align-items: center;
+  margin-bottom: 14px;
 }
 
 .version {
   font-weight: 600;
+  font-size: 0.9rem;
+  color: var(--accent);
+}
+
+time {
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+/* Sections */
+.card-section h3 {
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+  color: var(--accent);
+}
+
+.card-section ul {
+  margin: 0;
+  padding-left: 18px;
   font-size: 0.95rem;
 }
 
-.date {
-  font-size: 0.85rem;
-  opacity: 0.85;
-}
-
-/* Headings */
-.release-card h3 {
-  margin-top: 22px;
-  margin-bottom: 8px;
-}
-
-.release-card ul {
-  padding-left: 20px;
-  margin: 0;
-}
-
-.release-card li {
+.card-section li {
   margin-bottom: 6px;
 }
 
-/* ---------------- Gradients ---------------- */
-.gradient-blue {
-  background: linear-gradient(145deg, #1e3a8a, #0ea5e9);
-}
+/* Accent themes (gentle pastels) */
+.accent-purple { --accent: #8b5cf6; }
+.accent-blue   { --accent: #38bdf8; }
+.accent-green  { --accent: #22c55e; }
+.accent-orange { --accent: #fb923c; }
 
-.gradient-purple {
-  background: linear-gradient(145deg, #6d28d9, #9333ea);
-}
-
-.gradient-green {
-  background: linear-gradient(145deg, #065f46, #10b981);
-}
-
-.gradient-orange {
-  background: linear-gradient(145deg, #9a3412, #f97316);
-}
-
-/* ---------------- Footer ---------------- */
+/* Footer */
 .footer {
+  border-top: 1px solid var(--border);
   padding: 32px;
   text-align: center;
-  font-size: 0.9rem;
-  color: var(--text-muted);
-  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  font-size: 0.85rem;
+  color: var(--muted);
 }
 
-/* ---------------- Responsive ---------------- */
+/* Responsive */
 @media (max-width: 640px) {
   .hero {
-    padding: 72px 20px;
-  }
-
-  .release-grid {
-    padding: 48px 20px;
+    padding: 64px 20px 40px;
   }
 
   .release-card {
-    padding: 28px;
+    min-height: auto;
   }
 }
