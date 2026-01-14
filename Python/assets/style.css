@@ -1,0 +1,149 @@
+/* =========================
+   Design Tokens
+========================= */
+:root {
+  --bg-main: #0b1020;
+  --bg-surface: #11162a;
+  --bg-card: #161c35;
+  --accent: #4fd1c5;
+  --accent-2: #60a5fa;
+  --text-main: #e5e7eb;
+  --text-muted: #9ca3af;
+  --radius-lg: 18px;
+  --radius-md: 12px;
+  --shadow-soft: 0 20px 40px rgba(0, 0, 0, 0.35);
+  --max-width: 1150px;
+}
+
+/* =========================
+   Reset
+========================= */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, system-ui, sans-serif;
+  background: radial-gradient(circle at top, #0f172a, #020617);
+  color: var(--text-main);
+  line-height: 1.75;
+}
+
+/* =========================
+   Hero
+========================= */
+.hero {
+  padding: 96px 24px 80px;
+  text-align: center;
+  background:
+    radial-gradient(circle at 30% 20%, rgba(79, 209, 197, 0.2), transparent 40%),
+    radial-gradient(circle at 70% 30%, rgba(96, 165, 250, 0.15), transparent 45%);
+}
+
+.hero h1 {
+  font-size: clamp(2.5rem, 6vw, 3.5rem);
+  margin-bottom: 16px;
+  letter-spacing: -0.02em;
+}
+
+.hero p {
+  max-width: 720px;
+  margin: auto;
+  font-size: 1.15rem;
+  color: var(--text-muted);
+}
+
+/* =========================
+   Navigation
+========================= */
+.nav {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  justify-content: center;
+  gap: 28px;
+  padding: 18px 24px;
+  background: rgba(2, 6, 23, 0.75);
+  backdrop-filter: blur(14px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.nav a {
+  color: var(--text-main);
+  text-decoration: none;
+  font-weight: 500;
+  opacity: 0.85;
+}
+
+.nav a:hover {
+  opacity: 1;
+  color: var(--accent);
+}
+
+/* =========================
+   Layout
+========================= */
+.container {
+  max-width: var(--max-width);
+  margin: auto;
+  padding: 72px 24px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 32px;
+}
+
+/* =========================
+   Cards
+========================= */
+section {
+  background: linear-gradient(180deg, var(--bg-card), var(--bg-surface));
+  border-radius: var(--radius-lg);
+  padding: 36px;
+  box-shadow: var(--shadow-soft);
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+}
+
+section:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 30px 60px rgba(0, 0, 0, 0.45);
+}
+
+section h2 {
+  margin-top: 0;
+  margin-bottom: 14px;
+  font-size: 1.35rem;
+}
+
+section p {
+  color: var(--text-muted);
+  margin: 0;
+}
+
+/* =========================
+   Footer
+========================= */
+.footer {
+  padding: 32px;
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  background: rgba(2, 6, 23, 0.9);
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+/* =========================
+   Responsive
+========================= */
+@media (max-width: 640px) {
+  .hero {
+    padding: 72px 20px;
+  }
+
+  .container {
+    padding: 48px 20px;
+  }
+}
