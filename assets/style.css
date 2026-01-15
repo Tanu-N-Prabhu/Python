@@ -235,4 +235,50 @@ time {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+/* CTA Pill */
+.card-cta {
+  margin-top: 22px;
+}
+
+.cta-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-decoration: none;
+  color: #1e40af;
+  background: rgba(37, 99, 235, 0.08);
+  transition: all 0.25s ease;
+}
+
+.cta-arrow {
+  transition: transform 0.25s ease;
+}
+
+/* Hover */
+.cta-pill:hover {
+  background: rgba(37, 99, 235, 0.14);
+}
+
+.cta-pill:hover .cta-arrow {
+  transform: translateX(4px);
+}
+
+.accent-green .cta-pill {
+  color: #065f46;
+  background: rgba(16, 185, 129, 0.12);
+}
+
+.accent-purple .cta-pill {
+  color: #5b21b6;
+  background: rgba(139, 92, 246, 0.12);
+}
+
+.accent-orange .cta-pill {
+  color: #9a3412;
+  background: rgba(249, 115, 22, 0.12);
+}
 
