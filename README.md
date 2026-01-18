@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jan 17, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jan 18, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-3k8n)
-- [Code-ing in a Tree: Adding Auto-Save to freeCodeCamp](https://dev.to/sagi0312/code-ing-in-a-tree-adding-auto-save-to-freecodecamp-137b)
-- [Is this code deterministic?](https://dev.to/aws/is-this-code-deterministic-29l9)
-- [Stop paying for ngrok! 🛑 Meet NPort: The Free Open Source Alternative](https://dev.to/tuanngocptn/stop-paying-for-ngrok-meet-nport-the-free-open-source-alternative-2iok)
-- [An erratic Xfce4 Black Screen (WIP)](https://dev.to/ingosteinke/an-erratic-xfce4-black-screen-wip-2do3)
+- [MdBin Levels Up: From Custom Markdown Pipeline to Streamdown](https://dev.to/sivarampg/mdbin-levels-up-from-custom-markdown-pipeline-to-streamdown-55g2)
+- [# How to Build a Clean REST API in Go: From Spaghetti Code to Clean Architecture](https://dev.to/paulbabatuyi/-building-a-clean-rest-api-in-go-from-spaghetti-code-to-clean-architecture-k8j)
+- [The Night I Stopped Building For Myself.](https://dev.to/huckler/the-night-i-stopped-building-for-myself-14mc)
+- [Building a City Boy Meme Generator with Next.js and Fabric.js (No Watermarks!)](https://dev.to/_75729aa6b13e505e279f7/building-a-city-boy-meme-generator-with-nextjs-and-fabricjs-no-watermarks-3i85)
+- [From Shaky Squats to Perfect Form: Master Workout Analysis with Dynamic Time Warping (DTW)](https://dev.to/beck_moulton/from-shaky-squats-to-perfect-form-master-workout-analysis-with-dynamic-time-warping-dtw-20pn)
 <!-- END_TRENDING -->
 
 ---
