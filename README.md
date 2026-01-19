@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jan 18, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jan 19, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [MdBin Levels Up: From Custom Markdown Pipeline to Streamdown](https://dev.to/sivarampg/mdbin-levels-up-from-custom-markdown-pipeline-to-streamdown-55g2)
-- [# How to Build a Clean REST API in Go: From Spaghetti Code to Clean Architecture](https://dev.to/paulbabatuyi/-building-a-clean-rest-api-in-go-from-spaghetti-code-to-clean-architecture-k8j)
-- [The Night I Stopped Building For Myself.](https://dev.to/huckler/the-night-i-stopped-building-for-myself-14mc)
-- [Building a City Boy Meme Generator with Next.js and Fabric.js (No Watermarks!)](https://dev.to/_75729aa6b13e505e279f7/building-a-city-boy-meme-generator-with-nextjs-and-fabricjs-no-watermarks-3i85)
-- [From Shaky Squats to Perfect Form: Master Workout Analysis with Dynamic Time Warping (DTW)](https://dev.to/beck_moulton/from-shaky-squats-to-perfect-form-master-workout-analysis-with-dynamic-time-warping-dtw-20pn)
+- [When DEV.to Stats Aren't Enough: Building My Own Memory](https://dev.to/pascal_cescato_692b7a8a20/when-devto-stats-arent-enough-building-my-own-memory-5cid)
+- [Stop Building Features: Start Building Patterns](https://dev.to/edulazaro/stop-building-features-start-building-patterns-2efl)
+- [The Neural Core Portfolio](https://dev.to/uncle_blacedit_4828f0b2/the-neural-core-portfolio-an1)
+- [The Complete Guide to Prompt Engineering for Angular Developers](https://dev.to/hassantayyab/the-complete-guide-to-prompt-engineering-for-angular-developers-8pg)
+- [From Glasses to Code - The Personal Journey Behind Harmonia Vision](https://dev.to/agusrdz/from-glasses-to-code-the-personal-journey-behind-harmonia-vision-1ofc)
 <!-- END_TRENDING -->
 
 ---
