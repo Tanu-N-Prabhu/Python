@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jan 22, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jan 23, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Why WebGPU Feels Like the Future of the Web (Live Demo 🚀)](https://dev.to/sylwia-lask/why-webgpu-feels-like-the-future-of-the-web-live-demo--2bjh)
-- [I Built a Portfolio Like a System, Not a Résumé!](https://dev.to/itslokeshx/i-built-a-portfolio-like-a-system-not-a-resume-1kh9)
-- [I Finally Updated My 2-Year-Old Portfolio (Thanks to Antigravity)](https://dev.to/arjuncodess/i-finally-updated-my-2-year-old-portfolio-thanks-to-antigravity-4i31)
-- [Welcome Thread - v361](https://dev.to/devteam/welcome-thread-v361-1k7l)
-- [Touching GRASS: My Experience at the Stripe Developer Meetup](https://dev.to/maame-codes/touching-grass-my-experience-at-the-stripe-developer-meetup-375f)
+- [Join the GitHub Copilot CLI Challenge! Win GitHub Universe Tickets, Copilot Pro+ Subscriptions and $1,000 in Cash 💸](https://dev.to/devteam/join-the-github-copilot-cli-challenge-win-github-universe-tickets-copilot-pro-subscriptions-and-50af)
+- [Fighting Spam at Scale: How We Use Gemini to Protect the DEV Community](https://dev.to/devteam/fighting-spam-at-scale-how-we-use-gemini-to-protect-the-dev-community-277j)
+- [CSS Optical Illusions: 50+ Visual Illusions Built with Pure CSS and HTML](https://dev.to/alvaromontoro/css-optical-illusions-50-visual-illusions-built-with-pure-css-and-html-13o9)
+- [Congrats to the Winners of the "Worldwide Show and Tell Challenge" Presented by Mux!](https://dev.to/devteam/congrats-to-the-winners-of-the-worldwide-show-and-tell-challenge-presented-by-mux-10o9)
+- [From Local MCP Server to AWS Deployment in Two Commands](https://dev.to/aws/from-local-mcp-server-to-aws-deployment-in-two-commands-ag4)
 <!-- END_TRENDING -->
 
 ---
