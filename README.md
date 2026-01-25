@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jan 24, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jan 25, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4ig9)
-- [AI Workflows vs AI Agents, Explained with LEGOs](https://dev.to/shlokaguptaa/ai-workflows-vs-ai-agents-explained-with-legos-581g)
-- [The HIDDEN Gem in the Google AI Challenge💎](https://dev.to/maame-codes/the-hidden-gem-in-the-google-ai-challenge-20jh)
-- [Understanding the ABI by Observation](https://dev.to/amanprasad/understanding-the-abi-by-observation-5865)
-- [Building OpponentIQ: Automating Esports Scouting with GRID API](https://dev.to/dhani_dzulkarnain/building-opponentiq-automating-esports-scouting-with-grid-api-kp3)
+- [The Anti-Resume: Why I Hid My Portfolio in the Dark](https://dev.to/depapp/the-anti-resume-why-i-hid-my-portfolio-in-the-dark-3gee)
+- [This portfolio isn’t perfect, but it’s 100% mine](https://dev.to/random_ti/this-portfolio-isnt-perfect-but-its-100-mine-3hi5)
+- [My Portfolio Doesn’t Live on the Page 🚫📃](https://dev.to/anchildress1/my-portfolio-doesnt-live-on-the-page-218e)
+- [Why I Built an Open Source SEO Plugin in 2026](https://dev.to/juandenis/why-i-built-an-open-source-seo-plugin-in-2026-3i1p)
+- [I Rewrote Google's Gemini CLI in Go - 68x Faster Startup](https://dev.to/owada_tomohiro_28ec22f5ee/i-rewrote-googles-gemini-cli-in-go-68x-faster-startup-30em)
 <!-- END_TRENDING -->
 
 ---
