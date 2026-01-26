@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jan 25, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jan 26, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [The Anti-Resume: Why I Hid My Portfolio in the Dark](https://dev.to/depapp/the-anti-resume-why-i-hid-my-portfolio-in-the-dark-3gee)
-- [This portfolio isn’t perfect, but it’s 100% mine](https://dev.to/random_ti/this-portfolio-isnt-perfect-but-its-100-mine-3hi5)
-- [My Portfolio Doesn’t Live on the Page 🚫📃](https://dev.to/anchildress1/my-portfolio-doesnt-live-on-the-page-218e)
-- [Why I Built an Open Source SEO Plugin in 2026](https://dev.to/juandenis/why-i-built-an-open-source-seo-plugin-in-2026-3i1p)
-- [I Rewrote Google's Gemini CLI in Go - 68x Faster Startup](https://dev.to/owada_tomohiro_28ec22f5ee/i-rewrote-googles-gemini-cli-in-go-68x-faster-startup-30em)
+- [Why We Suddenly Have Developers Who Can't Think in Systems](https://dev.to/narnaiezzsshaa/why-we-suddenly-have-developers-who-cant-think-in-systems-gpj)
+- [Programming Tech That Ages Well Versus Tools That Rot Fast](https://dev.to/numbpill3d/programming-tech-that-ages-well-versus-tools-that-rot-fast-3f9j)
+- [Why NaN !== NaN Makes Perfect Sense (I Promise)](https://dev.to/sylwia-lask/why-nan-nan-makes-perfect-sense-i-promise-2lke)
+- [Getting Brutal. A brutalist portfolio of who I am, what I do and the accomplishments I've done](https://dev.to/highcenburg/getting-brutal-a-brutalist-portfolio-of-who-i-am-what-i-do-and-the-accomplishments-ive-done-114h)
+- [I Was Mid-Setup When I Built the Skill That Finished Setting It Up](https://dev.to/daniel_petro/i-was-mid-setup-when-i-built-the-skill-that-finished-setting-it-up-17en)
 <!-- END_TRENDING -->
 
 ---
