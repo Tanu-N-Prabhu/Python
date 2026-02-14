@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Feb 13, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Feb 14, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Becoming 1% better each day.](https://dev.to/della_codes/becoming-1-better-each-day-1p9m)
-- [API vs Event Streaming: O Que Muda Para Quem Testa?](https://dev.to/m4rri4nne/api-vs-event-streaming-o-que-muda-para-quem-testa-1f1h)
-- [HTML Accessibility Review](https://dev.to/richardpascoe/html-accessibility-review-3md8)
-- [Layoffs! Fellow employees, be prepared for the worst.](https://dev.to/shresth/layoffs-fellow-employees-be-prepared-for-the-worst-4mjo)
-- [I Curated 106 Software Design Resources and Ranked What Actually Matters](https://dev.to/qdenka/i-curated-106-software-design-resources-and-ranked-what-actually-matters-5252)
+- [Remember Your First Computer Book?](https://dev.to/richardpascoe/remember-your-first-computer-book-4fml)
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-a3a)
+- [Claude Code for Fullstack Development: The 3 Things You Actually Need](https://dev.to/wasp/claude-code-for-fullstack-development-the-3-things-you-actually-need-1p6p)
+- [Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up](https://dev.to/georgekobaidze/metal-birds-watch-copilot-cli-helped-me-watch-planes-without-looking-up-4ha0)
+- [Send us your Dev Challenge!](https://dev.to/devengers/send-us-dev-challenges-2lip)
 <!-- END_TRENDING -->
 
 ---
