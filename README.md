@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Feb 17, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Feb 18, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [How a DEV Friend and I Brought Two Avatars to Life](https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp)
-- [Building Vero: How I Used Super Context with GitHub Copilot CLI to Create a Premium Visual Debugger](https://dev.to/tiagordebarros/building-vero-how-i-used-super-context-with-github-copilot-cli-to-create-a-premium-visual-debugger-198g)
-- [After 2 years of AI-assisted coding, I automated the one thing that actually improved quality: AI Pair Programming](https://dev.to/yw1975/after-2-years-of-ai-assisted-coding-i-automated-the-one-thing-that-actually-improved-quality-ai-2njh)
-- [Meme Monday](https://dev.to/ben/meme-monday-44jk)
-- [Your AI Agent Knows Your Passwords — Here's How I Fixed It](https://dev.to/demojacob/your-ai-agent-knows-your-passwords-heres-how-i-fixed-it-4kcd)
+- [Web Development Is More Than Frontend and Backend (Here’s What Actually Matters)](https://dev.to/hadil/web-development-is-more-than-frontend-and-backend-heres-what-actually-matters-23kc)
+- [Introducing Our Next DEV Education Track: "Build Multi-Agent Systems with ADK"](https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8)
+- [The most valuable skill in 2026 isn't writing code. It is deleting it.](https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3h5k)
+- [I’ve Seen This Architecture Before. It Ends in Tears.](https://dev.to/art_light/ive-seen-this-architecture-before-it-ends-in-tears-3bld)
 <!-- END_TRENDING -->
 
 ---
