@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Feb 22, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Feb 23, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [StackOverflow - was it worth it?](https://dev.to/nikola/stackoverflow-was-it-worth-it-21ki)
-- [I Squeezed My $1k Monthly OpenClaw API Bill with ~$20/Month in AWS Credits — Here's the Exact Setup](https://dev.to/aws-builders/i-squeezed-my-1k-monthly-openclaw-api-bill-with-20month-in-aws-credits-heres-the-exact-setup-3gj4)
-- [Are markdown files becoming the new dot files?](https://dev.to/xwero/are-markdown-files-becoming-the-new-dot-files-19f3)
-- [Your Article Isn’t the Real Content](https://dev.to/pascal_cescato_692b7a8a20/your-article-isnt-the-real-content-2e67)
-- [98 Bytes That Prove Your Document Existed](https://dev.to/dzatona/98-bytes-that-prove-your-document-existed-c5i)
+- [I Left My First Hackathon at 8 PM — And it Was a Massive Success!](https://dev.to/maame-codes/i-left-my-first-hackathon-at-8-pm-and-it-was-a-massive-success-1hme)
+- [I feel lost on AI](https://dev.to/therogvarok/i-feel-lost-on-ai-367c)
+- [LLMs Are Not Deterministic. And Making Them Reliable Is Expensive (In Both the Bad Way and the Good Way)](https://dev.to/marcosomma/llms-are-not-deterministic-and-making-them-reliable-is-expensive-in-both-the-bad-way-and-the-good-5bo4)
+- [Cursor deleted all the comments in my file](https://dev.to/nedcodes/cursor-deleted-all-the-comments-in-my-file-30ad)
+- [The time bomb in your codebase (and mine too)](https://dev.to/andrey_andrade_7a534cfc95/the-time-bomb-in-your-codebase-and-mine-too-2hj4)
 <!-- END_TRENDING -->
 
 ---
