@@ -4,6 +4,16 @@
 The evolution of this repository is captured through the following version history. Each release contributes to a more organized, readable, and learner-friendly resource.
 </p>
 
+## [Version 1.4.0](https://github.com/Tanu-N-Prabhu/Python/blob/master/Release%20Notes/v1.4.0.md)
+> Release Date - February 28, 2026
+### Summary
+
+<p align="justify">
+This release introduces Phase 1: Foundations of the Python Cheatsheet repository, providing a structured, beginner-friendly reference covering core Python concepts with clean, copy-paste-ready examples.
+</p>
+
+
+
 ## [Version 1.3.0](https://github.com/Tanu-N-Prabhu/Python/blob/master/Release%20Notes/v1.3.0.md)
 > Release Date - January 1, 2026
 ### Summary
