@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Apr 18, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Apr 19, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-28fb)
-- [Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1)
-- [Congrats to the Notion MCP Challenge Winners!](https://dev.to/devteam/congrats-to-the-notion-mcp-challenge-winners-28ab)
-- [100 Daily Challenges to Learn Web3 and Solana](https://dev.to/100daysofsolana/100-daily-challenges-to-learn-web3-and-solana-3g2i)
 - [EasyPollVote [Dev Log #2]](https://dev.to/francistrdev/easypollvote-dev-log-2-4g80)
+- [How We Built Our Own DNS Server](https://dev.to/code42cate/how-we-built-our-own-dns-server-4d3k)
+- [the only 12 git commands you’ll EVER NEED (forget the rest)](https://dev.to/codewithshahan/mastering-git-github-12-most-useful-git-commands-3l70)
+- [Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud](https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17)
+- [Why I built a lossless alternative to AI memory summarization](https://dev.to/wynelson94/why-i-built-a-lossless-alternative-to-ai-memory-summarization-40cl)
 <!-- END_TRENDING -->
 
 ---
