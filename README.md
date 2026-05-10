@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->May 09, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->May 10, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-96l)
-- [The Local Model That Doesn't Sleep: Gemma 4 + MTP as a Marathon Engine](https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9)
-- [5 types of engineers I met as a Technical Writer](https://dev.to/klaudiagrz/5-types-of-engineers-i-met-as-a-technical-writer-1gak)
-- [I Built My Mom an AI Recipe Helper for Mother's Day](https://dev.to/aws/i-built-my-mom-an-ai-recipe-helper-for-mothers-day-2hc5)
+- [Error Handling in Go: Stop Panicking, Start Wrapping](https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d)
 - [I built a Ruby gem so I don't have to squint at hash dumps anymore](https://dev.to/eayurt/i-built-a-ruby-gem-so-i-dont-have-to-squint-at-hash-dumps-anymore-2hha)
+- [Why does AI lie? Hallucinations explained simply](https://dev.to/aws/why-does-ai-lie-hallucinations-explained-simply-1c7g)
+- [Initiating the DEVengers org. Check out our Introduction!](https://dev.to/francistrdev/initiating-the-devengers-org-check-out-our-introduction-4lpn)
+- [AI-Powered ERP System with Gemma 26B MoE](https://dev.to/kheai/ai-powered-erp-system-with-gemma-26b-moe-2l5i)
 <!-- END_TRENDING -->
 
 ---
