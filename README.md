@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->May 11, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->May 12, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [How Python's GIL actually works (and when it bites you)](https://dev.to/lovestaco/how-pythons-gil-actually-works-and-when-it-bites-you-3f2)
-- [The first time you watch an AI agent buy something, you will feel something you cannot name.](https://dev.to/thegdsks/the-first-time-you-watch-an-ai-agent-buy-something-you-will-feel-something-you-cannot-name-35f3)
-- [Diagnosis Didn't Change My Leadership. Ownership Did.](https://dev.to/jonoherrington/diagnosis-didnt-change-my-leadership-ownership-did-3ll5)
-- [How I Got Into Google Summer of Code (GSoC) 2026 as a Tier-3 MCA Student](https://dev.to/tarunsinghofficial/how-i-got-into-google-summer-of-code-gsoc-2026-as-a-tier-3-mca-student-4017)
-- [Building in public, week 8: impressions exploded 71% and I think I know why](https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-8-impressions-exploded-71-and-i-think-i-know-why-54ab)
+- [Does AI Behave Like a Toxic Ex?](https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n)
+- [What are your goals for the week? #178](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-178-bkp)
+- [My fully offline AI-assisted Linux development machine](https://dev.to/deepu105/my-fully-offline-ai-assisted-linux-development-machine-3lnl)
+- [The missing layer in prompt engineering: thinking quality](https://dev.to/javz/the-missing-layer-in-prompt-engineering-thinking-quality-2n3j)
+- [Tracking my cardio with OpenClaw and Gemma 4](https://dev.to/fdocr/tracking-my-cardio-with-openclaw-and-gemma-4-3dka)
 <!-- END_TRENDING -->
 
 ---
