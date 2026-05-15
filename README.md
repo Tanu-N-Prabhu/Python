@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->May 14, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->May 15, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Two DEV Users. Two Countries. One Weird Little Avatar Project.](https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3)
-- [React is Overkill: Why Python + HTMX is Dominating in 2026](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib)
-- [What Burnout Actually Feels Like (Not What Instagram Tells You)](https://dev.to/harsh2644/what-burnout-actually-feels-like-not-what-instagram-tells-you-3ffh)
-- [From Rank 6,000,000 to 26,000: 1.5 Years, 1040 LeetCode Problems, and a Surprise Package That Changed Everything](https://dev.to/hadil/from-rank-6000000-to-26000-15-years-1040-leetcode-problems-and-a-surprise-package-that-43e2)
-- [Lambda Just Got a File System. I Put AI Agents on It.](https://dev.to/aws/lambda-just-got-a-file-system-i-put-ai-agents-on-it-1ej8)
+- [Old PC vs New AI: Can a 2015 Desktop Actually Run Gemma 4? (2B vs 4B Benchmark)](https://dev.to/gramli/old-pc-vs-new-ai-can-a-2015-desktop-actually-run-gemma-4-2b-vs-4b-benchmark-2eg6)
+- [4 Tiny Mistakes That Secretly Destroy App Performance](https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo)
+- [Your bundle is 4000x bigger than Quake. The 9-step audit that fixes it.](https://dev.to/thegdsks/your-bundle-is-4000x-bigger-than-quake-the-9-step-audit-that-fixes-it-5cpb)
+- [Tokensparsamkeit for coding assistants](https://dev.to/nfrankel/tokensparsamkeit-for-coding-assistants-al2)
+- [Building a custom launcher for ChromeOS](https://dev.to/tkuenneth/building-a-custom-launcher-for-chromeos-4fb7)
 <!-- END_TRENDING -->
 
 ---
