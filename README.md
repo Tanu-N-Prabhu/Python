@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->May 19, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->May 20, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1obd)
-- [What are your goals this week? #139](https://dev.to/jarvisscript/what-are-your-goals-this-week-139-4oc2)
-- [DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You](https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47)
-- [Honesty is the best Policy. The Secret Wars on the use of AI on DEV](https://dev.to/devengers/honesty-is-the-best-policy-the-secret-wars-on-the-use-of-ai-on-dev-5606)
-- [Your Codebase Has Technical Debt. But Does Your Team Have Comprehension Debt?](https://dev.to/javz/your-codebase-has-technical-debt-but-does-your-team-have-comprehension-debt-385f)
+- [Great Little Software: Rackula](https://dev.to/valeriavg/great-little-software-rackula-1pa1)
+- [What If Every Phone in the Room Was a Game Controller — in the Age of AI?](https://dev.to/zerodays/what-if-every-phone-in-the-room-was-a-game-controller-in-the-age-of-ai-375g)
+- [What Happens When You Run `npm run dev`](https://dev.to/lovestaco/what-happens-when-you-run-npm-run-dev-ae9)
+- [Cloudflare Deprecated My Production Model. The Recommended Upgrade Costs $4/M Tokens. Gemma 4 MoE Doesn't.](https://dev.to/dannwaneri/cloudflare-deprecated-my-production-model-the-recommended-upgrade-costs-4m-tokens-gemma-4-moe-3hd7)
+- [The portfolio math. When 30 small apps beat 1 big one.](https://dev.to/thegdsks/the-portfolio-math-when-30-small-apps-beat-1-big-one-41ai)
 <!-- END_TRENDING -->
 
 ---
