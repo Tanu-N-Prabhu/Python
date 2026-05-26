@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->May 25, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->May 26, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -788,10 +788,10 @@ A curated selection of tutorials, insights, and guides on programming, software 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
 - [NeuralHats: I Put Edward de Bono’s Six Thinking Hats on Local LLMs Using Gemma 4](https://dev.to/georgekobaidze/neuralhats-i-put-edward-de-bonos-six-thinking-hats-on-local-llms-using-gemma-4-54mj)
-- [Gemma 4 challenge inspired me to build my first app!](https://dev.to/klaudiagrz/gemma-4-challenge-inspired-me-to-build-my-first-app-4m7g)
-- [I built a local document Q&A tool around Gemma 4 E4B's 128K context — five days, no RAG, no cloud](https://dev.to/yashksaini/i-built-a-local-document-qa-tool-around-gemma-4-e4bs-128k-context-five-days-no-rag-no-cloud-2e1k)
-- [My Impression of AI in Programming](https://dev.to/pauljlucas/my-impression-of-ai-in-programming-33ci)
 - [Vestige: A Gemma 4 Brain Tracker That Won't Blow Smoke Up Your Ass](https://dev.to/anchildress1/vestige-a-gemma-4-brain-tracker-that-wont-blow-smoke-up-your-ass-5caf)
+- [A 100% Private, Local AI Resume Optimizer with Google Gemma 4: How I Built ResuMate!](https://dev.to/deeptej/i-built-resumate-a-100-private-local-ai-resume-optimizer-with-google-gemma-4-699)
+- [Don’t let AI break your collective thinking: a practical guide for engineering teams](https://dev.to/javz/dont-let-ai-break-your-collective-thinking-a-practical-guide-for-engineering-teams-41c4)
+- [I Ditched Cloud LLMs for Gemma 4 4B: A DevOps Engineer's 48-Hour Reality Check](https://dev.to/asamaes/i-ditched-cloud-llms-for-gemma-4-4b-a-devops-engineers-48-hour-reality-check-a7d)
 <!-- END_TRENDING -->
 
 ---
