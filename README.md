@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->May 30, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->May 31, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-i1)
-- [🗓️ Monthly Dev Report: May 2026](https://dev.to/francistrdev/monthly-dev-report-may-2026-3gjj)
-- [DevRelCon NYC 2026: Where Developer Relations, DevX, & Developer Marketing Come Together](https://dev.to/mlh/devrelcon-nyc-2026-where-developer-relations-devx-developer-marketing-come-together-5468)
-- [Dev Opportunity Radar #1: A $100K AI Grant, Two Fellowships, and an AI Agent Resource](https://dev.to/hemapriya_kanagala/dev-opportunity-radar-1-a-100k-ai-grant-two-fellowships-and-an-ai-agent-resource-2ja3)
-- [The Kubernetes Overkill: Why I Built a "K8s Killer" for Small Environments](https://dev.to/gde/the-kubernetes-overkill-why-i-built-a-k8s-killer-for-small-environments-m9k)
+- [I Made My AI Models Argue, Then Let Hermes Be the Judge](https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c)
+- [Hermes Agent Gets Smarter Every Day. So Does the Bill.](https://dev.to/chintanonweb/hermes-agent-gets-smarter-every-day-so-does-the-bill-4i8o)
+- [Pluto-ecss: A transpiler and runtime for PLUTO procedure language](https://dev.to/stzifkas/pluto-ecss-a-transpiler-and-runtime-for-pluto-procedure-language-5c59)
+- [How I Use Hermes Agent to Run an Agent Team](https://dev.to/askclaw/how-i-use-hermes-agent-to-run-an-agent-team-503g)
+- [The Scaffold and the Cage: Vibe Coding, Enabled Coding, and the Fight for Judgment](https://dev.to/conalh/the-scaffold-and-the-cage-vibe-coding-enabled-coding-and-the-fight-for-judgment-4ljd)
 <!-- END_TRENDING -->
 
 ---
