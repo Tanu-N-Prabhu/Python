@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jun 01, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jun 02, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Lazy Loading Wasn't Enough: How I Cut Load Time from 15s to 1.1s](https://dev.to/yoskutik/lazy-loading-wasnt-enough-how-i-cut-load-time-from-15s-to-11s-4e7g)
-- [I Added a 71-Line Black Box to My Python Agent, Then Queried the $200 Crash With DuckDB](https://dev.to/tahosin/i-added-a-71-line-black-box-to-my-python-agent-then-queried-the-200-crash-with-duckdb-4h18)
-- [peektea: brewing a terminal file browser with Bubble Tea](https://dev.to/lovestaco/peektea-brewing-a-terminal-file-browser-with-bubble-tea-4jg1)
-- [The 1978 Paper Behind Go’s Concurrency Model](https://dev.to/amirsefati/the-1978-paper-behind-gos-concurrency-model-4n55)
-- [Claude vs Gemini Across 4 Security Domains: A Dead Heat — and the Hardening 63% of AI Code Skips](https://dev.to/ofri-peretz/claude-vs-gemini-across-4-security-domains-a-dead-heat-and-the-hardening-63-of-ai-code-skips-mpp)
+- [What are your goals for the week? #181](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-181-1l58)
+- [From vibe coding to clear thinking: what non-technical builders need in the age of AI](https://dev.to/javz/from-vibe-coding-to-clear-thinking-what-non-technical-builders-need-in-the-age-of-ai-4nbd)
+- [When Duplicate Code Is the Better Design](https://dev.to/adamthedeveloper/when-duplicate-code-is-the-better-design-1idk)
+- [From a Simple Rust Gym Log to an Offline-First Gym OS](https://dev.to/lucasrafaldini/from-a-simple-rust-gym-log-to-an-offline-first-gym-os-2h54)
+- [I Was Drowning in Opportunities. So I Built a Compass.](https://dev.to/zpdaowvfgrlc/i-was-drowning-in-opportunities-so-i-built-a-compass-5in)
 <!-- END_TRENDING -->
 
 ---
