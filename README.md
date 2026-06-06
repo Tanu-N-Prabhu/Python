@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jun 05, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jun 06, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [I Didn't Mean To Learn Marketing](https://dev.to/itsugo/i-didnt-mean-to-learn-marketing-4j2j)
-- [AI gateways: why and how](https://dev.to/nfrankel/ai-gateways-why-and-how-b5o)
-- [Why Every Developer Should Attend Tech Week at Least Once](https://dev.to/javz/why-every-developer-should-attend-tech-week-at-least-once-28ip)
-- [peektea narrows its gaze 👀 filter-as-you-type and hidden files](https://dev.to/lovestaco/peektea-narrows-its-gaze-filter-as-you-type-and-hidden-files-23ic)
-- [I Started 10,000 Java Threads. My Laptop Barely Noticed.](https://dev.to/tahosin/i-started-10000-java-threads-my-laptop-barely-noticed-2i6g)
+- [Dev Opportunity Radar #2: A Fully-Funded Residency in Finland, AI Research Program, and a $60K Hackathon](https://dev.to/hemapriya_kanagala/dev-opportunity-radar-2-a-fully-funded-residency-in-finland-ai-research-program-and-a-60k-33l4)
+- [IssueWatch — Never Miss a GitHub Issue That Matters to You](https://dev.to/bikidev/issuewatch-never-miss-a-github-issue-that-matters-to-you-2k7)
+- [Magnificent Humanity, Building Cities, and a Special Announcement!](https://dev.to/jenlooper/magnificent-humanity-building-cities-and-a-special-announcement-54pf)
+- [AI Won't Replace Humans — It'll Just Make Us Pickier](https://dev.to/markofrei919/ai-wont-replace-humans-itll-just-make-us-pickier-2iij)
+- [From Hackathon Wreckage to Production-Ready: How I Rebuilt My Kubernetes Attack Path Visualiser with GitHub Copilot](https://dev.to/saptarshisarkar/from-hackathon-wreckage-to-production-ready-how-i-rebuilt-my-kubernetes-attack-path-visualiser-lgo)
 <!-- END_TRENDING -->
 
 ---
