@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jun 14, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jun 15, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Teach Your Agent to Forget (On Purpose)](https://dev.to/lovestaco/teach-your-agent-to-forget-on-purpose-38dh)
-- [Solstice Runner — A Browser Game Tribute to Alan Turing](https://dev.to/makendrang/solstice-runner-a-browser-game-tribute-to-alan-turing-52fc)
-- [From 5 Seconds to 50ms: How I Stopped Nuking My Database Every Time I Deleted an Order](https://dev.to/akashpattnaik/from-5-seconds-to-50ms-how-i-stopped-nuking-my-database-every-time-i-deleted-an-order-30l0)
-- [I expected the cheaper model to be cheaper. It cost 8.6 more.](https://dev.to/yogesh23012001/i-expected-the-cheaper-model-to-be-cheaper-it-cost-86x-more-5cph)
-- [HeadLess BAI](https://dev.to/akshit_sharma_321b0b789a4/headless-bai-4o0p)
+- [How to give Claude (or Cursor) access to your Rails app's activity logs](https://dev.to/dezsirazvan/how-to-give-claude-or-cursor-access-to-your-rails-apps-activity-logs-38m3)
+- [Building in public, week 13: the debt week nobody posts about](https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-13-the-debt-week-nobody-posts-about-2j4a)
+- [How to enjoy programming in a world of AI](https://dev.to/gtanyware/how-to-enjoy-programming-in-a-world-of-ai-5b4e)
+- [I gave 8 AI agents an island and watched a society emerge — wars, gossip, grudges, and peace](https://dev.to/dhrupo/i-gave-8-ai-agents-an-island-and-watched-a-society-emerge-wars-gossip-grudges-and-peace-2edj)
+- [I Built a Django-Inspired Web Framework in Rust — Here's What I Learned](https://dev.to/seballiot/i-built-a-django-inspired-web-framework-in-rust-heres-what-i-learned-5bbf)
 <!-- END_TRENDING -->
 
 ---
