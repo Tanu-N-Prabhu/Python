@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jun 20, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jun 21, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Skills over System Prompts: Building an Anki Tutor with the Antigravity SDK](https://dev.to/gde/skills-over-system-prompts-building-an-anki-tutor-with-the-antigravity-sdk-2o8f)
-- [Internmaxxing vs. Old Man Shakes Fist at Cloud](https://dev.to/jon_at_backboardio/internmaxxing-vs-old-man-shakes-fist-at-cloud-5bnd)
-- [AI summaries need receipts: how I built evidence-bound reports from comments](https://dev.to/woshiliyana/ai-summaries-need-receipts-how-i-built-evidence-bound-reports-from-comments-1c29)
-- [What Does the Windows REFRESH button really do?](https://dev.to/lovestaco/what-does-the-windows-refresh-button-really-do-4kh)
-- [AI makes writing code easier. It doesn't make engineering easier.](https://dev.to/dimitrisk_cyclopt/ai-makes-writing-code-easier-it-doesnt-make-engineering-easier-120)
+- [Fruit Dash: A Solstice Platformer with Binary Code Gates](https://dev.to/agastya_khati_f72c89077c8/fruit-dash-a-solstice-platformer-with-binary-code-gates-2jmi)
+- [The Oracle and the Wolf: I Made Gemini Lose Like a Kid 🐺](https://dev.to/anchildress1/the-oracle-and-the-wolf-i-made-gemini-lose-like-a-kid-3nk5)
+- [⚡️Self-Hosting Experience with Jetson Orin Nano and Ollama 🦙](https://dev.to/annavi11arrea1/self-hosting-experience-with-jetson-orin-nano-and-ollama-5a9c)
+- [Rebuilding a Divi Blog with Custom Shortcodes: A Field Report](https://dev.to/highcenburg/rebuilding-a-divi-blog-with-custom-shortcodes-a-field-report-141g)
+- [Solstice Cipher: Routing Light to Crack Codes — A Puzzle Game for the June Solstice Game Jam](https://dev.to/fanioz/solstice-cipher-routing-light-to-crack-codes-a-puzzle-game-for-the-june-solstice-game-jam-lcc)
 <!-- END_TRENDING -->
 
 ---
