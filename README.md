@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jul 12, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jul 13, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Stratagems #11: Lena Watched Her Own AI Platform Get Cut. An Ember Stayed.](https://dev.to/xulingfeng/stratagems-11-lena-watched-her-own-ai-platform-get-cut-an-ember-stayed-3j59)
-- [My Abandoned Cricket Kit Confronted Me. So I Built It a Voice](https://dev.to/himanshu_748/my-abandoned-cricket-kit-confronted-me-so-i-built-it-a-voice-ph1)
-- [How I Turned Slack Into an AI Teammate That Opens Pull Requests](https://dev.to/marrouchi/how-i-turned-slack-into-an-ai-teammate-that-opens-pull-requests-b4p)
-- [See how AI instructions decay, then write ones that hold](https://dev.to/cleverhoods/see-how-ai-instructions-decay-then-write-ones-that-hold-k9)
-- [Integrating Lambda Durable Functions into a Step Functions Workflow](https://dev.to/aws-heroes/integrating-lambda-durable-functions-into-a-step-functions-workflow-3c7o)
+- [I Built a Graveyard for My Dead Side Projects - With AI Eulogies & a 3D Cemetery](https://dev.to/varshithvhegde/i-built-a-graveyard-for-my-dead-side-projects-with-ai-eulogies-a-3d-cemetery-5g0e)
+- [I Love Fragrances, So I Built a 6-Game Arcade + Concierge About My Obsession](https://dev.to/miawab/i-love-fragrances-so-i-built-a-6-game-arcade-concierge-about-my-obsession-a6g)
+- [Commit Chronicles—Your Obsession Leaves a Trail. Mine Gives It a Plot.](https://dev.to/anchildress1/commit-chronicles-your-obsession-leaves-a-trail-mine-gives-it-a-plot-h8j)
+- [I Poked a 10-Year-Old Chat Protocol With a Stick](https://dev.to/lovestaco/i-poked-a-10-year-old-chat-protocol-with-a-stick-2g4h)
+- [Building Minelog, a Minecraft Travel Log Web App](https://dev.to/erikaheidi/building-minelog-a-minecraft-travel-log-web-app-6mj)
 <!-- END_TRENDING -->
 
 ---
