@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jul 17, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jul 18, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [What is an "agentic harness," actually?](https://dev.to/googleai/what-is-an-agentic-harness-actually-4oie)
-- [Did You Know TLDs Can Be Websites?](https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13)
-- [Claude might be saturating your machine](https://dev.to/sidhantpanda/claude-might-be-saturating-your-machine-3h07)
-- [Every AI-Generated Line of Code Is a Small Loan — And Eventually, You Have to Pay It Back](https://dev.to/harsh2644/every-ai-generated-line-of-code-is-a-small-loan-and-eventually-you-have-to-pay-it-back-30a6)
-- [I Failed a Promise I Made to Myself](https://dev.to/konark_13/i-failed-a-promise-i-made-to-myself-4abj)
+- [Hey DEV, I'm Tobore. Let's actually connect.](https://dev.to/toboreeee/hey-dev-im-tobore-lets-actually-connect-1m02)
+- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-amo)
+- [Dev Opportunity Radar #8: $100K OpenAI Build Week, $12K AI Fellowship, Founder Residency & Free AI Dev Course](https://dev.to/devengers/dev-opportunity-radar-8-openai-build-week-aiaf-fellowship-the-residency-ai-dev-tools-zoomcamp-5bpc)
+- [Five Gemma-4 models, one accelerator: what porting E2B 31B to AWS Inferentia2 taught me](https://dev.to/gde/five-gemma-4-models-one-accelerator-what-porting-e2b-31b-to-aws-inferentia2-taught-me-2gf5)
+- [Porting a 128-expert MoE (Gemma-4 26B-A4B) to AWS Inferentia2 — where every rank weighted the wrong experts](https://dev.to/xbill/porting-a-128-expert-moe-gemma-4-26b-a4b-to-aws-inferentia2-where-every-rank-weighted-the-wrong-2ege)
 <!-- END_TRENDING -->
 
 ---
