@@ -54,7 +54,7 @@
 <p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jul 19, 2026<!-- END_LAST_UPDATED --></p>
 
 
-| ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
+| ![space-1.jpg] | 
 |:--:| 
 | Image Credits [Wallpaper Flare](https://www.wallpaperflare.com/programming-is-an-art-text-code-python-computer-python-programming-wallpaper-srfia) |
 
