@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jul 25, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jul 26, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Dev Opportunity Radar #9: A Fully Funded AI Security Residency, SF Founder Residency, Figma Campus Leaders & More](https://dev.to/devengers/dev-opportunity-radar-9-a-fully-funded-ai-security-residency-sf-founder-residency-figma-campus-1j88)
-- [6 Open Source Tools That Give You the Web Back](https://dev.to/lovestaco/6-open-source-tools-that-give-you-the-web-back-5hak)
-- [The World's Oldest Communication Protocol Is Music](https://dev.to/adamthedeveloper/the-worlds-oldest-communication-protocol-is-music-3njg)
-- [Teaching Codex to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP](https://dev.to/gde/teaching-codex-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-api-and-mcp-26lc)
-- [Teaching Google Antigravity to Paint: A Stateful Image-Editing Skill Built on Gemini's Interactions API and MCP](https://dev.to/gde/teaching-google-antigravity-to-paint-a-stateful-image-editing-skill-built-on-geminis-interactions-9g1)
+- [The Crash That Only Happened Sometimes — A SwiftUI Bug](https://dev.to/gamya_m/the-crash-that-only-happened-sometimes-a-swiftui-bug-1kk5)
+- [I'm a Dev Who Barely Knows the Kernel. Here's How I'm Learning How to Track a Packet with pwru](https://dev.to/lovestaco/im-a-dev-who-barely-knows-the-kernel-heres-how-im-learning-how-to-track-a-packet-with-pwru-5937)
+- [🐈‍⬛Check Out Catbot's New Leg!](https://dev.to/annavi11arrea1/check-out-catbots-new-leg-3cfg)
+- [389 Tests Passed. NIST Still Caught the Bug.](https://dev.to/copyleftdev/389-tests-passed-nist-still-caught-the-bug-37jh)
+- [I got tired of uploading my HEIC photos to random servers, so I built a WASM-powered client-side converter](https://dev.to/alex_poiny/i-got-tired-of-uploading-my-heic-photos-to-random-servers-so-i-built-a-wasm-powered-client-side-kib)
 <!-- END_TRENDING -->
 
 ---
