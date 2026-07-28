@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jul 27, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jul 28, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Como eu venci o medo da transição de carreira](https://dev.to/he4rt/como-eu-venci-o-medo-da-transicao-de-carreira-4b3c)
-- [18 Stories, 6 Characters, 18 to Go — A Half-Time Check-In on the 36 Stratagems](https://dev.to/xulingfeng/18-stories-6-characters-18-to-go-a-half-time-check-in-on-the-36-stratagems-ih0)
-- [Your JSON Array Was Streaming All Along](https://dev.to/ssukhpinder/your-json-array-was-streaming-all-along-162j)
-- [No backend, no database, no network calls. I still found 3 security holes.](https://dev.to/gyugyu86/no-backend-no-database-no-network-calls-i-still-found-3-security-holes-4mi5)
-- [PWAs Cache Resources. Spirit Installs an Application.](https://dev.to/edmundsparrow/pwas-cache-resources-spirit-installs-an-application-4hmf)
+- [From Silent Reader to 25 Articles: What 3 Months on DEV Taught Me + AMA](https://dev.to/hemapriya_kanagala/from-silent-reader-to-25-articles-what-3-months-on-dev-taught-me-ama-2b0j)
+- [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk)
+- [I Ran an AMA on Dev.to. Here Are My Favorite Questions](https://dev.to/canro91/i-ran-an-ama-on-devto-here-are-my-favorite-questions-56o8)
+- [🗓️ Monthly Dev Report: July 2026](https://dev.to/francistrdev/monthly-dev-report-july-2026-1jdm)
+- [2 métodos que usei (E USO) nos estudos de programação.](https://dev.to/he4rt/2-metodos-que-usei-e-uso-nos-estudos-de-programacao-4n1f)
 <!-- END_TRENDING -->
 
 ---
