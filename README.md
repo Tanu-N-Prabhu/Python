@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jul 28, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jul 29, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [From Silent Reader to 25 Articles: What 3 Months on DEV Taught Me + AMA](https://dev.to/hemapriya_kanagala/from-silent-reader-to-25-articles-what-3-months-on-dev-taught-me-ama-2b0j)
-- [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk)
-- [I Ran an AMA on Dev.to. Here Are My Favorite Questions](https://dev.to/canro91/i-ran-an-ama-on-devto-here-are-my-favorite-questions-56o8)
-- [🗓️ Monthly Dev Report: July 2026](https://dev.to/francistrdev/monthly-dev-report-july-2026-1jdm)
-- [2 métodos que usei (E USO) nos estudos de programação.](https://dev.to/he4rt/2-metodos-que-usei-e-uso-nos-estudos-de-programacao-4n1f)
+- [Understanding Over Origin](https://dev.to/adamthedeveloper/understanding-over-origin-4685)
+- [React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough](https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd)
+- [Vibe Coding: Endgame](https://dev.to/konark_13/vibe-coding-endgame-3bbn)
+- [Slopsquatting: The Supply Chain Attack That Weaponizes AI Hallucinations](https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2)
+- [I had two weeks, an 8-foot keyboard, and a Wordle Workflow](https://dev.to/temporalio/i-had-two-weeks-an-8-foot-keyboard-and-a-wordle-workflow-15h)
 <!-- END_TRENDING -->
 
 ---
