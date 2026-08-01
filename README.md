@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Jul 31, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Aug 01, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Skills vs MCP: How AI tools have evolved](https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk)
-- [It Was Just a Patch Update. What Could Possibly Go Wrong?](https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3)
-- [Does it still make sense to learn how to code?](https://dev.to/robertobutti/does-it-still-make-sense-to-learn-how-to-code-3g7g)
-- [You Know What Happens When There's a Bug in Authentication? Absolutely Nothing.](https://dev.to/ujja/you-know-what-happens-when-theres-a-bug-in-authentication-absolutely-nothing-g0m)
-- [What Actually Happens After You Send a Webhook](https://dev.to/devopsdaily/what-actually-happens-after-you-send-a-webhook-fao)
+- [Dev Opportunity Radar #10: OpenAI Student Collective, Develop for Good, MLH Global Hack Week & Learning How to Learn](https://dev.to/devengers/dev-opportunity-radar-10-openai-student-collective-develop-for-good-mlh-global-hack-week--4kh2)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1ed)
+- [Your RAG copilot can't count — stop letting it try](https://dev.to/rdiegoss/your-rag-copilot-cant-count-stop-letting-it-try-2ie3)
+- [ratatop day 3: disks, statvfs, and my first unsafe block](https://dev.to/lovestaco/ratatop-day-3-disks-statvfs-and-my-first-unsafe-block-496e)
+- [Fixing Exact Package Search Relevance in npmx](https://dev.to/anilloutombam/fixing-exact-package-search-relevance-in-npmx-34c7)
 <!-- END_TRENDING -->
 
 ---
