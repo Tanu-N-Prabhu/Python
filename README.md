@@ -806,7 +806,7 @@ A curated selection of tutorials, insights, and guides on programming, software 
 # Star History
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Tanu-N-Prabhu/Python&type=Date)](https://star-history.com/#Tanu-N-Prabhu/Python&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=Tanu-N-Prabhu/Python&type=Date)](https://star-history.dera.page/#Tanu-N-Prabhu/Python&type=Date)
 
 ---
 
