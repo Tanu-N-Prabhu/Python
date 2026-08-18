@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Aug 17, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Aug 18, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [One-Shot UI Side Effects in BlocSignal: Snackbars, Dialogs, and Navigation Without State Pollution](https://dev.to/gde/one-shot-ui-side-effects-in-blocsignal-snackbars-dialogs-and-navigation-without-state-pollution-52j4)
-- [Paw & Order: upload your dog, and defend them against evidence generated from their own photo](https://dev.to/arjen_/paw-order-upload-your-dog-and-defend-them-against-evidence-generated-from-their-own-photo-of7)
-- [Kitchen-Sune: A Community Cookbook](https://dev.to/jenlooper/kitchen-sune-a-community-cookbook-5fea)
-- [I Can Finally Delete My max-height: 9999px Animation Hack](https://dev.to/parsajiravand/i-can-finally-delete-my-max-height-9999px-animation-hack-1p8o)
-- [Claude Impact Lab LA: Community Changed the Code](https://dev.to/earlgreyhot1701d/claude-impact-lab-la-community-changed-the-code-1mg2)
+- [Git Gud!](https://dev.to/francistrdev/git-gud-4e6g)
+- [Functional languages are heavily imperative.](https://dev.to/playfulprogramming/functional-languages-are-heavily-imperative-4c1)
+- [The Kitchen Doesn't Care About Your Excuses](https://dev.to/kenwalger/the-kitchen-doesnt-care-about-your-excuses-i10)
+- [What are your goals for the week? #192](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-192-1i31)
+- [Learn how to build a disclosure component using the native HTML details tag](https://dev.to/micaavigliano/learn-how-to-build-an-expandable-and-collapsible-component-using-the-native-html-details-tag-1h8j)
 <!-- END_TRENDING -->
 
 ---
