@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Aug 23, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Aug 24, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [HTML is getting cool again: Meet the Invoker Commands API](https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367)
-- [The Optimization That Was Too Good: Why Our Push Notifications Only Worked When You Weren't Looking](https://dev.to/dj29/the-optimization-that-was-too-good-why-our-push-notifications-only-worked-when-you-werent-looking-2f4d)
-- [Bridging the AI Cutoff: Teaching Coding Agents Every Dart Feature from 1.0 to 3.14](https://dev.to/gde/bridging-the-ai-cutoff-teaching-coding-agents-every-dart-feature-from-10-to-314-3752)
-- [Designing a Reasoning Ledger Record](https://dev.to/kenwalger/designing-a-reasoning-ledger-record-22eo)
-- [Job Hunt With a Bot?](https://dev.to/debs_obrien/job-hunt-with-a-bot-56g3)
+- [Eleven tables, zero indices, and the observability I added afterwards found three more bugs](https://dev.to/arqamwd/eleven-tables-zero-indices-and-the-observability-i-added-afterwards-found-three-more-bugs-3kgg)
+- [I wrote the privacy rule, enforced it, commented it, and shipped the leak anyway](https://dev.to/arqamwd/i-wrote-the-privacy-rule-enforced-it-commented-it-and-shipped-the-leak-anyway-500g)
+- [My performance optimization silently disabled the feature the app exists for](https://dev.to/arqamwd/my-performance-optimization-silently-disabled-the-feature-the-app-exists-for-2e1k)
+- [I installed a crash reporter and it crashed my app 100% of the time](https://dev.to/arqamwd/i-installed-a-crash-reporter-and-it-crashed-my-app-100-of-the-time-3of0)
+- [The People Building AI Are the Worst at Predicting It](https://dev.to/bonour/the-people-building-ai-are-the-worst-at-predicting-it-4b5k)
 <!-- END_TRENDING -->
 
 ---
