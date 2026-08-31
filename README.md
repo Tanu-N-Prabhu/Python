@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Aug 30, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Aug 31, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [What Happens After You Win a DEV Challenge? A Complete Guide to Getting Paid](https://dev.to/dj29/what-happens-after-you-win-a-dev-challenge-a-complete-guide-to-getting-paid-3f8n)
-- [I Asked for a Portfolio but Got a Filing Cabinet](https://dev.to/anchildress1/i-asked-for-a-portfolio-but-got-a-filing-cabinet-4ef8)
-- [I’m Looking for the Right Problem, Not the Right Job Title — Could It Be You?](https://dev.to/remojansen/im-looking-for-the-right-problem-not-the-right-job-title-could-it-be-you-1baa)
-- [MCP C# Per-Request Client Capabilities: Read the Request, Not the Server](https://dev.to/ssukhpinder/mcp-c-per-request-client-capabilities-read-the-request-not-the-server-566m)
-- [I Googled Myself for 20 Minutes and Found My Home Address, My Mom's Maiden Name, and My Dog](https://dev.to/numbpill3d/i-googled-myself-for-20-minutes-and-found-my-home-address-my-moms-maiden-name-and-my-dog-560e)
+- [Native CORS support on GKE Gateway: Offloading cross-origin policy management to infrastructure](https://dev.to/googlecloud/native-cors-support-on-gke-gateway-offloading-cross-origin-policy-management-to-infrastructure-3c0m)
+- [I gave an AI agent a production rollback button — then spent the hackathon trying to trick it into pressing it](https://dev.to/prince_panchani_f971a20ec/i-gave-an-ai-agent-a-production-rollback-button-then-spent-the-hackathon-trying-to-trick-it-into-2cha)
+- [CPU, GPU, TPU, NPU, DPU, QPU: six chips, one question](https://dev.to/lovestaco/cpu-gpu-tpu-npu-dpu-qpu-six-chips-one-question-438b)
+- [Overcoming Dart's Single Inheritance Wall: Composable CubitSignalMixin & BlocSignalMixin in Flutter](https://dev.to/gde/overcoming-darts-single-inheritance-wall-composable-cubitsignalmixin-blocsignalmixin-in-flutter-43bf)
+- [IND-TECH WEEKLY #1: Jio Files for India's Biggest-Ever IPO, Navi Bags $100M, and What Devs Should Know 🇮🇳](https://dev.to/dj29/ind-tech-weekly-1-jio-files-for-indias-biggest-ever-ipo-navi-bags-100m-and-what-devs-should-204h)
 <!-- END_TRENDING -->
 
 ---
