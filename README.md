@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Sep 16, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Sep 17, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer](https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh)
-- [The Quiet Weight of Working in Tech in the AI Era](https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g)
-- [How can I prevent my AI coding assistant from repeating fixed mistakes across sessions?](https://dev.to/izgorodin/how-can-i-prevent-my-ai-coding-assistant-from-repeating-fixed-mistakes-across-sessions-2kf7)
-- [AI Didn't Remove the Engineering Work. It Just Made It Easier to Pretend You Did.](https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9)
-- [Resilient and Battle-Tested Are Not the Same Word](https://dev.to/adamthedeveloper/resilient-and-battle-tested-are-not-the-same-word-589o)
+- [How we built a desktop companion robot with Gemma 4 and Raspberry Pi](https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke)
+- [Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe](https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5)
+- [How I Finally Learnt to Solve Coding Interview Questions](https://dev.to/cathylai/how-i-finally-learnt-to-solve-coding-interview-questions-2cop)
+- [Building PoCs with Codex and GitHub Copilot while they try to adjust my PoC requirements along the way](https://dev.to/missamarakay/building-pocs-with-codex-and-github-copilot-while-they-try-to-adjust-my-poc-requirements-along-the-1fc9)
+- [How to Count 100 Billion Things in 12 Kilobytes](https://dev.to/lovestaco/hyperloglog-how-to-count-100-billion-things-in-12-kilobytes-5aae)
 <!-- END_TRENDING -->
 
 ---
