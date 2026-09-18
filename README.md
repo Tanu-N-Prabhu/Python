@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Sep 17, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Sep 18, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [How we built a desktop companion robot with Gemma 4 and Raspberry Pi](https://dev.to/googleai/how-we-built-a-desktop-companion-robot-with-gemma-4-and-raspberry-pi-2oke)
-- [Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe](https://dev.to/googleai/build-real-time-voice-applications-with-gemini-38-live-and-35-transcribe-4nb5)
-- [How I Finally Learnt to Solve Coding Interview Questions](https://dev.to/cathylai/how-i-finally-learnt-to-solve-coding-interview-questions-2cop)
-- [Building PoCs with Codex and GitHub Copilot while they try to adjust my PoC requirements along the way](https://dev.to/missamarakay/building-pocs-with-codex-and-github-copilot-while-they-try-to-adjust-my-poc-requirements-along-the-1fc9)
-- [How to Count 100 Billion Things in 12 Kilobytes](https://dev.to/lovestaco/hyperloglog-how-to-count-100-billion-things-in-12-kilobytes-5aae)
+- [Congrats to the DEV Weekend Challenge: Dog Days Edition Winners!](https://dev.to/devteam/congrats-to-the-dev-weekend-challenge-dog-days-edition-winners-300g)
+- [API Performance Testing: How to Design Realistic Tests](https://dev.to/gramli/api-performance-testing-how-to-design-realistic-tests-59gn)
+- [Git Bisect for Your Data](https://dev.to/devopsdaily/git-bisect-for-your-data-12dd)
+- [An MI300X Over MCP: What the Matrix Cores Execute, and What They Don't](https://dev.to/gde/an-mi300x-over-mcp-what-the-matrix-cores-execute-and-what-they-dont-1me9)
+- [Serving Gemma 4 on an AMD MI300X: What $1.99 an Hour Buys](https://dev.to/gde/serving-gemma-4-on-an-amd-mi300x-what-199-an-hour-buys-52h9)
 <!-- END_TRENDING -->
 
 ---
