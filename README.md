@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Sep 29, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Sep 30, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [🗓️ Monthly Dev 💫SPECIAL💫 Report: September 2026](https://dev.to/francistrdev/monthly-dev-special-report-september-2026-3jd7)
-- [Claude e Obsidian - Como uma QA utiliza essas ferramentas no dia-a-dia](https://dev.to/he4rt/claude-e-obsidian-como-uma-qa-utiliza-essas-ferramentas-no-dia-a-dia-51jc)
-- [Half the AI agents in production are if-statements with a GPU bill](https://dev.to/cyclopt_dimitrisk/half-the-ai-agents-in-production-are-if-statements-with-a-gpu-bill-4934)
-- [I'm an ER doctor. After decades without touching code, I built 3 websites with AI in one month — on my phone.](https://dev.to/branislav_kuga_4118d3b3ab/im-an-er-doctor-after-decades-without-touching-code-i-built-3-websites-with-ai-in-one-month-on-5ccm)
-- [Dear Coder: Open This If You're Feeling AI FOMO](https://dev.to/canro91/dear-coder-open-this-if-youre-feeling-ai-fomo-58d4)
+- [The Accidental Blogger: How I Ended Up on DEV](https://dev.to/sylwia-lask/the-accidental-blogger-how-i-ended-up-on-dev-5a3f)
+- [I Built My First AI Agent With AWS AgentCore, and the Hardest Part Wasn't the AI](https://dev.to/hemapriya_kanagala/i-built-my-first-ai-agent-with-aws-agentcore-and-the-hardest-part-wasnt-the-ai-54lf)
+- [AI Agent Governance on AWS: Block Agents, Prove EU AI Act Compliance](https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829)
+- [Your GitHub profile shows your follower count. It also shows attackers your whole attack surface.](https://dev.to/rudratosh/your-github-profile-shows-your-follower-count-it-also-shows-attackers-your-whole-attack-surface-j7b)
+- [Say Please (if only as a reminder)](https://dev.to/btarbox/say-please-if-only-as-a-reminder-1bc9)
 <!-- END_TRENDING -->
 
 ---
