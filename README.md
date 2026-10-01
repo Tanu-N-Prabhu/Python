@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Sep 30, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 01, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [The Accidental Blogger: How I Ended Up on DEV](https://dev.to/sylwia-lask/the-accidental-blogger-how-i-ended-up-on-dev-5a3f)
-- [I Built My First AI Agent With AWS AgentCore, and the Hardest Part Wasn't the AI](https://dev.to/hemapriya_kanagala/i-built-my-first-ai-agent-with-aws-agentcore-and-the-hardest-part-wasnt-the-ai-54lf)
-- [AI Agent Governance on AWS: Block Agents, Prove EU AI Act Compliance](https://dev.to/aws-builders/ai-agent-governance-on-aws-block-agents-prove-eu-ai-act-compliance-1829)
-- [Your GitHub profile shows your follower count. It also shows attackers your whole attack surface.](https://dev.to/rudratosh/your-github-profile-shows-your-follower-count-it-also-shows-attackers-your-whole-attack-surface-j7b)
-- [Say Please (if only as a reminder)](https://dev.to/btarbox/say-please-if-only-as-a-reminder-1bc9)
+- [Building an Offline Arduino UNO Q Cyberdeck That Identifies Birdsong and Draws Vintage Field Notes](https://dev.to/cloudinary/building-an-offline-arduino-uno-q-cyberdeck-that-identifies-birdsong-and-draws-vintage-field-notes-1cjg)
+- [TypeScript Compiler API: Preserving Child Node Narrowing in Reusable Type Guards 🔧](https://dev.to/nyaomaru/typescript-compiler-api-preserving-child-node-narrowing-in-reusable-type-guards-4pgh)
+- [Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers](https://dev.to/gde/gemma-4-on-amazon-sagemaker-the-nvidia-t4-decodes-at-08x-of-the-l4-with-the-same-answers-19m4)
+- [Are Frontend Developers Cooked? Is Frontend design safe?](https://dev.to/erikch/are-frontend-developers-cooked-is-frontend-design-safe-nn8)
+- [The Version of Me Who Looks Better on Paper Doesn't Exist](https://dev.to/mikachu/im-not-asking-you-to-pretend-im-qualified-3bg5)
 <!-- END_TRENDING -->
 
 ---
