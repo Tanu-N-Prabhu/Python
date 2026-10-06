@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 05, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 06, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Before the Alarm Screams at 3 AM: Predicting Liam's Nocturnal Hypoglycemia with Prior Labs TabPFN](https://dev.to/emmasofia/before-the-alarm-screams-at-3-am-predicting-liams-nocturnal-hypoglycemia-with-prior-labs-tabpfn-25mn)
-- [I Played Out a Broke Student's Month 500 Times on a Budget i3 Laptop With the Wi-Fi Off. It Warned Him Ahead in 4 of 5 Bad Months.](https://dev.to/soumyadeepdey/i-played-out-a-broke-students-month-500-times-on-a-budget-i3-laptop-with-the-wi-fi-off-it-warned-22dl)
-- [I built my husband a vim trainer with a Gemma coach that runs in the browser](https://dev.to/sizzlebop/i-built-my-husband-a-vim-trainer-with-a-gemma-coach-that-runs-in-the-browser-5fmh)
-- [Broadcast and Get Hit, Go Dark and Void $65M: I Built NAVI-SANCTION with Sanity to Break the Deadlock](https://dev.to/emmasofia/broadcast-and-get-hit-go-dark-and-void-65m-i-built-navi-sanction-with-sanity-to-break-the-p32)
-- [OriginTrace: Protecting the DEV Community from Content Theft using Sanity Context MCP](https://dev.to/dj29/origintrace-protecting-the-dev-community-from-content-theft-using-sanity-context-mcp-j5c)
+- [Why you still need a Website Portfolio, even though everyone can Vibe Code it.](https://dev.to/francistrdev/why-you-still-need-a-website-portfolio-even-though-everyone-can-vibe-code-it-e63)
+- [The Parts of a Job Search We Don't See](https://dev.to/hemapriya_kanagala/the-parts-of-a-job-search-we-dont-see-3a6)
+- [Build a Tiny Virtual Pet on Arduino in 60 Minutes 🐾](https://dev.to/heraistudio/build-a-tiny-virtual-pet-on-arduino-in-60-minutes-2cf)
+- [Meme Monday](https://dev.to/ben/meme-monday-3ib7)
+- [The Witness Was the Suspect: Why AI Audit Logs Can't Be Trusted](https://dev.to/james_anderson_h/the-witness-was-the-suspect-why-ai-audit-logs-cant-be-trusted-2190)
 <!-- END_TRENDING -->
 
 ---
