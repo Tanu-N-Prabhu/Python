@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 08, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 09, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [I Think We're Forgetting How to Be Bored](https://dev.to/james_anderson_h/i-think-were-forgetting-how-to-be-bored-3pe5)
-- [Bash Isn't a Programming Language. It's a Text Substitution Engine.](https://dev.to/smtahosin/bash-isnt-a-programming-language-its-a-text-substitution-engine-5eml)
-- [The job market is absolutely disgusting - I'm doing something about it!](https://dev.to/hubedav/the-job-market-is-absolutely-disgusting-im-doing-something-about-it-21gf)
-- [I Write on a 2006 iMac and Code on a $200 Laptop](https://dev.to/mikachu/i-write-on-a-2006-imac-and-code-on-a-200-laptop-9n4)
-- [Single line CV](https://dev.to/pengeszikra/single-line-cv-52bf)
+- [Every Software Developer Has Blamed…](https://dev.to/sylwia-lask/every-software-developer-has-blamed-3a1o)
+- [I got Jev to zero mistakes. I'm still using Flash-Lite.](https://dev.to/theycallmeswift/i-got-jev-to-zero-mistakes-im-still-using-flash-lite-2mo7)
+- [How React Actually Works Under the Hood (And Why Your Mental Model Might Be Wrong)](https://dev.to/smtahosin/how-react-actually-works-under-the-hood-and-why-your-mental-model-might-be-wrong-12b8)
+- [To Retry or Not to Retry? That Is the Question.](https://dev.to/gramli/to-retry-or-not-to-retry-that-is-the-question-1j2l)
+- [The September cut took 17% of my Claude Code week. Subagents were taking 48%.](https://dev.to/aidiveyt/the-september-cut-took-17-of-my-claude-code-week-subagents-were-taking-48-98n)
 <!-- END_TRENDING -->
 
 ---
