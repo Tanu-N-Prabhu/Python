@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 18, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 19, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [10 Prompting Techniques My Deep Learning Exam Taught Me (That I Actually Use Now)](https://dev.to/dj29/10-prompting-techniques-my-deep-learning-exam-taught-me-that-i-actually-use-now-43h0)
-- [AI Took Me to Three Stages. I Still Don't Like Public Speaking.](https://dev.to/earlgreyhot1701d/ai-took-me-to-three-stages-i-still-dont-like-public-speaking-1g38)
-- [Déjà vu, but billable](https://dev.to/lewisawe/deja-vu-but-billable-4jhl)
-- [AI Made Your Easy Work Free. That Made You More Valuable.](https://dev.to/james_anderson_h/ai-made-your-easy-work-free-that-made-you-more-valuable-413f)
-- [Docker Compose 5.6's jobs type only starts through docker compose run](https://dev.to/alexgeorgiev17/docker-compose-56s-jobs-type-only-starts-through-docker-compose-run-4c1a)
+- [Promise Delivered: Welcome to the DEV Hall of Fame (65 Authors, 65 Masterpieces)](https://dev.to/georgekobaidze/promise-delivered-welcome-to-the-dev-hall-of-fame-65-authors-65-masterpieces-15fa)
+- [🐾 DEV Pet Corner #2: Show Us Your Pets!](https://dev.to/hemapriya_kanagala/dev-pet-corner-2-show-us-your-pets-37nj)
+- [Fine-Tuning Qwen3-8B with Tinker: From 50% to 76% Accuracy, and Burning Through My Budget](https://dev.to/gramli/fine-tuning-qwen3-8b-with-tinker-from-50-to-76-accuracy-and-burning-through-my-budget-48mh)
+- [The Garden I Wait for Every Winter](https://dev.to/shubhradev/the-garden-i-wait-for-every-winter-8mg)
+- [I Built a New Tab Extension for DEV](https://dev.to/sizzlebop/i-built-a-new-tab-extension-for-dev-4kmm)
 <!-- END_TRENDING -->
 
 ---
