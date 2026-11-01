@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Oct 31, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 01, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-47ci)
-- [We Need to Talk About How Gross Modern Web Design Has Become (And How We Built an AI to Catch It)](https://dev.to/dj29/we-need-to-talk-about-how-gross-modern-web-design-has-become-and-how-we-built-an-ai-to-catch-it-5gin)
-- [My open source project is brand new and already has contributors. Here's what I did.](https://dev.to/nathan_tarbert/my-open-source-project-is-brand-new-and-already-has-contributors-heres-what-i-did-3fb4)
-- [MoE Offloading Isn’t Always Faster: I Tested 5 Models on a 16GB GPU](https://dev.to/sizzlebop/moe-offloading-isnt-always-faster-i-tested-5-models-on-a-16gb-gpu-498a)
-- [I Built 101 Indian Monuments in the Browser Using Only Code (No 3D Models)](https://dev.to/amananandrai/i-built-101-indian-monuments-in-the-browser-using-only-code-no-3d-models-3000)
+- [A Two-Line Function Caught AI Collusion Better Than the AI Did](https://dev.to/ayush_singh_9b0d83152be5b/a-two-line-function-caught-ai-collusion-better-than-the-ai-did-3nmd)
+- [Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer to Summon the Ghost of the Developer Who Wrote It 💀🔮](https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5)
+- [I Retested My MoE Offloading Benchmarks. Some of My Conclusions Changed.](https://dev.to/sizzlebop/i-retested-my-moe-offloading-benchmarks-some-of-my-conclusions-changed-6f4)
+- [Trick or Type Guard? Surviving `unknown` with is-kit 🎃](https://dev.to/nyaomaru/trick-or-type-guard-surviving-unknown-with-is-kit-4oc2)
+- [I held a séance for 31 dead websites. The most honest ghost said "that never made it into my HTML."](https://dev.to/kakeroth/i-held-a-seance-for-31-dead-websites-the-most-honest-ghost-said-that-never-made-it-into-my-html-2fj)
 <!-- END_TRENDING -->
 
 ---
