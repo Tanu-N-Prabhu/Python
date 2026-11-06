@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 05, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 06, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [We're Building AI to Replace Ourselves. What's the Plan?](https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll)
-- [Scared to Publish Your First Technical Article? Don't Be. I'll Be There to Read It](https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2)
-- [Meet Necoz! 😸 Small. Simple. Useful.](https://dev.to/nyaomaru/meet-necoz-small-simple-useful-ppo)
-- [How Hackers Weaponized DEV.to's Mention System to Spread a Phishing Scam](https://dev.to/ggle_in/how-hackers-weaponized-devtos-mention-system-to-spread-a-phishing-scam-1j7c)
-- [Svelte 5 Isn't Pure Compiler Magic: How Runes, Fine-Grained Signals, and Direct DOM Mutations Actually Work Under the Hood](https://dev.to/smtahosin/svelte-5-isnt-pure-compiler-magic-how-runes-fine-grained-signals-and-direct-dom-mutations-36a3)
+- [Congrats to the Kaggle Benchmarking Challenge Winners!](https://dev.to/devteam/congrats-to-the-kaggle-benchmarking-challenge-winners-2moh)
+- [Don't Write Markdown Files for Your Coding Agent. Write Scripts.](https://dev.to/dannwaneri/dont-write-markdown-files-for-your-coding-agent-write-scripts-j00)
+- [Plan Stamping, for Software](https://dev.to/kenwalger/plan-stamping-for-software-4ein)
+- [WebMCP Attack Lab: Can an E-Shop Hijack Your AI Agent?](https://dev.to/gramli/webmcp-attack-lab-can-an-e-shop-hijack-your-ai-agent-4oe5)
+- [A Maintainer's Advice on Contributing to Open Source in 2026](https://dev.to/wasp/a-maintainers-advice-on-contributing-to-open-source-in-2026-4ea1)
 <!-- END_TRENDING -->
 
 ---
