@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 07, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 08, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-28dh)
-- [An Update on the Hacktoberfest Open-Source AI Challenge: Ghost in the Machine Winners](https://dev.to/devteam/an-update-on-the-hacktoberfest-open-source-ai-challenge-ghost-in-the-machine-winners-44bp)
-- [One Word, Two GPUs: Why Gemma 4 Answers the Same Question Differently on a Laptop and a Tesla T4](https://dev.to/gde/one-word-two-gpus-why-gemma-4-answers-the-same-question-differently-on-a-laptop-and-a-tesla-t4-1dj2)
-- [Ad Pulse Lab](https://dev.to/gracelee087/ad-pulse-lab-4867)
-- [Fine-Tuning with a Handful of Examples](https://dev.to/sumanth_kumarkotagudem/fine-tuning-with-a-handful-of-examples-2420)
+- [Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run](https://dev.to/gde/building-railpulse-ai-deploying-an-open-source-railway-dispatch-agent-with-gemma-and-google-cloud-2b9g)
+- [Ubuntu Core Desktop Is Coming in 27.04 - And It Kills sudo apt (But Maybe That Is the Point?)](https://dev.to/taqui/ubuntu-core-desktop-is-coming-in-2704-and-it-kills-sudo-apt-but-maybe-that-is-the-point-3dp1)
+- [I Never Thought I'd Be a Programmer. Yet Here I Am.](https://dev.to/sizzlebop/i-never-thought-id-be-a-programmer-yet-here-i-am-21in)
+- [How to Master AWS for AI?](https://dev.to/aws-builders/how-to-master-aws-for-ai-3la4)
+- [Windows won't let you own Win+Shift+S. So I hooked the keyboard in Python.](https://dev.to/akhourianmolkumar/windows-wont-let-you-own-winshifts-so-i-hooked-the-keyboard-in-python-248c)
 <!-- END_TRENDING -->
 
 ---
