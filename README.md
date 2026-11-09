@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 08, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 09, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Building RailPulse AI: Deploying an Open-Source Railway Dispatch Agent with Gemma and Google Cloud Run](https://dev.to/gde/building-railpulse-ai-deploying-an-open-source-railway-dispatch-agent-with-gemma-and-google-cloud-2b9g)
-- [Ubuntu Core Desktop Is Coming in 27.04 - And It Kills sudo apt (But Maybe That Is the Point?)](https://dev.to/taqui/ubuntu-core-desktop-is-coming-in-2704-and-it-kills-sudo-apt-but-maybe-that-is-the-point-3dp1)
-- [I Never Thought I'd Be a Programmer. Yet Here I Am.](https://dev.to/sizzlebop/i-never-thought-id-be-a-programmer-yet-here-i-am-21in)
-- [How to Master AWS for AI?](https://dev.to/aws-builders/how-to-master-aws-for-ai-3la4)
-- [Windows won't let you own Win+Shift+S. So I hooked the keyboard in Python.](https://dev.to/akhourianmolkumar/windows-wont-let-you-own-winshifts-so-i-hooked-the-keyboard-in-python-248c)
+- [Necoz Has a New Home on DEV! 🐈🎉](https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454)
+- [🐾 DEV Pet Corner #5: Show Us Your Pets!](https://dev.to/hemapriya_kanagala/dev-pet-corner-5-show-us-your-pets-dao)
+- [Engine Off: My 2026 Hackathon Run Is Over](https://dev.to/georgekobaidze/engines-off-my-2026-hackathon-run-is-over-2ho8)
+- [Mobile Data on Android 17 and a 4.9 Kernel: Google Fi on the Pixel 3a](https://dev.to/gde/mobile-data-on-android-17-and-a-49-kernel-google-fi-on-the-pixel-3a-4cdc)
+- [Don't Write More Prompts. Install These 10 Trending 'Skills' Instead](https://dev.to/taqui/dont-write-more-prompts-install-these-10-trending-skills-instead-3lpc)
 <!-- END_TRENDING -->
 
 ---
