@@ -76,6 +76,7 @@ pip install numpy matplotlib
 * Detecting anomalies or outliers
 * Geospatial clustering (e.g., identifying areas of interest)
 * When the number of clusters is not known ahead of time
+* When you’re okay with labeling some points as noise and don’t want to force every point into a cluster.
 
 ---
 
