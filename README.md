@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 20, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 21, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [My First GitHub Issue & My First Forem (DEV.to) Issue 🚀](https://dev.to/necoz/my-first-github-issue-my-first-forem-devto-issue-5eap)
-- [What team-wide AI adoption actually takes](https://dev.to/peter/what-team-wide-ai-adoption-actually-takes-1gbh)
-- [Adopt Pre-Existing Docker Containers with Zero Downtime: Reverse-Engineering docker-compose.yml in Gubernator v4.0](https://dev.to/gde/adopt-pre-existing-docker-containers-with-zero-downtime-reverse-engineering-docker-composeyml-in-3cic)
-- [Maintaining open source projects up to date with Renovate and Antigravity](https://dev.to/gde/maintaining-open-source-projects-up-to-date-with-renovate-and-antigravity-3haj)
-- [Stop Paying LLM Prices for an if Statement: A Field Guide to Decision Models in Late 2026](https://dev.to/amananandrai/stop-paying-llm-prices-for-an-if-statement-a-field-guide-to-decision-models-in-late-2026-4d24)
+- [Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️](https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840)
+- [Dev Opportunity Radar #26: $85K Claude Corps Fellowship, a16z FDE Fellowship, and Reddit's $35K Game Hackathon](https://dev.to/devengers/dev-opportunity-radar-26-85k-claude-corps-fellowship-a16z-fde-fellowship-and-reddits-35k-2k2)
+- [I can't believe the podcast I learned to code with is back!](https://dev.to/codenewbie/i-cant-believe-the-podcast-i-learned-to-code-with-is-back-2gi5)
+- [Agentic engineering a smart home energy system with Antigravity and Gemini 4](https://dev.to/googleai/agentic-engineering-a-smart-home-energy-system-with-antigravity-and-gemini-4-53md)
+- [Cozy Bytes 🍺 | Rust::Who Owns the Cat? 🐈🦀](https://dev.to/_yourbrainbuffer_/cozy-bytes-rustwho-owns-the-cat-13ch)
 <!-- END_TRENDING -->
 
 ---
