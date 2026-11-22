@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 21, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 22, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️](https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840)
-- [Dev Opportunity Radar #26: $85K Claude Corps Fellowship, a16z FDE Fellowship, and Reddit's $35K Game Hackathon](https://dev.to/devengers/dev-opportunity-radar-26-85k-claude-corps-fellowship-a16z-fde-fellowship-and-reddits-35k-2k2)
-- [I can't believe the podcast I learned to code with is back!](https://dev.to/codenewbie/i-cant-believe-the-podcast-i-learned-to-code-with-is-back-2gi5)
-- [Agentic engineering a smart home energy system with Antigravity and Gemini 4](https://dev.to/googleai/agentic-engineering-a-smart-home-energy-system-with-antigravity-and-gemini-4-53md)
-- [Cozy Bytes 🍺 | Rust::Who Owns the Cat? 🐈🦀](https://dev.to/_yourbrainbuffer_/cozy-bytes-rustwho-owns-the-cat-13ch)
+- [The Chairs Are Back. The Coffee Is On. ☕](https://dev.to/thethirdcup/the-chairs-are-back-the-coffee-is-on-243p)
+- [Monuments of India, Part 3: Sixteen Statues Sculpted from Photographs, a Rebuilt Mysore Palace and More](https://dev.to/amananandrai/monuments-of-india-part-3-sixteen-statues-sculpted-from-photographs-a-rebuilt-mysore-palace-and-3bm)
+- [Day 89: A Dead Service and a Private Container That Serves](https://dev.to/ndcodes/day-89-a-marker-in-the-file-and-a-grant-somewhere-else-1deo)
+- [Dead Keys: I Brought Back the Typing Games. Kiro Did the Heavy Lifting.](https://dev.to/earlgreyhot1701d/dead-keys-i-brought-back-the-typing-games-kiro-did-the-heavy-lifting-5gc2)
+- [Test the npm Package, Not Just the Monorepo](https://dev.to/gde/test-the-npm-package-not-just-the-monorepo-2j1e)
 <!-- END_TRENDING -->
 
 ---
