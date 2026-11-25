@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 24, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 25, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [What are you Grateful for this Thanksgiving?](https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570)
-- [Proofreader vs. Rewriter vs. Prompt API: Test the Task, Not the Demo](https://dev.to/gde/proofreader-vs-rewriter-vs-prompt-api-test-the-task-not-the-demo-pi9)
-- [Netlify Isn't Just a Static CDN: How Atomic Deploys, Edge Isolates, and Content-Addressed Storage Actually Work Under the Hood](https://dev.to/smtahosin/netlify-isnt-just-a-static-cdn-how-atomic-deploys-edge-isolates-and-content-addressed-storage-5136)
-- [C# 15 Unpacked: Practical Use Cases for Unions with Real Examples](https://dev.to/georgekobaidze/c-15-unpacked-practical-use-cases-for-unions-with-real-examples-e32)
-- [Rent the Job. Own the Life.](https://dev.to/aws-heroes/rent-the-job-own-the-life-12g3)
+- [The Third Cup: After Everything Has a Name](https://dev.to/thethirdcup/the-third-cup-after-everything-has-a-name-2b14)
+- [Why Your Android App Drops Frames: The Jetpack Compose Architecture Guide That Fixes Recomposition Forever](https://dev.to/smtahosin/why-your-android-app-drops-frames-the-jetpack-compose-architecture-guide-that-fixes-recomposition-3oh3)
+- [Why Your AI Release Notes Hallucinate: The "Why vs What" Problem in Git History](https://dev.to/necoz/why-your-ai-release-notes-hallucinate-the-why-vs-what-problem-in-git-history-5ch0)
+- [I Let Claude Code Create My AWS Account](https://dev.to/aws/i-let-claude-code-create-my-aws-account-12gb)
+- [A Year of Hacking: a Cloudinary Hackathon Retrospective](https://dev.to/cloudinary/a-year-of-hacking-a-cloudinary-hackathon-retrospective-3odm)
 <!-- END_TRENDING -->
 
 ---
