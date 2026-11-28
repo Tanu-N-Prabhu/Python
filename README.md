@@ -51,7 +51,7 @@
 
 
 
-<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 27, 2026<!-- END_LAST_UPDATED --></p>
+<p align = "right"><b><i>Last updated</i></b>: <!-- LAST_UPDATED -->Nov 28, 2026<!-- END_LAST_UPDATED --></p>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Python/blob/master/Img/logo.jpg) | 
@@ -787,11 +787,11 @@ A curated selection of tutorials, insights, and guides on programming, software 
 
 ## 🔥 Trending Tech Topics (Auto-updated daily)
 <!-- START_TRENDING -->
-- [Nostalgia and the AI Productivity Paradox](https://dev.to/gramli/nostalgia-and-the-ai-productivity-paradox-4f33)
-- [I Built AI Test Automation. Today, I Went Back to Manual Testing.](https://dev.to/thethirdcup/i-built-ai-test-automation-today-i-went-back-to-manual-testing-mlh)
-- [On reviewing AI-generated code](https://dev.to/nfrankel/on-reviewing-ai-generated-code-3olj)
-- [From a feed full of Fable 5.2 demos to a 20-episode Indian epic: how I built "The Eighteen Days"](https://dev.to/amananandrai/from-a-feed-full-of-fable-52-demos-to-a-20-episode-indian-epic-how-i-built-the-eighteen-days-14mm)
-- [Your Second Brain Is Just A Digital Hoarding Pile (And How To Fix It)](https://dev.to/johnnylemonny/your-second-brain-is-just-a-digital-hoarding-pile-and-how-to-fix-it-3n1o)
+- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-h3d)
+- [How I built my own OS](https://dev.to/cloudwerx/how-i-built-my-own-os-942)
+- [Writing Is Really Fun, But My Luck Had Other Plans 🐿](https://dev.to/thethirdcup/writing-is-really-fun-but-my-luck-had-other-plans-493m)
+- [Thinking on Constrained Deployments: Gemma E4B on 4GB 1650](https://dev.to/gde/thinking-on-constrained-deployments-gemma-e4b-on-4gb-1650-2cc6)
+- [Zero Repeat Regressions: The Golden Metric & The Future of Agentic Trust](https://dev.to/gde/zero-repeat-regressions-the-golden-metric-the-future-of-agentic-trust-4857)
 <!-- END_TRENDING -->
 
 ---
